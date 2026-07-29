@@ -111,6 +111,24 @@
     navInfo.addEventListener('click', e => { e.preventDefault(); navigate('info'); });
     navNews.addEventListener('click', e => { e.preventDefault(); navigate('news'); });
 
+    // Home cards → navigate to corresponding pages
+    const cardRoutes = { 'card-calc': 'calc', 'card-info': 'info', 'card-news': 'news' };
+    const goToPage = page => {
+      navigate(page);
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    };
+    Object.entries(cardRoutes).forEach(([id, page]) => {
+      const el = document.getElementById(id);
+      if (!el) return;
+      el.addEventListener('click', () => goToPage(page));
+      el.addEventListener('keydown', e => {
+        if (e.key === 'Enter' || e.key === ' ') {
+          e.preventDefault();
+          goToPage(page);
+        }
+      });
+    });
+
     // CTA button
     document.addEventListener('click', function(e) {
       if (e.target.closest('#cta-btn')) {
