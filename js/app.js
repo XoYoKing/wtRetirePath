@@ -364,6 +364,28 @@
       '&hl=' + currentLang;
   }
 
+  // ── Text-size control (accessibility: A⁻ / A⁺) ──────
+  (function setupTextSize(){
+    var steps = [87.5, 93.75, 100, 112.5, 125]; // html font-size %
+    var saved = parseFloat(localStorage.getItem('rp-text-scale'));
+    var idx = steps.indexOf(saved);
+    if (idx < 0) idx = steps.indexOf(100);
+    var root = document.documentElement;
+    function apply(){
+      root.style.fontSize = steps[idx] + '%';
+      try { localStorage.setItem('rp-text-scale', String(steps[idx])); } catch(e){}
+    }
+    apply();
+    var smaller = document.getElementById('text-smaller');
+    var larger = document.getElementById('text-larger');
+    if (smaller) smaller.addEventListener('click', function(){
+      if (idx > 0) { idx--; apply(); }
+    });
+    if (larger) larger.addEventListener('click', function(){
+      if (idx < steps.length - 1) { idx++; apply(); }
+    });
+  })();
+
   // ── Boot ────────────────────────────────────────────
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', init);
