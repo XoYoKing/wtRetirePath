@@ -2,6 +2,20 @@
 const NEWS = {
   "AE": [
     {
+      "title": "UAE pension authority launches 10-year flexible payment plan for merging service periods",
+      "url": "https://www.gulfnews.com/uae/uae-pension-authority-launches-10-year-flexible-payment-plan-1.500334881",
+      "source": "Gulf News",
+      "pubDate": "2025-11-03",
+      "summary": "GPSSA opened applications for consolidating previous service periods under a flexible plan extending up to ten years (up from four), letting insured members combine past employment to meet pension eligibility. The second phase began 3 November 2025 via the Ma'ashi digital platform."
+    },
+    {
+      "title": "UAE pension scheme lets Emiratis count unpaid childcare and study leave toward retirement",
+      "url": "https://economymiddleeast.com/news/uae-pension-scheme-lets-emiratis-count-unpaid-childcare-and-study-leave-toward-retirement",
+      "source": "Economy Middle East",
+      "pubDate": "2025-09-15",
+      "summary": "From late 2025 GPSSA lets insured Emiratis count periods of unpaid childcare and study leave toward pensionable service, broadening eligibility. The change sits alongside the September 2025 extension of service-consolidation payment periods to ten years."
+    },
+    {
       "title": "UAE introduces voluntary pensions to replace end-of-service indemnities",
       "url": "https://www.ilo.org/resource/news/uae-introduces-voluntary-pensions-replace-end-service-indemnities-joining",
       "source": "ILO",
@@ -24,6 +38,20 @@ const NEWS = {
     }
   ],
   "AR": [
+    {
+      "title": "IMF staff report: Argentina commits to comprehensive pension reform by end of 2026",
+      "url": "https://buenosairesherald.com/economics/imf-staff-report-argentina-commits-to-more-chainsaw-and-new-way-to-measure-inflation",
+      "source": "Buenos Aires Herald / IMF",
+      "pubDate": "2025-06-15",
+      "summary": "An IMF staff report says the Milei administration committed to present a comprehensive pension reform to Congress before end-2026 while keeping fiscal discipline. It notes the president vetoed bills that would have raised pensions by 7.2% and eased contribution requirements, with the minimum pension at about AR$384,305."
+    },
+    {
+      "title": "Argentina updates index for calculating initial pensions (Disposición 29/2025)",
+      "url": "https://www.pensionpolicyinternational.com/argentina-actualizaron-el-indice-para-calcular-el-haber-inicial-de-los-futuros-jubilados",
+      "source": "Pension Policy International",
+      "pubDate": "2025-11-20",
+      "summary": "A new combined index averaging RIPTE wages and the pension-mobility index (Disposición 29/2025) governs the initial pension calculation for those retiring from December 2025, aiming for a fairer reflection of lifetime earnings."
+    },
     {
       "title": "Argentina Ends Pension Moratorium; Ordinary Pension Now Requires 30 Years of Contributions",
       "url": "https://buenosairesherald.com/society/social-security-chief-vows-to-raise-retirement-age-in-2025",
@@ -48,6 +76,20 @@ const NEWS = {
   ],
   "AT": [
     {
+      "title": "Austria passes biggest pension reform in 20 years",
+      "url": "https://europeanpensions.net/ep/Austrian-pension-package-a-step-in-the-right-direction-despite-political-opposition.php",
+      "source": "European Pensions",
+      "pubDate": "2025-07-10",
+      "summary": "The National Council passed a package introducing a partial pension from 2026, gradually raising the corridor pension age from 62 to 63, tightening early-retirement limits from five to three years, and a statutory sustainability mechanism with automatic adjustments if costs overrun."
+    },
+    {
+      "title": "Austria 2026 pension adjustment: 2.7% for amounts up to €2,500",
+      "url": "https://www.sozialministerium.gv.at/en/Topics/Social-Affairs/Social-Insurance/Pension-Insurance/Pension-Increases.html",
+      "source": "Federal Ministry of Social Affairs",
+      "pubDate": "2025-12-01",
+      "summary": "The 2026 adjustment deviates from the reference value: total statutory pensions up to €2,500/month rise 2.7%, while higher amounts get a flat €67.50 top-up. Supplementary allowances also rise 2.7%."
+    },
+    {
       "title": "Pension adjustment 2024: benefits raised by around 9.7%",
       "url": "https://www.sozialministerium.gv.at",
       "source": "Bundesministerium für Soziales",
@@ -63,6 +105,20 @@ const NEWS = {
     }
   ],
   "AU": [
+    {
+      "title": "Australia's super reforms pass parliament, boosting low-income offset and targeting large balances",
+      "url": "https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/governments-super-reforms-pass-parliament",
+      "source": "Australian Treasury",
+      "pubDate": "2026-01-15",
+      "summary": "The Building a Stronger and Fairer Super System Act 2026 passed the Senate, boosting the low-income super tax offset (LISTO) by up to $810/year for around 1.3 million Australians and better targeting concessions for balances above $3 million, affecting under 0.5% of people."
+    },
+    {
+      "title": "ATO: Better targeted superannuation concessions (Division 296) now law from 1 July 2026",
+      "url": "https://www.ato.gov.au/about-ato/new-legislation/in-detail/superannuation/better-targeted-superannuation-concessions",
+      "source": "ATO",
+      "pubDate": "2025-10-13",
+      "summary": "From 1 July 2026 an additional 15% tax applies to earnings on total super balances above the large balance threshold (A$3m in 2026-27, A$10m very-large threshold), indexed to CPI. The measure is now law after design changes announced 13 October 2025."
+    },
     {
       "title": "Super Guarantee Rate Reaches 12% From July 2025 — Final Target Achieved",
       "url": "https://www.ato.gov.au/tax-rates-and-codes/key-superannuation-rates-and-thresholds/super-guarantee",
@@ -101,6 +157,20 @@ const NEWS = {
   ],
   "BD": [
     {
+      "title": "Bangladesh Universal Pension Scheme stalls: only 5,144 new subscribers in 20 months",
+      "url": "https://bdnews24.com/economy/85c5c9a32675",
+      "source": "bdnews24",
+      "pubDate": "2026-05-12",
+      "summary": "Enrolment collapsed after the 2024 political change: against 372,401 first-year sign-ups, only about 5,144 joined in the following 20 months. As of 30 April 2026 some 377,545 people were registered and the fund held about Tk 2.79 billion."
+    },
+    {
+      "title": "Bangladesh eyes one pension member per family by 2030; secures US$100m ADB loan",
+      "url": "https://b.bssnews.net/news/386436",
+      "source": "BSS",
+      "pubDate": "2026-05-12",
+      "summary": "A high-level meeting set a 2030 goal of at least one member from each of Bangladesh's ~40 million families under the Universal Pension Scheme, with plans for a Shariah-compliant window and lifetime nominee benefits. The ADB pledged a US$100 million soft loan."
+    },
+    {
       "title": "National Pension Authority allows 30% lump-sum withdrawal at 60",
       "url": "https://www.bssnews.net/news/273031",
       "source": "Bangladesh Sangbad Sangstha",
@@ -124,6 +194,20 @@ const NEWS = {
   ],
   "BE": [
     {
+      "title": "Belgium approves new Pension Law: stricter early-retirement rule, bonus-malus",
+      "url": "https://english.n-va.be/news/government-reaches-agreement-on-new-pension-law",
+      "source": "N-VA",
+      "pubDate": "2025-07-01",
+      "summary": "The coalition's new Pension Law keeps the statutory age at 66 (67 from 2030) but tightens early retirement: a year counts only with 156 worked days (up from 104), with a 5-day buffer. A bonus-malus rewards working longer and penalises insufficient-career early retirees from 2027."
+    },
+    {
+      "title": "Raising Belgium's retirement age to 66 saved €100 million in five months",
+      "url": "https://www.vrt.be/vrtnws/en/2025/08/20/100-million-euro-already-saved-as-a-result-of-the-raising-of-the/",
+      "source": "VRT NWS",
+      "pubDate": "2025-08-20",
+      "summary": "After the legal retirement age rose from 65 to 66 on 1 January 2025, about 22,000 fewer people retired in the first five months versus a year earlier, saving roughly €100 million in pension spending. The age rises again to 67 in 2030."
+    },
+    {
       "title": "New Pension Law adopted to modernize the statutory scheme",
       "url": "https://www.belgium.be",
       "source": "Federal Public Service Social Security",
@@ -139,6 +223,20 @@ const NEWS = {
     }
   ],
   "BG": [
+    {
+      "title": "Bulgaria 2026 budget: average pension €541, stricter thresholds, +7.8% July adjustment",
+      "url": "https://www.bta.bg/en/news/1010819-parliamentary-committee-on-labour-and-social-policy-approves-2026-public-social-",
+      "source": "BTA",
+      "pubDate": "2025-11-18",
+      "summary": "The 2026 Public Social Insurance Budget projects an average pension of about €541 (up 8.5% nominal) and adjusts all 2025 pensions by 7-8% from 1 July 2026. Pension-fund contributions rise 2 points from January 2026, with another point in 2028."
+    },
+    {
+      "title": "New retirement conditions in Bulgaria from 1 January 2026 as euro is adopted",
+      "url": "https://fakti.bg/en/bulgaria/1024689-slug-for-change",
+      "source": "Fakti.bg",
+      "pubDate": "2026-01-01",
+      "summary": "From 1 January 2026 stricter rules apply: men need 64y9m and 39y10m of service, women 62y6m and 36y10m, as the euro replaces the lev. The retirement age continues rising toward 65 for both sexes by 2037."
+    },
     {
       "title": "National Assembly adopts 2025 State Social Insurance budget",
       "url": "https://www.parliament.bg/en/news/ID/6219",
@@ -163,6 +261,20 @@ const NEWS = {
   ],
   "BH": [
     {
+      "title": "Bahrain Parliament debates pension law amendments to restore annual increases, cut contributions",
+      "url": "https://www.newsofbahrain.com/bahrain/121217.html",
+      "source": "News of Bahrain",
+      "pubDate": "2025-09-01",
+      "summary": "Lawmakers debated amendments to reinstate annual pension increases, cut employee contributions from 7% to 6%, and lower women's retirement age from 60 to 55, calculating benefits on the last two years' average salary. GOSI warned of a ~BD14.4bn actuarial deficit."
+    },
+    {
+      "title": "Bahrain MPs propose channelling oil revenue into Pension and Social Insurance Fund",
+      "url": "https://www.lexismiddleeast.com/news/2025-11-20_7/en",
+      "source": "Lexis Middle East / Daily Tribune",
+      "pubDate": "2025-11-18",
+      "summary": "A draft law would divert US$1 per barrel of oil when prices exceed $40 (rising to $2 above $80) into the Pension and Social Insurance Fund, creating a steadier revenue stream to close the actuarial gap and resume retiree increases."
+    },
+    {
       "title": "Bahrain takes leap forward in enhancing end-of-service rights for migrant workers",
       "url": "https://ilo.msgfocus.com/c/12URG2cHU81WOlZWc",
       "source": "ILO",
@@ -185,6 +297,20 @@ const NEWS = {
     }
   ],
   "BR": [
+    {
+      "title": "Brazil 2026 INSS rules: points system rises to 93/103, minimum ages 59.5/64.5",
+      "url": "https://correiodoestado.com.br/mix/mudancas-nas-regras-da-aposentadoria-do-inss-foram-aprovadas-para-2026",
+      "source": "Correio do Estado",
+      "pubDate": "2026-01-01",
+      "summary": "Under the 2019 reform's transition schedule, from January 2026 the points rule requires 93 points (women) / 103 points (men) and minimum ages rise to 59y6m / 64y6m, increasing six months a year toward 62/65 by 2031. Contribution time stays 30/35 years."
+    },
+    {
+      "title": "INSS benefit ceiling rises to R$8,475 in 2026; above-minimum pensions adjusted 3.9%",
+      "url": "https://portaldeprefeitura.com.br/brasil/inss-reajusta-beneficios-acima-do-minimo-e-novo-teto-da-aposentadoria/612587",
+      "source": "Portal do Prefeitura",
+      "pubDate": "2026-01-15",
+      "summary": "The Social Security benefit ceiling reached R$8,475.55 in 2026, up from R$8,157.40. Pensions above the minimum were adjusted 3.9% (the 2025 INPC), below the 4.26% official IPCA inflation, eroding purchasing power for higher earners."
+    },
     {
       "title": "Reforma da Previdência 2019 completa 6 anos: rombo fiscal ainda preocupa",
       "url": "https://www.gov.br/previdencia",
@@ -209,6 +335,20 @@ const NEWS = {
   ],
   "BW": [
     {
+      "title": "Botswana 2026/27 Budget reaffirms Old Age Pension at P1,400, allocates P3.1bn",
+      "url": "https://dailynews.gov.bw/news-detail/90333",
+      "source": "DailyNews (BOPA)",
+      "pubDate": "2026-02-15",
+      "summary": "In the 2026/27 Budget debate the government reaffirmed the universal Old Age Pension (Tandabala) at P1,400/month and highlighted the pension allocation of about P3.1 billion, part of targeted social relief alongside cuts to water and electricity tariffs."
+    },
+    {
+      "title": "Botswana may lower old-age pension eligibility to 60 once finances allow, says government",
+      "url": "https://www.mmegi.bw/ampArticle/116496",
+      "source": "Mmegi",
+      "pubDate": "2025-02-10",
+      "summary": "The 2025/26 budget raised the non-contributory Old Age Pension from P830 to P1,400 (short of the promised P1,800). Citing fiscal constraints, the government said it will assess extending coverage to citizens aged 60 and above in future if the situation improves."
+    },
+    {
       "title": "Elders win big as old age pension rises to P1,400 in 2025 budget",
       "url": "https://beta.mmegi.bw/news/elders-children-win-big-in-2025-budget/news",
       "source": "Mmegi",
@@ -232,6 +372,20 @@ const NEWS = {
   ],
   "CA": [
     {
+      "title": "Canada 2026: CPP maximum rises to C$1,507.65/month, OAS to C$742.31 (65-74)",
+      "url": "https://m.economictimes.com/news/international/canada/cpp-payments-and-oas-to-arrive-early-on-december-22-ahead-of-holidays-all-your-faqs-answered/amp_articleshow/126102325.cms",
+      "source": "Economic Times",
+      "pubDate": "2025-12-22",
+      "summary": "Indexed to inflation, the 2026 CPP maximum retirement pension at 65 rises to C$1,507.65/month (about +2%) and OAS maximums to C$742.31 (65-74) / C$816.54 (75+), the latter keeping the permanent 10% top-up for those 75+."
+    },
+    {
+      "title": "Canada 2026: CPP2 second earnings ceiling (YAMPE) reaches C$85,000",
+      "url": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/payroll-deductions-contributions/canada-pension-plan-cpp/cpp-enhancement.html",
+      "source": "Canada Revenue Agency",
+      "pubDate": "2025-11-01",
+      "summary": "The Year's Additional Maximum Pensionable Earnings (YAMPE) rises to C$85,000 in 2026 (YMPE C$74,600), completing the phased CPP enhancement. Employees and employers each contribute 4% on earnings between the two ceilings (8% for self-employed)."
+    },
+    {
       "title": "CPP Enhancement Continues: Replacement Rate Path to 33% by 2065",
       "url": "https://www.canada.ca",
       "source": "Government of Canada",
@@ -254,6 +408,20 @@ const NEWS = {
     }
   ],
   "CH": [
+    {
+      "title": "Swiss government sets AHV2030 reform priorities without raising retirement age",
+      "url": "https://thegenevatimes.ch/swiss-set-priorities-for-pension-reform-without-raising-retirement-age",
+      "source": "Geneva Times",
+      "pubDate": "2025-11-26",
+      "summary": "The government outlined the AHV2030 reform to stabilise the old-age scheme for 2030-40 without raising the retirement age: the contribution threshold rises to CHF21,800 (from CHF16,800) for about CHF700m extra revenue, with a possible 0.7-point VAT hike if the 13th pension is temporarily funded."
+    },
+    {
+      "title": "Switzerland introduces 13th AHV pension payment from 2026",
+      "url": "https://www.ey.com/en_ch/technical/tax-alerts/tax-alert-switzerland-key-changes-from-2025-2026",
+      "source": "EY Switzerland",
+      "pubDate": "2025-12-01",
+      "summary": "Linked to the AVS/AHV 21 reform, from 2026 retirees receive a 13th AHV pension payment each year. Women's reference age also rises to 64y6m in 2026 on the path to a unified 65 by 2028; Pillar 3a catch-up payments become possible from 2025 onward."
+    },
     {
       "title": "AHV 21 reform in force: women's retirement age to 65",
       "url": "https://www.admin.ch",
