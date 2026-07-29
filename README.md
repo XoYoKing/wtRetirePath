@@ -17,6 +17,10 @@
   <a href="#简体中文">简体中文</a> · <a href="#english">English</a>
 </p>
 
+<p align="center">
+  <a href="https://wtretirepath.pages.dev"><b>🌐 Cloudflare Pages 演示</b></a> · <a href="https://xoyoking.github.io/wtRetirePath/"><b>🐙 GitHub Pages 演示</b></a>
+</p>
+
 ---
 
 ## 简体中文
@@ -66,13 +70,20 @@ npx serve .
 ```
 然后访问 <http://localhost:8080>。
 
+### 🌐 在线演示
+
+本项目已部署在以下两个静态托管平台，可直接访问体验：
+
+- **Cloudflare Pages**：<https://wtretirepath.pages.dev>
+- **GitHub Pages**：<https://xoyoking.github.io/wtRetirePath/>
+
 ### 🌐 部署到 GitHub Pages
 
 1. 在仓库 **Settings → Pages** 中，将 Source 设为 **Deploy from a branch**。
 2. 选择分支 **`main`**，目录 **`/ (root)`**，保存。
 3. 数分钟后访问 `https://<你的用户名>.github.io/wtRetirePath/`。
 
-> 项目无需任何构建，根目录即站点根，可直接发布。
+> 项目无需任何构建，根目录即站点根，可直接发布。也可使用仓库内置的 `.github/workflows/pages.yml`（Source 选 **GitHub Actions**）自动部署。
 
 ### 📁 项目结构
 
@@ -158,13 +169,20 @@ No dependencies required. Either:
   ```
   Then open <http://localhost:8080>.
 
+### 🌐 Live Demo
+
+The project is already deployed on two static hosts — try it live:
+
+- **Cloudflare Pages**: <https://wtretirepath.pages.dev>
+- **GitHub Pages**: <https://xoyoking.github.io/wtRetirePath/>
+
 ### 🌐 Deploy to GitHub Pages
 
 1. In repo **Settings → Pages**, set Source to **Deploy from a branch**.
 2. Choose branch **`main`**, folder **`/ (root)`**, and save.
 3. Visit `https://<your-username>.github.io/wtRetirePath/` after a few minutes.
 
-> No build needed — the repository root is the site root.
+> No build needed — the repository root is the site root. You can also use the built-in `.github/workflows/pages.yml` (set Source to **GitHub Actions**) for automated deploys.
 
 ### 📁 Project Structure
 
