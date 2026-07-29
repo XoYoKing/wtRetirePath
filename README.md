@@ -43,7 +43,7 @@
 - 📍 **智能国家识别**：依据浏览器语言与系统时区自动推断用户所在国家，也可手动切换。
 - 🧮 **退休计算器**：输入当前年龄、储蓄、收支与配偶情况，估算距离退休年数、所需总储蓄、储蓄缺口与退休后月收入。
 - 📚 **养老金体系解读**：每个国家提供「制度运作 / 优势 / 劣势 / 税务处理 / 改革趋势」五维详解。
-- 📰 **退休资讯**：14 个重点国家内置精选新闻；其余国家自动回退到 Google News 检索。
+- 📰 **退休资讯**：**全部 83 个国家/地区**均内置 2024–2026 年精选养老与退休政策新闻（含真实来源链接）；未覆盖时回退到 Google News 检索。
 - 🌗 **深色主题**：采用 GitHub 风格深色 UI，移动端响应式布局。
 
 ### 🛠 技术栈
@@ -115,7 +115,8 @@ wtRetirePath/
 │   ├── app.js          # 主逻辑：国家识别、路由、计算器、渲染
 │   ├── countries.js    # 83 国养老金数据（含多语言字段）
 │   ├── i18n.js         # 13 种语言的 UI 文案 + 国家→语言映射
-│   └── news.js         # 分国别退休资讯 + Google News 回退配置
+│   └── news.js         # 分国别退休资讯（83 国精选）+ Google News 回退配置
+│   └── pension_extra.js # 各国补充政策详情（领取条件/缴费/近年改革，双语）
 ├── LICENSE             # MIT 许可证
 ├── CONTRIBUTING.md     # 贡献指南
 ├── CODE_OF_CONDUCT.md  # 行为准则
@@ -161,7 +162,7 @@ wtRetirePath/
 - 📍 **Smart country detection**: infers the user's country from browser locale and system timezone, with manual override.
 - 🧮 **Retirement calculator**: enter age, savings, income/expense, and spouse details to estimate years-to-retirement, total savings needed, savings gap, and projected monthly retirement income.
 - 📚 **Pension explainers**: five dimensions per country — How It Works / Strengths / Weaknesses / Tax Treatment / Reform Trends.
-- 📰 **Retirement news**: curated news for 14 focus countries; all others fall back to a Google News search.
+- 📰 **Retirement news**: curated 2024–2026 pension & retirement-policy news (with real source links) for **all 83 countries/regions**; falls back to a Google News search only when a country is not yet covered.
 - 🌗 **Dark theme**: GitHub-inspired dark UI, fully responsive.
 
 ### 🛠 Tech Stack
@@ -228,7 +229,8 @@ wtRetirePath/
 │   ├── app.js          # Core logic: country detection, routing, calculator, rendering
 │   ├── countries.js    # Pension data for 83 countries (with multilingual fields)
 │   ├── i18n.js         # UI strings for 13 languages + country→language map
-│   └── news.js         # Per-country retirement news + Google News fallback config
+│   └── news.js         # Per-country retirement news (83 curated) + Google News fallback config
+│   └── pension_extra.js # Supplementary policy detail per country (eligibility / contributions / recent reforms, bilingual)
 ├── LICENSE             # MIT License
 ├── CONTRIBUTING.md     # Contribution guide
 ├── CODE_OF_CONDUCT.md  # Code of conduct

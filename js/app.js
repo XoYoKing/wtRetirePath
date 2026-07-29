@@ -19,6 +19,17 @@
   const pageInfo = $('page-info');
   const pageNews = $('page-news');
 
+  // ── Merge supplementary pension policy detail ─────
+  // PENSION_EXTRA (from js/pension_extra.js) adds bilingual eligibility /
+  // contrib / recent_reform fields per country. Merge onto the country
+  // objects so the existing lf() localisation helper can read them.
+  if (typeof PENSION_EXTRA !== 'undefined') {
+    COUNTRIES.forEach(c => {
+      const e = PENSION_EXTRA[c.code];
+      if (e) Object.assign(c, e);
+    });
+  }
+
   // ── Init ──────────────────────────────────────────
   function detectCountry() {
     const lang = navigator.language || navigator.userLanguage || 'zh-CN';
@@ -315,6 +326,19 @@
 
     $('info-trend-title').textContent = t('info_trend');
     $('info-trend-content').textContent = lf(c, 'retire_trend') || '—';
+
+    const extraLabels = (typeof PENSION_EXTRA_LABELS !== 'undefined')
+      ? (PENSION_EXTRA_LABELS[currentLang] || PENSION_EXTRA_LABELS.en)
+      : { eligibility: 'Eligibility', contrib: 'Contributions', reform: 'Recent Reforms' };
+
+    $('info-eligibility-title').textContent = extraLabels.eligibility;
+    $('info-eligibility-content').textContent = lf(c, 'eligibility') || '—';
+
+    $('info-contrib-title').textContent = extraLabels.contrib;
+    $('info-contrib-content').textContent = lf(c, 'contrib') || '—';
+
+    $('info-reform-title').textContent = extraLabels.reform;
+    $('info-reform-content').textContent = lf(c, 'recent_reform') || '—';
 
     $('info-source').textContent = t('info_source');
   }
