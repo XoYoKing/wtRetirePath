@@ -90,7 +90,11 @@ npx serve .
 - 副标题：**83 国 · 13 语言 · 免费开源的退休规划工具**
 - 视觉元素：退休计算器界面截图 / 世界地图 + 国旗，深色 GitHub 风格配色。
 
-> 本仓库暂未附带预览图，欢迎通过 PR 补充（建议放置 `assets/social-preview.png`）。
+本仓库已提供现成的社交预览图 [`assets/social-preview.png`](./assets/social-preview.png)，直接到仓库 **Settings → General → Social Preview** 上传即可。效果预览：
+
+![社交预览图](assets/social-preview.png)
+
+> 如果想自行替换，可使用任意 1280×640 图片，或参考本图风格重新设计。
 
 ### 🌐 部署到 GitHub Pages
 
@@ -199,7 +203,11 @@ We recommend uploading a **1280×640** social preview image under repo **Setting
 - Subtitle: **83 countries · 13 languages · free, open-source retirement planning**
 - Visuals: a screenshot of the retirement calculator / a world map with flags, in the GitHub-inspired dark theme.
 
-> This repo does not yet ship a preview image — PRs adding one are welcome (suggested path: `assets/social-preview.png`).
+This repo ships a ready-to-use social preview image at [`assets/social-preview.png`](./assets/social-preview.png). Simply upload it under repo **Settings → General → Social Preview**. Preview:
+
+![Social Preview](assets/social-preview.png)
+
+> Feel free to replace it with your own 1280×640 image if you prefer a different style.
 
 ### 🌐 Deploy to GitHub Pages
 
