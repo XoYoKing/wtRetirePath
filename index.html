@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<meta name="description" content="RetirePath — Free global retirement planning tool. Plan your financial future with personalized projections for 83 countries.">
+<title>RetirePath — 通往安稳退休之路</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<nav>
+<div class="container">
+<div class="nav-left">
+<span class="nav-logo">RetirePath</span>
+<ul class="nav-links">
+<li><a href="#" id="nav-home" data-i18n="nav_home">首页</a></li>
+<li><a href="#" id="nav-calc" data-i18n="nav_calc">计算器</a></li>
+<li><a href="#" id="nav-info" data-i18n="nav_info">养老金体系</a></li>
+<li><a href="#" id="nav-news" data-i18n="nav_news">资讯</a></li>
+</ul>
+</div>
+<div class="nav-right">
+<div class="nav-country">
+<select id="country-select"></select>
+</div>
+</div>
+</div>
+</nav>
+
+<!-- Home Page -->
+<div id="page-home">
+<div class="container">
+<div class="hero">
+<h1 id="home-hero-title">通往安稳退休之路</h1>
+<p id="home-hero-desc">量身定制的退休规划工具，基于您所在国家的养老金制度，为您的财务未来保驾护航。</p>
+</div>
+<div class="detect-badge">
+<span id="home-detect-label">检测到您的国家为</span>
+<span id="detect-name" style="color:#58a6ff;font-weight:600;"></span>
+</div>
+<div id="detect-msg">不是您的国家？请使用右上角的下拉菜单切换。</div>
+<div class="cta-section">
+<button class="cta-btn" id="cta-btn">立即规划您的退休</button>
+<p class="cta-sub" id="cta-sub">填写您的信息，了解退休时间和所需储蓄。</p>
+</div>
+<div class="cards">
+<div class="card">
+<h3 id="home-card1-title">退休计算器</h3>
+<p id="home-card1-desc">填写您的信息，了解退休时间和所需储蓄。</p>
+</div>
+<div class="card">
+<h3 id="home-card2-title">养老金体系</h3>
+<p id="home-card2-desc">详细解读各国养老金制度框架</p>
+</div>
+<div class="card">
+<h3 id="home-card3-title">退休资讯</h3>
+<p id="home-card3-desc">最新的养老金和退休政策动态</p>
+</div>
+</div>
+</div>
+</div>
+
+<!-- Calculator Page -->
+<div id="page-calc" class="hidden">
+<div class="container">
+<h2 id="calc-title">退休计算器</h2>
+<p id="calc-info">填写您的信息，了解退休时间和所需储蓄。</p>
+<div class="calc-grid">
+<form id="calc-form">
+<div class="form-group">
+<label id="calc-label-age" for="current-age">当前年龄</label>
+<input type="number" id="current-age" min="18" max="80" value="30">
+</div>
+<div class="form-group">
+<label id="calc-label-savings" for="current-savings">当前储蓄</label>
+<input type="number" id="current-savings" min="0" value="50000" step="1000">
+</div>
+<div class="form-group">
+<label id="calc-label-income" for="monthly-income">月收入（税后）</label>
+<input type="number" id="monthly-income" min="0" value="8000" step="100">
+</div>
+<div class="form-group">
+<label id="calc-label-expense" for="monthly-expense">月支出</label>
+<input type="number" id="monthly-expense" min="0" value="5000" step="100">
+</div>
+<div class="form-group">
+<label>
+<input type="checkbox" id="include-spouse">
+<span id="calc-label-spouse">包含配偶</span>
+</label>
+</div>
+<div class="form-group hidden" id="spouse-group">
+<label id="calc-label-spouse-income" for="spouse-income">配偶月收入</label>
+<input type="number" id="spouse-income" min="0" value="6000" step="100">
+</div>
+<button type="submit" class="calc-btn" id="calc-btn">计算我的退休计划</button>
+</form>
+<div class="results" id="calc-results">
+<h3 id="calc-chart-title">退休储蓄预测</h3>
+<div class="result-item"><div class="label" id="calc-result-years-label">距离退休年数</div><div class="value" id="result-years">—</div></div>
+<div class="result-item"><div class="label" id="calc-result-need-label">所需总储蓄</div><div class="value" id="result-need">—</div></div>
+<div class="result-item"><div class="label" id="calc-result-gap-label">储蓄缺口</div><div class="value" id="result-gap">—</div></div>
+<div class="result-item"><div class="label" id="calc-result-monthly-label">每月退休收入</div><div class="value" id="result-monthly">—</div></div>
+<p class="assumptions" id="calc-assume"></p>
+</div>
+</div>
+</div>
+</div>
+
+<!-- Info Page -->
+<div id="page-info" class="hidden">
+<div class="container">
+<h2 id="info-title">养老金体系</h2>
+<p id="info-subtitle"></p>
+<div class="info-section">
+<h3 id="info-how-title">制度运作</h3>
+<div class="content" id="info-how-content"></div>
+</div>
+<div class="info-section">
+<h3 id="info-strength-title">优势</h3>
+<div class="content" id="info-strength-content"></div>
+</div>
+<div class="info-section">
+<h3 id="info-weakness-title">劣势</h3>
+<div class="content" id="info-weakness-content"></div>
+</div>
+<div class="info-section">
+<h3 id="info-tax-title">税务处理</h3>
+<div class="content" id="info-tax-content"></div>
+</div>
+<div class="info-section">
+<h3 id="info-trend-title">改革趋势</h3>
+<div class="content" id="info-trend-content"></div>
+</div>
+<p class="info-source" id="info-source"></p>
+</div>
+</div>
+
+<!-- News Page -->
+<div id="page-news" class="hidden">
+<div class="container">
+<h2 id="news-title">退休资讯</h2>
+<p id="news-subtitle"></p>
+<div id="news-container" class="news-list"></div>
+<p class="news-source-link"><a id="news-source-link" href="#" target="_blank" rel="noopener"></a></p>
+</div>
+</div>
+
+<footer>
+<div class="container">
+<p id="footer-text">RetirePath — 免费退休规划工具。不构成财务建议。</p>
+</div>
+</footer>
+
+<!-- External Resources — Split for performance -->
+<script src="js/i18n.js"></script>
+<script src="js/countries.js"></script>
+<script src="js/news.js"></script>
+<script src="js/app.js"></script>
+
+</body>
+</html>
