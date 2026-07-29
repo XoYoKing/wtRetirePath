@@ -21,6 +21,11 @@
   <a href="https://wtretirepath.pages.dev"><b>🌐 Cloudflare Pages 演示</b></a> · <a href="https://xoyoking.github.io/wtRetirePath/"><b>🐙 GitHub Pages 演示</b></a>
 </p>
 
+<p align="center">
+  ⭐ 如果这个项目对你或身边的人有帮助，欢迎到 <a href="https://github.com/XoYoKing/wtRetirePath/stargazers">GitHub 点个 Star</a> 支持一下！<br>
+  <a href="https://github.com/XoYoKing/wtRetirePath/stargazers"><img src="https://img.shields.io/github/stars/XoYoKing/wtRetirePath?style=social" alt="GitHub stars"></a>
+</p>
+
 ---
 
 ## 简体中文
@@ -76,6 +81,16 @@ npx serve .
 
 - **Cloudflare Pages**：<https://wtretirepath.pages.dev>
 - **GitHub Pages**：<https://xoyoking.github.io/wtRetirePath/>
+
+### 🖼️ 社交预览图（可选）
+
+建议在仓库 **Settings → General** 上传一张 **1280×640** 的社交预览图（Social Preview），让分享链接在社交平台更吸睛。推荐内容：
+
+- 主标题：**RetirePath · 通往安稳退休之路**
+- 副标题：**83 国 · 13 语言 · 免费开源的退休规划工具**
+- 视觉元素：退休计算器界面截图 / 世界地图 + 国旗，深色 GitHub 风格配色。
+
+> 本仓库暂未附带预览图，欢迎通过 PR 补充（建议放置 `assets/social-preview.png`）。
 
 ### 🌐 部署到 GitHub Pages
 
@@ -175,6 +190,16 @@ The project is already deployed on two static hosts — try it live:
 
 - **Cloudflare Pages**: <https://wtretirepath.pages.dev>
 - **GitHub Pages**: <https://xoyoking.github.io/wtRetirePath/>
+
+### 🖼️ Social Preview (optional)
+
+We recommend uploading a **1280×640** social preview image under repo **Settings → General** so shared links look great on social platforms. Suggested content:
+
+- Title: **RetirePath · Plan Your Retirement, Worldwide**
+- Subtitle: **83 countries · 13 languages · free, open-source retirement planning**
+- Visuals: a screenshot of the retirement calculator / a world map with flags, in the GitHub-inspired dark theme.
+
+> This repo does not yet ship a preview image — PRs adding one are welcome (suggested path: `assets/social-preview.png`).
 
 ### 🌐 Deploy to GitHub Pages
 
