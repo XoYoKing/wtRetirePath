@@ -944,6 +944,20 @@ const NEWS = {
       "source": "FCA",
       "pubDate": "2025-04-06",
       "summary": "Since the introduction of Pension Freedoms in 2015, savers have flexibly accessed over £100 billion from their pension pots. FCA review finds most withdrawals are small lump sums, but concerns about sustainability of drawdown strategies persist."
+    },
+    {
+      "title": "Autumn Budget 2025 launches Pensions Commission and third State Pension age review",
+      "url": "https://www.manchestereveningnews.co.uk/news/cost-of-living/government-confirms-new-state-pension-32957887",
+      "source": "HM Treasury / Manchester Evening News",
+      "pubDate": "2025-11-26",
+      "summary": "At the Autumn Budget the Chancellor confirmed the 4.8% State Pension rise for April 2026 and announced a new Pensions Commission plus the third independent review of the State Pension age, aiming to build a fair, sustainable system. The triple lock is maintained for the parliament."
+    },
+    {
+      "title": "Frozen tax allowance to drag more pensioners into income tax as State Pension nears £12,535",
+      "url": "https://govexplained.co.uk/news-state-pension-rise-2026",
+      "source": "GOV.UK / analysts",
+      "pubDate": "2026-04-06",
+      "summary": "With the full new State Pension rising to £241.30/week (£12,534.60/year) from April 2026, it now sits just below the frozen £12,570 personal allowance. Experts warn that with the allowance frozen to 2028, more pensioners with modest other income will pay income tax from 2027/28."
     }
   ],
   "GH": [
@@ -967,6 +981,20 @@ const NEWS = {
       "source": "Live Ghana TV",
       "pubDate": "2025-07-24",
       "summary": "A clear explainer of the SSNIT formula: pension equals the best 36 months' average salary times a percentage that starts at 37.5% after 15 years and reaches 60% after 35 years, with a salary cap of GHS 25,000."
+    },
+    {
+      "title": "NPRA chief proposes raising Ghana's mandatory retirement age from 60 to 65",
+      "url": "https://www.modernghana.com/news/1400996/ghanas-mandatory-pension-age-should-be-moved-from.amp",
+      "source": "Modern Ghana / NPRA",
+      "pubDate": "2025-05-17",
+      "summary": "CEO of the National Pensions Regulatory Authority (NPRA), Christopher Boadi-Mensah, told Parliament Ghana should move its mandatory retirement age from 60 to 65, citing longer life expectancy and the strain of paying pensions for 30+ years. He also aims to grow pension assets to US$100 billion in three years."
+    },
+    {
+      "title": "SSNIT boss reiterates caution on retirement-age hike, warning of youth unemployment",
+      "url": "https://www.gbcghanaonline.com/general/ssnit-boss-cautions-retirement-age-hike-may-delay-youth-employment/2026",
+      "source": "GBC Ghana",
+      "pubDate": "2026-01-15",
+      "summary": "SSNIT Director-General Kwasi Afreh Biney again cautioned against a hasty rise in the retirement age, arguing it could delay youth employment by five to seven years. He called for broad national consultations rather than a single institution deciding, as the 60-to-65 debate continues."
     }
   ],
   "GR": [
@@ -990,6 +1018,20 @@ const NEWS = {
       "source": "Parapolitika",
       "pubDate": "2025-03-10",
       "summary": "Experts expect record retirements in 2025-2026 as insured workers seek to secure rights before a potential adjustment of general retirement age limits tied to life expectancy from 2027."
+    },
+    {
+      "title": "Greece to link retirement age limits to life expectancy from 2027, raising them 1.5-2 years",
+      "url": "https://en.parapolitika.gr/economy/4985/greece-to-raise-retirement-age-limits-after-2027-life-expectancy-rises",
+      "source": "Parapolitika",
+      "pubDate": "2026-01-20",
+      "summary": "Greece plans to raise retirement age limits by 1.5-2 years after 2027 (to about 63.5 with 40 years of service and 68.5 for a full pension), tied to life expectancy under a 2010 law. The government must decide by end-2026; the OECD favours a 1:1 link."
+    },
+    {
+      "title": "New 2026 pension formula uses wage index, making 2026 an attractive year to retire",
+      "url": "https://en.parapolitika.gr/economy/39421/greek-retirement-surge-record-applications-in-2025-2026-ahead-of-age-limits-rise",
+      "source": "Parapolitika",
+      "pubDate": "2026-01-20",
+      "summary": "From 2026 Greece's pension calculation will factor the wage-change index rather than average inflation, expected to deliver larger increases. EFKA recorded 48,041 new retirement applications in Q1 2025, and 2026 is seen as a sweet spot before age limits tighten."
     }
   ],
   "HK": [
@@ -1013,6 +1055,20 @@ const NEWS = {
       "source": "Hong Kong Government",
       "pubDate": "2025-07-01",
       "summary": "The MPFA is reviewing MPF withdrawal options such as programmed/phased withdrawals and annuities, alongside the existing lump-sum model, to improve retirees' income security."
+    },
+    {
+      "title": "eMPF Platform reaches full operation in 2026 as last industry schemes onboard",
+      "url": "https://www.mpfa.org.hk/en/mpfa/corporate-events/media-and-stakeholder-activities/260325_psa-cocktail-reception-2026",
+      "source": "MPFA",
+      "pubDate": "2026-03-25",
+      "summary": "The MPFA said all MPF Master Trust and Employer Sponsored Schemes have onboarded the eMPF Platform, with the two remaining Industry Schemes joining in March-April 2026, after which eMPF starts full operation. It has processed nearly 9 million transaction instructions, over 70% electronic."
+    },
+    {
+      "title": "MPF 'Full Portability' Phase One set for Q4 2026 after legislative amendment",
+      "url": "https://sc.isd.gov.hk/gb/www.info.gov.hk/gia/general/202601/23/P2026012200460.htm",
+      "source": "Hong Kong Government / MPFA",
+      "pubDate": "2026-01-23",
+      "summary": "Hong Kong gazetted legal notices for the final MPF schemes to join eMPF and confirmed Full Portability Phase One (employees hired from 1 May 2025) will launch in Q4 2026, letting members transfer employer mandatory contributions to a scheme of their choice once a year."
     }
   ],
   "HR": [
@@ -1036,6 +1092,20 @@ const NEWS = {
       "source": "Lider Media",
       "pubDate": "2025-12-24",
       "summary": "Croatia paid EUR 15.5m of state incentives to 249,447 voluntary (third-pillar) fund members for 2024 contributions, at 15% of contributions up to EUR 663.61 per member."
+    },
+    {
+      "title": "Croatia to pay first '13th pension' in December 2025; pension tax abolished from 2027",
+      "url": "https://en.lider.media/2025/10/09/new-rules-for-pensioners-the-13th-pension-is-coming-tax-on-pensions-to-be-abolished-in-2027",
+      "source": "Lider Media",
+      "pubDate": "2025-10-09",
+      "summary": "Under the new Pension Insurance Act, Croatia will pay an annual supplement ('13th pension') of €6 per year of service (average about €171) in December 2025. The government also plans to abolish the pension tax from 2027, adding roughly €350/year for an average pensioner."
+    },
+    {
+      "title": "From January 2026 Croatia raises women's retirement age to 64 and lets pensioners work full-time",
+      "url": "https://www.expatincroatia.com/croatian-law-changes-2026/",
+      "source": "Expat in Croatia",
+      "pubDate": "2026-01-01",
+      "summary": "Effective January 2026, Croatia's women's retirement age rose to 64 (up three months a year to 65 by 2030), the early-retirement penalty is abolished at age 70, and pensioners may work full-time while receiving 50% of their pension. Minimum pensions rose about 3%."
     }
   ],
   "HU": [
@@ -1059,6 +1129,20 @@ const NEWS = {
       "source": "European Times",
       "pubDate": "2025-12-01",
       "summary": "Reports discuss 2026 rules under which 1961-born workers gain full pension rights and women's 40-year (Nok 40) scheme conditions may tighten; the 13th pension is paid from 2027 under new calculations."
+    },
+    {
+      "title": "From January 2026 Hungary decouples retirement from automatic age-65 exit",
+      "url": "https://europeantimes.news/mn/2025/12/hungary-raises-retirement-age/",
+      "source": "European Times",
+      "pubDate": "2026-01-01",
+      "summary": "From 1 January 2026 reaching age 65 is no longer an automatic retirement trigger in Hungary; workers can choose when to exit the labour market based on health, finances and experience. Those born in 1961 are the first to gain full old-age pension rights under the new flexible rules."
+    },
+    {
+      "title": "Hungary extends widow's pension to separated spouses and lets pensioners keep working (June 2026)",
+      "url": "https://europeantimes.news/zh-TW/2025/12/hungary-raises-retirement-age",
+      "source": "European Times",
+      "pubDate": "2026-06-01",
+      "summary": "From June 2026 Hungary will extend the widow's pension to separated spouses (not just cohabiting ones) and allow old-age pensioners to receive their pension without terminating their employment or insurance contract — important for healthcare workers who can keep practising."
     }
   ],
   "ID": [
@@ -1082,6 +1166,20 @@ const NEWS = {
       "source": "Universitas Airlangga",
       "pubDate": "2025-01-10",
       "summary": "Analysts note the 59-age change is a continuation of the 2015 plan; workers can defer claiming or keep working, but warn of reduced job openings for youth and the need for older-worker-friendly policies."
+    },
+    {
+      "title": "Indonesia sets 2026 pension parameters: wage ceiling rises to IDR 11,086,300 from March",
+      "url": "https://www.linkcompliance.com/indonesias-bpjs-ketenagakerjaan-pension-program-updates-for-2026-key-changes-employers-should-know/",
+      "source": "Link Compliance / BPJS",
+      "pubDate": "2026-03-01",
+      "summary": "For 2026 BPJS Ketenagakerjaan keeps the retirement age at 59 (next step toward 65 by 2043) and raises the pension contribution wage ceiling to IDR 11,086,300/month from March 2026, reflecting 5.11% 2025 GDP growth. Monthly benefits range IDR 411,400-4,932,300."
+    },
+    {
+      "title": "Indonesia clarifies 59 is pension eligibility, not mandatory retirement; 15-year minimum for monthly payout",
+      "url": "https://world.harianbasis.co/social-security-benefits-indonesia-2026",
+      "source": "Detik Finance / Harian Basis",
+      "pubDate": "2026-01-15",
+      "summary": "BPJS stresses that 59 is the pension-eligibility age, not a forced retirement; companies may set their own internal age. A minimum 180 months (15 years) of contributions is required for monthly pension benefits, otherwise a lump sum is paid. JHT savings remain a separate retirement pot."
     }
   ],
   "IE": [
@@ -1098,6 +1196,20 @@ const NEWS = {
       "source": "The Pensions Authority",
       "pubDate": "2025-09",
       "summary": "Under My Future Fund, employee contributions start at 1.5% and rise to 6% by 2034, matched by the employer and a state top-up. The State Pension age remains 66 after a 2025 deferral of planned increases."
+    },
+    {
+      "title": "About 800,000 Irish workers auto-enrolled in MyFutureFund from 1 January 2026",
+      "url": "https://www.citizensinformation.ie/en/money-and-tax/personal-finance/pensions/auto-enrolment/",
+      "source": "Citizens Information / NAERSA",
+      "pubDate": "2026-01-01",
+      "summary": "Auto-enrolment began on 1 January 2026, bringing roughly 800,000 previously uncovered workers (aged 23-60, earning over €20,000) into MyFutureFund. Every €3 an employee saves becomes €7 with the employer match and a state top-up of €1 per €3."
+    },
+    {
+      "title": "MyFutureFund: 77,000 employers registered by December 2025; exemption standards set",
+      "url": "https://www.gov.ie/en/department-of-social-protection/press-releases/minister-dara-calleary-gives-update-on-myfuturefund/",
+      "source": "Department of Social Protection (Gov.ie)",
+      "pubDate": "2025-12-15",
+      "summary": "Minister Calleary said over 77,000 employers (about 645,000 employees) had registered on the MyFutureFund portal by December 2025, with contributions starting from January pay-dates. A statutory instrument sets exemption standards: DC occupational schemes need at least 3.5% total contributions to opt out."
     }
   ],
   "IL": [
@@ -1121,6 +1233,20 @@ const NEWS = {
       "source": "CWS Israel",
       "pubDate": "2025-01-01",
       "summary": "Mandatory pension remains 18.5% of gross salary (6% employee + 6.5% employer + 6% severance) up to ILS 50,695/month; women's retirement age continues its legislated rise toward 65."
+    },
+    {
+      "title": "Israel's women's retirement age keeps climbing toward 65 under legislated schedule",
+      "url": "https://semerenkogroup.com/israel-retirement-age-bituach-leumi/",
+      "source": "Semerenko Group / Bituach Leumi",
+      "pubDate": "2026-01-10",
+      "summary": "Women's normal retirement age in Israel continues its legislated rise from 62 toward 65 (a woman born in 1964 retires at 63 years 6 months; those born 1970 or later at 65), three months per year through 2032. Men remain at 67; no further male increase is legislated as of mid-2026."
+    },
+    {
+      "title": "Israel steps up pension tax exemption; reviews 18.5% mandatory rate",
+      "url": "https://semerenkogroup.com/retirement-pensions-taxes-israel/",
+      "source": "Semerenko Group",
+      "pubDate": "2026-01-10",
+      "summary": "From 2026, 57.5% of a qualifying monthly pension is income-tax-free (rising to 67% by 2028), with the tax-free ceiling at about NIS 5,422/month. VAT rose to 18% in January 2025; the Finance Ministry is debating whether the 18.5% mandatory pension contribution is too high, but no change has passed."
     }
   ],
   "IN": [
@@ -1151,6 +1277,20 @@ const NEWS = {
       "source": "Income Tax Department",
       "pubDate": "2025-02-01",
       "summary": "In Budget 2025, the deduction limit for employer NPS contributions under Section 80CCD(2) was increased from 10% to 14% of salary for all employees (previously only for central government). Combined with Section 80CCD(1B) additional ₹50,000, total tax benefit can exceed ₹2 lakh."
+    },
+    {
+      "title": "Economic Survey 2025-26 urges pension coverage for gig workers and rural households",
+      "url": "https://ianslive.in/indias-pension-ecosystem-must-empower-gig-workers-rural-households-eco-survey--20260129160904",
+      "source": "IANS / PFRDA",
+      "pubDate": "2026-01-29",
+      "summary": "The Economic Survey 2025-26 said India's pension ecosystem must expand to gig workers and rural households. NPS had 21.17 crore subscribers and ₹16.1 lakh crore AUM as of 31 December 2025; the government-backed Unified Pension Scheme (UPS) launched in 2025 complements NPS and EPF."
+    },
+    {
+      "title": "Zomato-HDFC NPS model for delivery partners; NPS equity cap raised to 100%",
+      "url": "https://www.businesstoday.in/personal-finance/retirement-planning/story/zomato-hdfc-pension-unveil-nps-plan-for-delivery-partners-new-rules-expand-investment-choices-496584-2025-10-02",
+      "source": "Business Today / PFRDA",
+      "pubDate": "2025-10-02",
+      "summary": "Zomato partnered with HDFC Pension to launch an NPS framework for gig delivery partners — over 30,000 generated PRANs within 72 hours. From 1 October 2025 non-government NPS subscribers can invest up to 100% in equities under PFRDA's new Multiple Scheme Framework."
     }
   ],
   "IS": [
@@ -1167,6 +1307,20 @@ const NEWS = {
       "source": "OECD",
       "pubDate": "2025-03",
       "summary": "The OECD notes Iceland's mandatory occupational scheme (12% of pay) and public pillar deliver near-universal coverage and strong funding, keeping the pension age stable at 67."
+    },
+    {
+      "title": "Icelandic pension funds urge parliament to approve investment-rule reform (2026)",
+      "url": "https://europeanpensions.net/ep/Iceland-s-L-feyrism-l-urges-govt-to-approve-pension-investment-reform.php",
+      "source": "European Pensions",
+      "pubDate": "2026-05-28",
+      "summary": "The National Association of Pension Funds (Lífeyrismál) urged the government to enact pension investment-authorisation reform before the summer 2026 session, shifting from quantitative restrictions to a prudential, risk-based principle. Total pension assets were ISK 8,878bn at end-2025 (~190% of GDP); 2025 real return was 2.6%."
+    },
+    {
+      "title": "Iceland 2026: state pension tax-free allowance rises; mandatory contribution 15.5%",
+      "url": "https://www.ctaxnews.net.cn/paper/pc/con/202607/24/content_238269.html",
+      "source": "China Tax News / Skatturinn",
+      "pubDate": "2026-01-01",
+      "summary": "For 2026 Iceland raised the annual income-tax-free allowance on the state pension to ISK 523,896. The mandatory occupational pension contribution is 15.5% of pay (employee 4% + employer 11.5%); foreign workers must pay at least 12%. The statutory pension age stays 67."
     }
   ],
   "IT": [
@@ -1183,6 +1337,20 @@ const NEWS = {
       "source": "ANSA",
       "pubDate": "2025-05",
       "summary": "Italy is gradually shifting to a contribution-based minimum pension under its NDC framework. Early 'anticipata' retirement requires 42y10m (men) / 41y10m (women) of contributions."
+    },
+    {
+      "title": "Italy's 2026 Budget ends Quota 103 and Opzione Donna; extends APE Sociale",
+      "url": "https://www.uipa.it/il-percorso-delle-pensioni-in-italia-dal-2026-al-2030-cosa-cambia-davvero",
+      "source": "Uipa / INPS",
+      "pubDate": "2025-12-30",
+      "summary": "The 2026 Budget (approved 30 December 2025) makes 2026 the last stable year: 'Quota 103' (62 + 41 years) and 'Opzione Donna' are closed to new claimants (only those who qualified by 31 December 2025 keep rights). The APE Sociale is extended to 31 December 2026; standard ages stay at 67 / 42y10m-41y10m."
+    },
+    {
+      "title": "From 2027 Italy resumes life-expectancy indexation; TFR auto-flows to pension funds",
+      "url": "https://www.assistenzafiscale.net/approvata-manovra-2026-legge-bilancio/",
+      "source": "Assistenza Fiscale / INPS",
+      "pubDate": "2026-02-25",
+      "summary": "From 1 January 2027 Italy resumes automatic indexation: the old-age pension rises to 67y1m (2027) then 67y3m (2028), and early-retirement thresholds edge up. Minimum pensions get about +€20/month for over-70s and disabled, and from July 2026 new hires see TFR silently assigned to complementary pension funds unless they opt out."
     }
   ],
   "JP": [

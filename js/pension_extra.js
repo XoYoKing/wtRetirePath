@@ -15,8 +15,8 @@ const PENSION_EXTRA = {
     "eligibility_zh": "正常退休年龄为60岁方可领取全额老年养老金；缴费满180个月（15年）者自55岁起可领减额养老金。会员需至少缴费180个月才享有养老金权利（替代率37.5%），缴满420个月（35年）可达最高60%替代率。从事危险工种者可在55岁退休。2025年提出将退休年龄提高至65岁的建议，正进行利益相关方磋商，但尚未立法。",
     "contrib": "The three-tier system (National Pensions Act 2008): Tier 1 is the mandatory SSNIT defined-benefit scheme at 13.5% of earnings (5.5% employee plus 8% employer), with a wage ceiling raised to GHS 61,000 per month in January 2025. Tier 2 is a mandatory occupational DC scheme at 5% (employer-funded, managed by licensed trustees). Tier 3 is a voluntary tax-advantaged provident or personal fund (up to 35% of income).",
     "contrib_zh": "三层体系（2008年《国家养老金法》）：第一层为强制性SSNIT固定给付计划，费率13.5%（雇员5.5%+雇主8%），缴费工资上限于2025年1月提高至每月6.1万塞地。第二层为强制性职业固定缴费计划，费率5%（雇主承担，由持牌受托人管理）。第三层为自愿性、具税收优惠的公积金或个人基金（最高可达收入35%）。",
-    "recent_reform": "In January 2025 SSNIT raised the maximum insurable earnings (Tier 1 wage ceiling) from GHS 52,000 to GHS 61,000, with the maximum monthly contribution rising to GHS 8,235. A proposal to lift the retirement age from 60 to 65 remains under consultation in 2025 with no enactment.",
-    "recent_reform_zh": "2025年1月，SSNIT将最高应保收入（第一层工资上限）从5.2万塞地提高至6.1万塞地，月最高缴费增至8,235塞地。将退休年龄从60岁提高至65岁的提议在2025年仍处于磋商阶段，尚未立法。"
+    "recent_reform": "In January 2025 SSNIT raised the maximum insurable earnings (Tier 1 wage ceiling) from GHS 52,000 to GHS 61,000, then further to GHS 69,000 for 2026. From April 2026 SSNIT introduced a mandatory annual Pensioner Certificate renewal (facial verification via the SSNIT Mobile App) so payments reach only living beneficiaries, and announced an average ~10% pension increase for 2026. The retirement-age debate continued through 2025-2026: NPRA CEO Christopher Boadi-Mensah proposed moving the mandatory age from 60 to 65, while SSNIT Director-General Kwasi Afreh Biney urged broad national consultation, warning a hasty hike could delay youth employment by 5-7 years. No change has been enacted.",
+    "recent_reform_zh": "2025年1月，SSNIT将最高应保收入（第一层工资上限）从5.2万塞地提高至6.1万塞地，2026年进一步提高至6.9万塞地。自2026年4月起，SSNIT推出强制性“养老金领取者证书”年度更新（通过SSNIT手机App人脸核验），确保款项仅发放给在世受益人，并宣布2026年养老金平均上调约10%。2025-2026年退休年龄之争延续：国家养老金监管局（NPRA）局长向议会提议将强制年龄由60岁提至65岁，SSNIT总干事则呼吁开展广泛全国协商，警告仓促提龄可能令青年就业推迟5-7年。目前尚未立法变更。"
   },
   "KE": {
     "eligibility": "Normal retirement age is 60. The NSSF scheme has no strict minimum contributory years for a retirement benefit; benefits accrue from contributions made from age 18 until retirement. Early withdrawal is not permitted before retirement except on emigration or permanent incapacity. The NSSF Act 2013 phased rollout applies a two-tier contribution structure. No statutory state pension exists; the informal sector is reached via voluntary schemes such as Mbao.",
@@ -159,8 +159,8 @@ const PENSION_EXTRA = {
     "eligibility_zh": "强积金（MPF）一般于65岁提取。60岁提前退休、永久离开香港、完全丧失工作能力或账户结余不超过5,000港元可提前提取。香港无独立公共年金，综援（CSSA）为低收入长者提供保障。",
     "contrib": "Both employee and employer contribute 5% of relevant income (max HK$1,500 each/month, capped at HK$30,000 relevant income). Self-employed pay 5%. No government contribution; the eMPF platform centralizes administration.",
     "contrib_zh": "雇员与雇主各按有关收入的5%供款（每月每人上限1,500港元，有关收入上限3万港元）。自雇人士缴5%。政府不供款；积金易（eMPF）平台统一行政。",
-    "recent_reform": "A major reform took effect 1 May 2025: the long-criticized MPF offsetting mechanism was abolished, so employers can no longer use mandatory MPF contributions to offset statutory severance or long-service payments. The eMPF Platform also launched in 2024-25.",
-    "recent_reform_zh": "2025年5月1日实施重大改革：废除饱受批评的强积金对冲机制，雇主不得再以强制MPF供款抵销法定遣散费或长期服务金。积金易（eMPF）平台亦于2024-25年推出。"
+    "recent_reform": "A major reform took effect 1 May 2025: the MPF offsetting mechanism was abolished. The eMPF Platform reached full operation in 2026 as the last Industry Schemes onboarded (nearly 9 million instructions processed), and 'Full Portability' Phase One - letting employees hired from 1 May 2025 transfer employer mandatory contributions to a scheme of their choice once a year - is set to launch in Q4 2026 after the legislative amendment completed in September 2025.",
+    "recent_reform_zh": "2025年5月1日实施重大改革：废除饱受批评的强积金对冲机制。积金易（eMPF）平台于2026年随着最后两个行业计划加入而全面运作（已处理近900万项指示），“全可携”第一阶段——允许2025年5月1日后入职雇员每年将雇主强制供款转移至自选计划——在2025年9月修法完成后定于2026年第四季推出。"
   },
   "TW": {
     "eligibility": "Labor Pension (new system) pays from age 60 (employer-funded individual account, portable). The Labor Insurance annuity and National Pension (for self-employed/farmers) also pay from 60 or 65. A 2026 change raises the old-age annuity claiming age by 1 year. Minimum contribution periods vary by scheme (e.g., 15 years for Labor Insurance old-age).",
@@ -175,8 +175,8 @@ const PENSION_EXTRA = {
     "eligibility_zh": "雇员公积金（EPF）及雇员年金计划自58岁（部分情形55岁）给付。国家年金制度（NPS）自60岁可领取或年金化。国家社会援助计划下的家计审查老年年金自60岁起。EPF年金部分通常需最低10年服务年资。",
     "contrib": "EPF: employee 12% and employer 12% of wages (8.33% of employer share goes to the pension scheme; wage ceiling 15,000 rupees for pension). NPS: 10% of salary+DA from employee and employer for government workers. Atal Pension Yojana and voluntary NPS are the third pillar.",
     "contrib_zh": "EPF：雇员缴12%、雇主缴12%（雇主部分8.33%进入年金，年金工资上限1.5万卢比）。NPS：政府雇员缴工资加DA的10%（雇员与雇主各半）。Atal Pension Yojana与自愿NPS为第三支柱。",
-    "recent_reform": "In 2025 the government extended NPS tax benefits (employer NPS deduction raised to 14% of salary) and continued phasing in the Social Security Code to bring gig and platform workers under EPFO coverage, India's first formal social security for about 15 million gig workers.",
-    "recent_reform_zh": "2025年政府扩大NPS税收优惠（雇主NPS扣除提高至工资的14%），并持续推进《社会保障法》将零工与平台工人纳入EPFO，系印度约1,500万零工首度纳入正式社会保障。"
+    "recent_reform": "In 2025-26 India deepened pension reform: the Economic Survey 2025-26 urged wider coverage for gig workers and rural households, noting NPS had 21.17 crore subscribers and INR 16.1 lakh crore AUM (31 Dec 2025) and the government-backed Unified Pension Scheme (UPS) launched in 2025. The Social Security Code 2020 took fuller effect (Nov 2025), bringing platform workers under a Social Security Fund, and Zomato partnered with HDFC Pension to pilot an NPS model for delivery partners (30,000+ PRANs in 72 hours). From 1 Oct 2025 non-government NPS subscribers can invest up to 100% in equities.",
+    "recent_reform_zh": "2025-26年印度深化养老金改革：《2025-26经济调查》呼吁扩大零工与农村人口覆盖，指出NPS已有21.17亿订阅者、资产规模16.1万亿卢比（2025年12月31日），政府支持的统一养老金计划（UPS）于2025年推出。《社会保障法2020》更充分生效（2025年11月），将平台工人纳入社会保障基金；Zomato与HDFC养老金合作试点面向配送员的NPS模式（72小时内逾3万生成PRAN）。自2025年10月1日起，非政府NPS订阅者可最高100%投资股票。"
   },
   "BD": {
     "eligibility": "The Universal Pension Scheme (UPS, launched Aug 2023) pays a monthly pension from age 60 after at least 10 years of contribution, with a lump-sum gratuity option. Four schemes cover private employees (Progoti), self-employed (Surokkha), expatriates (Probash), and the poor (Samata).",
@@ -239,8 +239,8 @@ const PENSION_EXTRA = {
     "eligibility_zh": "BPJS Ketenagakerjaan的养老金保险（JP）自59岁给付（2025年1月由58岁提高；预计2043年达65岁）。通常需缴费15年方可领月年金；较短年资给一次性。公务员年金（Taspen）及新兴强制第二支柱另计。",
     "contrib": "Pension contribution is 3% of wages (employee 1% + employer 2%), with a monthly wage ceiling of IDR 10,547,400 (2025). The old-age savings (JHT) is separate. Coverage is mandatory for private employees; a voluntary scheme exists for the informal sector.",
     "contrib_zh": "养老金属工资3%（雇员1%+雇主2%），2025年月工资上限10,547,400印尼盾。老年储蓄（JHT）另计。私营雇员强制参保；非正规部门有自愿方案。",
-    "recent_reform": "From 1 January 2025 Indonesia raised the SSF pension age from 58 to 59 (per PP 45/2015), with the wage ceiling revised to IDR 10,547,400/month and minimum/maximum monthly benefits updated; the age will keep rising by 1 year every 3 years toward 65 in 2043.",
-    "recent_reform_zh": "2025年1月1日起印尼将社保养老金年龄由58岁提高至59岁（依PP 45/2015），缴费工资上限调为每月10,547,400印尼盾并调整最低及最高月给付；此后每三年提高1岁，2043年达65岁。"
+    "recent_reform": "Indonesia's pension age reached 59 on 1 Jan 2025 (per PP 45/2015) and stays there in 2026, with the next step toward 65 by 2043. For 2026 BPJS Ketenagakerjaan raised the contribution wage ceiling to IDR 11,086,300/month (from March 2026, reflecting 5.11% 2025 GDP growth) and set monthly benefits at IDR 411,400-4,932,300. The age is pension eligibility, not a forced retirement; a minimum 180 months (15 years) of contributions is needed for a monthly pension, otherwise a lump sum is paid.",
+    "recent_reform_zh": "印尼养老金年龄于2025年1月1日达59岁（依PP 45/2015），2026年维持不变，下一步于2043年前迈向65岁。2026年BPJS Ketenagakerjaan将缴费工资上限提高至每月11,086,300印尼盾（2026年3月起，反映2025年5.11%的GDP增长），月给付定为411,400-4,932,300印尼盾。该年龄仅为养老金领取资格而非强制退休；需最低180个月（15年）缴费方可领月年金，否则给一次性给付。"
   },
   "MY": {
     "eligibility": "The Employees Provident Fund (EPF/KWSP) is accessible at age 55 (statutory minimum retirement age 60). Members may withdraw at 55; a proposed monthly pension-style payout structure (under the 13th Malaysia Plan) will apply to new members, splitting savings into flexible and lifetime-income portions.",
@@ -303,8 +303,8 @@ const PENSION_EXTRA = {
     "eligibility_zh": "正常退休年龄为67岁（老年养老金需至少15年缴费，满62岁且缴费40年可领全额养老金）。自2022年起提前退休基本取消。2024年起，退休后工作者可保留全额养老金，并可因退休后缴费获得永久性增额（第5078/2023号法）。基于预期寿命，2027年起可能进一步提高退休年龄，目前仍在评估。",
     "contrib": "Earnings-related PAYG system (EFKA): 20% total (6.67% employee + 13.33% employer). A supplementary pension (ETEAEP) adds 6.5%. A basic/national pension requires 20+ years of contributions. There is no separate funded (DC) second pillar; voluntary private pensions are marginal.",
     "contrib_zh": "收入关联的现收现付体系（EFKA）：合计20%（雇员6.67%+雇主13.33%）。补充养老金（ETEAEP）另加6.5%。基础/国家养老金需20年以上缴费。无独立的积累型（DC）第二支柱，自愿私人养老金占比很小。",
-    "recent_reform": "Law 5078/2023 (effective Jan 2024) ended the 30% pension cut for working pensioners, letting retirees work without penalty and earn a permanent pension increase from further contributions. A 2025-26 surge in retirement applications is driven by fears of an age-limit rise from 2027.",
-    "recent_reform_zh": "第5078/2023号法（2024年1月生效）取消了在职退休人员的30%养老金扣减，允许退休人员无罚工作并因继续缴费获得永久性养老金增额。因担忧2027年起退休年龄提高，2025-26年出现退休申请激增。"
+    "recent_reform": "Law 5078/2023 (effective Jan 2024) ended the 30% pension cut for working pensioners. A 2025-26 surge in retirement applications is driven by fears of an age-limit rise: Greece plans to link retirement age limits to life expectancy from 2027, raising them by about 1.5-2 years (to ~63.5 with 40 years of service, 68.5 for a full pension), with the government to decide by end-2026 (OECD favours 1:1). From 2026 the pension formula factors the wage-change index rather than average inflation.",
+    "recent_reform_zh": "第5078/2023号法（2024年1月生效）取消了在职退休人员的30%养老金扣减。因担忧年龄上限提高，2025-26年退休申请激增：希腊计划自2027年起将退休年龄上限与预期寿命挂钩，提高约1.5-2岁（缴满40年者约63.5岁、全额养老金约68.5岁），政府将于2026年底前决定（OECD倾向1:1）。自2026年起养老金计算公式改采工资变动指数而非平均通胀。"
   },
   "CY": {
     "eligibility": "Statutory pensionable age is 65; early retirement is possible at 63 with a 12% actuarial penalty, requiring at least 13 years (520 weeks) of social insurance contributions (780 weeks for the 63 option). A lump-sum payout is available at 68 for those short of contributions. A 2025 reform sets a firm pensionable age of 65 for future state officials (from June 2026).",
@@ -375,16 +375,16 @@ const PENSION_EXTRA = {
     "eligibility_zh": "正常退休年龄65岁，缴满20年可领全额养老金；'Nők 40'计划允许缴满40年（含育儿）的女性在任何年龄退休。60岁且缴满40年可提前退休（永久性减额）。2023-26年未实施重大提龄措施。",
     "contrib": "PAYG state pension (ONYF/MÁK): earnings-based, about 18-34% (employee+employer). The 13th-month pension is paid each February. Voluntary funds (ÖNYP, Pillar III) are tax-advantaged (deduction up to HUF 750,000/year).",
     "contrib_zh": "现收现付国家养老金（ONYF/MÁK）：收入关联，约18-34%（雇员+雇主）。每年2月发放第13个月养老金。自愿基金（ÖNYP，第三支柱）享税收优惠（扣除最高每年750,000福林）。",
-    "recent_reform": "The 13th-month pension, reinstated in 2019, remains firmly in place and was paid again in Feb 2025 and 2026; the OECD has urged curbing it but the government rejected the advice. No retirement-age increase was enacted in 2023-2026.",
-    "recent_reform_zh": "2019年恢复的第13个月养老金继续稳固实施，并于2025及2026年2月再次发放；OECD建议削减但政府拒绝。2023-2026年未实施提高退休年龄的措施。"
+    "recent_reform": "From 1 January 2026 reaching age 65 is no longer an automatic retirement trigger - workers may choose when to exit the labour market (the 'Nok 40' women's scheme is unchanged). From June 2026 the widow's pension extends to separated spouses and pensioners can receive their pension without ending employment. The 13th-month pension, reinstated in 2019, continues but is recalculated under new rules with the first payment under the new formula in 2027; the OECD has urged curbing it but the government rejected the advice.",
+    "recent_reform_zh": "自2026年1月1日起，年满65岁不再是自动退休触发点——劳动者可自行决定退出劳动力市场（“女性40年”计划不变）。2026年6月起，遗孀养老金扩展至分居配偶，且养老金领取者可在不终止雇佣的情况下领取。2019年恢复的第13个月养老金继续发放，但按新规重新计算、2027年首次按新公式支付；OECD建议削减但政府拒绝。"
   },
   "HR": {
     "eligibility": "Statutory age 65 (men) / 63y9m (women, rising to 65 by 2030); workers with 41 years of contributions can retire at 60. A new 2025 Pension Insurance Act abolishes early-retirement penalties for those turning 70 (from Jan 2026) and lets pensioners work full-time while receiving 50% of their pension.",
     "eligibility_zh": "法定年龄：男性65岁/女性63岁9个月（2030年升至65岁）；缴满41年者可在60岁退休。2025年新《养老保险法》取消年满70岁者的提前退休罚金（自2026年1月），并允许退休人员全职工作同时领取50%养老金。",
     "contrib": "Three-pillar: Pillar I PAYG 15% (employer+employee) DB; Pillar II mandatory DC 5% of gross salary; Pillar III voluntary with a 15% state incentive (max EUR 99.54/year per member, paid on 2024 contributions).",
     "contrib_zh": "三支柱：第一支柱现收现付15%（雇主+雇员）DB；第二支柱强制性DC为工资5%；第三支柱自愿，国家给予15%激励（每名成员每年最高99.54欧元，基于2024年缴款支付）。",
-    "recent_reform": "In June 2025 the Sabor adopted a new Pension Insurance Act (effective 1 July) introducing a permanent annual 13th-pension bonus tied to years of service, a more favourable adjustment formula, higher minimum/disability pensions, and abolition of early-retirement penalties at age 70 from 2026.",
-    "recent_reform_zh": "2025年6月，议会（Sabor）通过新《养老保险法》（7月1日生效），引入与工龄挂钩的永久性年度第13月养老金奖金、更有利的调整公式、提高最低/残疾养老金，并自2026年起取消70岁者的提前退休罚金。"
+    "recent_reform": "The June 2025 Pension Insurance Act (effective 1 July) introduced a permanent annual '13th pension' (EUR 6 per year of service, average about EUR 171, first paid Dec 2025), a more favourable adjustment formula, higher minimum/disability pensions, and abolition of early-retirement penalties at age 70 from Jan 2026. From Jan 2026 women's retirement age rose to 64 (three months a year to 65 by 2030) and pensioners may work full-time at 50% of their pension. Parliament also plans to abolish the pension tax from 2027.",
+    "recent_reform_zh": "2025年6月《养老保险法》（7月1日生效）引入永久性年度“第13月养老金”（每年工龄6欧元，平均约171欧元，2025年12月首次发放）、更有利的调整公式、提高最低/残疾养老金，并自2026年1月取消70岁者提前退休罚金。自2026年1月女性退休年龄升至64岁（每年3个月、2030年前达65岁），退休人员可全职工作并领取50%养老金。议会还计划自2027年起废除养老金税。"
   },
   "RS": {
     "eligibility": "Men retire at 65, women at 63y10m in 2025, rising by 2 months/year to 65 by 2032 (15 years of contributions). 45 years of contributions qualifies regardless of age. Early retirement at 60 with 40 years (permanently reduced up to 20.4%).",
@@ -519,32 +519,32 @@ const PENSION_EXTRA = {
     "eligibility_zh": "国家养老金领取年龄男女均为66岁，2026-2028年间升至67岁、2040年代后期达68岁。缴满35年可获全额新国家养老金，至少10年方可申领。",
     "contrib": "Auto-enrolment requires 8% of qualifying earnings (employee 5% incl. tax relief, employer 3%) into a workplace pension. The State Pension is funded from general taxation (NICs).",
     "contrib_zh": "自动加入制度要求按合格收入的8%缴入职业养老金（雇员5%含税收抵扣、雇主3%）。国家养老金由一般税收（国民保险税）筹资。",
-    "recent_reform": "The Triple Lock lifted the State Pension by 4.8% in April 2025 (to £230.25/week). The pension age rises to 67 from 2026, and a review of auto-enrolment (lower threshold, lower age) is underway.",
-    "recent_reform_zh": "“三重锁定”机制使国家养老金于2025年4月上涨4.8%（达每周230.25英镑）。领取年龄自2026年起升至67岁，并正审议自动加入制度的改革（降低门槛与年龄）。"
+    "recent_reform": "The Triple Lock lifted the State Pension by 4.8% in April 2026 to £241.30/week (the 2025 rise was 4.8% to £230.25). The Autumn Budget 2025 launched a new Pensions Commission and the third independent State Pension age review; the pension age still rises to 67 from 2026-28. With the personal allowance frozen at £12,570, analysts warn more pensioners will be pulled into income tax from 2027/28.",
+    "recent_reform_zh": "“三重锁定”机制于2026年4月将国家养老金提高4.8%至每周241.30英镑（2025年为4.8%至230.25英镑）。2025年秋季预算新设养老金委员会并启动第三次国家养老金领取年龄独立审查；领取年龄仍于2026-28年升至67岁。由于个人免税额冻结在12,570英镑，分析人士警告更多养老金领取者自2027/28年将步入所得税范围。"
   },
   "IE": {
     "eligibility": "The State Pension (Contributory) age is 66. A 2025 law deferred a planned rise to 67/68. Voluntary auto-enrolment starts at 23-60 without a pension.",
     "eligibility_zh": "缴费型国家养老金领取年龄为66岁。2025年立法推迟了原计划的67/68岁上调。面向无养老金者的自动加入制度覆盖23-60岁人群。",
     "contrib": "The State Pension is pay-as-you-go from PRSI (employee 4%, employer ~11.05%). Auto-enrolment 'My Future Fund' contributes 1.5% (rising to 6% by 2034) matched by employer and state.",
     "contrib_zh": "国家养老金由PRSI现收现付筹资（雇员4%、雇主约11.05%）。自动加入“我的未来基金”缴1.5%（2034年前升至6%），由雇主与政府配套。",
-    "recent_reform": "Auto-enrolment 'My Future Fund' launched in September 2025, with contributions starting January 2026 (1.5% rising to 6% by 2034, matched by employer and a state top-up). The pension age stays at 66.",
-    "recent_reform_zh": "自动加入“我的未来基金”于2025年9月启动，缴费自2026年1月开始（1.5%，2034年前升至6%，由雇主与财政配套）。领取年龄维持66岁。"
+    "recent_reform": "Auto-enrolment 'My Future Fund' launched in September 2025, with contributions starting 1 January 2026; about 800,000 previously uncovered workers (aged 23-60, earning over EUR 20,000) were enrolled, and over 77,000 employers had registered by December 2025. Every EUR 3 saved becomes EUR 7 with the employer match and state top-up. A statutory instrument sets exemption standards (DC schemes need >=3.5% total). The pension age stays at 66.",
+    "recent_reform_zh": "自动加入“我的未来基金”于2025年9月启动，缴费自2026年1月1日开始；约80万名此前无养老金的劳动者（23-60岁、年收入超2万欧元）被纳入，截至2025年12月已有逾7.7万家雇主注册。每存入3欧元，在雇主与财政配套下变为7欧元。法定文书设定豁免标准（DC职业年金总缴费需≥3.5%）。领取年龄维持66岁。"
   },
   "IS": {
     "eligibility": "The statutory pension age is 67. An early draw is possible from 65 with reduction; the earnings-related and residence-based basic pension combine.",
     "eligibility_zh": "法定养老金领取年龄为67岁。65岁起可减额提前领取；与收入挂钩部分和与居住相关的基残部分相结合。",
     "contrib": "The mandatory occupational scheme is 12% of pay (4% employee + 8% employer) plus a 4% public pension contribution. A voluntary 2% top-up exists.",
     "contrib_zh": "强制性职业年金按薪酬12%缴费（雇员4%+雇主8%），外加4%的公共养老金缴费；另有自愿2%补充。",
-    "recent_reform": "From 1 September 2025 social-security changes adjusted disability and related benefits; the pension age remains 67. OECD noted Iceland's system is well-funded with high coverage.",
-    "recent_reform_zh": "自2025年9月1日起社会保障改革调整了残障等相关待遇；领取年龄维持67岁。OECD指出冰岛体系资金充裕、覆盖率极高。"
+    "recent_reform": "From 1 September 2025 social-security changes adjusted disability and related benefits; the pension age remains 67. In 2026 the state pension's annual tax-free allowance rose to ISK 523,896 and the mandatory occupational contribution stayed 15.5% (employee 4% + employer 11.5%). The National Association of Pension Funds urged parliament in 2026 to switch investment rules from quantitative limits to a risk-based prudential principle. Total pension assets were about ISK 8,878bn (~190% of GDP) at end-2025.",
+    "recent_reform_zh": "自2025年9月1日起社会保障改革调整了残障等相关待遇；领取年龄维持67岁。2026年国家养老金年度免税额度提高至523,896冰岛克朗，强制性职业缴费维持15.5%（雇员4%+雇主11.5%）。2026年养老金基金协会敦促议会将投资规则由数量限制转向基于风险的审慎原则。2025年底养老资产约8,878亿克朗（约GDP的190%）。"
   },
   "IT": {
     "eligibility": "The old-age pension age is 67 (for the contributory scheme, rising with life expectancy). Early 'anticipata' requires 42 years 10 months (men) / 41 years 10 months (women) of contributions.",
     "eligibility_zh": "老年养老金年龄为67岁（缴费型，随预期寿命调整）。提前退休“anticipata”需男性缴满42年10个月、女性41年10个月。",
     "contrib": "The NDC notional-defined-contribution scheme is about 33% of payroll (employer ~23.8%, employee ~9.2%). A minimum 20 contribution years is needed for the seniority pension.",
     "contrib_zh": "名义缴费确定型（NDC）制度约按工资33%缴费（雇主约23.8%、雇员约9.2%）。工龄养老金至少需缴满20年。",
-    "recent_reform": "The 2025 budget confirmed 'Quota 103' (age 62 + 41 years) for 2025; the standard old-age age stays 67. A gradual move toward a contribution-based minimum pension continues.",
-    "recent_reform_zh": "2025年预算确认“配额103”（62岁+缴费41年）适用于2025年；标准老年年龄维持67岁。逐步转向基于缴费的最低养老金仍在推进。"
+    "recent_reform": "The 2026 Budget (approved 30 Dec 2025) ends 'Quota 103' and 'Opzione Donna' for new claimants (rights kept only if qualified by 31 Dec 2025) and extends APE Sociale to 31 Dec 2026; standard ages stay 67 / 42y10m-41y10m. From 1 Jan 2027 automatic life-expectancy indexation resumes (old-age 67y1m in 2027, 67y3m in 2028) and minimum pensions rise about EUR 20/month for over-70s/disabled. From July 2026 new hires see TFR silently assigned to complementary pension funds unless they opt out.",
+    "recent_reform_zh": "2026年预算（2025年12月30日通过）不再受理新的“配额103”与“女性选项”提前退休（仅2025年12月31日前达标者保留权利），并将社会提前退休（APE Sociale）延长至2026年12月31日；标准年龄维持67岁/男42年10个月、女41年10个月。自2027年1月1日起恢复与预期寿命挂钩的自动调整（2027年老年67岁1个月、2028年67岁3个月），最低养老金为70岁以上及残障者每月约增20欧元。2026年7月起新雇员若未反对，离职金（TFR）将自动归入补充养老金基金。"
   },
   "LU": {
     "eligibility": "The statutory retirement age is 65. Early retirement from 57 (long career) to 64 is possible with actuarial reduction; a full pension needs 40 years of contributions.",
@@ -615,8 +615,8 @@ const PENSION_EXTRA = {
     "eligibility_zh": "男性正常退休年龄67岁；女性从62岁逐步提高到65岁（2022-24年每年4个月，2025-32年每年3个月）。Bituach Leumi国家养老金基于居住地，需近10年内60个月或累计144个月缴费。自2008年起强制基金制养老金要求18.5%总缴费，构成第二支柱。",
     "contrib": "Mandatory pension: 18.5% of gross salary (6% employee + 6.5% employer + 6% employer severance into a redemption fund), up to a ceiling of ILS 50,695/month (2025). Employee contributions get a 35% tax credit; employer contributions are tax-free up to the cap. Bituach Leumi (National Insurance) also funds the residency-based old-age pension.",
     "contrib_zh": "强制养老金：工资的18.5%（雇员6%+雇主6.5%+雇主6%遣散费入赎回基金），2025年上限为月薪50,695谢克尔。雇员缴费享35%税收抵免；雇主缴费在限额内免税。Bituach Leumi（国家保险）另资助基于居住地的国家养老金。",
-    "recent_reform": "Women's retirement age continued its legislated rise toward 65 in 2025 (reaching about 63 years). Separately, a January 2025 law raised Bituach Leumi (National Insurance) contributions by 1.6% to help cover war costs, and the 2025 budget plans to lift civil-service unfunded-pension contributions from 2% to 7%.",
-    "recent_reform_zh": "2025年女性退休年龄继续依法向65岁提升（约达63岁）。此外，2025年1月法律将Bituach Leumi（国家保险）缴费提高1.6%以弥补战争开支；2025年预算拟将公务员非积累型养老金缴费从2%提至7%。"
+    "recent_reform": "Women's retirement age continued its legislated rise toward 65 (a woman born in 1964 retires at 63y6m; those born 1970+ at 65), three months per year through 2032; men stay at 67. From 2026, 57.5% of a qualifying pension is income-tax-free (rising to 67% by 2028). A January 2025 law raised Bituach Leumi contributions by 1.6%, VAT rose to 18% in Jan 2025, and the 2025 budget lifted civil-service unfunded-pension contributions from 2% to 7%. The Finance Ministry is reviewing the 18.5% mandatory rate but no change has passed.",
+    "recent_reform_zh": "女性退休年龄继续依法向65岁提升（1964年出生者63岁6个月、1970年及以后出生者65岁），每年3个月直至2032年；男性维持67岁。2026年起合格养老金的57.5%免所得税（2028年前升至67%）。2025年1月法律将Bituach Leumi缴费提高1.6%，增值税于2025年1月升至18%，2025年预算将公务员非积累型养老金缴费从2%提至7%。财政部正审视18.5%强制费率，但尚无立法变更。"
   },
   "KW": {
     "eligibility": "Under PIFSS, the normal pension age is 55 for both men and women; early retirement is possible from age 50 with a penalty, and a 2024 early-retirement law grants a full pension to men with 30 years and women with 25 years of service regardless of age. A full pension needs 15 years of contributions (65% of final salary), rising to 95% after 30 years. Expats receive only end-of-service indemnity.",
