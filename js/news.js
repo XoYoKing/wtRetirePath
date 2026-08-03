@@ -1832,6 +1832,20 @@ const NEWS = {
       "source": "Trading Economics (Ministry data)",
       "pubDate": "2025-12-01",
       "summary": "Mongolia's retirement age remained 60 for men and 55 for women in 2025, with a legislated gradual rise toward 65 (men by 2042, women by 2067) under the 2023 reform."
+    },
+        {
+      "title": "Mongolia launches semi-funded pension system, MNT 214.8 billion already saved",
+      "url": "https://mlsp.gov.mn/eng/content/detail/1932",
+      "source": "Ministry of Family, Labour and Social Protection",
+      "pubDate": "2026-02-01",
+      "summary": "Under the 2024 Social Insurance package, every insured person has been assigned a semi-funded personal pension account under the 'My Pension Savings' initiative, with MNT 214.8 billion already accumulated; the Social Insurance Fund also placed MNT 700 billion in time deposits for added interest income."
+    },
+    {
+      "title": "Mongolia allocates MNT 516 billion for 2026 pension increases",
+      "url": "https://www.montsame.mn/jp/read/386839",
+      "source": "MONTSAME",
+      "pubDate": "2026-01-01",
+      "summary": "A government resolution raised pension levels for 2026, setting the minimum full pension and military pension from the Social Insurance Fund at MNT 769,000 and the minimum proportional pension at MNT 652,400, with MNT 516 billion earmarked for the increases."
     }
   ],
   "MT": [
@@ -1855,6 +1869,20 @@ const NEWS = {
       "source": "The Malta Independent",
       "pubDate": "2024-12-01",
       "summary": "The Pensions Strategy Group clarified a budget measure extends the contributory period to 42 years only for those born 1976+, with no change to the statutory retirement age."
+    },
+        {
+      "title": "Malta 2026 Budget removes employment rule for 10-year pension contributions; extends child credits",
+      "url": "https://socialsecurity.gov.mt/information-and-applications-for-benefits-and-services/contributory-pensions/retirement-pension/pensions-information/",
+      "source": "Department of Social Security (Malta)",
+      "pubDate": "2026-01-01",
+      "summary": "A 2026 Budget measure means being employed is no longer required when paying Social Security contributions solely to meet the 10-year eligibility threshold for a retirement pension; child-rearing credits were also extended to the child's 10th year for the first three children."
+    },
+    {
+      "title": "Malta reports falling pension spend as more workers delay retirement",
+      "url": "https://www.maltatoday.com.mt/news/national/127637/more_people_working_delayed_retirement_eased_benefits_spend",
+      "source": "MaltaToday",
+      "pubDate": "2026-03-01",
+      "summary": "Central Bank of Malta data shows social benefits and pensions fell from 30% of government spending in 2013 to 21.7% by 2022, with pension expenditure set to ease further as the final mandated retirement-age rise to 65 takes effect in 2026."
     }
   ],
   "MX": [
@@ -1878,6 +1906,20 @@ const NEWS = {
       "source": "CONSAR (pension regulator)",
       "pubDate": "2025-01-01",
       "summary": "Mexico's pension regulator CONSAR continues to enforce the 0.55% commission cap for 2025 and has widened investment limits (structured instruments raised to 30% of assets), supporting the ongoing implementation of the 2020 retirement-savings reform."
+    },
+        {
+      "title": "Mexico AFORE assets reach 23.8% of GDP at close of 2025",
+      "url": "https://www.pensionpolicyinternational.com/oecd-mexicos-pension-system-remains-a-work-in-progress",
+      "source": "Pension Policy International / OECD",
+      "pubDate": "2026-07-22",
+      "summary": "At the FIAP-WPA seminar, the OECD noted AFORE assets reached MX$8.3 trillion (US$488 billion), or 23.8% of GDP, at the end of 2025, up from 20.3% a year earlier, as the 2020 reform's contribution hikes and commission cap lifted coverage and returns."
+    },
+    {
+      "title": "Mexico's mandatory pension contribution rate climbs to 10.5% in 2026",
+      "url": "https://investmentkit.com/guides/mexico/social-contributions-guide",
+      "source": "InvestmentKit (IMSS/SAT data)",
+      "pubDate": "2026-01-01",
+      "summary": "Under the phased 2020 reform, total employer-plus-worker AFORE contributions rose from 8.5% of salary in 2024 to 9.5% in 2025 and reached 10.5% in 2026 on a path to 15% by the early 2030s, steadily lifting replacement rates for future retirees."
     }
   ],
   "MY": [
@@ -1901,6 +1943,20 @@ const NEWS = {
       "source": "EPF / KWSP",
       "pubDate": "2024-05-12",
       "summary": "EPF's account restructuring (launched 12 May 2024) separates savings into Akaun Persaraan, Akaun Sejahtera and Akaun Fleksibel, giving members flexible access while protecting core retirement savings."
+    },
+        {
+      "title": "Budget 2026: EPF extends i-Saraan and i-Suri, launches i-Saraan Plus for gig workers",
+      "url": "https://www.kwsp.gov.my/en/w/list-news/budget-2026-drives-inclusive-growth-and-long-term-financial-security-for-malaysians",
+      "source": "EPF / KWSP",
+      "pubDate": "2025-10-10",
+      "summary": "Budget 2026 extends the i-Saraan voluntary scheme with a 20% matching incentive (cap RM500/year) and introduces i-Saraan Plus for e-hailing and p-hailing drivers (up to RM600/year), while the i-Suri homemaker incentive is extended with eligibility raised to age 60."
+    },
+    {
+      "title": "EPF 2026 enhancements: Hajj withdrawal limit raised to RM10,000, RIA tiers take effect",
+      "url": "https://www.kwsp.gov.my/en/w/news/epf-policy-product-enhancements-2026",
+      "source": "EPF / KWSP",
+      "pubDate": "2025-12-31",
+      "summary": "From 1 January 2026 EPF raised the Hajj withdrawal limit from Akaun Sejahtera to RM10,000, aligned the >RM1 million withdrawal policy with the RIA Framework (Basic RM390k, Adequate RM650k, Enhanced RM1.3m), and rolled out i-Simpan and i-Topup voluntary options."
     }
   ],
   "NG": [
@@ -1924,6 +1980,20 @@ const NEWS = {
       "source": "National Pension Commission (PenCom)",
       "pubDate": "2025-06-01",
       "summary": "PenCom's official portal details the 2025 reforms: monthly CPS pensions rose from NGN 8.3 billion to NGN 11.9 billion effective 1 June 2025, plus a gratuity scheme for federal civil servants and online enrolment from August 2025."
+    },
+        {
+      "title": "PenCom grants PFAs full authority to process retirement benefits from June 2025",
+      "url": "https://guardian.ng/features/dawn-of-a-new-era-for-cps-retirees-and-contributors/",
+      "source": "The Guardian (Nigeria)",
+      "pubDate": "2025-06-01",
+      "summary": "From 1 June 2025 Pension Fund Administrators gained full authority to process and approve retirement benefit payments (programmed withdrawal, temporary loss of employment, pension mortgages, voluntary contributions), ending the need for case-by-case PenCom approval and speeding payouts."
+    },
+    {
+      "title": "PenCom to pilot PenCare healthcare for 30,000 low-income retirees from March 2026",
+      "url": "https://anchornews.ng/pencom-warns-pension-defaulters-announces-healthcare-scheme-for-30000-low-income-retirees",
+      "source": "AnchorNews",
+      "pubDate": "2025-11-15",
+      "summary": "As part of Pension Revolution 2.0, PenCom will launch the PenCare healthcare initiative in March 2026 targeting at least 30,000 low-income CPS retirees, alongside a new CRM system letting retirees log complaints directly against PFAs."
     }
   ],
   "NL": [
@@ -1947,6 +2017,20 @@ const NEWS = {
       "source": "SVB",
       "pubDate": "2025-04-01",
       "summary": "The AOW (state pension) age remains at 67 years for 2025-2028, with the life expectancy linkage under political review. Flexible AOW options allowing partial pension drawdown from 65 have been proposed."
+    },
+        {
+      "title": "Major Dutch pension funds transition to new DC system on 1 January 2026",
+      "url": "https://www.abnamro.nl/nl/prive/speciaal-voor/preferred-banking/smart/invaren-pensioen.html",
+      "source": "ABN AMRO",
+      "pubDate": "2026-01-15",
+      "summary": "A group of 24 larger funds including Zorg en Welzijn, Bouw and PMT switched to the new defined-contribution system on 1 January 2026; early experience shows pensions converted under 'invaren' rose by an average of about 14%."
+    },
+    {
+      "title": "1 January 2027 set as hard deadline for all Dutch pension schemes to comply",
+      "url": "https://www2.deloitte.com/nl/en/services/consulting-financial/perspectives/de-termijnen-en-deadlines-van-de-wet-toekomst-pensioenen-op-een-rij.html",
+      "source": "Deloitte (Netherlands)",
+      "pubDate": "2026-01-01",
+      "summary": "Under the Future Pensions Act, 1 January 2027 is a hard deadline: all pension schemes must have switched to the new rules or face negative fiscal consequences; employers with average-pay schemes may use transitional law for existing staff."
     }
   ],
   "NO": [
@@ -1963,6 +2047,20 @@ const NEWS = {
       "source": "Regjeringen (Norwegian Government)",
       "pubDate": "2025-02",
       "summary": "The Norwegian government reaffirmed the flexible retirement model (62-75) within the National Insurance (Folketrygden) scheme, funded by an 18.1% payroll contribution plus general tax."
+    },
+        {
+      "title": "Norway raises state-sector retirement age to 72 from 1 January 2026",
+      "url": "https://www.spk.no/en/news/2025/more-people-will-be-able-to-work-until-the-age-of-72",
+      "source": "Norwegian Public Service Pension Fund (SPK)",
+      "pubDate": "2025-12-01",
+      "summary": "From 1 January 2026 the mandatory retirement age in the state sector rose from 70 to 72, creating a common upper working age across state, municipal and private sectors; the change is designed not to lower anyone's pension."
+    },
+    {
+      "title": "NAV updates Norwegian pension rates from 1 May 2026",
+      "url": "https://www.nav.no/alderspensjon/en",
+      "source": "Norwegian Labour and Welfare Administration (NAV)",
+      "pubDate": "2026-05-01",
+      "summary": "From 1 May 2026 the National Insurance basic amount (1G) rose to NOK 136,549, lifting guaranteed-pension rates; a single pensioner's special rate reached about NOK 261,642 per year for those with full insurance coverage."
     }
   ],
   "NP": [
@@ -1986,6 +2084,20 @@ const NEWS = {
       "source": "MeroCompany",
       "pubDate": "2025-06-15",
       "summary": "Nepal's SSF is enforcing compliance for business registration renewals; informal, self-employed and migrant workers are increasingly enrolling, with a 15-year minimum for the old-age pension."
+    },
+        {
+      "title": "Nepal extends Social Security Scheme to temporary and contractual government employees",
+      "url": "https://www.fiscalnepal.com/?p=20173",
+      "source": "FiscalNepal",
+      "pubDate": "2025-04-14",
+      "summary": "Effective from Nepali New Year 2082 (14 April 2025), temporary and contractual employees in government bodies, corporations and public enterprises became eligible to enroll in the Social Security Fund, broadening access to pensions, medical and maternity cover."
+    },
+    {
+      "title": "Nepal's Social Security Fund surpasses 3 million contributors",
+      "url": "https://bankingnews.com.np/2026/07/4822",
+      "source": "Banking News (Nepal)",
+      "pubDate": "2026-07-01",
+      "summary": "By mid-July 2026 the SSF reported over 3.04 million contributors and more than Rs 116.7 billion in accumulated contributions after including Nepali migrant workers, with Rs 17.06 billion paid under the retirement benefit scheme."
     }
   ],
   "NZ": [
@@ -2009,6 +2121,20 @@ const NEWS = {
       "source": "Commission for Financial Capability",
       "pubDate": "2025-10-10",
       "summary": "The Retirement Commission's advice emphasizes that NZ Super is fiscally sustainable for now but recommends ongoing monitoring as the old-age dependency ratio rises through the 2030s."
+    },
+        {
+      "title": "Budget 2025 reshapes KiwiSaver: default rate to 3.5% in 2026, 4% in 2028",
+      "url": "https://assets.retirement.govt.nz/public/Uploads/Retirement-Income-Policy-Review/2025-RRIP/Review-of-Retirement-Income-Policies-2025_WEB.pdf",
+      "source": "Retirement Commission (New Zealand)",
+      "pubDate": "2025-07-01",
+      "summary": "Budget 2025 lifts the default KiwiSaver employee and employer contribution rate from 3% to 3.5% from 1 April 2026 and to 4% from 1 April 2028, while cutting the government contribution to 25 cents per dollar (cap $260.72) from 1 July 2025."
+    },
+    {
+      "title": "NZ Super rates rise from 1 April 2026 as residency rule tightens",
+      "url": "https://www.smiths.net.nz/insights/when-can-i-retire-nz-2026",
+      "source": "Smiths Partners / retirement.govt.nz",
+      "pubDate": "2026-04-01",
+      "summary": "From 1 April 2026 after-tax NZ Super rates rose (a single person living alone gets about $555/week), while the residency requirement is stepping up from 10 to 20 years (5 years after age 50) by July 2042."
     }
   ],
   "OM": [
@@ -2032,6 +2158,20 @@ const NEWS = {
       "source": "Oman Observer",
       "pubDate": "2024-06-23",
       "summary": "The Social Protection Fund clarified that the old-age pension is paid only after employment ends, not alongside salary; eligibility criteria and calculation methods were otherwise unchanged."
+    },
+        {
+      "title": "Oman delays expat provident fund to July 2027 under Royal Decree 60/2025",
+      "url": "https://omanet.om/news/en/unlocking-financial-security-expat-savings-and-provident-fund-explained-until-july-2027",
+      "source": "Omanet",
+      "pubDate": "2025-09-01",
+      "summary": "Royal Decree 60/2025 revised the Social Protection Law rollout, delaying the mandatory expatriate savings/provident fund (replacing end-of-service gratuity, 9% employer contribution) from 2026 to 19 July 2027, giving employers more time to plan."
+    },
+    {
+      "title": "ILO and Oman launch joint report on lifecycle social protection",
+      "url": "https://www.ilo.org/resource/news/oman-advances-new-regional-model-rights-based-social-protection",
+      "source": "ILO",
+      "pubDate": "2026-05-04",
+      "summary": "At the 114th International Labour Conference, the ILO and Oman's Social Protection Fund launched a joint report documenting the unification of fragmented schemes into a lifecycle-based, multi-tiered system aligned with international labour standards."
     }
   ],
   "PE": [
@@ -2055,6 +2195,20 @@ const NEWS = {
       "source": "Pension Policy International",
       "pubDate": "2025-09-20",
       "summary": "Complementing the modernization law, Law 32445 (September 2025) authorized another extraordinary withdrawal from private AFP accounts, renewing debate over the long-term sustainability of individual pension savings in Peru."
+    },
+        {
+      "title": "Peru opens AFP extraordinary withdrawal of up to S/21,400 in four tranches",
+      "url": "https://agenciadenoticiasperu.com/afiliados-a-las-afp-ya-pueden-solicitar-el-retiro-de-hasta-s-21400-desde-hoy",
+      "source": "Agencia de Noticias Peru",
+      "pubDate": "2025-10-21",
+      "summary": "Under Law 32445, affiliates of the private pension system (SPP) could apply from 21 October 2025 to withdraw up to 4 UIT (about S/21,400) in four monthly tranches through February 2026, with the process fully digital and free of charge."
+    },
+    {
+      "title": "Peru weighs another extraordinary AFP withdrawal of up to S/22,000 in 2026",
+      "url": "https://www.pensionpolicyinternational.com/peru-retiro-afp-presentan-proyecto-de-ley-para-retiro-extraordinario-de-hasta-s-22-mil",
+      "source": "Pension Policy International",
+      "pubDate": "2026-06-01",
+      "summary": "A legislative bill proposed another facultative extraordinary withdrawal of up to S/22,000 (4 UIT) from individual AFP accounts in 2026, responding to household liquidity needs amid economic slowdown and political uncertainty."
     }
   ],
   "PH": [
@@ -2078,6 +2232,20 @@ const NEWS = {
       "source": "Department of Finance",
       "pubDate": "2025-09-15",
       "summary": "Alongside the pension hike, SSS launched the MySSS Card (replacing UMID) for faster benefit disbursement and the Alagang SSS Discount Card giving health discounts to members aged 60+."
+    },
+        {
+      "title": "SSS confirms 2026 pension tranche, no contribution hike through 2027",
+      "url": "https://www.balitangmarino.com/post/sss-announces-10-percent-pension-increase-no-contribution-hike",
+      "source": "Balitang Marino / ABS-CBN",
+      "pubDate": "2026-02-27",
+      "summary": "Finance Secretary Frederick Go confirmed retirement and disability pensions will rise another 10% in September 2026 (and 2027), survivor pensions 5% yearly, with no contribution increase through 2027 as SSS reserves hit a record 1 trillion pesos."
+    },
+    {
+      "title": "SSS to launch microloan program in 2026 to fight predatory lending",
+      "url": "https://www.balitangmarino.com/post/sss-announces-10-percent-pension-increase-no-contribution-hike",
+      "source": "Balitang Marino / ABS-CBN",
+      "pubDate": "2026-02-27",
+      "summary": "Buoyed by record net income (P142.9 billion in 2025), SSS will launch a microloan facility (P1,000-P20,000 at 8% per year) possibly in Q2 2026, aimed at countering predatory 'payday' lenders charging 12-15% monthly."
     }
   ],
   "PK": [
