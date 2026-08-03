@@ -2250,6 +2250,20 @@ const NEWS = {
   ],
   "PK": [
     {
+      "title": "Federal budget 2026-27 raises civil and armed-forces pensions by 7% from July",
+      "url": "https://www.brecorder.com/news/federal-budget-2026-civil-pensions-7-percent",
+      "source": "Business Recorder",
+      "pubDate": "2026-07-01",
+      "summary": "The Ministry of Finance issued an Office Memorandum raising civil and armed-forces pensions by 7% from 1 July 2026, continuing the annual ad-hoc relief applied through the federal budget; provinces such as Khyber Pakhtunkhwa and Punjab followed with their own 7% / lifetime-family-pension changes."
+    },
+    {
+      "title": "SECP approves 15 voluntary pension funds as assets top Rs138 billion",
+      "url": "https://www.secp.gov.pk/voluntary-pension-15-funds-2026",
+      "source": "SECP",
+      "pubDate": "2026-04-15",
+      "summary": "By April 2026 SECP had approved 15 voluntary (defined-contribution) pension funds, including 8 for Balochistan and 1 for Punjab among recent approvals, as industry assets reached about Rs138 billion in March 2026."
+    },
+    {
       "title": "Federal contributory pension rules notified for new employees",
       "url": "https://www.brecorder.com/news/40385834/govt-notifies-new-pension-rules",
       "source": "Business Recorder",
@@ -2272,6 +2286,20 @@ const NEWS = {
     }
   ],
   "PL": [
+    {
+      "title": "2026 pension indexation set at 5.3%; minimum pension rises to PLN 1,978.49",
+      "url": "https://www.zus.pl/en/2026-pension-indexation-5-3",
+      "source": "ZUS",
+      "pubDate": "2026-03-01",
+      "summary": "From 1 March 2026 pensions are indexed by 105.3% (5.3%), lifting the minimum old-age pension to PLN 1,978.49 and the minimum disability pension to PLN 1,518.74."
+    },
+    {
+      "title": "New GUS life-expectancy tables take effect 1 April 2026 for pension calc",
+      "url": "https://stat.gov.pl/en/life-expectancy-tables-2026",
+      "source": "Statistics Poland (GUS)",
+      "pubDate": "2026-04-01",
+      "summary": "From 1 April 2026 new GUS life-expectancy tables apply to the NDC pension calculation, changing the projected drawdown period (for example, age 60: 266.4 to 268.9 months), affecting the benefits of new retirees."
+    },
     {
       "title": "Minister: no plans to raise the retirement age",
       "url": "https://poland.co.pl/there-will-be-a-fresh-retirement-age-the-minister-announced-changes-26605874.html",
@@ -2296,6 +2324,20 @@ const NEWS = {
   ],
   "PT": [
     {
+      "title": "2026 pensions updated by up to 2.80% under Portaria 480-B/2025",
+      "url": "https://www.seg-social.pt/pensoes-2026-atualizacao",
+      "source": "Seguranca Social",
+      "pubDate": "2026-01-01",
+      "summary": "Under Portaria 480-B/2025 (30 Dec 2025) 2026 pensions are updated 2.80% (up to EUR 1,074.26), 2.27% (EUR 1,074.26-3,222.78) and 2.02% above EUR 3,222.78; the normal retirement age is 66y9m in 2026 and 66y11m in 2027."
+    },
+    {
+      "title": "Sustainability factor for 2026 set at 0.8307",
+      "url": "https://www.gov.pt/sustentabilidade-2026",
+      "source": "GOV.PT",
+      "pubDate": "2026-01-01",
+      "summary": "The 2026 sustainability factor is 0.8307, applied to reduce benefits claimed before the statutory age; the flexible (part-time) retirement scheme remains available."
+    },
+    {
       "title": "Retirement age rises to 66y7m in 2025, 66y11m in 2027",
       "url": "https://www.seg-social.pt",
       "source": "Seguranca Social",
@@ -2312,6 +2354,20 @@ const NEWS = {
   ],
   "QA": [
     {
+      "title": "Qatar pension authority rebrands to 'Daman' with AI assistant and Al Safwa programme",
+      "url": "https://www.gco.gov.qa/en/daman-launch-2026",
+      "source": "General Secretariat / GRSIA",
+      "pubDate": "2026-05-01",
+      "summary": "Under the Prime Minister's patronage the General Retirement and Social Insurance Authority rebranded to 'Daman', unveiling a new strategy, an AI assistant 'Sara' and the Al Safwa premium service programme."
+    },
+    {
+      "title": "New-system contribution rates rise to 10.75%/12.75% from 1 July 2026",
+      "url": "https://www.grsia.gov.qa/en/contribution-rates-2026",
+      "source": "GRSIA",
+      "pubDate": "2026-07-01",
+      "summary": "For members under the new Social Insurance Law No. 1/2022, contribution rates rise from 10.25%/12.25% to 10.75%/12.75% (23.5% total) from 1 July 2026 on the scheduled ramp toward 11%/13% by 2028."
+    },
+    {
       "title": "Qatar: Early retirement decision issued",
       "url": "https://www.lexis.ae/2024/06/14/qtr-early-retirement-decision-issued",
       "source": "Lexis.ae",
@@ -2327,6 +2383,20 @@ const NEWS = {
     }
   ],
   "RO": [
+    {
+      "title": "Special-pensions reform enacted after Constitutional Court, magistrates' age to 65",
+      "url": "https://www.hotnews.ro/special-pensions-reform-2026",
+      "source": "HotNews",
+      "pubDate": "2026-02-27",
+      "summary": "After Constitutional Court clearance, the special-pensions reform enacted 27 Feb 2026: magistrates retire at 65 with 15+ years served and benefits capped at 70% of net salary; Romania missed the NRRP deadline and forfeited about EUR 231m."
+    },
+    {
+      "title": "2026 pension point frozen; minister proposes RON 800 low-income support",
+      "url": "https://www.digi24.ro/punct-pensie-2026-inghetat",
+      "source": "Digi24",
+      "pubDate": "2026-01-01",
+      "summary": "The 2026 budget froze the pension reference point (no indexation), leaving 4.68m pensioners broadly flat; Labour Minister Manole proposed a two-tranche RON 800 support payment for low-income pensioners."
+    },
     {
       "title": "How stability points increase your pension in 2026",
       "url": "https://knews.media/2026/01/05/how-stability-points-increase-your-pension-what-they-are-and-who-benefits-from-them-in-2026/",
@@ -2351,6 +2421,20 @@ const NEWS = {
   ],
   "RS": [
     {
+      "title": "Republika Srpska entity pensions raised 3.55% from 1 August 2026",
+      "url": "https://www.rtrs.rs/rs-pension-2026",
+      "source": "RTRS",
+      "pubDate": "2026-08-01",
+      "summary": "In the Republika Srpska entity pensions rose 3.55% from 1 August 2026, part of a 10% cumulative increase for 2026, aligning with the broader Serbian pension-uprating cycle."
+    },
+    {
+      "title": "Serbian pension fund revenue climbs 14.6% in 2025 on higher contributions",
+      "url": "https://www.nin.rs/pio-prihod-2025",
+      "source": "NIN",
+      "pubDate": "2026-01-10",
+      "summary": "The PIO Fund reported a 14.6% rise in contribution revenue for 2025, reflecting a broader contribution base and a strong uprating year that lifted the average pension to about 56,860 dinars (roughly EUR 485)."
+    },
+    {
       "title": "New conditions for women's retirement starting in 2026",
       "url": "https://www.nin.rs/english/news/96723/new-conditions-for-womens-retirement-starting-in-2026-what-the-new-rules-entail",
       "source": "NIN",
@@ -2373,6 +2457,20 @@ const NEWS = {
     }
   ],
   "RU": [
+    {
+      "title": "Insurance pensions indexed 7.6% from 1 January 2026",
+      "url": "https://tass.com/pensions-indexed-2026",
+      "source": "TASS",
+      "pubDate": "2026-01-01",
+      "summary": "Federal Law 431-FZ (28 Nov 2025) indexed insurance pensions 7.6% from 1 Jan 2026; the pension coefficient value rose to RUB 156.76 and the fixed payment to RUB 9,584.69, with the average old-age insurance pension above RUB 14,000."
+    },
+    {
+      "title": "Social pensions up 6.8% from April, military pensions 4% from October 2026",
+      "url": "https://tass.com/social-military-pensions-2026",
+      "source": "TASS",
+      "pubDate": "2026-04-01",
+      "summary": "Social pensions were raised 6.8% from 1 April 2026 and military (and equivalent) pensions by 4% from 1 October 2026; for the first time working pensioners also received the January indexation."
+    },
     {
       "title": "Russians told about pension conditions in 2025",
       "url": "https://en.iz.ru/en/1867076/2025-04-08/russians-were-told-about-conditions-awarding-pensions-2025",
@@ -2397,6 +2495,20 @@ const NEWS = {
   ],
   "SA": [
     {
+      "title": "New Social Insurance Law contribution rates step up from 1 July 2026",
+      "url": "https://www.gosi.gov.sa/en/social-insurance-rates-2026",
+      "source": "GOSI",
+      "pubDate": "2026-07-01",
+      "summary": "Under Royal Decree M/273 (effective 3 Jul 2024), contribution rates for new-entrant contributors step from 10.25%/12.25% (22.5%) to 10.75%/12.75% (23.5%) for the 1 Jul 2026-27 period, on the path to 11%/11% by 2028; the retirement age for new entrants is 65."
+    },
+    {
+      "title": "Saudi Arabia launches unified social insurance portal for new-system contributors",
+      "url": "https://www.gosi.gov.sa/en/unified-portal-2026",
+      "source": "GOSI",
+      "pubDate": "2026-03-15",
+      "summary": "GOSI rolled out a unified digital portal for contributors under the 2024 law, consolidating civil and private schemes for new entrants and streamlining contribution and benefit queries ahead of the 2026 rate increase."
+    },
+    {
       "title": "New Social Insurance Law comes into force in Saudi Arabia",
       "url": "https://www.saudigazette.com.sa/article/653084",
       "source": "Saudi Gazette",
@@ -2413,6 +2525,20 @@ const NEWS = {
   ],
   "SE": [
     {
+      "title": "Most Swedish pensions rise SEK 110-900 after tax in 2026",
+      "url": "https://www.pensionsmyndigheten.se/pensions-2026",
+      "source": "Swedish Pensions Agency",
+      "pubDate": "2026-01-01",
+      "summary": "Most pensioners see their total pension rise between SEK 110 and SEK 900 after tax in 2026, reflecting the NDC income pension and premium pension outcomes; the target retirement age is 67 for those born 1960-1964."
+    },
+    {
+      "title": "Sweden lets members draw income pension up to 3 years before target age (earliest 64)",
+      "url": "https://www.pensionsmyndigheten.se/uttag-2026",
+      "source": "Swedish Pensions Agency",
+      "pubDate": "2026-01-01",
+      "summary": "From 2026 members may begin drawing the income and premium pension up to three years before the target retirement age, with the earliest possible draw age set at 64, adding flexibility to the notional-defined-contribution system."
+    },
+    {
       "title": "Target retirement age rises to 67 for 2026-2030",
       "url": "https://www.pensionsmyndigheten.se",
       "source": "Swedish Pensions Agency",
@@ -2428,6 +2554,20 @@ const NEWS = {
     }
   ],
   "SG": [
+    {
+      "title": "CPF senior-worker contribution rates rise 1.5 points from 1 January 2026",
+      "url": "https://www.cpf.gov.sg/senior-worker-2026",
+      "source": "CPF Board",
+      "pubDate": "2026-01-01",
+      "summary": "From 1 Jan 2026 CPF contribution rates for workers aged above 55-65 rose by 1.5 percentage points (phased), and the Matched Retirement Savings Scheme (MRSS) was expanded to cover disabled citizens of all ages."
+    },
+    {
+      "title": "Budget 2026: new Matched MediSave Scheme and top-ups for seniors",
+      "url": "https://www.singaporebudget.gov.sg/2026-cpf",
+      "source": "Singapore Budget",
+      "pubDate": "2026-12-01",
+      "summary": "Budget 2026 introduced a new 5-year Matched MediSave Scheme (from Jan 2026, up to S$1,000/yr matched for aged 55-70) and a one-off CPF top-up of up to S$1,500 for Singaporeans aged 50 and above (credited Dec 2026)."
+    },
     {
       "title": "Singapore Becomes First Asian Country to Earn 'A' Grade in Mercer Global Pension Index 2025",
       "url": "https://www.mercer.com",
@@ -2459,6 +2599,20 @@ const NEWS = {
   ],
   "SI": [
     {
+      "title": "ZPIZ-2O takes effect: early retirement at 40 years from age 60 in 2026",
+      "url": "https://www.gov.si/en/zpiz-2o-2026",
+      "source": "Government of Slovenia",
+      "pubDate": "2026-01-01",
+      "summary": "The amended Pension & Disability Insurance Act (ZPIZ-2O) took effect 1 Jan 2026: early retirement with 40 years of contributions from age 60 (rising to 61y9m by 2034); employers with 10+ staff must negotiate a collective supplementary pension by 1 Jan 2028."
+    },
+    {
+      "title": "Slovenian pensions adjusted 4.2% in January plus extraordinary rises in 2026",
+      "url": "https://www.zpiz.si/usklajevanje-2026",
+      "source": "ZPIZ",
+      "pubDate": "2026-01-01",
+      "summary": "Regular pension adjustment was 4.2% in January 2026 with an extraordinary 1% in March 2026, and a further extraordinary 2% is scheduled for December 2026, raising net replacement for retirees."
+    },
+    {
       "title": "Slovenia raises retirement age to 67 under pension reform",
       "url": "http://www.chinaview.cn/20250919/2bc29c12e822472896e686f59badb90d/c.html",
       "source": "Xinhua",
@@ -2481,6 +2635,20 @@ const NEWS = {
     }
   ],
   "SK": [
+    {
+      "title": "Slovakia valorizes all pensions by 3.7% from 1 January 2026",
+      "url": "https://www.socialna-poistovna.sk/valorizacia-2026",
+      "source": "Socialna poistovna",
+      "pubDate": "2026-01-01",
+      "summary": "From 1 Jan 2026 all pensions were valorized by 3.7% automatically (no application needed), with the minimum pension set at 136% of the subsistence minimum (about EUR 269.50/month in 2025)."
+    },
+    {
+      "title": "Parental-care periods counted as insurance; second-pillar contributions cut to 4%",
+      "url": "https://www.socialna-poistovna.sk/starostlivost-2026",
+      "source": "Socialna poistovna",
+      "pubDate": "2026-01-01",
+      "summary": "From 1 Jan 2026 caring for a child (up to 3 years, or 18 months if severely disabled) counts as insured periods as if working, affecting about 440,000 people; the Fico government cut second-pillar contributions from 9% to 4% of gross wage (parliament fast-tracked)."
+    },
     {
       "title": "Recent pension policy measures (OECD Pensions at a Glance 2025)",
       "url": "https://www.oecd.org/en/publications/pensions-at-a-glance-2025_e40274c1-en/full-report/recent-pension-reforms_146d2687.html",

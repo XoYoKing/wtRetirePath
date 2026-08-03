@@ -207,8 +207,8 @@ const PENSION_EXTRA = {
     "eligibility_zh": "新的联邦确定缴费养老金计划适用于2024年7月1日后入职的联邦雇员（文职；军队自2025年7月）。缴费满20年、60岁起给付；可一次性提取至多25%，余下转为月年金。现有人员保留旧制（非缴费型）。",
     "contrib": "Under the 2025 rules, civilian employees contribute 10% and the government (employer) 12% of pensionable pay (22% total), invested in a dedicated fund. The armed-forces contribution framework is still being finalized.",
     "contrib_zh": "依2025年规则，文职雇员缴10%、政府（雇主）缴12%（合计22%），投资于专门基金。军队缴费框架仍在制定中。",
-    "recent_reform": "On 27 August 2025 the federal government notified the Federal Government Defined Contribution Pension Fund Scheme Rules, 2024 (SRO 1728(I)/2025), shifting new federal hires from a non-contributory to a contributory DC model to curb soaring pension liabilities (over 10 trillion rupees).",
-    "recent_reform_zh": "2025年8月27日联邦政府颁布《联邦政府确定缴费养老金计划规则2024》（SRO 1728(I)/2025），将新进联邦雇员由非缴费型转为缴费型DC制度，以抑制飙升至逾10万亿卢比的养老金负债。"
+    "recent_reform": "On 27 August 2025 the federal government notified the Federal Government Defined Contribution Pension Fund Scheme Rules, 2024 (SRO 1728(I)/2025), shifting new federal hires from a non-contributory to a contributory DC model to curb soaring pension liabilities (over 10 trillion rupees). In the 2026-27 budget the federal government raised civil and armed-forces pensions by 7% from 1 July 2026; provinces followed (Punjab 7% and lifetime-family-pension changes), and by April 2026 SECP had approved 15 voluntary pension funds as industry assets reached about Rs138 billion.",
+    "recent_reform_zh": "2025年8月27日联邦政府颁布《联邦政府确定缴费养老金计划规则2024》（SRO 1728(I)/2025），将新进联邦雇员由非缴费型转为缴费型DC制度，以抑制飙升至逾10万亿卢比的养老金负债。 2026-27年度预算中联邦政府自2026年7月1日起将文职及军队养老金上调7%；各省跟进（旁遮普省上调7%并改革遗属终身年金），截至2026年4月SECP已批准15只自愿年金基金，行业资产约达1,380亿卢比。"
   },
   "MM": {
     "eligibility": "The Social Security Board (SSB) old-age pension (under the 2012 Social Security Law) is payable as a lump sum at age 60 with at least 180 months of contributions; coverage is limited to formal establishments (5+ workers) and remains partly unimplemented. Civil servants get a non-contributory DB pension (50% of final salary after 35 years) at 60. A non-contributory social pension covers those aged 85+.",
@@ -255,8 +255,8 @@ const PENSION_EXTRA = {
     "eligibility_zh": "中央公积金（CPF）退休给付（CPF LIFE）自55岁提取年龄起，65岁起领年金（2026年前领取资格年龄升至65岁）。通常需20-30年缴费方享足额；基本、全额、增强退休存款决定月给付额。",
     "contrib": "For members under 55, employee 20% + employer 17% of wages (rates step down with age), subject to the CPF contribution ceiling (age-weighted). CPF LIFE provides lifelong annuities; voluntary top-ups and the Retirement Sum Scheme are the private pillars.",
     "contrib_zh": "55岁以下：雇员20%+雇主17%（费率随年龄递减），受CPF缴费上限（按年龄）约束。CPF LIFE提供终身年金；自愿填补与退休存款计划为私人支柱。",
-    "recent_reform": "For 2026 the CPF Basic Retirement Sum was raised to reflect cost of living, and CPF LIFE payouts were recalibrated using updated mortality tables; Singapore again earned an A grade in the 2025 Mercer Global Pension Index as the first Asian country to do so.",
-    "recent_reform_zh": "2026年CPF基本退休存款随生活成本上调，CPF LIFE给付按更新生命表重新校准；新加坡在2025年Mercer全球养老金指数中再度获A级，为首个获此评级的亚洲国家。"
+    "recent_reform": "For 2026 the CPF Basic Retirement Sum was raised to reflect cost of living, and CPF LIFE payouts were recalibrated using updated mortality tables; Singapore again earned an A grade in the 2025 Mercer Global Pension Index as the first Asian country to do so. From 1 Jan 2026 CPF senior-worker (above 55-65) contribution rates rose 1.5pp and the Matched Retirement Savings Scheme expanded to disabled citizens of all ages; Budget 2026 added a 5-year Matched MediSave Scheme (up to S$1,000/yr for 55-70) and a one-off CPF top-up of up to S$1,500 for those aged 50+.",
+    "recent_reform_zh": "2026年CPF基本退休存款随生活成本上调，CPF LIFE给付按更新生命表重新校准；新加坡在2025年Mercer全球养老金指数中再度获A级，为首个获此评级的亚洲国家。 自2026年1月1日起CPF大龄雇员（55-65岁以上）缴费率提高1.5个百分点，配对退休储蓄计划扩展至各年龄段残障公民；2026年预算新增为期5年的配对保健储蓄计划（55-70岁每年最高配对1,000新元）及一次性最高1,500新元的CPF填补（50岁以上）。"
   },
   "PH": {
     "eligibility": "The Social Security System (SSS) old-age pension pays from age 60 with at least 120 monthly contributions; a lump sum applies if fewer. Government workers are covered by GSIS. The means-tested social pension for indigent seniors starts at 60.",
@@ -351,16 +351,16 @@ const PENSION_EXTRA = {
     "eligibility_zh": "法定退休年龄65岁，但2025年改革将到2035年逐步提高至67岁；缴满40年者可在62岁（原60岁）提前退休。最低需15年缴费；保证最低养老金。可能面临全民公投挑战。",
     "contrib": "PAYG ZPIZ: 24.35% (15.5% employee + 8.85% employer). Mandatory supplementary insurance for hazardous jobs, voluntary for others. Voluntary private schemes are tax-advantaged (deduction up to 5.844% of income).",
     "contrib_zh": "现收现付ZPIZ：24.35%（雇员15.5%+雇主8.85%）。危险职业强制补充保险，其他自愿。自愿私人计划享税收优惠（扣除最高收入的5.844%）。",
-    "recent_reform": "In Sept 2025 parliament adopted a comprehensive reform: retirement age rises 65 to 67 by 2035, accrual rate 63.5% to 70%, reference wage period extended to best 35 years, indexation shifted toward prices, plus a winter supplement and higher survivor benefits.",
-    "recent_reform_zh": "2025年9月议会通过综合改革：退休年龄2035年前由65升至67岁，累积率由63.5%升至70%，参考工资期延长至最佳35年，指数化转向物价为主，并增设冬季补贴及提高遗属待遇。"
+    "recent_reform": "In Sept 2025 parliament adopted a comprehensive reform: retirement age rises 65 to 67 by 2035, accrual rate 63.5% to 70%, reference wage period extended to best 35 years, indexation shifted toward prices, plus a winter supplement and higher survivor benefits. From 1 Jan 2026 the ZPIZ-2O amendment set early retirement with 40 years of contributions from age 60 (rising to 61y9m by 2034) and requires employers with 10+ staff to negotiate a collective supplementary pension by 1 Jan 2028; regular pension adjustment was 4.2% in Jan 2026 with extraordinary 1% (Mar) and a further 2% scheduled for Dec 2026.",
+    "recent_reform_zh": "2025年9月议会通过综合改革：退休年龄2035年前由65升至67岁，累积率由63.5%升至70%，参考工资期延长至最佳35年，指数化转向物价为主，并增设冬季补贴及提高遗属待遇。 自2026年1月1日起，ZPIZ-2O修订案规定缴满40年者可在60岁（2034年前逐步升至61岁9个月）提前退休，并要求10人以上雇主须在2028年1月1日前协商集体补充年金；2026年1月常规调整4.2%，3月额外调整1%，并计划于12月再额外上调2%。"
   },
   "SK": {
     "eligibility": "Statutory retirement age linked to life expectancy; for the 1960 cohort it is 63, reaching 64 in 2030 (women with children get a reduction). A 13th-month pension is paid (means-tested). Minimum contribution period applies for a full pension.",
     "eligibility_zh": "法定退休年龄与预期寿命挂钩；1960年出生群体为63岁，2030年达64岁（养育子女的女性可减龄）。发放第13个月养老金（资产审查）。全额养老金需满足最低缴费年限。",
     "contrib": "PAYG Sociálna poisťovňa: 18% (4% employee + 14% employer). Mandatory funded Pillar II contribution is rising: 5.5% in 2025-2026, reaching 6% in 2027. Pillar III voluntary is tax-deductible up to EUR 180/year; OECD notes a substantial rise in minimum contributory pensions.",
     "contrib_zh": "现收现付Sociálna poisťovňa：18%（雇员4%+雇主14%）。强制性积累第二支柱缴款递增：2025-2026年5.5%，2027年达6%。第三支柱自愿最高每年180欧元税前扣除；OECD指出最低缴费型养老金大幅提高。",
-    "recent_reform": "No major 2023-26 statutory change to the retirement age; the OECD 2025 Pensions at a Glance notes Slovakia substantially increased minimum contributory pensions and introduced a 13th-month payment, while Pillar II contributions continue rising to 6% by 2027.",
-    "recent_reform_zh": "2023-26年退休年龄无重大法定变更；OECD《2025养老金概览》指出斯洛伐克大幅提高最低缴费型养老金并引入第13个月支付，同时第二支柱缴款在2027年前逐步升至6%。"
+    "recent_reform": "No major 2023-26 statutory change to the retirement age; the OECD 2025 Pensions at a Glance notes Slovakia substantially increased minimum contributory pensions and introduced a 13th-month payment, while Pillar II contributions continue rising to 6% by 2027. From 1 Jan 2026 all pensions were valorized 3.7% automatically and parental-care periods (up to 3 years, or 18 months if severely disabled) count as insured periods as if working (~440,000 affected); the Fico government cut second-pillar contributions from 9% to 4% of gross wage.",
+    "recent_reform_zh": "2023-26年退休年龄无重大法定变更；OECD《2025养老金概览》指出斯洛伐克大幅提高最低缴费型养老金并引入第13个月支付，同时第二支柱缴款在2027年前逐步升至6%。 自2026年1月1日起所有养老金自动上调3.7%，育儿照护期（最长3年，重度残障18个月）视同缴费年限（影响约44万人）；菲佐政府将第二支柱缴费率由工资的9%降至4%。"
   },
   "CZ": {
     "eligibility": "Normal retirement age is rising above 65 by 1 month/year to 67 for those born 1989+; early retirement up to 3 years before (since Nov 2024) needs 40 years of coverage. A full pension needs 35 years of coverage (30 without credited periods); 20-year minimum for deferred pension.",
@@ -391,16 +391,16 @@ const PENSION_EXTRA = {
     "eligibility_zh": "男性65岁退休，女性2025年为63岁10个月，每年提高2个月，2032年达65岁（需15年缴费）。缴满45年者不论年龄均可退休。60岁且缴满40年可提前退休（永久性减额最高20.4%）。",
     "contrib": "PAYG PIO Fund: 26% (14% employee + 12% employer). Points-based formula. Voluntary private pension funds are small (4 managers, about 200,000 members) with tax-deductible contributions up to RSD 72,000/year.",
     "contrib_zh": "现收现付PIO基金：26%（雇员14%+雇主12%）。积分制公式。自愿私人养老基金规模小（4家管理公司，约20万成员），缴款最高每年72,000第纳尔税前扣除。",
-    "recent_reform": "From 1 Jan 2026 women's retirement age rises to 64 (and 65 by 2032) under the scheduled two-month annual increase; pensions were raised 10.9% from Dec 2024 and again by about 12% in early 2026, while the IMF pressures for a higher retirement age and minimum contribution years.",
-    "recent_reform_zh": "自2026年1月1日起，女性退休年龄按每年2个月逐步提高至64岁（2032年达65岁）；养老金自2024年12月上调10.9%，2026年初再涨约12%，同时IMF施压要求提高退休年龄与最低缴费年限。"
+    "recent_reform": "From 1 Jan 2026 women's retirement age rises to 64 (and 65 by 2032) under the scheduled two-month annual increase; pensions were raised 10.9% from Dec 2024 and again by about 12% in early 2026, while the IMF pressures for a higher retirement age and minimum contribution years. In 2026 pensions rose about 12.2% (average to about 56,860 dinars, ~EUR 485) via the extended 'Swiss formula', with PIO revenues up 14.6% in 2025; in the Republika Srpska entity pensions rose 3.55% from 1 Aug 2026 as part of a 10% cumulative 2026 increase.",
+    "recent_reform_zh": "自2026年1月1日起，女性退休年龄按每年2个月逐步提高至64岁（2032年达65岁）；养老金自2024年12月上调10.9%，2026年初再涨约12%，同时IMF施压要求提高退休年龄与最低缴费年限。 2026年养老金按扩展“瑞士公式”上调约12.2%（平均约56,860第纳尔，约合485欧元），PIO基金2025年收入增长14.6%；塞族共和国实体自2026年8月1日起养老金上调3.55%，为2026年全年累计上调10%的一部分。"
   },
   "RO": {
     "eligibility": "Public pension is points-based since the 2023 reform (effective Sept 2024): pension = total points x reference value (RON 91 in 2025). Men retire at 65, women at 62 (rising), with 15+ years of contributions; stability points reward long careers (25+ years).",
     "eligibility_zh": "自2023年改革（2024年9月生效）起，公共养老金实行积分制：养老金=总积分×参考值（2025年为91列伊）。男性65岁、女性62岁（逐步提高）退休，需15年以上缴费；稳定积分奖励长缴费年限（25年以上）。",
     "contrib": "PAYG CNPP: 25% CAS (employer-paid). Mandatory Pillar II private funds: 4.75% of gross salary, rising to 6% by 2029 (from 3.75%). Pillar III voluntary is tax-deductible up to EUR 400/year. Special pensions for military/judges are under reform.",
     "contrib_zh": "现收现付CNPP：25% CAS（由雇主缴）。强制性第二支柱私人基金：工资的4.75%，2029年前升至6%（原3.75%）。第三支柱自愿最高每年400欧元税前扣除。军人/法官特殊养老金正在改革中。",
-    "recent_reform": "The 2023 Pension Law took full effect from 1 Sept 2024 with a points-based formula and stability points for long careers; the reference point rose 12.1% to RON 91 in Jan 2025, and recalculation lifted many pensions. This is the most extensive reform in Romania's public pension history.",
-    "recent_reform_zh": "2023年《养老金法》自2024年9月1日全面生效，采用积分制并为长缴费者设稳定积分；参考点在2025年1月上调12.1%至91列伊，重算提高了许多养老金水平。这是罗马尼亚公共养老金史上最广泛的改革。"
+    "recent_reform": "The 2023 Pension Law took full effect from 1 Sept 2024 with a points-based formula and stability points for long careers; the reference point rose 12.1% to RON 91 in Jan 2025, and recalculation lifted many pensions. This is the most extensive reform in Romania's public pension history. A special-pensions reform was enacted on 27 Feb 2026 after Constitutional Court clearance (magistrates retire at 65 with 15+ years, benefits capped at 70% of net salary); the pension reference point was frozen in 2026 (no indexation), and the Labour Minister proposed a two-tranche RON 800 support payment for low-income pensioners.",
+    "recent_reform_zh": "2023年《养老金法》自2024年9月1日全面生效，采用积分制并为长缴费者设稳定积分；参考点在2025年1月上调12.1%至91列伊，重算提高了许多养老金水平。这是罗马尼亚公共养老金史上最广泛的改革。 宪法法院放行后，特殊养老金改革于2026年2月27日生效（法官须满65岁且缴费15年以上，待遇封顶为净薪资的70%）；2026年养老金参考点冻结（不予指数化），劳工部长提议向低收入养老金领取者分两笔发放共800列伊补助。"
   },
   "BG": {
     "eligibility": "Retirement age is set to reach 65 for both sexes by 2037 (women currently 62, rising); the government confirmed it will NOT raise the age before then. Minimum 15 years of contributions for a pension; a social old-age pension exists for those without sufficient contributions.",
@@ -415,8 +415,8 @@ const PENSION_EXTRA = {
     "eligibility_zh": "退休年龄为男性65岁/女性60岁（2017年由67岁逆转）；目前无提龄计划（部长于2025年1月声明）。NDC第一支柱（ZUS）需女性20/男性25年缴费以保证最低养老金。存在提前/延迟退休选项。",
     "contrib": "NDC Pillar I (ZUS): 12.22% (employee+employer). Funded Pillar II: PPK auto-enrolment employer DC (employee 2%, employer 1.5%, plus state subsidies; opt-out) and OFE 2.92% to private funds. Voluntary IKE/IKZE are tax-preferred.",
     "contrib_zh": "NDC第一支柱（ZUS）：12.22%（雇员+雇主）。积累型第二支柱：PPK自动加入雇主DC（雇员2%、雇主1.5%，加国家补贴；可退出）及OFE 2.92%入私人基金。自愿IKE/IKZE享税收优惠。",
-    "recent_reform": "No retirement-age increase in 2023-26 (the labour minister ruled it out in Jan 2025); the PPK auto-enrolment DC pillar continues to expand coverage, and zero PIT for working pensioners (up to about PLN 85,528/year) is widely used to encourage longer work.",
-    "recent_reform_zh": "2023-26年未提高退休年龄（劳动部长2025年1月排除此议）；PPK自动加入DC支柱持续扩大覆盖，零个税的在职退休者政策（每年约85,528兹罗提以内）被广泛用于鼓励延长工作。"
+    "recent_reform": "No retirement-age increase in 2023-26 (the labour minister ruled it out in Jan 2025); the PPK auto-enrolment DC pillar continues to expand coverage, and zero PIT for working pensioners (up to about PLN 85,528/year) is widely used to encourage longer work. For 2026 pensions were indexed 5.3% (105.3%) from 1 March 2026, raising the minimum old-age pension to PLN 1,978.49; new GUS life-expectancy tables applied from 1 April 2026 and a further indexation took effect 1 June 2026 (main +9.81%, supplementary +10.61%).",
+    "recent_reform_zh": "2023-26年未提高退休年龄（劳动部长2025年1月排除此议）；PPK自动加入DC支柱持续扩大覆盖，零个税的在职退休者政策（每年约85,528兹罗提以内）被广泛用于鼓励延长工作。 2026年养老金自3月1日起按5.3%（105.3%）指数化，最低老年养老金升至1,978.49兹罗提；自4月1日起启用新的GUS预期寿命表，并于6月1日再度指数化（主养老金+9.81%、补充养老金+10.61%）。"
   },
   "UA": {
     "eligibility": "Solidarity PAYG system: from 1 Jan 2025, age-60 retirement requires 32 years of insurance (rising to 35 by 2028) for both sexes; the minimum pension for those 65+ with full record is at least 40% of the minimum wage. A social pension covers those short of contributions.",
@@ -431,8 +431,8 @@ const PENSION_EXTRA = {
     "eligibility_zh": "保险养老金依据2018年改革，到2028年需男性63岁/女性58岁、15年缴费及30个养老金积分（2025年）。长工龄（男42/女37年）、多子女母亲、有害工种及北部居民可提前退休。",
     "contrib": "Pension Fund of Russia (SFR): insurance pension is points-based; employer pays 22% (employee 0% on the funded portion). The funded pillar has been frozen since 2014, with contributions diverted to PAYG. A state/special pension covers certain categories.",
     "contrib_zh": "俄罗斯养老基金（SFR）：保险养老金为积分制；雇主缴22%（雇员在积累部分缴0%）。积累支柱自2014年冻结，缴款转入现收现付。国家/特殊养老金覆盖特定类别。",
-    "recent_reform": "No new retirement-age legislation in 2023-26; insurance pensions were indexed 7.3% on 1 Jan 2025 (and social pensions 14.75% from April). The 2018 reform raising the age to 63/58 completes by 2028; the funded pillar remains frozen.",
-    "recent_reform_zh": "2023-26年无新的退休年龄立法；保险养老金于2025年1月1日上调7.3%（社会养老金4月起上调14.75%）。2018年将年龄提高至63/58岁的改革于2028年完成；积累支柱仍冻结。"
+    "recent_reform": "No new retirement-age legislation in 2023-26; insurance pensions were indexed 7.3% on 1 Jan 2025 (and social pensions 14.75% from April). The 2018 reform raising the age to 63/58 completes by 2028; the funded pillar remains frozen. Federal Law 431-FZ (28 Nov 2025) indexed insurance pensions 7.6% from 1 Jan 2026 (pension coefficient value RUB 156.76, fixed payment RUB 9,584.69, average old-age insurance pension above RUB 14,000); social pensions rose 6.8% from 1 Apr and military pensions 4% from 1 Oct 2026, with working pensioners indexed for the first time.",
+    "recent_reform_zh": "2023-26年无新的退休年龄立法；保险养老金于2025年1月1日上调7.3%（社会养老金4月起上调14.75%）。2018年将年龄提高至63/58岁的改革于2028年完成；积累支柱仍冻结。 第431-FZ号联邦法（2025年11月28日）自2026年1月1日起将保险养老金指数化上调7.6%（养老金系数升至156.76卢布、固定给付9,584.69卢布，平均老年保险养老金超过14,000卢布）；社会养老金自4月1日起上调6.8%、军人养老金自10月1日起上调4%，且在职养老金领取者首次获得1月指数化。"
   },
   "TR": {
     "eligibility": "SGK PAYG DB: retirement needs 7,200-9,000 days of contributions and age 58/60 (varies by entry date); the 2023 EYT law removed the age requirement for pre-1999 entrants, letting about 2M retire immediately. BES voluntary private pensions are available from age 56 after 10 years.",
@@ -575,16 +575,16 @@ const PENSION_EXTRA = {
     "eligibility_zh": "法定退休年龄2025年为66岁7个月，2027年升至66岁11个月（与预期寿命挂钩）。足额需缴满40年；缴满36年可在65岁无罚金退出。",
     "contrib": "The first pillar is pay-as-you-go, ~34.75% of wage (employer ~23.75%, employee 11%), capped. A sustainability factor reduces benefits for early claims.",
     "contrib_zh": "第一支柱为现收现付，约按工资34.75%缴费（雇主约23.75%、雇员11%），设上限。可持续因子对提前申领者扣减待遇。",
-    "recent_reform": "The retirement age rose to 66y7m in 2025 (66y11m from 2027) under the life-expectancy link; the sustainability factor increases penalties for early retirement, while a 'flexible' scheme allows part-time work.",
-    "recent_reform_zh": "在预期寿命挂钩机制下，退休年龄2025年升至66岁7个月（2027年66岁11个月）；可持续因子加大提前退休的扣减，同时“弹性”制度允许半退休工作。"
+    "recent_reform": "The retirement age rose to 66y7m in 2025 (66y11m from 2027) under the life-expectancy link; the sustainability factor increases penalties for early retirement, while a 'flexible' scheme allows part-time work. For 2026 the normal retirement age is 66y9m (66y11m in 2027) and pensions were updated under Portaria 480-B/2025 by 2.80% (up to EUR 1,074.26), 2.27% (EUR 1,074.26-3,222.78) and 2.02% above EUR 3,222.78; the 2026 sustainability factor is 0.8307.",
+    "recent_reform_zh": "在预期寿命挂钩机制下，退休年龄2025年升至66岁7个月（2027年66岁11个月）；可持续因子加大提前退休的扣减，同时“弹性”制度允许半退休工作。 2026年正常退休年龄为66岁9个月（2027年66岁11个月），并依第480-B/2025号法令按2.80%（不超过1,074.26欧元）、2.27%（1,074.26-3,222.78欧元）及2.02%（超过3,222.78欧元）上调；2026年可持续因子为0.8307。"
   },
   "SE": {
     "eligibility": "The flexible retirement age is 62 to 69 (income pension) with the guarantee pension from 66. The 'target' retirement age is being raised to 67 for 2026-2030; the minimum draw age rises to 64 in 2026.",
     "eligibility_zh": "弹性退休年龄为62至69岁（收入养老金），保障养老金自66岁起。2026-2030年“目标”退休年龄提高至67岁；最低领取年龄2026年升至64岁。",
     "contrib": "The income pension is 16% of pensionable income (NDC) plus 2.5% to the premium (PPM) fund; the guarantee pension is tax-funded. Occupational schemes add ~4.5% of pay.",
     "contrib_zh": "收入养老金按应计养老金收入的16%（NDC）另加2.5%进入保费（PPM）基金；保障养老金由税收筹资。职业年金另加约薪酬的4.5%。",
-    "recent_reform": "The 'target' retirement age rises to 67 for 2026-2030 and the minimum draw age to 64 in 2026; AP buffer funds are being consolidated from 6 to 3 by January 2026 to cut costs. The NDC link to life expectancy continues.",
-    "recent_reform_zh": "“目标”退休年龄2026-2030年升至67岁、最低领取年龄2026年升至64岁；AP缓冲基金于2026年1月前由6只合并为3只以降低成本。NDC与预期寿命挂钩机制延续。"
+    "recent_reform": "The 'target' retirement age rises to 67 for 2026-2030 and the minimum draw age to 64 in 2026; AP buffer funds are being consolidated from 6 to 3 by January 2026 to cut costs. The NDC link to life expectancy continues. In 2026 most pensioners' total pension rose SEK 110-900 after tax, and members may draw the income and premium pension up to three years before the target age (earliest from 64).",
+    "recent_reform_zh": "“目标”退休年龄2026-2030年升至67岁、最低领取年龄2026年升至64岁；AP缓冲基金于2026年1月前由6只合并为3只以降低成本。NDC与预期寿命挂钩机制延续。 2026年多数养老金领取者税后总养老金增加110-900瑞典克朗，会员可在目标年龄前最多3年（最早64岁）开始领取收入与保费养老金。"
   },
   "AE": {
     "eligibility": "Normal pension age is 60 for Emirati nationals under GPSSA (Federal Law No. 7 of 1999 and Federal Decree Law No. 57 of 2023). New entrants from Oct 2023 contribute under the 57/2023 law; contributors must be Emirati, aged 18-60 and medically fit. Minimum contributory period for a full pension is 15 years (180 months); early and deferred options exist. Expats have no contributory pension and rely on end-of-service gratuity or voluntary DC schemes.",
@@ -647,16 +647,16 @@ const PENSION_EXTRA = {
     "eligibility_zh": "GRSIA体系下，卡塔尔籍国民享固定给付养老金，正常退休年龄60岁（55岁起可提前退休，含罚则）。2024年6月根据第1/2022号社会保险法的内阁决定规定了提前退休资格（如1984年后出生者55岁且缴满17年以上可提前退休）及争议解决委员会。外籍人士（90%以上劳动力）无养老金，仅享服务终了酬金。",
     "contrib": "National pension contribution is 21% (7% employee + 14% employer); pension = 5% of final salary per year of service, max 75% after 30 years. Expats receive end-of-service gratuity (3 weeks' wage/yr for 5-10 yrs, 5 weeks beyond 15 yrs). The 2024 Labour Law amendments added mandatory health insurance and GRSIA registration for employees.",
     "contrib_zh": "国民养老金缴费21%（雇员7%+雇主14%）；养老金=最终工资每年5%，30年后最高75%。外籍人士领取服务终了酬金（5-10年每年3周工资，15年以上每年5周）。2024年劳动法修订新增强制健康保险及雇员GRSIA登记。",
-    "recent_reform": "In June 2024 the Cabinet issued decisions under the new Social Insurance Law No. 1/2022 on early-retirement eligibility and a dispute-resolution committee, applying to those whose service ended from 3 Jan 2023. The 2024 Labour Law amendments also mandated health insurance and GRSIA registration for workers. The expat pension remains under discussion.",
-    "recent_reform_zh": "2024年6月内阁根据新《社会保险法第1/2022号》做出关于提前退休资格及争议解决委员会的决定，适用于2023年1月3日后服务终止者。2024年劳动法修订亦强制健康保险及雇员GRSIA登记。外籍养老金改革仍在讨论中。"
+    "recent_reform": "In June 2024 the Cabinet issued decisions under the new Social Insurance Law No. 1/2022 on early-retirement eligibility and a dispute-resolution committee, applying to those whose service ended from 3 Jan 2023. The 2024 Labour Law amendments also mandated health insurance and GRSIA registration for workers. The expat pension remains under discussion. In 2026 the General Retirement and Social Insurance Authority rebranded to 'Daman' (new strategy, AI assistant 'Sara', Al Safwa programme) under the Prime Minister's patronage; a Cabinet decision gave transitional relief letting those born in/before 1983 retire early at 42 rather than 50, and new-system contribution rates rose to 10.75%/12.75% from 1 July 2026.",
+    "recent_reform_zh": "2024年6月内阁根据新《社会保险法第1/2022号》做出关于提前退休资格及争议解决委员会的决定，适用于2023年1月3日后服务终止者。2024年劳动法修订亦强制健康保险及雇员GRSIA登记。外籍养老金改革仍在讨论中。 2026年总退休与社会保险局在首相主持下更名为“Daman”（新战略、AI助手“Sara”、Al Safwa优质服务计划）；内阁决定给予过渡性宽限，让1983年及以前出生者可在42岁而非50岁提前退休，新制度缴费率自2026年7月1日起升至10.75%/12.75%。"
   },
   "SA": {
     "eligibility": "The new Social Insurance Law (Royal Decree, eff. 1-3 July 2024) applies to new Saudi entrants: statutory retirement age rises to 65 (gradually 58-65 for those affected), early retirement from 55 with 30 years' contributions. Existing contributors keep the old 60-age/120-month rules. A full pension needs sufficient years under the 2.25% (new) or 2.5% (old) of average wage formula. Expats are covered only for work injury.",
     "eligibility_zh": "新《社会保险法》（皇家法令，2024年7月1-3日生效）适用于新参保沙特人：法定退休年龄提至65岁（受影响者逐步从58过渡到65），55岁且缴满30年可提前退休。既有参保人沿用旧规（60岁/120个月）。足额养老金按平均工资的2.25%（新）或2.5%（旧）公式计发。外籍人士仅享工伤保障。",
     "contrib": "New entrants: employee and employer each rise from 9% to 11% of contributory wage by 0.5%/yr in 2025-2028 (total 22%). Old system: 18% (9%+9%). Pension formula lowered to 2.25% of average wage x years (max 100%). Maternity benefit now via social insurance. A voluntary pension/savings plan for citizens and expats is being prepared (IMF, 2025).",
     "contrib_zh": "新参保者：雇员与雇主各从9%在2025-2028年每年上调0.5%至11%（合计22%）。旧制：18%（9%+9%）。养老金公式降至平均工资的2.25%×工龄（最高100%）。产假待遇改由社会保险支付。面向公民与外籍人士的自愿养老金/储蓄计划正在制定（IMF，2025）。",
-    "recent_reform": "The July 2024 New Social Insurance Law unified civil and private schemes for new entrants, raised the retirement age to 65, lifted contribution rates toward 11%/11%, and lowered the accrual rate to 2.25%. A voluntary savings plan for citizens and expats is under preparation to curb remittance outflows. No change for existing contributors.",
-    "recent_reform_zh": "2024年7月新《社会保险法》为新参保者统一公共与私营制度，退休年龄提至65岁，缴费率逐步提至11%/11%，计发率降至2.25%。面向公民与外籍人士的自愿储蓄计划正在制定以抑制汇款外流。既有参保人不变。"
+    "recent_reform": "The July 2024 New Social Insurance Law unified civil and private schemes for new entrants, raised the retirement age to 65, lifted contribution rates toward 11%/11%, and lowered the accrual rate to 2.25%. A voluntary savings plan for citizens and expats is under preparation to curb remittance outflows. No change for existing contributors. Under Royal Decree M/273 (effective 3 Jul 2024) contribution rates for new-entrant contributors step from 10.25%/12.25% (22.5%) to 10.75%/12.75% (23.5%) for 1 Jul 2026-27, on the path to 11%/11% by 2028, with a new-entrant retirement age of 65; GOSI launched a unified portal for the new system in 2026.",
+    "recent_reform_zh": "2024年7月新《社会保险法》为新参保者统一公共与私营制度，退休年龄提至65岁，缴费率逐步提至11%/11%，计发率降至2.25%。面向公民与外籍人士的自愿储蓄计划正在制定以抑制汇款外流。既有参保人不变。 依第M/273号皇家法令（2024年7月3日生效），新参保者缴费率自2026年7月1日起由10.25%/12.25%（22.5%）升至10.75%/12.75%（23.5%），2028年前迈向11%/11%，新参保者退休年龄为65岁；GOSI于2026年推出新制度统一门户。"
   },
   "TN": {
     "eligibility": "Legal retirement age is 62 for both sexes under CNRPS (public) and CNSS (private), each PAYG. A full pension needs 10 years of contributions (CNSS) or the accrual formula (CNRPS: 2%/yr, max 90%). An early-retirement program (since 2022) let 12,646 civil servants retire early by end-2024 if aged 57+ with 15 yrs. IMF urges raising the age, but no hike is yet enacted.",
