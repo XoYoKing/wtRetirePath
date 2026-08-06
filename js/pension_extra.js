@@ -56,7 +56,7 @@ const PENSION_EXTRA = {
     "contrib": "The Old Age Pension is tax-funded with no contribution. The BPOPF (Botswana Public Officers Pension Fund) is a defined-benefit fund for civil servants and the largest fund with over P80 billion in assets. Voluntary occupational DC funds exist for the private formal sector, regulated by NBFIRA, with contributions tax-deductible up to 15% of income. The Retirement Funds Act 2022 lets members withdraw up to 50% of savings before retirement.",
     "contrib_zh": "老年养老金由税收支付，无需缴费。BPOPF（博茨瓦纳公职人员养老金基金）为公务员固定给付基金，是最大基金，资产超800亿普拉。正规私营部门存在自愿性职业DC基金，由NBFIRA监管，缴费在收入15%以内可税前扣除。2022年《退休基金法》允许会员在退休前提取最高50%的储蓄。",
     "recent_reform": "The 2025-26 budget raised the universal Old Age Pension from P830 to P1,400 per month (effective April 2025), and the government committed to lowering the eligibility age from 65 to 60 and lifting the grant to P1,800 per month. Separately, NBFIRA is phasing in a 50% local-investment requirement for pension funds by 2027, and BPOPF extended a P3 billion loan to the government in 2025. The 2026/27 budget maintained the universal Old Age Pension at P1,400 and raised the pension allocation to about P3.1 billion; the government reiterated a pledge to lower the eligibility age from 65 to 60 and lift the grant toward P1,800 when finances allow.",
-    "recent_reform_zh": "2025-26年度预算将普惠老年养老金由830普拉提高至1,400普拉/月（2025年4月生效），政府并承诺将领取年龄由65岁降至60岁、将津贴提至1,800普拉/月。此外，NBFIRA正分阶段在2027年前对养老基金实施50%本地投资要求，BPOPF于2025年向政府提供30亿普拉贷款。"
+    "recent_reform_zh": "2025-26年度预算将普惠老年养老金由830普拉提高至1,400普拉/月（2025年4月生效），政府并承诺将领取年龄由65岁降至60岁、将津贴提至1,800普拉/月。此外，NBFIRA正分阶段在2027年前对养老基金实施50%本地投资要求，BPOPF于2025年向政府提供30亿普拉贷款。 2026/27年度预算将普惠老年养老金维持于1,400普拉，并将养老金拨款提高至约31亿普拉；政府重申在财政允许时将领取年龄由65岁降至60岁、并将津贴逐步提高至1,800普拉的承诺。"
   },
   "US": {
     "eligibility": "Full Retirement Age (FRA) is 67 for anyone born in 1960 or later (same for men and women). Early retirement is possible from age 62 but benefits are permanently reduced (up to about 30% if claimed at 62). Workers need 40 Social Security credits (about 10 years of work) to qualify for retirement benefits. Benefits can be delayed to age 70 for an 8% per year increase.",
@@ -72,7 +72,7 @@ const PENSION_EXTRA = {
     "contrib": "CPP/QPP contribution is 5.95% each for employee and employer on earnings between the $3,500 basic exemption and the 2025 Year's Maximum Pensionable Earnings of $71,300, plus a second tier (CPP2/QPP2) of 4% each on earnings from $71,300 to $81,200. Self-employed pay both portions (11.9% / 8%). OAS is funded from general revenue (no contribution). Voluntary: RRSP and TFSA.",
     "contrib_zh": "CPP/QPP缴费为雇员与雇主各5.95%，基于3,500加元免税额至2025年最高应保收入71,300加元之间的收入，另有第二层（CPP2/QPP2）对71,300至81,200加元部分各4%。自雇者缴双方（11.9%/8%）。OAS由一般税收拨付（不缴费）。自愿储蓄：RRSP与TFSA。",
     "recent_reform": "The multi-year CPP enhancement continued: second additional contributions (CPP2) began in 2024, and the 2025 YMPE rose to $71,300 with the second ceiling at $81,200, gradually lifting the replacement rate toward 33% of earnings by 2065. The permanent 10% OAS boost for seniors 75+ remains in effect. No structural reform enacted in 2023-2026; the system is stable. For 2026 CPP is indexed up about 2% (maximum retirement pension at 65 rises to CAD 1,507.65/month) and OAS maximums rise to CAD 742.31 (65-74) / CAD 816.54 (75+); the Year's Additional Maximum Pensionable Earnings (YAMPE) reaches CAD 85,000 and the YMPE CAD 74,600.",
-    "recent_reform_zh": "CPP多年增强持续推进：第二层附加缴费（CPP2）自2024年起实施，2025年最高应保收入升至71,300加元、第二上限81,200加元，替代率逐步在2065年前升至收入的33%。75岁以上长者OAS永久上调10%仍有效。2023-2026年无结构性改革，体系稳定。"
+    "recent_reform_zh": "CPP多年增强持续推进：第二层附加缴费（CPP2）自2024年起实施，2025年最高应保收入升至71,300加元、第二上限81,200加元，替代率逐步在2065年前升至收入的33%。75岁以上长者OAS永久上调10%仍有效。2023-2026年无结构性改革，体系稳定。 2026年CPP按约2%指数化（65岁最高退休金升至1,507.65加元/月），OAS最高额升至742.31加元（65-74岁）/816.54加元（75岁以上）；年度附加最高应保收入（YAMPE）达85,000加元，YMPE为74,600加元。"
   },
   "MX": {
     "eligibility": "The individual-account system (AFORE) sets the normal retirement age at 65. The 2020 reform gradually lowered the contributory weeks required for the guaranteed minimum pension from 1,250 to 1,000 weeks by 2030. A universal non-contributory pension (Pensión para el Bienestar) is available to everyone aged 65+ regardless of contributions.",
@@ -88,7 +88,7 @@ const PENSION_EXTRA = {
     "contrib": "The INSS (RGPS) payroll contribution ceiling was R$7,786 in 2024 (indexed annually). Employees contribute a progressive 7.5%-14% of salary; employers contribute 20%. Public servants have separate (RPPS) regimes. Private voluntary plans (PGBL/VGBL) offer tax-deferred savings. Contribution rates were not changed in 2023-2026.",
     "contrib_zh": "INSS（RGPS）缴费基数上限2024年为7,786雷亚尔（每年调整）。雇员按工资累进缴纳7.5%-14%；雇主缴纳20%。公职人员另有独立制度（RPPS）。私人自愿计划（PGBL/VGBL）提供递延纳税储蓄。2023-2026年缴费率未变。",
     "recent_reform": "No major new reform was enacted in 2023-2026; the system continues under the 2019 rules, whose transition thresholds tighten automatically each year (minimum age rises six months annually, points increase). Policymakers discuss a further reform to curb the fiscal deficit, but none has passed. From January 2026 the INSS transition rules tightened further: the points system requires 93 (women)/103 (men) and minimum ages rise to 59y6m/64y6m; the benefit ceiling reached BRL 8,475.55 and above-minimum pensions were adjusted 3.9% (below the 4.26% IPCA inflation).",
-    "recent_reform_zh": "2023-2026年未出台重大新改革；体系仍按2019年规则运行，其过渡门槛每年自动收紧（最低年龄每年提高六个月，积分递增）。决策层讨论进一步改革以遏制财政赤字，但尚无法案通过，现状稳定。"
+    "recent_reform_zh": "2023-2026年未出台重大新改革；体系仍按2019年规则运行，其过渡门槛每年自动收紧（最低年龄每年提高六个月，积分递增）。决策层讨论进一步改革以遏制财政赤字，但尚无法案通过，现状稳定。 自2026年1月，INSS过渡规则进一步收紧：积分制要求女性93分/男性103分，最低年龄升至59岁6个月/64岁6个月；待遇上限达8,475.55雷亚尔，超过最低标准的养老金仅按3.9%调整（低于4.26%的IPCA通胀）。"
   },
   "CL": {
     "eligibility": "Normal retirement age is 65 for men and 60 for women. The 2025 reform adds a new social-insurance old-age pension from January 1, 2026, requiring age 65 plus at least 20 years of contributions (men) or 10 years rising to 15 by 2035 (women). The non-contributory PGU (Pensión Garantizada Universal) covers those 65+ in the lower 90% of the income distribution.",
@@ -128,7 +128,7 @@ const PENSION_EXTRA = {
     "contrib": "SIPA is a pay-as-you-go system with a total 27% contribution (11% employee + 16% employer) on wages. The moratorium that allowed non-contributors to regularize and claim a pension was abolished in March 2025; now only those with 30 years of recorded contributions qualify for the ordinary pension, others receive PUAM.",
     "contrib_zh": "SIPA为现收现付体系，总缴费27%（雇员11%+雇主16%），按工资计征。允许非缴费者补缴并领取养老金的暂停令于2025年3月废除；如今仅具30年登记缴费记录者可领普通养老金，其余领取PUAM。",
     "recent_reform": "The most notable 2025 change was the end of the pension moratorium (Ley 27.705) on March 23, 2025, tightening access to ordinary pensions. An IMF-backed commitment to present a comprehensive pension reform to Congress before the end of 2026 is in place, but no new law has yet passed. Benefits are indexed to inflation. In August 2025 President Milei vetoed bills that would have raised pensions by 7.2% and eased contribution requirements, citing fiscal discipline; from December 2025 a new combined RIPTE-mobility index (Disposición 29/2025) governs the initial pension calculation.",
-    "recent_reform_zh": "2025年最显著的变化是养老金暂停令（第27.705号法律）于3月23日终止，收紧了普通养老金的领取资格。阿根廷已向IMF承诺在2026年底前向国会提交全面养老金改革，但新法尚未通过。给付按通胀调整。"
+    "recent_reform_zh": "2025年最显著的变化是养老金暂停令（第27.705号法律）于3月23日终止，收紧了普通养老金的领取资格。阿根廷已向IMF承诺在2026年底前向国会提交全面养老金改革，但新法尚未通过。给付按通胀调整。 2025年8月，米莱总统以财政纪律为由否决了将养老金上调7.2%并放宽缴费要求的法案；自2025年12月起，新的RIPTE与流动性合并指数（第29/2025号决定）用于计算初始养老金。"
   },
   "CN": {
     "eligibility": "Normal retirement age is being raised gradually from 2025: men to 63, women cadres to 58, women workers to 55, over a 15-year transition. Early retirement is possible for special occupations or hardship. A minimum of 15 years of contributions currently qualifies for a basic pension, rising to 20 years by 2030.",
@@ -184,7 +184,7 @@ const PENSION_EXTRA = {
     "contrib": "UPS is subscriber-funded with flexible monthly contributions (e.g., 500-15,000 taka depending on scheme); there is no general payroll tax. From FY26 the minimum contribution is being cut (e.g., informal 1,000 to 500 taka) and a 30% lump-sum withdrawal at 60 is allowed.",
     "contrib_zh": "UPS由参保人缴费，月缴弹性（依方案约500-15,000塔卡），无一般薪资税。自FY26起降低最低缴费（如非正规由1,000降至500塔卡），并允许60岁时一次性提取30%。",
     "recent_reform": "In 2025 the National Pension Authority cut minimum contributions, allowed up to 30% lump-sum withdrawal at 60, added an early-pension option, raised the Surokkha cap to 15,000 taka, and is preparing an Islamic-version UPS, reforms aimed at boosting low enrollment. Enrolment in the Universal Pension Scheme stalled after the 2024 political change (only about 5,144 new subscribers in 20 months); as of April 2026 about 377,545 people were registered and the fund held about Tk 2.8 billion, while the government set a 2030 goal of one member per family and secured a USD 100 million ADB loan.",
-    "recent_reform_zh": "2025年国家养老金局调降最低缴费、允许60岁一次性提取30%、新增提前年金选项、将Surokkha上限提高至1.5万塔卡，并筹备伊斯兰版本UPS，旨在提升偏低参保率。"
+    "recent_reform_zh": "2025年国家养老金局调降最低缴费、允许60岁一次性提取30%、新增提前年金选项、将Surokkha上限提高至1.5万塔卡，并筹备伊斯兰版本UPS，旨在提升偏低参保率。 2024年政局变化后全民养老金计划参保停滞（20个月内仅新增约5,144人）；截至2026年4月注册约377,545人、基金约27.97亿塔卡，政府设定2030年『每户至少一人参保』目标并获得亚开行1亿美元贷款。"
   },
   "LK": {
     "eligibility": "The Employees' Provident Fund (EPF) pays a lump sum at retirement, normally age 55 for men and 55 for women (some provisions allow women from 50). A minimum of about 10 years of contributions is expected for related benefits. There is no earnings-related public annuity; the EPF/ETF lump sums are the main formal retirement vehicle.",
@@ -288,7 +288,7 @@ const PENSION_EXTRA = {
     "contrib": "The Superannuation Guarantee (employer) reached 12% from 1 Jul 2025 (up from 9.5% in 2021); employees may add voluntary concessional or non-concessional contributions. Super is the compulsory second pillar; the Age Pension is the first (tax-funded) pillar.",
     "contrib_zh": "退休公积金保证（雇主）于2025年7月1日达12%（2021年为9.5%）；雇员可自愿额外供款。Super为强制第二支柱；年龄养老金为第一（税收支应）支柱。",
     "recent_reform": "The Super Guarantee hit its 12% target on 1 July 2025, and Payday Super (SG paid every payday) starts 1 July 2026. The Retirement Income Covenant requires funds to offer retirement-income products, and the system was again ranked among the world's largest (about A$4.1 trillion). In 2025-26 the Better Targeted Superannuation Concessions (Division 296) became law, adding a 15% tax on earnings for total super balances above AUD 3 million from 1 July 2026; the Building a Stronger and Fairer Super System Act 2026 boosted the low-income tax offset and the Transfer Balance Cap rose to AUD 2 million.",
-    "recent_reform_zh": "退休公积金保证于2025年7月1日达到12%目标，发薪日Super（每次发薪缴SG）2026年7月1日启动。退休收入契约要求基金提供退休收入产品，体系规模再居全球前列（约4.1万亿澳元）。"
+    "recent_reform_zh": "退休公积金保证于2025年7月1日达到12%目标，发薪日Super（每次发薪缴SG）2026年7月1日启动。退休收入契约要求基金提供退休收入产品，体系规模再居全球前列（约4.1万亿澳元）。 2025-26年『更精准的超级年金税收优惠』（第296条）立法，自2026年7月1日起对总额超300万澳元的超级年金收益加征15%税；2026年《构建更强大更公平超级年金体系法》提高了低收入税收抵免，转账余额上限升至200万澳元。"
   },
   "NZ": {
     "eligibility": "New Zealand Superannuation (NZ Super) is a universal, residency-based pension payable from age 65 after 10 years of NZ residence (5 years since age 50). There is no contribution test; it is income- and asset-tested only for the overseas portion. KiwiSaver is a voluntary workplace savings scheme accessible from 65.",
@@ -408,7 +408,7 @@ const PENSION_EXTRA = {
     "contrib": "Three-pillar PAYG (NSSI): 18.3% (8.22% employee + 10.08% employer). Mandatory Pillar II funded: 5% for those born after 1959. Voluntary Pillar III is tax-advantaged; minimum pension is BGN 630.50 (from July 2025).",
     "contrib_zh": "三支柱现收现付（NSSI）：18.3%（雇员8.22%+雇主10.08%）。强制性第二支柱积累：1959年后出生者5%。自愿第三支柱享税收优惠；最低养老金为630.50列弗（自2025年7月）。",
     "recent_reform": "The 2025 State Social Insurance budget raised the minimum pension to BGN 630.50 (from BGN 580.57) and all 2024 pensions by 8.6% (the Swiss rule) from July 2025; the minister confirmed no retirement-age or contribution-rate increase before 2037. From 1 January 2026 stricter retirement conditions took effect (men 64y9m/39y10m service, women 62y6m/36y10m) as the euro was adopted; the 2026 budget raises the average pension to about EUR 543 and adjusts all 2025 pensions by 7.8% from July 2026, with pension-fund contributions up 2 points.",
-    "recent_reform_zh": "2025年国家社会保险预算将最低养老金由580.57列弗提高至630.50列弗，并将2024年前所有养老金自2025年7月起按8.6%（瑞士规则）上调；部长确认2037年前不提高退休年龄或缴费率。"
+    "recent_reform_zh": "2025年国家社会保险预算将最低养老金由580.57列弗提高至630.50列弗，并将2024年前所有养老金自2025年7月起按8.6%（瑞士规则）上调；部长确认2037年前不提高退休年龄或缴费率。 2026年1月1日随欧元启用实施更严格的退休条件（男性64岁9个月/缴费39年10个月，女性62岁6个月/36年10个月）；2026年预算将平均养老金提至约543欧元，并于2026年7月按7.8%调整所有2025年前养老金，养老基金缴费率提高2个百分点。"
   },
   "PL": {
     "eligibility": "Retirement age is 65 (men) / 60 (women), reversed from 67 in 2017; there is no planned increase (minister stated in Jan 2025). NDC first pillar (ZUS) needs 20/25 years (women/men) for a guaranteed minimum. Early/deferred options exist.",
@@ -456,7 +456,7 @@ const PENSION_EXTRA = {
     "contrib": "Pension insurance contribution is 22.8% of gross wage, split 10.25% employee and 12.55% employer. The self-employed pay a separate rate.",
     "contrib_zh": "养老保险缴费率为工资的22.8%，由雇员（10.25%）与雇主（12.55%）分担，自雇者按单独费率缴纳。",
     "recent_reform": "Women's retirement age is being equalized to 65 by 2033, and early retirement for 45-year contributors (Hacklerregelung) remains in place. The 2024 pension adjustment raised benefits by around 9.7%. In July 2025 the National Council passed the biggest pension reform in 20 years, introducing a partial pension from 2026, gradually raising the corridor pension age from 62 to 63, and a statutory sustainability mechanism with automatic adjustments; the 2026 pension adjustment is 2.7% for amounts up to EUR 2,500.",
-    "recent_reform_zh": "女性退休年龄将于2033年前统一至65岁，缴费满45年者提前退休规定（Hacklerregelung）继续保留。2024年养老金调整幅度约9.7%。"
+    "recent_reform_zh": "女性退休年龄将于2033年前统一至65岁，缴费满45年者提前退休规定（Hacklerregelung）继续保留。2024年养老金调整幅度约9.7%。 2025年7月，国民议会通过20年来最大养老金改革，自2026年引入部分养老金、将走廊养老金年龄由62岁逐步提高至63岁，并设法定可持续机制（超标自动调整）；2026年养老金调整对2500欧元以下部分上调2.7%。"
   },
   "BE": {
     "eligibility": "Statutory pension age is 66 (rising to 67 in 2030). A full career pension generally requires 45 years of contributions; early retirement (landingsbaan/stelsel van werkloosheid met bedrijfstoeslag) is possible from age 63 with 42 years of career.",
@@ -464,7 +464,7 @@ const PENSION_EXTRA = {
     "contrib": "Employees and employers jointly finance the wage-linked statutory scheme; the employee contribution is about 7.5% (uncapped) plus 9% on high wages, with employers paying roughly 8.86%.",
     "contrib_zh": "法定计划由雇员与雇主共同缴费，雇员约缴7.5%（无上限）并对高收入另缴9%，雇主约缴8.86%。",
     "recent_reform": "A new Pension Law adopted in 2025 modernizes the statutory scheme and reinforces the second pillar; the pension age stays at 66 until 2030. A minimum pension guarantee was increased. In 2025 the coalition approved a new Pension Law keeping the statutory age at 66 (rising to 67 in 2030) but tightening early-retirement rules (a year now counts only with 156 worked days) and introducing a bonus-malus; raising the age to 66 in January 2025 saved about EUR 100 million in five months.",
-    "recent_reform_zh": "2025年通过的新《养老金法》改革法定体系并强化第二支柱；领取年龄维持66岁至2030年。最低养老金保障标准已上调。"
+    "recent_reform_zh": "2025年通过的新《养老金法》改革法定体系并强化第二支柱；领取年龄维持66岁至2030年。最低养老金保障标准已上调。 2025年执政联盟通过新《养老金法》，法定年龄维持66岁（2030年升至67），但收紧提前退休规则（每年须工作满156天方计入）并引入奖惩机制；2025年1月将退休年龄提至66岁，前5个月节省约1亿欧元。"
   },
   "CH": {
     "eligibility": "AHV/AVS old-age pension starts at 65 for men. Women's reference age is rising from 64 to 65 in four steps, reaching 65 by 2028 (AHV 21 reform). A full pension requires 44 contribution years.",
@@ -472,7 +472,7 @@ const PENSION_EXTRA = {
     "contrib": "The first pillar AHV/AVS is funded by a 8.7% wage contribution (split equally 4.35% employee / 4.35% employer), plus a 2nd pillar occupational fund (BVG/LPP, typically ~7-18% by age) and a 3rd pillar voluntary savings.",
     "contrib_zh": "第一支柱AHV/AVS按工资8.7%缴费（雇员、雇主各4.35%），外加第二支柱职业年金（BVG/LPP，通常按年龄7%-18%）及第三支柱自愿储蓄。",
     "recent_reform": "The AHV 21 reform took effect on 1 January 2024, raising the women's retirement age to 65 (phased to 2028) and increasing VAT by 0.4 points to fund the scheme. In late 2025 the government set out the AHV2030 reform (no retirement-age rise; contribution threshold raised to CHF 21,800; possible 0.7-point VAT hike) and from 2026 introduced a 13th AHV pension payment; women's reference age rises to 64y6m in 2026 toward a unified 65 by 2028.",
-    "recent_reform_zh": "AHV 21改革于2024年1月1日生效，将女性退休年龄提高至65岁（分阶段至2028年），并将增值税上调0.4个百分点以为体系筹资。"
+    "recent_reform_zh": "AHV 21改革于2024年1月1日生效，将女性退休年龄提高至65岁（分阶段至2028年），并将增值税上调0.4个百分点以为体系筹资。 2025年底政府提出AHV2030改革（不提高退休年龄；缴费门槛提至21,800瑞郎；可能加征0.7个百分点增值税），并于2026年起发放第13个月AHV养老金；女性参考退休年龄2026年升至64岁6个月，2028年统一至65岁。"
   },
   "DE": {
     "eligibility": "The standard retirement age is 67 (for those born 1964 or later). Early retirement from 63 is possible with 45 contribution years; the pension can be drawn from 63 with deductions.",
@@ -592,7 +592,7 @@ const PENSION_EXTRA = {
     "contrib": "For Emirati nationals, the 57/2023 law sets total contribution at 26% (11% employee + 15% employer); the 1999 law set 20% (5% employee + 15% employer, 2.5% state top-up for private). Wage ceiling: AED 100,000 (gov) / AED 70,000 (private). The voluntary Alternative End-of-Service Benefits Scheme (Nov 2023) requires employer contributions of 5.83% (first 5 yrs) or 8.3% (after) of basic salary into a DC fund; expats may add voluntary contributions.",
     "contrib_zh": "阿联酋籍国民：57/2023法总缴费26%（雇员11%+雇主15%）；1999法为20%（雇员5%+雇主15%，私营另由2.5%政府补贴）。缴费基数上限：政府岗10万迪拉姆/私营岗7万迪拉姆。自愿替代服务终了福利计划（2023年11月）要求雇主按基本工资前5年5.83%、之后8.3%缴入DC基金；外籍可自愿追加缴费。",
     "recent_reform": "Federal Decree Law No. 57 of 2023 raised contribution rates to 26% for new Emirati entrants (from Oct 31, 2023) and extended coverage to ministers and nationals in missions. A voluntary Alternative End-of-Service Benefits Scheme (effective Nov 1, 2023) began shifting private-sector/expats from lump-sum gratuity to funded DC savings. From July 2025, penalties apply for delayed GCC-national contributions. In September 2025 GPSSA extended the deadline to consolidate previous service periods from four to ten years and, from November 2025, opened applications to all insured members; unpaid childcare and study leave can now count toward pensionable service.",
-    "recent_reform_zh": "2023年第57号联邦法令将新参保阿联酋籍雇员的缴费率提高至26%（2023年10月31日起），并将覆盖范围扩大至部长及驻外使团国民。自愿替代服务终了福利计划（2023年11月1日生效）开始将私营部门及外籍雇员从一次性酬金转向有资金的DC储蓄。2025年7月起，对延迟缴纳GCC国民缴费实施罚款。"
+    "recent_reform_zh": "2023年第57号联邦法令将新参保阿联酋籍雇员的缴费率提高至26%（2023年10月31日起），并将覆盖范围扩大至部长及驻外使团国民。自愿替代服务终了福利计划（2023年11月1日生效）开始将私营部门及外籍雇员从一次性酬金转向有资金的DC储蓄。2025年7月起，对延迟缴纳GCC国民缴费实施罚款。 2025年9月，GPSSA将合并既往服务年限的缴费期限由4年延长至10年，并于2025年11月向所有参保人开放申请；未带薪的育儿及求学假期现可计入养老金缴费年限。"
   },
   "BH": {
     "eligibility": "Normal pension age is 60 for men and 55 for women under the SIO defined-benefit scheme for Bahraini nationals. A full pension requires sufficient contribution years; the formula is 2.5% of average salary per year of service. Expats are not in the contributory pension but since March 2024 their end-of-service indemnity is funded monthly into the SIO provident system.",
@@ -600,7 +600,7 @@ const PENSION_EXTRA = {
     "contrib": "Public-sector Bahraini nationals: 30% total (15% employee + 15% employer). Private sector: 19% total (7% employee + 12% employer). For expat end-of-service, employers pay 4.2% of salary (first 3 years) then 8.4% into the SIO-managed fund. No wage ceiling specified for the national scheme; all contributions and benefits are tax-free.",
     "contrib_zh": "巴林籍公共部门：合计30%（雇员15%+雇主15%）。私营部门：合计19%（雇员7%+雇主12%）。外籍服务终了金：雇主按工资前3年4.2%、之后8.4%缴入SIO管理基金。国民计划无明确缴费基数上限；缴款与给付均免税。",
     "recent_reform": "Decision No. 109 of 2023 (effective 1 March 2024) made Bahrain the first GCC state to fully replace the lump-sum end-of-service gratuity for expat workers with a funded, SIO-administered provident system, with employer contributions of 4.2%/8.4% of salary. The national pension scheme remains under review for long-term sustainability. In 2025 Parliament debated amendments to reinstate annual pension increases, cut employee contributions from 7% to 6% and lower women's retirement age to 55, while GOSI warned of a BD 14.4 billion actuarial deficit; MPs also floated channelling oil revenue (USD 1-2 per barrel) into the Pension and Social Insurance Fund.",
-    "recent_reform_zh": "2023年第109号决议（2024年3月1日生效）使巴林成为海湾地区首个以外籍劳工有资金的、由SIO管理的公积金系统全面替代一次性服务终了酬金的国家，雇主按工资4.2%/8.4%缴费。国民养老金计划仍在审视长期可持续性。"
+    "recent_reform_zh": "2023年第109号决议（2024年3月1日生效）使巴林成为海湾地区首个以外籍劳工有资金的、由SIO管理的公积金系统全面替代一次性服务终了酬金的国家，雇主按工资4.2%/8.4%缴费。国民养老金计划仍在审视长期可持续性。 2025年议会讨论修订案以恢复年度养老金上调、将雇员缴费率由7%降至6%、并把女性退休年龄降至55岁，但GOSI警告精算缺口约144亿第纳尔；议员亦提议将石油收入（每桶1-2美元）注入养老与社会保险基金。"
   },
   "EG": {
     "eligibility": "Under NOSI (Law 148/2019) the retirement age is 60, rising gradually to 65 by 2040 (those born 1 July 1975+ retire at 65 in 2040). Minimum contribution period is 120 months, rising to 180. Early retirement requires at least 20 years of contributions, increasing to 25 years from January 2025; the pension must be at least 50% of settlement wage. A social pension (Takaful/Karama) covers the elderly without contributions.",
