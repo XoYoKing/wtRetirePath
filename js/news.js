@@ -2692,6 +2692,21 @@ const NEWS = {
       "source": "Lawtw.com (Thai labor news)",
       "pubDate": "2025-03-16",
       "summary": "The five-point reform also stages the SSF contribution wage ceiling upward (17,500 baht by 2027, 20,000 by 2030, 23,000 by 2031) and lifts the government share from 2.75% to 5% to secure fund sustainability."
+    },
+
+    {
+      "title": "Labour Minister sets out social security reform to enhance benefits",
+      "url": "https://www.mol.go.th/en/news/labour-minister-sets-out-social-security-policy-presses-ahead-with-reform-aiming-to-sustainably-enhance-benefits-and-quality-of-life-for-insured-persons",
+      "source": "Ministry of Labour (Thailand)",
+      "pubDate": "2026-05-11",
+      "summary": "The Labour Minister pressed ahead with revising the old-age pension formula (CARE) to reflect full-career wages, extending coverage to informal and platform workers, and restructuring the Social Security Office."
+    },
+    {
+      "title": "Thailand to launch Employee Welfare Fund (EWF) on 1 October 2026",
+      "url": "https://attorilaw.com/blog/social-security-in-thailand",
+      "source": "Attori Law",
+      "pubDate": "2026-04-15",
+      "summary": "A new mandatory Employee Welfare Fund launches 1 October 2026: employers and employees each contribute 0.25% of wages (rising to 0.50% from 2031), uncapped, for firms with 10+ employees."
     }
   ],
   "TN": [
@@ -2708,6 +2723,21 @@ const NEWS = {
       "source": "Zawya",
       "pubDate": "2024-12-01",
       "summary": "The 2025 finance bill raises pensions 7% (first instalment July 2024, retroactive to May 2024) and lifts the minimum pension to TND 260, amid IMF pressure for parametric pension reform."
+    },
+
+    {
+      "title": "Former minister warns Tunisia faces social security collapse without reform",
+      "url": "https://en.africanmanager.com/continuing-current-social-security-system-poses-serious-risk-warns-former-minister",
+      "source": "African Manager",
+      "pubDate": "2026-01-22",
+      "summary": "A former Employment Minister and ex-CNSS CEO warned the system has run a deficit since 1993 and called 2026 the year for structural reform -- proposing a CNSS-CNRPS merger, higher contributions or a raised retirement age -- though no change has been enacted."
+    },
+    {
+      "title": "Tunisia Pension Guide 2026: CNSS regime, retirement age 60, contribution rates",
+      "url": "https://investmentkit.com/guides/tunisia/pension-guide",
+      "source": "InvestmentKit",
+      "pubDate": "2026-01-15",
+      "summary": "The 2026 guide confirms the private-sector retirement age stays at 60 (62 for some categories) with a 120-quarter contribution requirement; CNSS rates are 9.18% employee + 16.57% employer, capped near TND 10,000/month."
     }
   ],
   "TR": [
@@ -2731,6 +2761,21 @@ const NEWS = {
       "source": "Turkiye Today",
       "pubDate": "2026-01-18",
       "summary": "A report highlights BES's 20-30% state match (capped around USD 1,845/year), one of the most inclusive retirement incentives globally; 2025 average fund return was about 58%, beating inflation."
+    },
+
+    {
+      "title": "Turkey plans mandatory TES supplementary pension with employer contributions in Q2 2026",
+      "url": "https://www.wtwco.com/en-gb/insights/2025/12/turkiye-planned-launch-of-new-retirement-system-and-amendments-to-social-security-law",
+      "source": "WTW",
+      "pubDate": "2025-12-10",
+      "summary": "The 2026 Presidential Program plans to launch the Complementary Pension System (TES) in Q2 2026, replacing auto-enrolment (OKS) with a mandatory second pillar: employees 3%, employers 2-3%, state adds a contribution, with no opt-out."
+    },
+    {
+      "title": "Complementary Pension System (TES) projected in 2026 Presidential Annual Program",
+      "url": "https://cottgroup.com/tr/mevzuat/item/complementary-pension-system-tes-projected-in-the-2026-presidential-annual-program",
+      "source": "CottGroup",
+      "pubDate": "2025-10-30",
+      "summary": "The TES is designed as a fully mandatory, contribution-based second pillar with employer, employee and state contributions, targeted at all employees from Q2 2026, with benefits accessible from age 58/60 after 10 years."
     }
   ],
   "TW": [
@@ -2754,6 +2799,21 @@ const NEWS = {
       "source": "TVBS News",
       "pubDate": "2025-06-20",
       "summary": "The Ministry of Labor reminds workers that voluntary contributions of up to 6% of wages to the Labor Pension account are tax-deductible and can add hundreds of thousands of NT dollars to retirement savings."
+    },
+
+    {
+      "title": "2026 labor pension reform: 30-day regret period and employer must accept voluntary contributions",
+      "url": "https://www.storm.mg/articles/1127377",
+      "source": "Storm Media",
+      "pubDate": "2026-03-27",
+      "summary": "Amendments to the Labor Pension Regulations Enforcement Rules took effect 27 March 2026: a 30-day 'regret period' lets retirees switch from monthly to lump-sum payment after the first payout, and from 1 August 2026 employers may not refuse workers' voluntary 1-6% contributions."
+    },
+    {
+      "title": "Taiwan to include long-tenured migrant workers in old-system pension reserve from April 2026",
+      "url": "https://fwnews.com.tw/?p=29072",
+      "source": "Focus Weekly (Taiwan)",
+      "pubDate": "2025-10-14",
+      "summary": "From 1 April 2026 migrant workers employed by the same employer for 10+ years must be brought into the old-system pension reserve fund (employer 2-15% of wages), expanding their retirement protection."
     }
   ],
   "TZ": [
@@ -2770,6 +2830,21 @@ const NEWS = {
       "source": "The Respondent",
       "pubDate": "2025-08-10",
       "summary": "The Hifadhi Scheme offers self-employed Tanzanians old-age pensions, disability, maternity, medical, survivor and funeral benefits, with flexible contributions of TZS 30,000 or 52,000 plus per month via mobile money."
+    },
+
+    {
+      "title": "NSSF offers seven-month penalty amnesty to boost employer compliance",
+      "url": "https://thebizlens.co.tz/2026/07/17/nssf-offers-seven-month-penalty-amnesty-to-boost-compliance/",
+      "source": "The BizLens (Tanzania)",
+      "pubDate": "2026-07-17",
+      "summary": "NSSF launched a penalty waiver for employers with contribution arrears (1 June to 31 Dec 2026, up to 100% for early settlers) and reported assets of about TSh 11.6 trillion by June 2026, with benefit payments now processed within 20 days versus the 60-day limit."
+    },
+    {
+      "title": "Social funds target informal sector and industrial growth",
+      "url": "https://www.businessdailyafrica.com/tanzania/news/national/social-funds-target-informal-sector-and-industrial-growth-5499180",
+      "source": "Business Daily Africa (Tanzania)",
+      "pubDate": "2026-06-15",
+      "summary": "Parliamentarians highlighted NSSF's self-employed social security scheme and PSSSF's industrial investments; NSSF aims to register 3.7 million self-employed Tanzanians by June 2031, with about 85% of the workforce in the informal sector."
     }
   ],
   "UA": [
@@ -2793,6 +2868,21 @@ const NEWS = {
       "source": "Komersant",
       "pubDate": "2025-01-01",
       "summary": "From 2025 the insurance-length requirement for age-60 retirement rose to 32 years (toward 35 by 2028); pensioners turning 70/75/80 get fixed additions, and March indexation was 11.5-17%."
+    },
+
+    {
+      "title": "Cabinet increases minimum pension payments for families of fallen and missing defenders",
+      "url": "https://www.kmu.gov.ua/en/news/uriad-pidvyshchuie-minimalni-pensiini-vyplaty-dlia-rodyn-zahyblykh-i-znyklykh-bezvisty-zakhysnykiv-ta-zakhysnyts?=print",
+      "source": "Cabinet of Ministers of Ukraine",
+      "pubDate": "2026-02-26",
+      "summary": "From 1 March 2026 minimum pension payments for families of fallen/missing defenders rise to at least UAH 12,810 per person (from UAH 7,800), indexed annually from 2027; the 2026 Pension Fund budget funds the indexation."
+    },
+    {
+      "title": "Pensions and insurance payments increased by 12.1% from March 1",
+      "url": "https://komersant.ua/en/pensii-ta-strakhovi-vyplaty-ukraintsiv-pidvyshchyly-na-12-1-shcho-zminytsia-z-1-bereznia/",
+      "source": "Komersant",
+      "pubDate": "2026-02-25",
+      "summary": "From 1 March 2026 Ukraine indexed pensions and insurance payments by 12.1% (inflation 8% + half of three-year wage growth), raising most minimums; required insurance record for age-60 retirement rose to 33 years."
     }
   ],
   "UG": [
@@ -2816,6 +2906,21 @@ const NEWS = {
       "source": "URBRA",
       "pubDate": "2026-02-04",
       "summary": "URBRA convened a November 2025 dialogue on a National Long-Term Saving Scheme for informal workers, aiming to extend structured retirement savings to the roughly 84% of Ugandans in the informal sector via mobile money."
+    },
+
+    {
+      "title": "Pension Reform Proposals presented to OPM Technical Team",
+      "url": "https://opm.go.ug/pension-reform-proposals-presented-to-opm-technical-team/",
+      "source": "Office of the Prime Minister (Uganda)",
+      "pubDate": "2026-05-11",
+      "summary": "The proposed Public Service Pension Fund converts the civil-service scheme from unfunded/non-contributory to a funded defined-benefit scheme (government 10%, employees 5%), with implementation expected in FY 2026/27."
+    },
+    {
+      "title": "Civil Servants To Co-Fund Retirement Benefits Under New Pension Scheme",
+      "url": "https://businessfocus.co.ug/civil-servants-to-co-fund-retirement-benefits-under-new-pension-scheme",
+      "source": "Business Focus (Uganda)",
+      "pubDate": "2026-07-01",
+      "summary": "The Public Service Pension Fund (PSPF) Act, 2025 ends Uganda's decades-old non-contributory pension system; contributions start 1 July 2027 (employer 10%, employee 5%), modelled on the NSSF for private workers."
     }
   ],
   "US": [
@@ -2853,6 +2958,21 @@ const NEWS = {
       "source": "Mercer CFA Institute",
       "pubDate": "2025-10-15",
       "summary": "The US scored a C+ in the 2025 Mercer Global Pension Index, ranking behind many developed nations. Strengths noted in integrity and regulation, but adequacy concerns persist for lower-income retirees."
+    },
+
+    {
+      "title": "Social Security announces 2.8% COLA for 2026",
+      "url": "https://www.ssa.gov/blog/en/posts/2025-10-24.html",
+      "source": "Social Security Administration",
+      "pubDate": "2025-10-24",
+      "summary": "The 2026 cost-of-living adjustment is 2.8%, up from 2.5% in 2025, raising the average retired-worker benefit to about $2,071/month and the maximum taxable earnings base to $184,500; the full retirement age reaches 67 for those born in 1960 or later."
+    },
+    {
+      "title": "6 changes to Social Security in 2026: COLA, full retirement age, tax limit",
+      "url": "https://kiplinger.com/retirement/social-security/changes-coming-to-social-security-in-2026",
+      "source": "Kiplinger",
+      "pubDate": "2026-01-01",
+      "summary": "Key 2026 changes include the 2.8% COLA, the full retirement age hitting 67 for the 1960 birth cohort (effective November 2026), the wage base rising to $184,500, and higher earnings-test exempt amounts ($24,480 / $65,160)."
     }
   ],
   "UY": [
@@ -2869,6 +2989,21 @@ const NEWS = {
       "source": "Coface",
       "pubDate": "2026-04-28",
       "summary": "After the Orsi administration's 2026 Social Dialogue white paper, structural changes such as abolishing AFAPs were ruled out, while a new early-retirement option from age 60 (legal age staying at 65) was proposed for lower-income workers."
+    },
+
+    {
+      "title": "Uruguay confirms referendum on social security reform for 27 October 2026",
+      "url": "https://www.latinnews.com/component/k2/item/102073-in-brief-reactions-as-uruguay-confirms-referendum-on-social-security-reform.html",
+      "source": "LatinNews",
+      "pubDate": "2026-07-03",
+      "summary": "Electoral authorities confirmed an October referendum on social-security reform -- eliminating private AFAP managers, lowering the retirement age to 60 and aligning minimum pensions with the minimum wage -- to be held alongside the presidential election."
+    },
+    {
+      "title": "Uruguay 2026: Orsi administration weighs pension changes after Social Dialogue",
+      "url": "http://www.coface.ro/en/Economic-Analysis/Uruguay",
+      "source": "Coface",
+      "pubDate": "2026-04-30",
+      "summary": "After the April 2026 Social Dialogue white paper, the government ruled out abolishing the AFAPs but proposed a new early-retirement option from age 60 (legal age staying 65); most changes still require legislative approval."
     }
   ],
   "VN": [
@@ -2892,6 +3027,21 @@ const NEWS = {
       "source": "SSA International Update",
       "pubDate": "2024-11-01",
       "summary": "Under the 2019 roadmap, 2025 retirement ages are 61y3m (men) and 56y8m (women), reaching 62 and 60 by 2028 and 2035; the replacement rate starts at 40% (men)/45% (women) for 15 years of contributions."
+    },
+
+    {
+      "title": "New Decree 85/2026 on supplementary pension insurance takes effect 10 May 2026",
+      "url": "https://en.congdoanvietnam.vn/thoi-su/mot-quy-dinh-lien-quan-luong-huu-chinh-thuc-co-hieu-luc-tu-105-32688.tld",
+      "source": "Vietnam Trade Union",
+      "pubDate": "2026-05-10",
+      "summary": "Decree 85/2026/ND-CP (issued 25 March 2026, effective 10 May) replaces Decree 88/2016 and builds a voluntary, market-based supplementary pension pillar with individual accounts managed by licensed pension fund companies."
+    },
+    {
+      "title": "Vietnam moves to boost supplementary pension funds under new decree",
+      "url": "https://vss.gov.vn/english/news/Pages/external-information.aspx?CateID=0&ItemID=13016",
+      "source": "Vietnam Social Security",
+      "pubDate": "2026-06-22",
+      "summary": "By end-2025 seven supplementary pension funds held about VND 2,210 billion for over 28,500 members; the Finance Ministry has proposed raising the tax-deductible contribution limit to VND 3 million/month to deepen the second pillar."
     }
   ],
   "ZA": [
@@ -2915,6 +3065,20 @@ const NEWS = {
       "source": "Discovery",
       "pubDate": "2025-09-01",
       "summary": "Discovery reports that only 39% of eligible members had withdrawn from their savings pot by June 2025, and projects that mandatory preservation could roughly double retirement savings over 40 years."
+    },
+    {
+      "title": "South Africa's two-pot third withdrawal window opens for 2026/27 tax year",
+      "url": "https://wealthtec.co.za/news/articles/two-pot-retirement-system-what-south-africans-need-to-know-2026",
+      "source": "Wealthtec",
+      "pubDate": "2026-03-01",
+      "summary": "The third savings-pot withdrawal window opened on 1 March 2026 at the start of the 2026/27 tax year, giving members a fresh once-a-year chance to access their savings pot; by mid-2025 about 4 million two-pot withdrawals totalling roughly R57 billion had been processed."
+    },
+    {
+      "title": "2026 Budget lifts Retirement Annuity deduction cap to R430,000",
+      "url": "https://finserv-mcp.co.za/modules/retirement-planning",
+      "source": "Finserv (ZA retirement calculators)",
+      "pubDate": "2026-02-25",
+      "summary": "The 2026 Budget raised the annual Retirement Annuity (and pension/provident fund) deduction cap from R350,000 to R430,000 while keeping the 27.5% rate, giving higher-income earners more tax-relieved retirement saving room."
     }
   ]
 };
