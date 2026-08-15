@@ -640,6 +640,20 @@ const NEWS = {
       "source": "Lockton",
       "pubDate": "2025-09-01",
       "summary": "The PGU rises to CLP 250,000 in stages - for those aged 82+ from September 2025, 75+ from September 2026 and 65+ from September 2027. SIS is integrated into FAPP from August 2026, AFP multi-fund offerings are replaced by 10 target-date funds from April 2027, and competitive bidding for 10% of accounts begins August 2027."
+    },
+    {
+      "title": "Chile begins phased rollout of mixed pension system as employer contributions start",
+      "url": "https://knowledge.dlapiper.com/dlapiperknowledge/globalemploymentlatestdevelopments/2025/start-of-the-new-mixed-pension-and-social-security-system-",
+      "source": "DLA Piper",
+      "pubDate": "2025-08-01",
+      "summary": "Under Law 21.735, mandatory employer contributions to Chile's new mixed pension system began on 1 August 2025, starting with a 1% rise (0.1% to individual accounts, 0.9% to the Autonomous Pension Protection Fund), climbing to 8.5% by 2033; the Social Security Pension Insurance pillar and a women's supplement follow from January 2026."
+    },
+    {
+      "title": "Chile's new social-insurance pension pays first benefits to 1.37 million retirees",
+      "url": "https://www.latinometrics.com/articles/how-much-does-latin-america-save-to-retire",
+      "source": "Latinometrics",
+      "pubDate": "2026-01-31",
+      "summary": "Chile's new FAPP social-insurance component (the first pooled fund inside the contributory pillar since 1981) banked about US$446 million by November 2025 and paid its first benefits to 1.37 million pensioners in January 2026, while the guaranteed universal pension (PGU) is being raised from about US$240 to US$265/month phased by age through 2027."
     }
   ],
   "CN": [
@@ -691,6 +705,20 @@ const NEWS = {
       "source": "People's Political Consultative Daily",
       "pubDate": "2026-02-02",
       "summary": "New 2025 rules add three personal-pension withdrawal conditions - high medical expenses, 12 months of unemployment benefits, or receiving subsistence allowances - while keeping contributions. From 2026 the minimum basic-pension contribution period begins a gradual rise from 15 to 20 years (plus 0.5 years per year, reaching 20 by 2036)."
+    },
+    {
+      "title": "China begins phased raise of statutory retirement age from 1 January 2025",
+      "url": "https://www.gov.cn/yaowen/liebiao/202409/content_6974294.htm",
+      "source": "State Council of China (gov.cn)",
+      "pubDate": "2024-09-13",
+      "summary": "From 1 January 2025, China started a 15-year phased increase of the statutory retirement age -- men from 60 to 63, women from 50/55 to 55/58 -- with a flexible early/late window of up to 3 years and a rise in the minimum contribution period from 15 to 20 years starting 2030."
+    },
+    {
+      "title": "China's 15th Five-Year Plan outlines pension and flexible-retirement measures for 2026",
+      "url": "https://big5.china.com.cn/gate/big5/guoqing.china.com.cn/2025-12/17/content_118232385.shtml",
+      "source": "China.org.cn (State Council Information Office)",
+      "pubDate": "2025-12-17",
+      "summary": "The 15th Five-Year Plan proposal calls for steadily implementing the phased retirement-age delay and optimising employment and social-insurance age limits, removing the household-registration barrier for flexible/non-standard workers to join workplace pension insurance and tilting pension adjustments toward lower-income retirees."
     }
   ],
   "CO": [
@@ -728,6 +756,20 @@ const NEWS = {
       "source": "Muñoz Abogados",
       "pubDate": "2025-07-15",
       "summary": "Under Law 2381 the solidarity pillar upgrades the Colombia Mayor safety-net from 80,000 to 223,000 pesos per month and expands coverage from about 1.7 million to 2.5 million vulnerable seniors, while contributors with 300-999 weeks gain access to the Renta Vitalicia."
+    },
+    {
+      "title": "Colombia's 2025 pension reform hit by Constitutional Court 'technical pause'",
+      "url": "https://practiceguides.chambers.com/practice-guides/private-wealth-2025/colombia",
+      "source": "Chambers Practice Guides",
+      "pubDate": "2025-06-25",
+      "summary": "In June 2025 the Constitutional Court found procedural flaws in the final vote on Law 2381 of 2024 (four-pillar reform, effective 1 July 2025) and suspended implementation, returning it to Congress for a fresh vote within 30 working days, leaving full roll-out uncertain."
+    },
+    {
+      "title": "Colombia cuts minimum contribution weeks for women from January 2026",
+      "url": "https://www.pensionpolicyinternational.com/ponen-a-fondos-de-pension-en-colombia-contra-las-cuerdas-corte-constitucional-los-obliga-a-exigir-menos-semanas-a-esta-poblacion/",
+      "source": "Pension Policy International",
+      "pubDate": "2026-01-05",
+      "summary": "Following a Constitutional Court ruling, from 1 January 2026 the minimum contribution weeks for women to qualify for an old-age pension in the prima-media regime fell by 50 weeks (to 1,250 in 2026), on a path to 1,000 weeks by 2036, applied across both Colpensiones and private funds."
     }
   ],
   "CY": [
@@ -765,6 +807,20 @@ const NEWS = {
       "source": "Oulla (Labour Ministry)",
       "pubDate": "2026-07-01",
       "summary": "The minister confirmed the first-pillar reform bill will be submitted to the House by 20 September 2026 regardless of social-partner agreement, with the system taking effect 1 January 2027. The reform also ends the state's long-standing borrowing from the Social Insurance Fund, whose roughly EUR 11-12 billion on deposit with the state will be addressed."
+    },
+    {
+      "title": "Cyprus updates 2026 social insurance ceiling and GESY contribution rules",
+      "url": "https://www.zenolegal.com/resources/cyprus-social-insurance-ghs-gesy-2026",
+      "source": "Zeno Legal",
+      "pubDate": "2026-01-10",
+      "summary": "For 2026 Cyprus kept Social Insurance rates at 8.8% (employee) / 8.8% (employer) / 16.6% (self-employed) -- set in 2024 and locked through 2028 -- while raising the maximum insurable earnings ceiling to EUR 68,904/year; GESY health contributions (2.65% employee / 2.90% employer, uncapped to EUR 180,000) were unchanged."
+    },
+    {
+      "title": "Cyprus confirms next social insurance rate step-up deferred to 2029",
+      "url": "https://www.cyprustaxlife.com/news/cyprus-social-insurance-rates-2026",
+      "source": "Cyprus Tax Life",
+      "pubDate": "2026-01-15",
+      "summary": "Under the Social Insurance Law's long-term funding schedule, Cyprus will hold the 8.8%/8.8% employee/employer rates through end-2028 and next raise them to 10.7% each (21.4% combined) on 1 January 2029, part of a gradual climb toward about 10.3-10.7% by 2039 to keep the Fund actuarially solvent."
     }
   ],
   "CZ": [
@@ -802,6 +858,20 @@ const NEWS = {
       "source": "Dostupny advokat",
       "pubDate": "2026-01-01",
       "summary": "Already-paid pensions were adjusted from January 2026: the basic pension amount increased by CZK 240 to CZK 4,900 and the percentage component rose by 2.6%. The Ministry also signalled a proposal to return the maximum retirement age to 65, though that would take effect no earlier than 2028."
+    },
+    {
+      "title": "Czech pensions rise in 2026 under statutory indexation",
+      "url": "https://2fp.cz/minimalni-duchody-se-navazaly-na-prumernou-mzdu",
+      "source": "2FP.cz (financial server)",
+      "pubDate": "2026-01-12",
+      "summary": "From January 2026 Czech pensions were revalued by CZK 240 in the flat-rate component and 2.6% in the earnings-related component (Government Regulations 364/2025 and 365/2025), lifting the average old-age pension by about CZK 668 per month."
+    },
+    {
+      "title": "Czech Republic links minimum pension to average wage, nearly doubling it",
+      "url": "https://2fp.cz/minimalni-duchody-se-navazaly-na-prumernou-mzdu",
+      "source": "2FP.cz",
+      "pubDate": "2026-01-05",
+      "summary": "From January 2026 the minimum old-age pension was re-pegged to 20% of the average wage (both the basic and percentage components set at CZK 4,900 each), lifting the floor to CZK 9,800/month -- nearly double the 2025 level of CZK 5,430 -- with automatic annual valorisation."
     }
   ],
   "DE": [
@@ -853,6 +923,20 @@ const NEWS = {
       "source": "The Brussels Times / dpa",
       "pubDate": "2026-06-23",
       "summary": "Chancellor Merz committed to implementing all 33 recommendations of the pension commission: a new 2% paritarian contribution invested in capital markets (Sweden model), gradual raising of the retirement age beyond 67 linked to life expectancy, and abolition of the early-retirement-after-45-years rule (minimum age becomes 64)."
+    },
+    {
+      "title": "Germany's 2025 pension package takes effect, freezing pension level at 48%",
+      "url": "http://uk.marketscreener.com/news/key-points-of-germany-s-bill-to-raise-pensions-ce7d51dcdc81f320",
+      "source": "Reuters",
+      "pubDate": "2025-12-05",
+      "summary": "The Bundestag passed the 2025 pension package (Rentenpaket II), effective 1 January 2026: it guarantees the standard pension stays at 48% of average wages through 2031, extends the 'mother's pension' childcare credit (up to 3 years) to parents of pre-1992 children, and lets retirees earn up to EUR 2,000/month tax-free."
+    },
+    {
+      "title": "Germany to implement full pension commission roadmap including capital-funded pillar",
+      "url": "https://www.brusselstimes.com/2204803/germany-pushes-on-with-major-pension-reform",
+      "source": "The Brussels Times",
+      "pubDate": "2026-06-23",
+      "summary": "On 23 June 2026 Chancellor Merz confirmed all 33 proposals of the pension commission will be implemented: employees and employers would each contribute an additional 2% of wages to a state fund invested in capital markets, the statutory retirement age will gradually rise beyond 67 linked to life expectancy, and the 45-year-contribution early-retirement route (minimum age 64) will be abolished."
     }
   ],
   "DK": [
@@ -890,6 +974,20 @@ const NEWS = {
       "source": "Life in Denmark (Borger.dk)",
       "pubDate": "2026-01-01",
       "summary": "For 2026 the Folkepension basic amount is DKK 7,544/month before tax, with a means-tested supplement of up to DKK 8,729 for single pensioners (DKK 4,467 if cohabiting), giving a single retiree up to DKK 16,273/month. Wage income does not reduce the basic amount, encouraging older workers to stay employed."
+    },
+    {
+      "title": "Denmark confirms retirement age will reach 70 for those born from 1971",
+      "url": "https://www.thelocal.dk/20240808/how-denmark-is-raising-the-retirement-age-in-the-coming-years",
+      "source": "The Local",
+      "pubDate": "2025-05-20",
+      "summary": "In May 2025 Parliament confirmed the automatic life-expectancy link will lift Denmark's state pension (folkepension) age to 70 for people born in 1971 or later (effective 2040); the age is already 67 in 2026 and rises to 68/69 for intervening cohorts."
+    },
+    {
+      "title": "Denmark sets 2026 folkepension amounts and income thresholds",
+      "url": "https://lifeindenmark.borger.dk/pension/state-pension",
+      "source": "Life in Denmark (borger.dk)",
+      "pubDate": "2026-01-01",
+      "summary": "For 2026 Denmark's folkepension basic amount is DKK 7,544/month before tax, with a means-tested supplement of up to DKK 8,729 (single) / DKK 4,467 (cohabiting); wage income does not reduce the pension, and the supplement begins phasing out above DKK 99,200 annual other income."
     }
   ],
   "EE": [
@@ -927,6 +1025,20 @@ const NEWS = {
       "source": "Arveteenus (Pension Centre)",
       "pubDate": "2025-06-01",
       "summary": "Estonia's system has three pillars: a pay-as-you-go state pension, a mandatory funded Pillar II (2% of salary plus 4% from social tax, optionally raised to 4-6% from 2025), and a voluntary Pillar III. Studies cited by providers warn the average state pension will fall to about one-third of the average wage, underscoring the role of funded saving."
+    },
+    {
+      "title": "Estonia to shorten second-pillar re-entry lock from 10 to 5 years",
+      "url": "https://news.err.ee/1609703778/reform-eesti-200-coalition-deal-finally-released-includes-tax-pension-changes",
+      "source": "ERR News",
+      "pubDate": "2025-05-24",
+      "summary": "The Reform-Eesti 200 coalition agreement (24 May 2025) pledges to cut the wait to rejoin the voluntary second pension pillar from ten years to five, strengthen the three-pillar system and continue pension indexation; since 2025 members can choose to contribute 2%, 4% or 6% of gross salary with a 4% state top-up."
+    },
+    {
+      "title": "Estonia drafts law locking in second-pillar protections against future raids",
+      "url": "https://news.err.ee/1609918415/government-moves-to-restrict-politicians-from-tampering-with-pension-funds",
+      "source": "ERR News",
+      "pubDate": "2025-06-15",
+      "summary": "The Finance Ministry is drafting a bill to protect the second pension pillar: shortening the re-entry ban to five years, banning more than one exit, allowing only partial withdrawals, and requiring any future worsening change to be announced five years in advance -- correcting the 2021 reform that let about 250,000 people withdraw savings."
     }
   ],
   "EG": [
@@ -964,6 +1076,20 @@ const NEWS = {
       "source": "Egypt Today",
       "pubDate": "2025-11-30",
       "summary": "The National Organization for Social Insurance raised the minimum contribution wage from EGP 2,300 to EGP 2,700 and the maximum from EGP 14,500 to EGP 16,700, effective 1 January 2026. As a result the minimum pension rises to EGP 1,755 and the maximum to EGP 13,360, continuing the gradual uplift under Law 148/2019."
+    },
+    {
+      "title": "Egypt ratifies Social Insurance amendments raising treasury pension payments",
+      "url": "https://www.egypttoday.com/Article/1/147604/President-El-Sisi-ratifies-amendments-to-social-insurance-and-pensions",
+      "source": "Egypt Today",
+      "pubDate": "2026-06-07",
+      "summary": "On 7 June 2026 President El-Sisi ratified Law 11/2026, amending Article 111 of the 2019 Social Insurance and Pensions Law: the state treasury's annual payment to the National Organization for Social Insurance rises to EGP 238.55 billion in FY2025/26, grows at a 6.4% compound rate from 1 July 2026 toward 7% by 2029, with an extra EGP 1 billion/year for five years under a 50-year settlement plan."
+    },
+    {
+      "title": "Egypt's parliament approves pension-law amendment despite opposition criticism",
+      "url": "https://english.ahram.org.eg/News/567366.aspx",
+      "source": "Ahram Online",
+      "pubDate": "2026-05-25",
+      "summary": "The House of Representatives gave final approval to the government's amendment to the 2019 Social Insurance and Pensions Law, raising the treasury's annual contribution by about EGP 11 billion to forestall a projected 2036 deficit; opposition MPs criticised it as narrow and insufficient for pension adequacy."
     }
   ],
   "ES": [
@@ -994,6 +1120,20 @@ const NEWS = {
       "source": "Euro Weekly News",
       "pubDate": "2026-01-04",
       "summary": "The Intergenerational Equity Mechanism (MEI) contribution rises from 0.8% to 0.9% in 2026 (0.75% employer / 0.15% employee), heading to 1.2% by 2029. Minimum contributory pensions rise just over 7% and non-contributory pensions plus the Minimum Living Income about 11.4%, as spending tops EUR 200 billion."
+    },
+    {
+      "title": "Spain's 2026 pension reform raises retirement age and introduces dual calculation",
+      "url": "https://www.spenceclarke.com/articles/spains-pension-changes-for-2026-what-you-need-to-know/",
+      "source": "Spence Clarke",
+      "pubDate": "2026-01-01",
+      "summary": "From 1 January 2026 Spain's ordinary retirement age rises to 66 years and 10 months (65 only with 38y3m+ of contributions), contributory pensions increase about 2.7%, a dual calculation automatically picks the most favourable of 25-year and 25y4m methods, and the Intergenerational Equity Mechanism (MEI) contribution rises to 0.9%."
+    },
+    {
+      "title": "OECD urges Spain to reactivate sustainability factor as costs climb",
+      "url": "https://europeanpensions.net/ep/OECD-highlights-remaining-barriers-in-Spain-pension-flexibility-reforms.php",
+      "source": "European Pensions",
+      "pubDate": "2025-06-15",
+      "summary": "The OECD's 2025 Economic Survey of Spain welcomed progress on flexible retirement but warned a sizeable funding gap persists, with pension spending projected to rise from 12.9% of GDP (2023) to 16.1% by 2050, and recommended reactivating a life-expectancy/sustainability adjustment."
     }
   ],
   "FI": [
@@ -1024,6 +1164,20 @@ const NEWS = {
       "source": "European Pensions",
       "pubDate": "2026-01-15",
       "summary": "ETK analysis finds the 2025 reform - which loosens investment rules for occupational pension insurers and adds a third automatic stabiliser (the inflation stabiliser) - raises expected long-term returns but increases contribution volatility. The inflation stabiliser limits index growth if wages lag prices; its impact on pensions is minor."
+    },
+    {
+      "title": "Finland confirms 2026 earnings-related pension index at +0.9%",
+      "url": "https://www.varma.fi/en/this-is-varma/current-issues/news-and-articles/news/2025-q4/indices-for-earnings-related-pension-cover-for-2026-have-been-confirmed",
+      "source": "Varma",
+      "pubDate": "2025-10-31",
+      "summary": "The Ministry of Social Affairs and Health confirmed the 2026 earnings-related pension index at 3104 (+0.9% on 2025) and the wage coefficient at 1.712 (+2.3%); paid pensions are adjusted automatically each January, while a 2026-2030 pension reform stabilises the TyEL contribution at 24.4% and boosts investment risk-taking."
+    },
+    {
+      "title": "Finland's earnings-related pension reform stabilises contributions to 2030",
+      "url": "https://www.ilmarinen.fi/media_global/liitepankki/ilmarinen/taloudellisia-tietoja/tulostiedotus/2025/k3/tulosraportti-q3_2025-ilmarinen_en.pdf",
+      "source": "Ilmarinen",
+      "pubDate": "2025-10-20",
+      "summary": "The agreed Finnish earnings-related pension reform stabilises the TyEL contribution at 24.4% for 2026-2030, improves funding and allows higher equity weighting (link to equity yield raised from 20% to 30%), introduces an inflation stabiliser in 2030 limiting annual index increments, with no changes to pension benefits or the retirement age."
     }
   ],
   "FR": [
@@ -1075,6 +1229,20 @@ const NEWS = {
       "source": "France Daily Times / MENAFN",
       "pubDate": "2025-12-10",
       "summary": "The Senate removed Article 45 of the 2026 Social Security Financing Bill (190-108), rejecting the freeze of the legal retirement age at 62y9m and the pause in contribution-period extension. The reform's path to age 64 (for those born 1968+) therefore remains in force, sending the bill to a joint committee."
+    },
+    {
+      "title": "France suspends 2023 pension reform, keeps retirement age below 64 until 2028",
+      "url": "https://www.france24.com/en/live-news/20251216-french-lawmakers-adopt-social-security-budget-suspend-macron-s-flagship-pension-reform",
+      "source": "FRANCE 24",
+      "pubDate": "2025-12-16",
+      "summary": "On 16 December 2025 the National Assembly adopted the 2026 Social Security Financing Act (247-232), suspending the 2023 reform that would raise the legal retirement age to 64; the age is held at 62y9m-63y9m for those born 1964-1968 and will resume for those born from 1969, pushing the 64 threshold to 2028."
+    },
+    {
+      "title": "France details pension-reform suspension: applies from 1 September 2026",
+      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A18825?lang=en",
+      "source": "service-public.fr (French administration)",
+      "pubDate": "2026-08-07",
+      "summary": "The 2026 Social Security Financing Law (No. 2025-1403 of 30 December 2025) suspends the 2023 reform's age and contribution-duration increases from 1 September 2026; the legal age of 64 no longer applies to those born in 1968 (now 63y9m, 172 quarters) and long-career early-retirement rules are relaxed for birth years 1964-1968."
     }
   ],
   "GB": [
