@@ -1294,6 +1294,20 @@ const NEWS = {
       "source": "GOV.UK / analysts",
       "pubDate": "2026-04-06",
       "summary": "With the full new State Pension rising to £241.30/week (£12,534.60/year) from April 2026, it now sits just below the frozen £12,570 personal allowance. Experts warn that with the allowance frozen to 2028, more pensioners with modest other income will pay income tax from 2027/28."
+    },
+    {
+      "title": "UK Pension Schemes Act comes into force in 'landmark moment', Pensions Minister says",
+      "url": "https://www.europeanpensions.net/ep/UK-Pension-Schemes-Act-comes-into-force-in-landmark-moment-Bell-says.php",
+      "source": "European Pensions",
+      "pubDate": "2026-04-29",
+      "summary": "The UK Pension Schemes Act 2026 received Royal Assent on 29 April 2026 and came into force the same day. Pensions Minister Torsten Bell called it a 'landmark moment' for the 22 million workers building up a pension pot, estimating the law could boost the average worker's pension by up to GBP 29,000 through better performance, diversification and lower costs."
+    },
+    {
+      "title": "Landmark UK pensions reform becomes law, benefiting 20 million savers",
+      "url": "https://members.cspa.co.uk/landmark-uk-pensions-reform-becomes-law",
+      "source": "Civil Service Pensioners' Alliance",
+      "pubDate": "2026-04-29",
+      "summary": "The Pension Schemes Act requires schemes to prove they deliver value for money, enables automatic consolidation of small pension pots, and creates larger, better-performing funds. Key measures include multi-employer DC 'megafunds' of at least GBP 25bn, LGPS asset consolidation into FCA-regulated pools, and greater flexibility for DB schemes to release surplus (unlocking around GBP 160bn)."
     }
   ],
   "GH": [
@@ -1331,6 +1345,20 @@ const NEWS = {
       "source": "GBC Ghana",
       "pubDate": "2026-01-15",
       "summary": "SSNIT Director-General Kwasi Afreh Biney again cautioned against a hasty rise in the retirement age, arguing it could delay youth employment by five to seven years. He called for broad national consultations rather than a single institution deciding, as the 60-to-65 debate continues."
+    },
+    {
+      "title": "SSNIT raises pensions, launches telehealth, and cuts processing time to seven days in 2026",
+      "url": "https://ghnewsonline.com/2026/06/ssnit-2026-pension-raised-telehealth-launched-processing-cut-to-7-days-full-update-for-contributors-and-pensioners/",
+      "source": "Ghana News Online",
+      "pubDate": "2026-06-15",
+      "summary": "SSNIT approved a 10% pension indexation for 2026, raising the minimum monthly pension to GHS 400; pensioners previously on GHS 300 now receive GHS 409.56. The Trust also launched a telehealth service, cut processing time to seven days, raised the insurable earnings ceiling, and introduced a Loyalty Programme offering pensioners discounts."
+    },
+    {
+      "title": "Ghana raises SSNIT maximum insurable earnings to GHS 69,000 for 2026",
+      "url": "https://www.taxlawgh.com/ghana-ssnit-calculator",
+      "source": "TaxLawGH",
+      "pubDate": "2026-01-01",
+      "summary": "From 1 January 2026, SSNIT and the National Pensions Regulatory Authority raised the maximum insurable earnings for SSNIT contributions to GHS 69,000 (from GHS 61,000 in 2025), with a maximum monthly contribution of GHS 9,315, while the minimum insurable earnings rose to GHS 587.80, under the National Pensions Act 2008 (Act 766)."
     }
   ],
   "GR": [
@@ -1368,6 +1396,20 @@ const NEWS = {
       "source": "Parapolitika",
       "pubDate": "2026-01-20",
       "summary": "From 2026 Greece's pension calculation will factor the wage-change index rather than average inflation, expected to deliver larger increases. EFKA recorded 48,041 new retirement applications in Q1 2025, and 2026 is seen as a sweet spot before age limits tighten."
+    },
+    {
+      "title": "Greece's 2026 pension surge: 129,300 retirement applications, 70% women",
+      "url": "https://www.wherewework.gr/en/news-and-articles/greeces-2026-pension-surge-129300-retirement-applications-70-women-485",
+      "source": "Where We Work",
+      "pubDate": "2026-08-01",
+      "summary": "Between January and July 2026 roughly 129,300 people in Greece filed to start drawing a pension -- the highest nine-month total since e-EFKA was founded in 2017 -- with women making up about seven in ten applications, as workers rush to retire before potential rule changes from 2027."
+    },
+    {
+      "title": "Greece pension applications reach record 110,000 in first half of 2026",
+      "url": "https://24hoursworlds.com/greece-pension-applications-reach-record-110000-in-2026",
+      "source": "24 Hours Worlds",
+      "pubDate": "2026-07-10",
+      "summary": "Greek workers submitted 110,298 retirement applications to EFKA in the first half of 2026, a record six-month high and the highest since EFKA's 2017 creation. Nearly one in two applicants sought recognition of fictitious insurance years to complete 40 years of service and claim a full pension at age 62."
     }
   ],
   "HK": [
@@ -1405,6 +1447,20 @@ const NEWS = {
       "source": "Hong Kong Government / MPFA",
       "pubDate": "2026-01-23",
       "summary": "Hong Kong gazetted legal notices for the final MPF schemes to join eMPF and confirmed Full Portability Phase One (employees hired from 1 May 2025) will launch in Q4 2026, letting members transfer employer mandatory contributions to a scheme of their choice once a year."
+    },
+    {
+      "title": "eMPF fully operational as all MPF schemes join the platform in 2026",
+      "url": "https://blog.moneysmart.hk/zh-hk/budgeting/%E7%A9%8D%E9%87%91%E6%98%93-empf-%E6%98%AF%E4%BB%80%E9%BA%BC-%E5%BC%B7%E7%A9%8D%E9%87%91-%E6%95%B4%E5%90%88-%E6%95%99%E5%AD%B8",
+      "source": "MoneySmart",
+      "pubDate": "2026-01-29",
+      "summary": "All 24 MPF schemes migrated onto the eMPF Platform in the first half of 2026; HSBC's SuperTrust Plus and Hang Seng's MPF schemes -- among the last batch -- joined on 29 January 2026, letting members consolidate and manage all accounts through a single digital portal. Hang Seng also cut management fees on 10 constituent funds by up to 27%."
+    },
+    {
+      "title": "MPFA steps up identity checks for eMPF withdrawal applications",
+      "url": "https://www.mpfa.org.hk/en/info-centre/press-releases/20260726",
+      "source": "MPFA (Mandatory Provident Fund Schemes Authority)",
+      "pubDate": "2026-07-26",
+      "summary": "From end-July 2026, the eMPF Platform requires scheme members submitting most MPF withdrawal applications -- including those at age 65 -- to complete step-up authentication through 'iAM Smart' and real-time facial identification, except small-balance (HKD 5,000 or below) and death claims, following isolated cases of false declarations and counterfeit IDs."
     }
   ],
   "HR": [
@@ -1442,6 +1498,20 @@ const NEWS = {
       "source": "Expat in Croatia",
       "pubDate": "2026-01-01",
       "summary": "Effective January 2026, Croatia's women's retirement age rose to 64 (up three months a year to 65 by 2030), the early-retirement penalty is abolished at age 70, and pensioners may work full-time while receiving 50% of their pension. Minimum pensions rose about 3%."
+    },
+    {
+      "title": "Croatian PM announces abolition of pension income tax for 580,000 retirees",
+      "url": "https://www.cereport.eu/news/politics/92598",
+      "source": "CE Report",
+      "pubDate": "2026-07-24",
+      "summary": "Prime Minister Andrej Plenkovic announced at the Economic and Social Council that the government plans to abolish income tax on pensions for around 580,000 pensioners. He also noted EUR 10.2 billion has been allocated for pensions in 2026, with the minimum pension up 128% and the average pension up 104% versus the 2016 baseline."
+    },
+    {
+      "title": "Croatia to abolish pension tax from January 2027, a year earlier than planned",
+      "url": "https://en.lider.media/2026/05/26/the-government-abolishes-pension-tax-who-benefits-the-most-and-who-gets-nothing",
+      "source": "Lider Media",
+      "pubDate": "2026-05-26",
+      "summary": "The government will abolish income tax on pensions from 1 January 2027, bringing the measure forward by a year. About 491,000 pensioners paid pension tax in March 2026; the cut is worth roughly EUR 200 million and benefits higher pensions most, while those below the EUR 600 personal allowance gain nothing."
     }
   ],
   "HU": [
@@ -1479,6 +1549,20 @@ const NEWS = {
       "source": "European Times",
       "pubDate": "2026-06-01",
       "summary": "From June 2026 Hungary will extend the widow's pension to separated spouses (not just cohabiting ones) and allow old-age pensioners to receive their pension without terminating their employment or insurance contract — important for healthcare workers who can keep practising."
+    },
+    {
+      "title": "Hungary launches 14th-month pension from February 2026",
+      "url": "https://budapest-news.com/orban-viktor-bejelentette-igy-valtozik-a-2026-os-februari-nyugdij-2/",
+      "source": "Budapest News",
+      "pubDate": "2026-02-01",
+      "summary": "Prime Minister Orban announced that from February 2026 Hungary begins introducing a 14th-month pension, initially worth about one week's payment and planned to build to a full extra month over four years, on top of the 13th-month pension restored in 2024. February 2026 combined the regular payment, the full 13th month, and the first slice of the 14th."
+    },
+    {
+      "title": "Hungary's pensioners: 14th-month handout masks deep inequality, 3.6% January rise",
+      "url": "https://www.mreast.eu/2026/04/hungarys-elderly-courted-at-the-ballot-box-squeezed-in-everyday-life",
+      "source": "MREAST",
+      "pubDate": "2026-04-15",
+      "summary": "Pensions were increased by 3.6% in January 2026 to reflect projected inflation, yet about a third of Hungarian retirees are considered relatively poor and roughly a sixth live in extreme poverty, with a large gap between the average pension (around 260,993 forint) and the minimum. The 13th and 14th pensions are widely seen as electoral sweeteners."
     }
   ],
   "ID": [
@@ -1516,6 +1600,20 @@ const NEWS = {
       "source": "Detik Finance / Harian Basis",
       "pubDate": "2026-01-15",
       "summary": "BPJS stresses that 59 is the pension-eligibility age, not a forced retirement; companies may set their own internal age. A minimum 180 months (15 years) of contributions is required for monthly pension benefits, otherwise a lump sum is paid. JHT savings remain a separate retirement pot."
+    },
+    {
+      "title": "OJK: Indonesian pension fund assets hit IDR 1,693 trillion, approves first IM-led DPLK",
+      "url": "https://institute.ojk.go.id/iru/WebSite/ArticleList/View/1028_June_2026_Board_of_Commissioners_Meeting:_Maintaining_Financial_Sector_Resilience_and_Strong_Intermediation_to_Support_Economic_Growth",
+      "source": "OJK (Financial Services Authority)",
+      "pubDate": "2026-07-07",
+      "summary": "As of May 2026 total pension fund assets rose 7.71% yoy to IDR 1,693.37 trillion (voluntary programmes IDR 410.65tn, +4.94%; mandatory programmes IDR 1,282.72tn, +8.63%). In June 2026 OJK approved DPLK Sinarmas Asset Management, the first Financial Institution Pension Fund (DPLK) established by an Investment Manager."
+    },
+    {
+      "title": "OJK records 7.71% growth in pension fund assets in May 2026",
+      "url": "https://ifcnews.id/news/ojk-records-insurance-industry-assets-grew-287-in-may-2026-6a4d63fa11318648520117ff",
+      "source": "IFC News",
+      "pubDate": "2026-07-07",
+      "summary": "OJK reported Indonesian pension fund industry assets grew 7.71% yoy to IDR 1,693.37 trillion as of May 2026, with mandatory programmes (BPJS Ketenagakerjaan old-age and pension security, plus civil-servant schemes) reaching IDR 1,282.72 trillion (+8.63%). The regulator continues to stress governance and participant protection."
     }
   ],
   "IE": [
@@ -1546,6 +1644,20 @@ const NEWS = {
       "source": "Department of Social Protection (Gov.ie)",
       "pubDate": "2025-12-15",
       "summary": "Minister Calleary said over 77,000 employers (about 645,000 employees) had registered on the MyFutureFund portal by December 2025, with contributions starting from January pay-dates. A statutory instrument sets exemption standards: DC occupational schemes need at least 3.5% total contributions to opt out."
+    },
+    {
+      "title": "MyFutureFund: over 800,000 workers auto-enrolled six months on",
+      "url": "https://www.rbk.ie/insight/myfuturefund-six-months-on",
+      "source": "RBK",
+      "pubDate": "2026-06-18",
+      "summary": "By 18 June 2026 more than 800,000 employees had been automatically enrolled in Ireland's MyFutureFund auto-enrolment scheme, over 9,000 had joined voluntarily, about 112,750 employers were participating, and total contributions had reached EUR 323 million. The first opt-out windows opened in July."
+    },
+    {
+      "title": "Hundreds of thousands of Irish workers can opt out of auto-pension from July",
+      "url": "https://www.irishtimes.com/your-money/2026/06/01/workers-signed-up-to-states-auto-enrolment-pension-scheme-can-opt-out-from-next-month",
+      "source": "The Irish Times",
+      "pubDate": "2026-06-01",
+      "summary": "Almost 770,000 workers were compulsorily signed up to My Future Fund on 1 January 2026. From 1 July a two-month opt-out window opened; those who leave get their own contributions refunded while employer and State contributions remain invested. Rates are 1.5% employee / 1.5% employer / 0.5% State, rising over the decade."
     }
   ],
   "IL": [
@@ -1583,6 +1695,20 @@ const NEWS = {
       "source": "Semerenko Group",
       "pubDate": "2026-01-10",
       "summary": "From 2026, 57.5% of a qualifying monthly pension is income-tax-free (rising to 67% by 2028), with the tax-free ceiling at about NIS 5,422/month. VAT rose to 18% in January 2025; the Finance Ministry is debating whether the 18.5% mandatory pension contribution is too high, but no change has passed."
+    },
+    {
+      "title": "Bituach Leumi 2026 old-age pension: ILS 1,838 single, ILS 2,762 couple",
+      "url": "https://semerenkogroup.com/bituach-leumi-old-age-pension/",
+      "source": "Semerenko Group",
+      "pubDate": "2026-01-01",
+      "summary": "Israel's National Insurance (Bituach Leumi) old-age pension pays a 2026 base rate of ILS 1,838/month to an individual and ILS 2,762 to a couple, after a health-insurance deduction of ILS 237 (single) or ILS 340 (couple). The income test applies only between retirement age and 70, with gross work income above ILS 10,113/month (single) triggering a reduction."
+    },
+    {
+      "title": "Israel retirement age: women 62 rising to 65, men 67 (2026 guide)",
+      "url": "https://www.allaboutaliyah.com/post/pension-in-israel",
+      "source": "All About Aliyah",
+      "pubDate": "2026-01-01",
+      "summary": "Israel's retirement age is 67 for men and 62 for women, gradually rising to 65 for women born from 1962 (1962 cohort = 63, 1970+ = 65). To qualify for the standard state pension, 12 years (144 months) of Bituach Leumi contributions are required; eligibility is based on residency, not citizenship."
     }
   ],
   "IN": [
@@ -1627,6 +1753,20 @@ const NEWS = {
       "source": "Business Today / PFRDA",
       "pubDate": "2025-10-02",
       "summary": "Zomato partnered with HDFC Pension to launch an NPS framework for gig delivery partners — over 30,000 generated PRANs within 72 hours. From 1 October 2025 non-government NPS subscribers can invest up to 100% in equities under PFRDA's new Multiple Scheme Framework."
+    },
+    {
+      "title": "PFRDA opens on-tap licensing for pension fund managers; NPS+APY cross 9.95 crore",
+      "url": "https://www.news18.com/agency-feeds/pfrda-opens-on-tap-licensing-to-onboard-pension-fund-managers-10226070.html",
+      "source": "News18 / PTI",
+      "pubDate": "2026-07-21",
+      "summary": "PFRDA opened a continuous 'on-tap' registration window (notice dated 16 July 2026) for pension fund managers to run NPS and UPS corpus, requiring at least five years of equity/debt fund-management experience and INR 25 crore paid-up capital. NPS and APY together had over 9.95 crore subscribers and INR 17.7 lakh crore AUM as of 30 June 2026."
+    },
+    {
+      "title": "APY nears 10 crore; NPS corpus at INR 15.95 lakh crore at end of FY26",
+      "url": "https://money.rediff.com/news/market/apy-subscribers-to-reach-10-cr-pfrda/47378220260520",
+      "source": "Rediff / PTI",
+      "pubDate": "2026-05-20",
+      "summary": "PFRDA Chairman S Ramann said Atal Pension Yojana (APY) reached 8.96 crore subscribers at end-FY26 (a record 1.35 crore added) and is on track to cross 10 crore in FY27. The National Pension System (NPS) stood at 2.17 crore subscribers with a INR 15.95 lakh crore corpus; the regulator is reviewing a higher APY monthly pension cap."
     }
   ],
   "IS": [
@@ -1657,6 +1797,20 @@ const NEWS = {
       "source": "China Tax News / Skatturinn",
       "pubDate": "2026-01-01",
       "summary": "For 2026 Iceland raised the annual income-tax-free allowance on the state pension to ISK 523,896. The mandatory occupational pension contribution is 15.5% of pay (employee 4% + employer 11.5%); foreign workers must pay at least 12%. The statutory pension age stays 67."
+    },
+    {
+      "title": "Iceland shifts pension fund investment rules to prudent-person principle",
+      "url": "https://www.ipe.com/news/icelands-pension-fund-investment-rules-shift-to-prudent-person-principle/10137760.article",
+      "source": "IPE (Investment & Pensions Europe)",
+      "pubDate": "2026-06-24",
+      "summary": "Iceland's parliament (Althingi) passed amendments to the 1997 Pensions Act on 24 June 2026, moving from quantitative restrictions to the prudent-person principle. The changes lift the 20% ceiling on unlisted assets and abolish the 20% single-company ownership cap, giving funds more freedom to invest in infrastructure while increasing accountability."
+    },
+    {
+      "title": "Icelandic pension funds urge reform as assets hit ISK 8,878bn (approx 190% of GDP)",
+      "url": "https://europeanpensions.net/ep/Iceland-s-L-feyrism-l-urges-govt-to-approve-pension-investment-reform.php",
+      "source": "European Pensions",
+      "pubDate": "2026-05-28",
+      "summary": "The National Association of Pension Funds (Lifeyrismal) urged parliament to pass the investment-authorisation reform before summer recess. Total pension-system assets reached ISK 8,878bn at end-2025, around 190% of estimated GDP, with the 2025 real return at 2.6% versus 6.7% in 2024."
     }
   ],
   "IT": [
@@ -1687,6 +1841,20 @@ const NEWS = {
       "source": "Assistenza Fiscale / INPS",
       "pubDate": "2026-02-25",
       "summary": "From 1 January 2027 Italy resumes automatic indexation: the old-age pension rises to 67y1m (2027) then 67y3m (2028), and early-retirement thresholds edge up. Minimum pensions get about +€20/month for over-70s and disabled, and from July 2026 new hires see TFR silently assigned to complementary pension funds unless they opt out."
+    },
+    {
+      "title": "INPS Circular 28: Italy retirement age rises to 67y1m (2027) and 67y3m (2028)",
+      "url": "https://cafcgnsettimo.it?p=3516/",
+      "source": "CAF CGN",
+      "pubDate": "2026-03-16",
+      "summary": "INPS Circular No. 28 of 16 March 2026 set out life-expectancy adjustments for 2027-2028 after an eight-year freeze: the old-age pension age rises from 67 to 67 years and 1 month in 2027 and to 67 years and 3 months from 2028, paid on at least 20 years of contributions. Early-retirement thresholds also edge up."
+    },
+    {
+      "title": "Italy: Quota 103 and Opzione Donna expire; APE Sociale extended to end-2026",
+      "url": "https://legalclarity.org/what-is-the-retirement-age-in-italy",
+      "source": "LegalClarity",
+      "pubDate": "2026-01-01",
+      "summary": "The 2026 Budget Law did not renew Quota 103 (retire at 62 with 41 years) or Opzione Donna (women at 59); both expired at end-2024, though those who qualified by 31 December 2025 can still claim. APE Sociale, the early-retirement bridge, was extended through 31 December 2026. The minimum pension is about EUR 611.85-619.80."
     }
   ],
   "JP": [
