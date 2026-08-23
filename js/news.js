@@ -1906,6 +1906,20 @@ const NEWS = {
       "source": "日本年金機構",
       "pubDate": "2025-02-15",
       "summary": "年金受給開始年齢の繰下げ上限が75歳まで拡大。70歳まで繰下げると42%増額、75歳までだと84%増額となる。健康寿命が延びる中、柔軟な受給選択が可能に。"
+    },
+    {
+      "title": "Japan lifts cap on corporate DC employer matching from April 2026",
+      "url": "https://www.mhlw.go.jp/english/policy/other/index.html",
+      "source": "MHLW (Japan)",
+      "pubDate": "2026-04-01",
+      "summary": "Under the Pension System Reform Act enacted in June 2025, from April 2026 employers' matching contributions to corporate-type defined-contribution (DC) plans are no longer bound by the previous statutory cap, and participants gain wider freedom to choose investment products, aimed at boosting mid-career retirement saving."
+    },
+    {
+      "title": "iDeCo participants reach record 3.87 million ahead of December 2026 changes",
+      "url": "https://www.sjdc.or.jp/",
+      "source": "Japan DC Association",
+      "pubDate": "2026-01-31",
+      "summary": "As of end-January 2026, iDeCo (individual defined-contribution) accounts reached about 3.87 million, a record high, ahead of the 1 December 2026 changes that raise the eligibility-age ceiling from 65 to 70 and lift monthly contribution caps (self-employed Type-1 up to 75,000 yen)."
     }
   ],
   "KE": [
@@ -1943,6 +1957,20 @@ const NEWS = {
       "source": "MGK Consult",
       "pubDate": "2025-02-01",
       "summary": "A practitioner note explaining the February 2025 NSSF rate changes, opt-out rules for Tier II contracted-out schemes, and payroll implementation steps for Kenyan employers."
+    },
+    {
+      "title": "Kenya NSSF fourth-phase limits take effect, monthly cap rises to KSh 12,960",
+      "url": "https://www.thekenyatimes.com/",
+      "source": "The Kenya Times",
+      "pubDate": "2026-02-01",
+      "summary": "The fourth and final phase of the NSSF Act 2013 took effect on 1 February 2026, lifting Tier I and II limits to KSh 9,000 and KSh 108,000 and raising the maximum monthly contribution to KSh 12,960 (6% each side); from 2027 further changes move to Gazette Notice."
+    },
+    {
+      "title": "Kenya's RBA pushes informal-sector coverage as NSSF assets climb",
+      "url": "https://www.rba.go.ke/",
+      "source": "Retirement Benefits Authority (RBA)",
+      "pubDate": "2026-03-15",
+      "summary": "With NSSF assets reported at about KSh 558 billion as of June 2025 and annual contributions projected above KSh 100 billion under the new bands, the RBA is urging employer compliance and promoting voluntary, mobile-based schemes such as Mbao to widen pension coverage beyond the formal sector."
     }
   ],
   "KH": [
@@ -1980,6 +2008,20 @@ const NEWS = {
       "source": "2Interact / NSSF",
       "pubDate": "2025-04-01",
       "summary": "Cambodia's pension provides old-age, disability (60 months) and survivor benefits; the contributable wage band is 400,000-1,200,000 riel/month, with no state contribution under the phased schedule."
+    },
+    {
+      "title": "Cambodia NSSF membership tops 3.5 million, women near 2 million",
+      "url": "https://www.phnompenhpost.com/",
+      "source": "Phnom Penh Post",
+      "pubDate": "2026-02-20",
+      "summary": "By February 2026 Cambodia's National Social Security Fund covered more than 3.5 million members -- close to 2 million of them women -- while the 2025 voluntary self-employed scheme had drawn over 24,000 registrations, extending pension and healthcare protection beyond the formal workforce."
+    },
+    {
+      "title": "Cambodia deploys LACMS digital pension registration in Banteay Meanchey",
+      "url": "https://www.dgcambodia.net/",
+      "source": "DG Cambodia",
+      "pubDate": "2026-07-28",
+      "summary": "On 28 July 2026 Cambodia began rolling out the LACMS digital registration system in Banteay Meanchey province to streamline NSSF enrollment and pension record-keeping, the latest step in digitising social-protection administration for the phased private pension."
     }
   ],
   "KR": [
@@ -2031,6 +2073,20 @@ const NEWS = {
       "source": "Ministry of Health and Welfare",
       "pubDate": "2025-03-21",
       "summary": "The NPS reform includes expanded pension credits for childbirth and military service to address Korea's low birthrate. Additional credits aim to partially offset career interruptions, with credits now counting toward both eligibility and benefit calculation."
+    },
+    {
+      "title": "South Korea's National Pension posts record ~20% return in 2025",
+      "url": "https://www.koreaherald.com/",
+      "source": "The Korea Herald",
+      "pubDate": "2026-02-25",
+      "summary": "The National Pension Service reported an estimated 2025 investment return of about 20% -- its best ever -- lifting fund assets to roughly 1,473 trillion won by year-end, strengthening the long-term outlook even as the 2026 reform gradually raises the contribution rate toward 13%."
+    },
+    {
+      "title": "Korea's 2026 NPS reform expands childbirth, military credits and eases in-service cuts",
+      "url": "https://www.koreajoongangdaily.com/",
+      "source": "Korea JoongAng Daily",
+      "pubDate": "2026-06-01",
+      "summary": "From 1 January 2026 the reform raised the contribution rate to 9.5% (toward 13% by 2033) and the replacement rate to 43%; it also expanded the childbirth credit to 12 months (50-month cap removed), doubled the military credit to 12 months, widened the low-income regional subsidy to about 736,000 people, and from June 2026 eased the in-service pension-income reduction."
     }
   ],
   "KW": [
@@ -2068,6 +2124,20 @@ const NEWS = {
       "source": "Zawya",
       "pubDate": "2024-01-20",
       "summary": "The Cabinet set full-pension criteria under the Social Insurance Law: women at 50 and men at 55 with up to 30 years of service qualify, aiming to encourage workforce generational renewal."
+    },
+    {
+      "title": "Kuwait PIFSS reaffirms pension rules unchanged as age-60 debate continues",
+      "url": "https://kuwaittimes.com/",
+      "source": "Kuwait Times",
+      "pubDate": "2026-01-20",
+      "summary": "The Public Institution for Social Security reiterated in early 2026 that current rules remain in force -- normal pension age 55 for both sexes with early retirement from 50 -- and that the frequently discussed rise to 60 has not been enacted, amid parliamentary pressure to address a long-term funding gap."
+    },
+    {
+      "title": "Kuwait's amended early-retirement bill awaits committee vote in 2026",
+      "url": "https://www.arabtimesonline.com/",
+      "source": "Arab Times",
+      "pubDate": "2026-03-10",
+      "summary": "The amended early-retirement draft -- allowing retirement five years before the normal age with a 2% pension cut per year -- passed a first reading but stayed in committee through early 2026; the Cabinet's 2025 criteria (women 50/men 55 with 30 years' service for a full pension) continue to apply in the meantime."
     }
   ],
   "KZ": [
@@ -2105,6 +2175,20 @@ const NEWS = {
       "source": "Astana Times",
       "pubDate": "2026-01-15",
       "summary": "A 2025 nationwide survey found 84.1% correctly know the differentiated retirement age (63 men / 61 women in 2025) and that pension payouts from UAPF become income-tax-exempt from Jan 2026."
+    },
+    {
+      "title": "Kazakhstan's UAPF pension savings reach 28.09 trillion tenge by July 2026",
+      "url": "https://enpf.kz/",
+      "source": "Unified Accumulative Pension Fund (UAPF)",
+      "pubDate": "2026-07-01",
+      "summary": "As of 1 July 2026 the UAPF held 28.09 trillion tenge in pension savings, up 17.0% year on year, across 18.78 million accounts; employer compulsory pension contributions (ECPC) reached 117.522 billion tenge -- about 2.5 times the prior level -- reflecting the phased rise to 3.5% from 1 January 2026."
+    },
+    {
+      "title": "Kazakhstan 2026 Tax Code exempts UAPF pension payouts from income tax",
+      "url": "https://www.gov.kz/",
+      "source": "Government of Kazakhstan",
+      "pubDate": "2026-01-01",
+      "summary": "The new Tax Code effective 1 January 2026 exempts both lump-sum and periodic UAPF pension payouts from individual income tax, and early retirees' UAPF benefits were raised by 5%, supporting take-home retirement income as the ECPC employer contribution climbs toward 5% by 2028."
     }
   ],
   "LK": [
@@ -2142,6 +2226,20 @@ const NEWS = {
       "source": "Biz Advisor Sri Lanka",
       "pubDate": "2025-03-01",
       "summary": "The EPF remains the main formal retirement savings vehicle (lump sum at 55), but covers only about 60% of private/semi-government workers; voluntary and private pensions are encouraged to close the gap."
+    },
+    {
+      "title": "Sri Lanka weighs converting EPF lump sum into monthly annuity for private retirees",
+      "url": "https://economynext.com/",
+      "source": "EconomyNext",
+      "pubDate": "2026-01-06",
+      "summary": "On 6 January 2026 the Deputy Minister of Labour told Parliament the government is studying a shift from the Employees' Provident Fund's one-off lump-sum payout to a regular monthly pension/annuity for private-sector workers, to better secure long-term retirement income as the population ages and EPF sees net outflows."
+    },
+    {
+      "title": "Sri Lanka EPF annuity proposal revives 2011 debate over worker control",
+      "url": "https://www.onlanka.com/",
+      "source": "On Lanka",
+      "pubDate": "2026-02-12",
+      "summary": "The annuity proposal drew pushback from trade unions who noted members were not consulted, recalling the failed 2011 attempt that triggered street protests; EPF's post-restructuring bond portfolio (yields cut from about 12% to 9% after 2026) has reduced expected lump sums, intensifying the adequacy debate."
     }
   ],
   "LT": [
@@ -2179,6 +2277,20 @@ const NEWS = {
       "source": "MREast",
       "pubDate": "2026-04-01",
       "summary": "About 40% of second-pillar participants withdrew in Q1 2026, pulling EUR 4.4bn from the system after the reform gave savers early access to their funds."
+    },
+    {
+      "title": "Lithuania's second-pillar exit tops 550,000, withdrawals near 3 billion euro",
+      "url": "https://www.lrt.lt/",
+      "source": "LRT",
+      "pubDate": "2026-06-15",
+      "summary": "By mid-2026 more than 550,000 people had exited Lithuania's funded second pillar during the two-year withdrawal window (open until 31 December 2027), withdrawing roughly 3 billion euro -- about 3% of GDP -- with most funds moved to bank deposits, as the IMF and European Commission warned of lower future adequacy."
+    },
+    {
+      "title": "Lithuania: 781,000 stay in second pillar as Q2 payouts hit 672 million euro",
+      "url": "https://www.infoerdve.lt/",
+      "source": "Infoerdve",
+      "pubDate": "2026-08-01",
+      "summary": "Despite the exodus, about 781,000 participants remained in the second pillar in Q2 2026 holding some 5.82 billion euro (averaging about 7,600 euro), with 672.4 million withdrawn that quarter -- 285.4m own contributions, 387m returns, 272m redirected to Sodra -- while over 20,000 new voluntary sign-ups were recorded."
     }
   ],
   "LU": [
@@ -2209,6 +2321,20 @@ const NEWS = {
       "source": "Guichet.lu",
       "pubDate": "2025-06",
       "summary": "Luxembourg's multi-pillar scheme requires 40 years of contributions for a full pension. Early retirement from 57 (long career) to 64 is possible with actuarial reduction."
+    },
+    {
+      "title": "Luxembourg tightens early-retirement clock from July 2026, lifts third-pillar tax break",
+      "url": "https://santesecu.public.lu/en/campagnes/2025/adaptations-regime-pension-janvier-2026.html",
+      "source": "Ministry of Health and Social Security (Luxembourg)",
+      "pubDate": "2026-07-01",
+      "summary": "From 1 July 2026 Luxembourg began gradually lengthening the 40-year insurance record needed for early retirement at 60 -- adding one month in 2026, rising to eight months by 2030 -- while raising the third-pillar savings tax deduction from 3,200 to 4,500 euro a year and granting a 9,000 euro tax-free allowance to those who keep working to 65."
+    },
+    {
+      "title": "Luxembourg pension chief warns 2026 reform only buys time",
+      "url": "https://etude.lu/article/luxembourg-pension-chief-warns-reform-leaves-funding-gap",
+      "source": "Étude",
+      "pubDate": "2026-07-15",
+      "summary": "CNAP president Alain Reuter said the 2026 reform (contribution rate up to 25.5%, longer careers) strengthened near-term finances but left the demographic gap intact; the general scheme held 32 billion euro in reserves at end-2025 (4.24 years of spending, the lowest since 2013), and a full review is due in 2030."
     }
   ],
   "LV": [
@@ -2246,6 +2372,20 @@ const NEWS = {
       "source": "IMF",
       "pubDate": "2025-09-15",
       "summary": "The IMF notes Latvia's 2025 reforms (retirement age 65, 20-year minimum, Pillar II fee cuts and life-cycle default) and calls for further measures to mitigate old-age poverty."
+    },
+    {
+      "title": "Latvia automates pension recalculation for working retirees from April 2026",
+      "url": "https://vsaa.gov.lv/en/article/changes-services-ssia-2026",
+      "source": "State Social Insurance Agency (VSAA)",
+      "pubDate": "2026-04-01",
+      "summary": "From 1 April 2026 Latvia's SSIA automatically recalculates old-age and disability pensions every 1 April for pensioners who keep contributing, ending the need for annual applications; it also began paying a pre-1995 service allowance of 1.72 euro per year of service."
+    },
+    {
+      "title": "Latvia plans to narrow early-retirement eligibility from 2027",
+      "url": "https://bnn-news.com/?p=272773",
+      "source": "Baltic News Network (BNN)",
+      "pubDate": "2026-05-20",
+      "summary": "Following a State Chancellery report, Latvia intends from 2027 to strip early-retirement pensions from professions with no regular health or life risks, while gradually raising the minimum retirement age and service length for current holders by six months a year; economists urge a clearer phase-out to boost capital accumulation."
     }
   ],
   "MA": [
@@ -2276,6 +2416,20 @@ const NEWS = {
       "source": "Bladi.net",
       "pubDate": "2024-06-01",
       "summary": "The labour minister denied discussing an immediate jump to 65, but confirmed the 2022 roadmap to lift the CNSS retirement age to 64 (2027) and 65 (2030) remains government policy."
+    },
+    {
+      "title": "Morocco unveils long-awaited pension reform: legal age to 63, pensions +8%",
+      "url": "https://wafir.ma/en/actu/retraite-cnss-reforme-2026-age-depart-63-ans-pension-revalorisee",
+      "source": "Wafir.ma",
+      "pubDate": "2026-05-12",
+      "summary": "On 12 May 2026 the government presented its first pension reform since 2018, adopting it in council of ministers after four years of talks: the CNSS legal age rises progressively from 60 to 63 (reaching 63 in 2032), CNSS pensions increase 8% over three years, small pensions under 2,000 MAD get an extra +5% from 2027, and the CNSS/CMR/RCAR schemes are to be harmonised under a new National Retirement Organization."
+    },
+    {
+      "title": "Morocco sets pension minimum alignment with minimum wage for 2027-2030",
+      "url": "https://www.upsilon-consulting.com/en/cnss-contributions-morocco-2026",
+      "source": "Upsilon Consulting",
+      "pubDate": "2026-06-10",
+      "summary": "Under draft law 65-25, Morocco plans to align the CNSS minimum pension (currently 1,590 MAD) with the minimum wage (3,422 MAD) in steps between 2027 and 2030, complementing the 12 May 2026 reform that also fully exempts basic retirement pensions from income tax; the contributor/retiree ratio has fallen from 5.2 (2010) to 3.1 (2025)."
     }
   ],
   "MM": [
@@ -2313,6 +2467,20 @@ const NEWS = {
       "source": "The MIMU / ILO",
       "pubDate": "2024-05-01",
       "summary": "Civil servants, military and state-enterprise workers keep a non-contributory DB pension worth 50% of final salary after 35 years at age 60; private-sector contributory pension reform has stalled amid the crisis."
+    },
+    {
+      "title": "Myanmar pushes national provident fund to cover private-sector retirees",
+      "url": "https://mdn.gov.mm/en/national-pension-all",
+      "source": "Myanmar Digital News (MDN)",
+      "pubDate": "2026-03-11",
+      "summary": "A government commentary stressed the need to adopt a central provident fund so the national pension is sustainable, noting current pension spending is about 1.5% of GDP (one-sixth of national revenue, 10% of national expenditure) and that the Implementation Committee of the Central Provident Fund System is working to extend coverage to private-sector workers."
+    },
+    {
+      "title": "Myanmar's e-Pension UID rollout reaches 85% of retirees",
+      "url": "https://www.pension.gov.mm/front/en_US/pension_history/",
+      "source": "Myanmar Pension Department",
+      "pubDate": "2026-01-15",
+      "summary": "Building on the July 2025 launch, Myanmar's centralized e-Pension system linked to the national e-ID had issued UID smart cards at Myanmar Economic Bank branches to about 85.75% of retirees by December 2025, with the remaining rollout continuing in 2026 alongside the 90,000-kyat monthly support allowance extended to retired civil servants and pensioners from October 2025."
     }
   ],
   "MN": [
