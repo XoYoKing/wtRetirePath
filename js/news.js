@@ -2518,6 +2518,20 @@ const NEWS = {
       "source": "MONTSAME",
       "pubDate": "2026-01-01",
       "summary": "A government resolution raised pension levels for 2026, setting the minimum full pension and military pension from the Social Insurance Fund at MNT 769,000 and the minimum proportional pension at MNT 652,400, with MNT 516 billion earmarked for the increases."
+    },
+    {
+      "title": "Mongolia Cabinet submits fairer-pension draft amendment to Parliament",
+      "url": "https://www.montsame.mn/en/read/401723",
+      "source": "MONTSAME",
+      "pubDate": "2026-06-11",
+      "summary": "On 10 June 2026 the Cabinet approved a draft amendment to the General Law on Social Insurance and submitted it to Parliament, introducing a fairer formula that pays higher pensions to longer contributors, a ceiling on employers' social-insurance contributions, voluntary investment-based pension savings accounts with government incentives, and contribution relief for students and start-ups."
+    },
+    {
+      "title": "Mongolia Pension Reserve Fund reaches MNT 302.7 billion, earns MNT 2.7 billion in March 2026",
+      "url": "https://www.montsame.mn/en/read/395054",
+      "source": "MONTSAME",
+      "pubDate": "2026-04-03",
+      "summary": "Under the 2024 shift to a partially funded system, the Pension Reserve Fund had accumulated MNT 302.7 billion by end-2025 and earned an investment return of MNT 2.7 billion for March 2026, with MNT 215.3 billion placed as one-year bank deposits at 15.11% to grow the fund further."
     }
   ],
   "MT": [
@@ -2555,6 +2569,20 @@ const NEWS = {
       "source": "MaltaToday",
       "pubDate": "2026-03-01",
       "summary": "Central Bank of Malta data shows social benefits and pensions fell from 30% of government spending in 2013 to 21.7% by 2022, with pension expenditure set to ease further as the final mandated retirement-age rise to 65 takes effect in 2026."
+    },
+    {
+      "title": "Malta fully implements 2026 pension tax exemption up to 37,104 euro",
+      "url": "https://freemalta.com/hub/pension-calculator",
+      "source": "FreeMalta",
+      "pubDate": "2026-01-01",
+      "summary": "From 1 January 2026 pension income is 100% exempt from tax up to 37,104 euro under Legal Notice 53 of 2026, completing the phased exemption introduced since 2022; a small targeted rebate also applies for higher-income pensioners, and widowed pensioners remain exempt."
+    },
+    {
+      "title": "Malta boosts incentives for working past pension age, cuts care-home deductions",
+      "url": "https://socialsecurity.gov.mt/?p=506",
+      "source": "Social Security Malta",
+      "pubDate": "2026-01-01",
+      "summary": "Workers who defer their pension past the pension age receive cumulative lifetime increases of 13.5% to 29% depending on deferral, while from 2026 elderly residents in care homes see deductions cut to 50% or 70% of income (from 60% or 80%), leaving more disposable income."
     }
   ],
   "MX": [
@@ -2592,6 +2620,20 @@ const NEWS = {
       "source": "InvestmentKit (IMSS/SAT data)",
       "pubDate": "2026-01-01",
       "summary": "Under the phased 2020 reform, total employer-plus-worker AFORE contributions rose from 8.5% of salary in 2024 to 9.5% in 2025 and reached 10.5% in 2026 on a path to 15% by the early 2030s, steadily lifting replacement rates for future retirees."
+    },
+    {
+      "title": "Mexico AFOREs post record profits in February 2026",
+      "url": "https://www.pensionpolicyinternational.com/mexico-la-razon-por-la-que-tu-afore-rompe-records-de-ganancias-en-2026-a-pesar-de-la-crisis-global",
+      "source": "Pension Policy International",
+      "pubDate": "2026-02-28",
+      "summary": "AFOREs earned MXN 3,383 million in February 2026, up 17.2% year on year, as the 2020 reform lifted mandatory contributions toward 15% of salary and swelled managed balances; the ten administrators now oversee about MX$8.3 trillion in assets."
+    },
+    {
+      "title": "CONSAR caps 2026 AFORE commissions at 0.54% as fee war intensifies",
+      "url": "https://www.el-fondo.com/en/articles/best-afores-2026-mexico-net-return",
+      "source": "El Fondo",
+      "pubDate": "2026-01-01",
+      "summary": "For the whole 2026 calendar year CONSAR capped AFORE commissions at 0.54% of managed balance (PENSIONISSSTE 0.52%, system average 0.538%), down from 0.55% in 2025, pushing funds to compete on net return rather than fees."
     }
   ],
   "MY": [
@@ -2629,6 +2671,20 @@ const NEWS = {
       "source": "EPF / KWSP",
       "pubDate": "2025-12-31",
       "summary": "From 1 January 2026 EPF raised the Hajj withdrawal limit from Akaun Sejahtera to RM10,000, aligned the >RM1 million withdrawal policy with the RIA Framework (Basic RM390k, Adequate RM650k, Enhanced RM1.3m), and rolled out i-Simpan and i-Topup voluntary options."
+    },
+    {
+      "title": "EPF declares 6.15% dividend for 2025, payout hits RM79.6 billion",
+      "url": "https://www.kwsp.gov.my/en/w/news/epf-declares-6-15-dividend-for-simpanan-konvensional-and-6-15-for-simpanan-shariah",
+      "source": "KWSP (EPF)",
+      "pubDate": "2026-02-28",
+      "summary": "On 28 February 2026 the Employees Provident Fund declared a 6.15% dividend for both Simpanan Konvensional and Simpanan Shariah for 2025, down from 6.30% in 2024, with a total payout of RM79.6 billion credited to members on 1 March 2026 and total investment assets reaching RM1.409 trillion."
+    },
+    {
+      "title": "EPF Flexible Account withdrawals reach RM19.87 billion as of May 2026",
+      "url": "https://thesun.my/news/epf-flexible-account-withdrawals-hit-rm19-87-billion-as-of-may-2026/",
+      "source": "The Sun Malaysia",
+      "pubDate": "2026-05-31",
+      "summary": "The EPF Flexible Account (Account 3) recorded RM19.87 billion in withdrawals involving 5.5 million members as of 31 May 2026, with RM14.36 billion still saved; the retirement-account allocation was raised from 70% to 75%, channeling an extra RM9.1 billion into retirement savings between May 2024 and December 2025."
     }
   ],
   "NG": [
@@ -2666,6 +2722,20 @@ const NEWS = {
       "source": "AnchorNews",
       "pubDate": "2025-11-15",
       "summary": "As part of Pension Revolution 2.0, PenCom will launch the PenCare healthcare initiative in March 2026 targeting at least 30,000 low-income CPS retirees, alongside a new CRM system letting retirees log complaints directly against PFAs."
+    },
+    {
+      "title": "PenCom reports 92% of Personal Pension Plan accounts remain unfunded",
+      "url": "https://theheute.com.ng/personal-pension-plan-nigeria-unfunded/",
+      "source": "The Heute",
+      "pubDate": "2026-02-26",
+      "summary": "PenCom reported on 26 February 2026 that 191,240 of 206,917 registered Personal Pension Plan accounts (about 92.4%) were inactive with no contributions, leaving only 15,677 funded, and urged product design and agent networks to deepen micro-pension penetration in the informal sector."
+    },
+    {
+      "title": "PenCom threatens PFAs with sanctions as RSA data recapture hits 17%",
+      "url": "https://www.pidom.com.ng/2026/08/pencom-threatens-pfas-with-sanctions-as-only-17-of-rsa-holders-recaptured",
+      "source": "Pidom Nigeria",
+      "pubDate": "2026-08-15",
+      "summary": "In its Q1 2026 report PenCom said only 1,485,052 of an estimated 8,722,609 legacy RSA holders (17.03%) had completed the mandatory data recapture, warning it would set PFA-level quarterly targets and impose sanctions on operators that materially under-perform during 2026."
     }
   ],
   "NL": [
@@ -2703,6 +2773,20 @@ const NEWS = {
       "source": "Deloitte (Netherlands)",
       "pubDate": "2026-01-01",
       "summary": "Under the Future Pensions Act, 1 January 2027 is a hard deadline: all pension schemes must have switched to the new rules or face negative fiscal consequences; employers with average-pay schemes may use transitional law for existing staff."
+    },
+    {
+      "title": "First Dutch DC transition wave smooth as 9.5 million move to new system",
+      "url": "https://www.ipe.com/analysis/dutch-pension-funds-defy-hedge-crunch-fears-in-first-dc-transition-wave/10135117.article",
+      "source": "Investment & Pensions Europe",
+      "pubDate": "2026-01-15",
+      "summary": "Pension funds converting to defined-contribution on 1 January 2026 adjusted interest-rate hedges without the feared derivatives-market congestion, easing concerns about a potential squeeze; the two largest funds, PMT and PFZW, opted for a phased approach."
+    },
+    {
+      "title": "DNB: 38 pension funds converted by July 2026, 2028 deadline stands",
+      "url": "https://www.dnb.nl/en/current-economic-issues/pensions/towards-the-new-pension-system/",
+      "source": "De Nederlandsche Bank",
+      "pubDate": "2026-07-01",
+      "summary": "By 1 July 2026 a total of 38 pension funds and four ring-fenced funds had transitioned to the new DC system, bringing about 9.5 million workers under it; De Nederlandsche Bank confirmed the 1 January 2028 hard deadline remains firm, with CDC contributions set at 27% of pay (18% employer, 9% employee)."
     }
   ],
   "NO": [
@@ -2733,6 +2817,20 @@ const NEWS = {
       "source": "Norwegian Labour and Welfare Administration (NAV)",
       "pubDate": "2026-05-01",
       "summary": "From 1 May 2026 the National Insurance basic amount (1G) rose to NOK 136,549, lifting guaranteed-pension rates; a single pensioner's special rate reached about NOK 261,642 per year for those with full insurance coverage."
+    },
+    {
+      "title": "Record 19,500 Norwegians began drawing pensions in Q1 2026",
+      "url": "https://knews.media?p=264182/",
+      "source": "KNEWS.MEDIA",
+      "pubDate": "2026-04-01",
+      "summary": "About 19,500 people started receiving pension benefits in the first quarter of 2026, the highest quarterly intake since 2012, as the 2011 and 2018 pension reforms sustained employment among those aged 62 and over and more workers combined work with drawing a pension."
+    },
+    {
+      "title": "OECD 2026 survey praises Norway pensions but flags sickness, disability spend",
+      "url": "https://www.oecd.org/en/publications/oecd-economic-surveys-norway-2026_5cc02644-en/full-report/preparing-for-long-term-challenges_b3a8411e.html",
+      "source": "OECD",
+      "pubDate": "2026-06-01",
+      "summary": "The OECD's 2026 Economic Survey of Norway credited the 2011 and 2018 pension reforms with strengthening work incentives and curbing ageing-cost pressures, but warned that sickness and disability benefits absorb more than 8% of mainland GDP and recommended tighter work-incentive settings."
     }
   ],
   "NP": [
@@ -2770,6 +2868,20 @@ const NEWS = {
       "source": "Banking News (Nepal)",
       "pubDate": "2026-07-01",
       "summary": "By mid-July 2026 the SSF reported over 3.04 million contributors and more than Rs 116.7 billion in accumulated contributions after including Nepali migrant workers, with Rs 17.06 billion paid under the retirement benefit scheme."
+    },
+    {
+      "title": "Nepal FY2026/27 budget to enroll informal laborers into SSF by mid-July",
+      "url": "https://english.nepalnews.com/s/business/informal-laborers-to-be-brought-into-social-security-net-voluntary-allowance-waiver-campaign-launched",
+      "source": "Nepal News",
+      "pubDate": "2026-06-01",
+      "summary": "The federal budget for FY2026/27 set a firm mid-July 2026 deadline to legally enroll informal and unorganised labourers into the Social Security Fund, and launched a voluntary campaign encouraging financially able citizens to waive state social-security allowances to redirect savings to vulnerable groups."
+    },
+    {
+      "title": "Nepal to bring 35,000 contract workers into SSF from FY2026/27",
+      "url": "https://english.nepalnews.com/s/nation/government-agrees-to-bring-contract-workers-under-social-security-fund",
+      "source": "Nepal News",
+      "pubDate": "2026-05-15",
+      "summary": "The government agreed to bring about 35,000 temporary, contract and daily-wage public workers into the Social Security Fund from FY2026/27, with contributions of 20% by the government and 11% by the worker calculated on at least 60% of salary as the basic wage."
     }
   ],
   "NZ": [
@@ -2807,6 +2919,20 @@ const NEWS = {
       "source": "Smiths Partners / retirement.govt.nz",
       "pubDate": "2026-04-01",
       "summary": "From 1 April 2026 after-tax NZ Super rates rose (a single person living alone gets about $555/week), while the residency requirement is stepping up from 10 to 20 years (5 years after age 50) by July 2042."
+    },
+    {
+      "title": "KiwiSaver temporary rate reduction opens as government contribution halved",
+      "url": "https://betafinancial.co.nz/guides/kiwisaver-changes-2026",
+      "source": "Beta Financial",
+      "pubDate": "2026-02-01",
+      "summary": "From 1 February 2026 members could apply for a temporary KiwiSaver rate reduction to stay at 3% for three to twelve months, while the government contribution was cut to 25 cents per dollar (maximum $260.72 a year) with a new $180,000 income cap removing high earners from eligibility."
+    },
+    {
+      "title": "New Zealand April 2026 package lifts KiwiSaver to 3.5%, minimum wage to $23.95",
+      "url": "https://www.1news.co.nz/2026/03/30/kiwisaver-fuel-relief-minimum-wage-april-changes-affecting-your-wallet/",
+      "source": "1News",
+      "pubDate": "2026-04-01",
+      "summary": "From 1 April 2026 the default KiwiSaver rate for employees and employers rose from 3% to 3.5%, 16 and 17-year-olds began receiving employer contributions, the adult minimum wage rose to $23.95 an hour, and benefits and NZ Super increased about 3.11% in line with inflation."
     }
   ],
   "OM": [
@@ -2844,6 +2970,20 @@ const NEWS = {
       "source": "ILO",
       "pubDate": "2026-05-04",
       "summary": "At the 114th International Labour Conference, the ILO and Oman's Social Protection Fund launched a joint report documenting the unification of fragmented schemes into a lifecycle-based, multi-tiered system aligned with international labour standards."
+    },
+    {
+      "title": "Oman begins expat sick-leave insurance under Royal Decree 60/2025",
+      "url": "https://www.omanobserver.om/ampArticle/1173396",
+      "source": "Oman Observer",
+      "pubDate": "2026-07-19",
+      "summary": "Under Royal Decree 60/2025 the Sick Leave and Unusual Leave Insurance Branch of the Social Protection Law took effect for non-Omani workers on 19 July 2026, the first of the expatriate provisions to roll out after the savings system was deferred to July 2027."
+    },
+    {
+      "title": "Oman stages Social Protection Law rollout for expats through 2028",
+      "url": "https://www.omanobserver.om/ampArticle/1173708",
+      "source": "Oman Observer",
+      "pubDate": "2026-07-01",
+      "summary": "Oman is phasing the expatriate Social Protection Law introduced by Royal Decree 52/2023 as amended by Decree 60/2025: the savings system (9% of basic wage, replacing end-of-service gratuity) launches 19 July 2027, while the Work Injuries and Occupational Diseases branch is deferred to July 2028."
     }
   ],
   "PE": [
@@ -2881,6 +3021,20 @@ const NEWS = {
       "source": "Pension Policy International",
       "pubDate": "2026-06-01",
       "summary": "A legislative bill proposed another facultative extraordinary withdrawal of up to S/22,000 (4 UIT) from individual AFP accounts in 2026, responding to household liquidity needs amid economic slowdown and political uncertainty."
+    },
+    {
+      "title": "Peru scraps mandatory pension contribution for self-employed workers",
+      "url": "https://www.bakertilly.pe/independientes-quedan-libres-de-aportar/",
+      "source": "Baker Tilly Peru",
+      "pubDate": "2026-03-01",
+      "summary": "Through D.S. 061-2026-EF Peru eliminated the obligation for self-employed workers to contribute to the AFP or ONP, making it strictly voluntary and aligning the regulation with Law No. 32445 that authorised the up-to-4-UIT extraordinary withdrawal."
+    },
+    {
+      "title": "Peru stands up Secure Affiliation Platform with e-payslip contributions in 2027",
+      "url": "https://iuslaboris.com/insights/global-pension-changes",
+      "source": "Ius Laboris",
+      "pubDate": "2026-01-15",
+      "summary": "Peru's pension modernisation creates the Secure and Transparent Affiliation Platform (PAST) as the official enrolment channel, opens special consumption accounts from December 2026, and shifts to electronic-payslip-based contribution calculation from 1 January 2027."
     }
   ],
   "PH": [
@@ -2918,6 +3072,20 @@ const NEWS = {
       "source": "Balitang Marino / ABS-CBN",
       "pubDate": "2026-02-27",
       "summary": "Buoyed by record net income (P142.9 billion in 2025), SSS will launch a microloan facility (P1,000-P20,000 at 8% per year) possibly in Q2 2026, aimed at countering predatory 'payday' lenders charging 12-15% monthly."
+    },
+    {
+      "title": "SSS advances 2026 pension hike to June, rolls out 60B peso relief package",
+      "url": "https://www.pna.gov.ph/index.php/articles/1273049",
+      "source": "Philippine News Agency",
+      "pubDate": "2026-04-17",
+      "summary": "SSS advanced its scheduled 2026 pension increase from September to June 2026 (10% for retirement and disability, 5% for death and survivor pensions, releasing about 6.5 billion peso extra by August) and launched a roughly 60 billion peso relief package of enhanced emergency loans, micro-loans and loan penalty condonation."
+    },
+    {
+      "title": "SSS to open overseas offices, 10 branches and hire 1,800 in 2026",
+      "url": "https://www.sss.gov.ph/news-and-updates/sss-marks-2025-with-pension-reform-and-program-upgrades-looks-forward-to-2026",
+      "source": "SSS Philippines",
+      "pubDate": "2026-01-15",
+      "summary": "For 2026 SSS plans foreign representative offices in Madrid, San Francisco and Macau plus 10 new local branches and about 1,800 hires, and will deliver its micro-loan program through partner banks, as reserves head toward 2 trillion peso within three to four years."
     }
   ],
   "PK": [
