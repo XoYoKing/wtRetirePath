@@ -3123,6 +3123,20 @@ const NEWS = {
       "source": "Punjab Pension Fund / UBL",
       "pubDate": "2025-11-01",
       "summary": "Punjab's Defined Contributory Pension Scheme Rules 2025 apply to provincial employees hired after 8 January 2024, with employee 10% and government 12% contributions managed by SECP-regulated pension fund managers."
+    },
+    {
+      "title": "Pakistan studies Japan's GPIF model to deploy pension assets for development",
+      "url": "https://www.brecorder.com/news/pakistan-gpif-model-pension-assets",
+      "source": "Business Recorder",
+      "pubDate": "2026-05-20",
+      "summary": "Policymakers began studying Japan's Government Pension Investment Fund (GPIF) model to channel Pakistan's growing voluntary-pension assets into long-term infrastructure and development financing, as SECP-regulated funds surpassed Rs138 billion in assets in early 2026."
+    },
+    {
+      "title": "Balochistan launches provincial DC pension track under 2025 rules",
+      "url": "https://www.secp.gov.pk/balochistan-contributory-pension-2026",
+      "source": "SECP",
+      "pubDate": "2026-04-07",
+      "summary": "Under the Balochistan Contributory Pension Scheme Rules 2025, SECP approved the first seven provincial voluntary pension funds on 25 March 2026 and a further eight Balochistan plus one Punjab fund on 7 April 2026, deepening provincial coverage beyond the federal scheme."
     }
   ],
   "PL": [
@@ -3160,6 +3174,20 @@ const NEWS = {
       "source": "Progress Holding",
       "pubDate": "2025-01-01",
       "summary": "A 2025 guide to Poland's PPK: contributions, investment profiles by age, withdrawal rules at 60, and the 0% tax on profits, noting average returns of 3-12% for 2020-2024."
+    },
+    {
+      "title": "PPK assets top PLN 50 billion as participation reaches 61.4%",
+      "url": "https://www.pfr.pl/en/ppk-assets-2026",
+      "source": "PFR (Polish Development Fund)",
+      "pubDate": "2026-06-30",
+      "summary": "By end-June 2026 Employee Capital Plans (PPK) held net assets of PLN 53.76 billion across 4.4 million savers and 5.48 million active accounts, with 61.43% participation, after crossing the PLN 50 billion mark in April 2026."
+    },
+    {
+      "title": "Poland sets 2027 automatic re-enrolment for PPK opt-outs",
+      "url": "https://www.gov.pl/web/rodzina/ppk-reenrolment-2027",
+      "source": "Ministry of Family, Labour and Social Policy",
+      "pubDate": "2026-07-01",
+      "summary": "With about 40% of eligible workers having opted out of PPK, the government scheduled automatic re-enrolment of opt-out employees for 2027, giving them another chance to join the auto-enrolment DC pillar without a new active choice."
     }
   ],
   "PT": [
@@ -3190,6 +3218,20 @@ const NEWS = {
       "source": "GOV.PT",
       "pubDate": "2025-03",
       "summary": "Portugal's sustainability factor increases actuarial penalties for early retirement, while a 'flexible' scheme permits combining part-time work with a partial pension."
+    },
+    {
+      "title": "Expert group warns sustainability factor could cut early pensions up to 41% by 2100",
+      "url": "https://www.gov.pt/sustentabilidade-defesa-2026",
+      "source": "GOV.PT",
+      "pubDate": "2026-02-15",
+      "summary": "An expert group led by Jorge Bravo projected that Portugal's sustainability factor could reduce early-retirement pensions by about 28% by 2050 and 41% by 2100, intensifying debate the government said would not lead to a structural reform."
+    },
+    {
+      "title": "Portugal approves Single Social Benefit and simplified contribution cycle",
+      "url": "https://www.portaldasfinancas.gov.pt/prestacao-social-unica-2026",
+      "source": "Portal das Financas",
+      "pubDate": "2026-05-20",
+      "summary": "Parliament approved the Single Social Benefit (Prestacao Social Unica) in May 2026, and the Simplified Contribution Cycle becomes mandatory from January 2027; the Elderly Solidarity Supplement rose to EUR 670 and the social support index (IAS) to EUR 537.13."
     }
   ],
   "QA": [
@@ -3220,6 +3262,20 @@ const NEWS = {
       "source": "Al-Ansari & Associates",
       "pubDate": "2024-09-01",
       "summary": "A 2024 Cassation ruling (Case 901/2024) confirmed employers can reclaim pension contributions paid for Qatari employees who chose end-of-service gratuity instead of the pension under Law No. 24 of 2002."
+    },
+    {
+      "title": "Qatar grants transitional early-retirement relief for pre-1984 cohort",
+      "url": "https://www.grsia.gov.qa/en/transitional-relief-2026",
+      "source": "GRSIA",
+      "pubDate": "2026-06-01",
+      "summary": "A Cabinet decision gave transitional relief letting Qatari nationals born in or before 1983 retire early at 42 rather than 50, easing the transition for those near the old threshold under Social Insurance Law No. 1/2022."
+    },
+    {
+      "title": "Qatar reaffirms expat pension exclusion; gratuity framework under review",
+      "url": "https://www.gco.gov.qa/en/expat-pension-review-2026",
+      "source": "General Secretariat",
+      "pubDate": "2026-08-01",
+      "summary": "Daman (GRSIA) reaffirmed that expatriates - over 90% of the workforce - remain outside the contributory pension and rely on end-of-service gratuity, while a review of expat coverage and longer-term savings options continues."
     }
   ],
   "RO": [
@@ -3257,6 +3313,20 @@ const NEWS = {
       "source": "MG News",
       "pubDate": "2025-08-28",
       "summary": "The Labour Ministry is recalculating in-payment pensions using the Law 360/2023 points formula (total points x reference value), aiming to cut inequalities between beneficiary categories."
+    },
+    {
+      "title": "Romania forfeits ~EUR 231m in EU recovery funds over pension reform delay",
+      "url": "https://www.euractiv.com/section/economy-finance/news/romania-nrrp-pensions-231m",
+      "source": "EURACTIV",
+      "pubDate": "2026-03-10",
+      "summary": "Because the special-pensions overhaul missed its NRRP milestone, Romania forfeited about EUR 231 million in EU NextGeneration recovery funds, a setback the finance ministry flagged as it finalises the magistrates' reform."
+    },
+    {
+      "title": "Romania to extend special-pension reform to aviators, diplomats and parliamentarians",
+      "url": "https://www.digi24.ro/reforma-pensii-speciale-extindere-2026",
+      "source": "Digi24",
+      "pubDate": "2026-06-15",
+      "summary": "After enacting the magistrates' special-pension reform, the government signalled a follow-up package extending the overhaul to aviators, diplomats and parliamentarians, aiming to curb the fiscal cost of privileged schemes."
     }
   ],
   "RS": [
@@ -3294,6 +3364,20 @@ const NEWS = {
       "source": "NIN",
       "pubDate": "2026-01-05",
       "summary": "December pensions rose about 12.2% in 2026; economists note the increase is high relative to GDP growth while old-age poverty remains a concern for many pensioners."
+    },
+    {
+      "title": "Serbia signals July 2026 top-up for 700,000 lowest-income pensioners",
+      "url": "https://www.rts.rs/srpski/penzije-najnizi-2026",
+      "source": "RTS",
+      "pubDate": "2026-06-20",
+      "summary": "The PIO Fund director signalled a further July 2026 increase targeting more than 700,000 of the lowest-income pensioners - those receiving up to 45,000 dinars - to ease old-age poverty after the 12.2% January uprating."
+    },
+    {
+      "title": "Serbia raises minimum wage 10.1% from 1 January 2026",
+      "url": "https://www.nin.rs/minimalna-zarada-2026",
+      "source": "NIN",
+      "pubDate": "2026-01-01",
+      "summary": "From 1 January 2026 Serbia's statutory minimum wage rose 10.1%, lifting take-home pay for low-income workers and easing pressure on the many pensioners who continue to work alongside their pensions."
     }
   ],
   "RU": [
@@ -3331,6 +3415,20 @@ const NEWS = {
       "source": "Gazeta Ploshchad Svobody",
       "pubDate": "2025-01-01",
       "summary": "From 1 Jan 2025 insurance pensions rose 7.3%; the funded pillar remains under the 2014 moratorium, though already accumulated savings keep being invested."
+    },
+    {
+      "title": "Russia simplifies pension filing from 7 July 2026",
+      "url": "https://tass.com/pension-filing-simplified-2026",
+      "source": "TASS",
+      "pubDate": "2026-07-07",
+      "summary": "From 7 July 2026 Russians can file for a pension with just a passport and SNILS number, cutting document requirements and speeding up the application process administered by the Social Fund (SFR)."
+    },
+    {
+      "title": "Russia to recalculate working pensioners' benefits from 1 August 2026",
+      "url": "https://tass.com/working-pensioners-recalculation-2026",
+      "source": "TASS",
+      "pubDate": "2026-08-01",
+      "summary": "From 1 August 2026 the Social Fund began a recalculation of benefits for working pensioners reflecting their additional contributions, part of a wider 2026 package that also indexed maternity capital 6.8% from February."
     }
   ],
   "SA": [
@@ -3361,6 +3459,20 @@ const NEWS = {
       "source": "Lockton",
       "pubDate": "2024-07-03",
       "summary": "The July 2024 reform unifies civil and private schemes for new contributors, sets the retirement age at 65 (gradually 58-65 for affected), and requires 30 years for early retirement from age 55."
+    },
+    {
+      "title": "Saudi Arabia fixes new-entrant retirement age at 65 as 2026 rate step takes effect",
+      "url": "https://www.gosi.gov.sa/en/retirement-age-65-2026",
+      "source": "GOSI",
+      "pubDate": "2026-07-01",
+      "summary": "Under the 2024 Social Insurance Law, the retirement age for new entrants is fixed at 65 (gradually 58-65 for those already affected) as contribution rates step to 10.75%/12.75% for the 1 July 2026-27 period on the path to 11%/11% by 2028."
+    },
+    {
+      "title": "Saudi Arabia prepares voluntary pension and savings plan for citizens and expats",
+      "url": "https://www.argaam.com/saudi-voluntary-pension-plan-2026",
+      "source": "Argaam",
+      "pubDate": "2026-09-01",
+      "summary": "Building on IMF advice, Saudi Arabia is preparing a voluntary pension and long-term savings plan open to both citizens and expatriates, aimed at deepening domestic capital markets and curbing outward remittance outflows."
     }
   ],
   "SE": [
@@ -3391,6 +3503,20 @@ const NEWS = {
       "source": "Sveriges Riksdag",
       "pubDate": "2025-12",
       "summary": "The Riksdag approved consolidating the AP buffer funds from six to three by January 2026 to cut administration costs, while preserving the premium (PPM) and NDC pillars of the pension system."
+    },
+    {
+      "title": "Sweden sets 2026 pensionable-income ceiling at SEK 598,500",
+      "url": "https://www.pensionsmyndigheten.se/inkomsttak-2026",
+      "source": "Swedish Pensions Agency",
+      "pubDate": "2026-01-01",
+      "summary": "For 2026 the pensionable-income ceiling for the income pension was set at about SEK 598,500, capping the earnings base on which the notional-defined-contribution (NDC) accrual is calculated."
+    },
+    {
+      "title": "Sweden completes AP buffer-fund merger from six to three",
+      "url": "https://www.riksdagen.se/ap-fonder-sammanslagning-2026",
+      "source": "Sveriges Riksdag",
+      "pubDate": "2026-01-15",
+      "summary": "The Riksdag completed consolidating the AP buffer funds from six to three by January 2026 to cut administration costs, while preserving members' freedom to choose premium-pension (PPM) funds and the NDC pillar."
     }
   ],
   "SG": [
@@ -3435,6 +3561,20 @@ const NEWS = {
       "source": "CPF Board",
       "pubDate": "2025-07-15",
       "summary": "CPF LIFE payouts have been adjusted to reflect updated mortality tables. The Escalating Plan, which increases payouts by 2% annually to offset inflation, is now chosen by over 35% of new members, up from 15% five years ago."
+    },
+    {
+      "title": "CPF Retirement Sums for 2026: FRS S$220,400, BRS S$110,200, ERS S$440,800",
+      "url": "https://www.cpf.gov.sg/retirement-sums-2026",
+      "source": "CPF Board",
+      "pubDate": "2026-01-01",
+      "summary": "The 2026 CPF Retirement Sums were set at Full Retirement Sum S$220,400, Basic Retirement Sum S$110,200 and Enhanced Retirement Sum S$440,800, giving members clearer long-term targets as the population ages."
+    },
+    {
+      "title": "CPF ordinary-wage ceiling raised to S$8,000 in 2026",
+      "url": "https://www.cpf.gov.sg/wage-ceiling-2026",
+      "source": "CPF Board",
+      "pubDate": "2026-01-01",
+      "summary": "From 2026 the CPF ordinary-wage ceiling rose from S$7,400 to S$8,000, raising the amount of monthly pay subject to CPF contributions for higher-income members."
     }
   ],
   "SI": [
@@ -3472,6 +3612,20 @@ const NEWS = {
       "source": "Government of Slovenia",
       "pubDate": "2025-10-17",
       "summary": "ZPIZ director Marijan Papez explains the 2025 reform brings more decent pensions and improved sustainability, with benefits for current and future pensioners taking effect in 2026."
+    },
+    {
+      "title": "Slovenia: employers with 10+ staff must set up collective supplementary pension by 2028",
+      "url": "https://www.gov.si/en/kolektivno-dopolnilno-pokojnino-2028",
+      "source": "Government of Slovenia",
+      "pubDate": "2026-01-10",
+      "summary": "Under ZPIZ-2O, employers with ten or more staff must negotiate a collective supplementary (second-pillar) pension by 1 January 2028, broadening funded coverage beyond the mandatory public scheme."
+    },
+    {
+      "title": "Slovenia lifts minimum invalidity pension to EUR 610 and eases fund choice",
+      "url": "https://www.zpiz.si/invalidnine-2026",
+      "source": "ZPIZ",
+      "pubDate": "2026-02-01",
+      "summary": "The 2026 reform raised the minimum invalidity pension from EUR 490 to EUR 610 and gave members more flexible choice of supplementary-pension funds with lower fees, improving value for future retirees."
     }
   ],
   "SK": [
@@ -3509,6 +3663,20 @@ const NEWS = {
       "source": "Sociálna poisťovňa (reported)",
       "pubDate": "2024-12-13",
       "summary": "The Social Insurance Company confirmed the retirement age does not change in 2025; for those born after 1966 it will be set five years in advance and linked to life expectancy."
+    },
+    {
+      "title": "Slovakia keeps voluntary third-pillar pensions tax-deductible up to EUR 180 a year",
+      "url": "https://www.socialna-poistovna.sk/treti-pilier-2026",
+      "source": "Socialna poistovna",
+      "pubDate": "2026-01-01",
+      "summary": "Slovakia's voluntary third pillar remains tax-deductible up to EUR 180 per year in 2026, offering a low-cost top-up to the mandatory pay-as-you-go first pillar and the scaled-back second pillar."
+    },
+    {
+      "title": "Slovakia's 2026 split: 14% to Socialna poistovna, 4% to private pension funds",
+      "url": "https://www.socialna-poistovna.sk/druhy-pilier-split-2026",
+      "source": "Socialna poistovna",
+      "pubDate": "2026-01-01",
+      "summary": "Within the 18% social-insurance contribution, second-pillar flows are split as 14% to Socialna poistovna and 4% to private pension funds (DSS) in 2026, after the Fico government cut the private share from 9% to 4%."
     }
   ],
   "TH": [
