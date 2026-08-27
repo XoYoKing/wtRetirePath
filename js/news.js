@@ -3715,7 +3715,22 @@ const NEWS = {
       "source": "Attori Law",
       "pubDate": "2026-04-15",
       "summary": "A new mandatory Employee Welfare Fund launches 1 October 2026: employers and employees each contribute 0.25% of wages (rising to 0.50% from 2031), uncapped, for firms with 10+ employees."
-    }
+    },
+    {
+      "title": "Thailand raises SSF wage ceiling to THB 17,500 and lifts old-age pensions from 1 January 2026",
+      "url": "https://www.bdo.co.th/en-th",
+      "source": "BDO Thailand",
+      "pubDate": "2026-01-02",
+      "summary": "From 1 January 2026 the Social Security Fund contribution wage ceiling rose from THB 15,000 to THB 17,500 (maximum THB 875 per side), the first step of a three-phase rise to THB 23,000 by 2032 under the Royal Gazette notice of 12 December 2025; the old-age pension also increased, to THB 3,500 for 15-year service and THB 6,125 for 25-year service.",
+    },
+    {
+      "title": "Thai Cabinet approves in principle new CARE old-age pension formula on 14 July 2026",
+      "url": "https://en.thairath.co.th",
+      "source": "Thairath (English)",
+      "pubDate": "2026-07-15",
+      "summary": "On 14 July 2026 the Cabinet approved in principle the CARE (Contributory Adequate Retirement Entitlement) formula that would link old-age pension benefits to full-career average wages, advancing the Labour Ministry's 2026 reform agenda to make payouts more adequate for long-serving contributors.",
+    },
+
   ],
   "TN": [
     {
@@ -3746,7 +3761,22 @@ const NEWS = {
       "source": "InvestmentKit",
       "pubDate": "2026-01-15",
       "summary": "The 2026 guide confirms the private-sector retirement age stays at 60 (62 for some categories) with a 120-quarter contribution requirement; CNSS rates are 9.18% employee + 16.57% employer, capped near TND 10,000/month."
-    }
+    },
+    {
+      "title": "Tunisia's 2026 Finance Act sets a three-year wage and pension roadmap by decree",
+      "url": "https://www.tunisia.gov.tn",
+      "source": "Tunisian Government / Finance Act 2026",
+      "pubDate": "2026-01-10",
+      "summary": "Law No. 17 of 2025 (Official Gazette No. 148, 12 December 2025), effective 1 January 2026, empowers the government to raise wages and pensions by decree over a three-year schedule (2026-2028), aiming to restore purchasing power while keeping the CNSS and CNRPS deficits under control.",
+    },
+    {
+      "title": "Tunisia to subsidize CNSS employer contributions for new graduate hires",
+      "url": "https://joinneo.com",
+      "source": "Neo (Tunisia payroll)",
+      "pubDate": "2026-01-20",
+      "summary": "As part of the 2026 employment incentives, the state will cover part of CNSS employer contributions for firms hiring new graduates, phasing the subsidy from 100% down to 20% over five years to lower youth unemployment without permanently expanding the pension wage bill.",
+    },
+
   ],
   "TR": [
     {
@@ -3784,7 +3814,22 @@ const NEWS = {
       "source": "CottGroup",
       "pubDate": "2025-10-30",
       "summary": "The TES is designed as a fully mandatory, contribution-based second pillar with employer, employee and state contributions, targeted at all employees from Q2 2026, with benefits accessible from age 58/60 after 10 years."
-    }
+    },
+    {
+      "title": "Turkey's Law No. 7566 raises SGK earnings ceiling to 9x minimum wage from 1 January 2026",
+      "url": "https://www.datassist.com",
+      "source": "Datassist (Turkey payroll)",
+      "pubDate": "2026-01-05",
+      "summary": "Law No. 7566, effective 1 January 2026, lifted the SGK earnings ceiling from 7.5 to 9 times the minimum wage (about TRY 297,270 per month at the TRY 33,030 minimum) and raised the invalidity/old-age/death premium from 20% to 21% (employer 11% to 12%, employee 9%).",
+    },
+    {
+      "title": "Turkey confirms mandatory TES supplementary pension for Q2 2026 with no opt-out",
+      "url": "https://www.leglobal.law",
+      "source": "Le Global (employment law)",
+      "pubDate": "2026-02-10",
+      "summary": "The Complementary Pension System (TES) is set to launch in Q2 2026, replacing auto-enrolment (OKS) with a mandatory second pillar: employees contribute 3% and employers 2%, with a 1% state top-up, compulsory participation and no opt-out, benefits accessible from age 58/60 after 10 years.",
+    },
+
   ],
   "TW": [
     {
@@ -3822,7 +3867,22 @@ const NEWS = {
       "source": "Focus Weekly (Taiwan)",
       "pubDate": "2025-10-14",
       "summary": "From 1 April 2026 migrant workers employed by the same employer for 10+ years must be brought into the old-system pension reserve fund (employer 2-15% of wages), expanding their retirement protection."
-    }
+    },
+    {
+      "title": "Taiwan lifts basic wage to NT$29,500 and labour insurance premium rate to 12.5% in 2026",
+      "url": "https://www.gvm.com.tw",
+      "source": "Business Today (Taiwan)",
+      "pubDate": "2026-01-03",
+      "summary": "From 1 January 2026 Taiwan's statutory basic wage rose to NT$29,500 per month and the Labour Insurance premium rate increased to 12.5%, lifting the contribution base and future annuity payouts for the pay-as-you-go scheme under aging-pressure reviews.",
+    },
+    {
+      "title": "Taiwan's five Labor Pension changes take effect 1 August 2026",
+      "url": "https://guide.1111.com.tw",
+      "source": "1111 Job Bank (Taiwan)",
+      "pubDate": "2026-08-01",
+      "summary": "From 1 August 2026 the Labor Pension reforms expand member rights: 'pure old-system' workers may voluntarily contribute, creditor protection for pension accounts is widened, and the 30-day regret period and employer duty to accept voluntary 1-6% contributions (in force since 27 March 2026) are consolidated.",
+    },
+
   ],
   "TZ": [
     {
@@ -3853,7 +3913,22 @@ const NEWS = {
       "source": "Business Daily Africa (Tanzania)",
       "pubDate": "2026-06-15",
       "summary": "Parliamentarians highlighted NSSF's self-employed social security scheme and PSSSF's industrial investments; NSSF aims to register 3.7 million self-employed Tanzanians by June 2031, with about 85% of the workforce in the informal sector."
-    }
+    },
+    {
+      "title": "Tanzania Finance Act 2026 leaves NSSF and PSSSF contribution rates unchanged",
+      "url": "https://support.payspace.com",
+      "source": "Payspace (Tanzania)",
+      "pubDate": "2026-07-01",
+      "summary": "The Finance Act 2026 (Act No. 2 of 2026, Special Gazette No. 8 Vol. 107, 30 June 2026, effective 1 July 2026) confirmed the NSSF and PSSSF contribution rates stay unchanged at 20% total (10% employee plus 10% employer), giving contributors certainty after the 2024 NSSF amendments.",
+    },
+    {
+      "title": "Tanzania NSSF assets reach TSh 11.6 trillion as informal coverage expands",
+      "url": "https://www.investmentkit.com",
+      "source": "InvestmentKit",
+      "pubDate": "2026-06-20",
+      "summary": "NSSF reported assets of about TSh 11.6 trillion by June 2026 and aims to register 3.7 million self-employed Tanzanians by June 2031, with roughly 85% of the workforce still in the informal sector targeted via mobile-money products like the Hifadhi Scheme.",
+    },
+
   ],
   "UA": [
     {
@@ -3891,7 +3966,22 @@ const NEWS = {
       "source": "Komersant",
       "pubDate": "2026-02-25",
       "summary": "From 1 March 2026 Ukraine indexed pensions and insurance payments by 12.1% (inflation 8% + half of three-year wage growth), raising most minimums; required insurance record for age-60 retirement rose to 33 years."
-    }
+    },
+    {
+      "title": "Ukraine indexes pensions 12.1% from 1 March 2026",
+      "url": "https://komersant.ua",
+      "source": "Komersant",
+      "pubDate": "2026-02-25",
+      "summary": "From 1 March 2026 Ukraine indexed pensions and insurance payments by 12.1% (8% inflation plus half of three-year wage growth of 16.1%), raising most minimums; the required insurance record for age-60 retirement rose to 33 years.",
+    },
+    {
+      "title": "Ukraine to auto-recalculate working pensioners' benefits from 1 April 2026",
+      "url": "https://www.kmu.gov.ua",
+      "source": "Cabinet of Ministers of Ukraine",
+      "pubDate": "2026-03-15",
+      "summary": "From 1 April 2026 working pensioners receive an automatic recalculation of their benefits once they have 24 months of covered service, complementing the 12.1% March indexation and the higher minimum tiers for seniors with full contribution records.",
+    },
+
   ],
   "UG": [
     {
@@ -3929,7 +4019,22 @@ const NEWS = {
       "source": "Business Focus (Uganda)",
       "pubDate": "2026-07-01",
       "summary": "The Public Service Pension Fund (PSPF) Act, 2025 ends Uganda's decades-old non-contributory pension system; contributions start 1 July 2027 (employer 10%, employee 5%), modelled on the NSSF for private workers."
-    }
+    },
+    {
+      "title": "Uganda NSSF assets rise to Shs 32.8 trillion, targeting Shs 80 trillion by 2035",
+      "url": "https://finance.go.ug",
+      "source": "Ministry of Finance, Uganda",
+      "pubDate": "2026-06-30",
+      "summary": "NSSF assets grew from about Shs 26 trillion in June 2025 to Shs 32.8 trillion by June 2026, with a member satisfaction rate of 95%; the fund targets Shs 80 trillion by 2035 as the mandatory Public Service Pension Fund (PSPF) prepares to start contributions on 1 July 2027.",
+    },
+    {
+      "title": "Uganda retirement savings sector hits Ugx 30.7 trillion with 4.06 million savers",
+      "url": "https://urbra.go.ug",
+      "source": "URBRA",
+      "pubDate": "2026-03-05",
+      "summary": "The URBRA Annual Sector Report (5 March 2026) showed Uganda's retirement savings sector reached Ugx 30.7 trillion in assets (up 21% year on year) across 4,062,144 savers, with an average interest rate of 14.6% credited to members.",
+    },
+
   ],
   "US": [
     {
@@ -3981,7 +4086,22 @@ const NEWS = {
       "source": "Kiplinger",
       "pubDate": "2026-01-01",
       "summary": "Key 2026 changes include the 2.8% COLA, the full retirement age hitting 67 for the 1960 birth cohort (effective November 2026), the wage base rising to $184,500, and higher earnings-test exempt amounts ($24,480 / $65,160)."
-    }
+    },
+    {
+      "title": "US 'One Big Beautiful Bill' adds a $6,000 senior deduction for 2025-2028",
+      "url": "https://www.irs.gov",
+      "source": "IRS",
+      "pubDate": "2025-07-04",
+      "summary": "The One Big Beautiful Bill Act (P.L. 119-21) creates a new temporary deduction of up to $6,000 per year for taxpayers aged 65 and older for tax years 2025-2028 (phasing out between $75,000 and $150,000 of modified adjusted gross income). It does not eliminate Social Security taxation.",
+    },
+    {
+      "title": "CBO projects Social Security OASI fund depletion by 2032",
+      "url": "https://www.cbo.gov",
+      "source": "Congressional Budget Office",
+      "pubDate": "2026-03-20",
+      "summary": "A March 2026 Congressional Budget Office estimate moved the projected depletion of the Old-Age and Survivors Insurance (OASI) trust fund to 2032, earlier than the Social Security Trustees' 2035 outlook, intensifying debate over the program's long-run solvency.",
+    },
+
   ],
   "UY": [
     {
@@ -4012,7 +4132,22 @@ const NEWS = {
       "source": "Coface",
       "pubDate": "2026-04-30",
       "summary": "After the April 2026 Social Dialogue white paper, the government ruled out abolishing the AFAPs but proposed a new early-retirement option from age 60 (legal age staying 65); most changes still require legislative approval."
-    }
+    },
+    {
+      "title": "Uruguay's 2026 non-contributory BPS pension set at $18,531 per month",
+      "url": "https://www.datosuruguay.com",
+      "source": "DatoUruguay",
+      "pubDate": "2026-01-15",
+      "summary": "The non-contributory BPS old-age pension was set at about $18,531 per month in 2026, adjusted each January by the IMSN price index, maintaining a safety-net floor alongside the mixed BPS+AFAP contributory system.",
+    },
+    {
+      "title": "Uruguay's 2025-2029 budget prioritizes strengthening social protection",
+      "url": "https://www.coface.com.cn",
+      "source": "Coface",
+      "pubDate": "2026-05-10",
+      "summary": "The 2025-2029 Budget Bill lists strengthening social protection as a priority, funding the non-contributory BPS floor and the October 2026 social-security referendum process (on eliminating AFAPs, lowering the age to 60 and aligning the minimum pension with the minimum wage) without pre-committing to structural change.",
+    },
+
   ],
   "VN": [
     {
@@ -4050,7 +4185,22 @@ const NEWS = {
       "source": "Vietnam Social Security",
       "pubDate": "2026-06-22",
       "summary": "By end-2025 seven supplementary pension funds held about VND 2,210 billion for over 28,500 members; the Finance Ministry has proposed raising the tax-deductible contribution limit to VND 3 million/month to deepen the second pillar."
-    }
+    },
+    {
+      "title": "Vietnam's Decree 85/2026 details supplementary pension rules for employers",
+      "url": "https://en.congdoanvietnam.vn",
+      "source": "Vietnam Trade Union",
+      "pubDate": "2026-05-12",
+      "summary": "Decree 85/2026/ND-CP (effective 10 May 2026) lets workers join a voluntary supplementary pension via their employer, bars employers from discriminating or linking it to rewards, sets a minimum participation period of no more than 5 years, and provides a personal retirement account with monthly, lump-sum or combined payouts plus death and serious-illness guarantees.",
+    },
+    {
+      "title": "Vietnam supplementary pension funds reach VND 2,210 billion for 28,500 members",
+      "url": "https://vietnam.vn",
+      "source": "Vietnam.vn",
+      "pubDate": "2026-06-22",
+      "summary": "By end-2025 seven supplementary pension funds held about VND 2,210 billion in net assets, up 53% year on year and roughly 26 times the 2021 level, covering more than 28,500 members as the Finance Ministry proposes raising the tax-deductible contribution cap to VND 3 million per month.",
+    },
+
   ],
   "ZA": [
     {
@@ -4087,7 +4237,22 @@ const NEWS = {
       "source": "Finserv (ZA retirement calculators)",
       "pubDate": "2026-02-25",
       "summary": "The 2026 Budget raised the annual Retirement Annuity (and pension/provident fund) deduction cap from R350,000 to R430,000 while keeping the 27.5% rate, giving higher-income earners more tax-relieved retirement saving room."
-    }
+    },
+    {
+      "title": "South Africa mulls letting retirees tap savings pot for dire financial distress",
+      "url": "https://www.businessday.co.za",
+      "source": "Business Day",
+      "pubDate": "2026-03-18",
+      "summary": "National Treasury (Chris Axelson, March 2026) is considering limited access to the retirement (preservation) pot for members in dire financial distress under strict, rare conditions, while signalling auto-enrolment into retirement funds as the next structural step after the two-pot system.",
+    },
+    {
+      "title": "South Africa two-pot withdrawals reach R79.3bn for 5.6m people by February 2026",
+      "url": "https://www.iol.co.za",
+      "source": "IOL",
+      "pubDate": "2026-02-20",
+      "summary": "By February 2026 about R79.3 billion had been approved for withdrawal from the savings pot across 5.6 million people; Old Mutual reported preservation improved by about 33% compared with the pre-two-pot era, though concerns persist over long-run retirement adequacy.",
+    },
+
   ]
 };
 
