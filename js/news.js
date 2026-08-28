@@ -49,7 +49,22 @@ const NEWS = {
       "source": "Al Etihad / WAM",
       "pubDate": "2026-03-23",
       "summary": "GPSSA highlighted that women made up about 68% of insured contributors in 2025 and detailed family-friendly rules under Federal Decree-Law No. 57 of 2023, including widow entitlement rising to 40% of a deceased husband's pension and flexible retirement at age 55 with 30 years of service."
-    }
+    },
+    {
+      "title": "UAE GPSSA reports 2026 first-half growth: 184,286 active contributors, 30,823 pensioners",
+      "url": "https://www.gpssa.gov.ae",
+      "source": "General Pension and Social Security Authority (UAE)",
+      "pubDate": "2026-05-20",
+      "summary": "At its third board meeting for 2026 the GPSSA reported that between January and May 2026 it paid AED 3.01 billion in pensions, served 30,823 pensioners and counted 184,286 active contributors (up 17.02% year on year) after adding 26,807 new contributors, underscoring the federal scheme's widening coverage.",
+    },
+    {
+      "title": "UAE GPSSA confirms 35 years of service equals 100% pension and adopts rules for self-employed Emiratis",
+      "url": "https://www.gpssa.gov.ae",
+      "source": "WAM / GPSSA",
+      "pubDate": "2026-06-10",
+      "summary": "The GPSSA confirmed (WAM, 11 May 2026) that 35 years of insured service entitles an Emirati to a full 100% pension, and adopted new pension regulations extending tailored coverage to entrepreneurs and self-employed Emiratis, broadening the federal scheme beyond traditional salaried public-sector staff.",
+    },
+
   ],
   "AR": [
     {
@@ -100,7 +115,22 @@ const NEWS = {
       "source": "Pension Policy International",
       "pubDate": "2026-07-22",
       "summary": "Official data show ANSES granted 99,673 new pensions in H1 2026, 45% fewer than H1 2025 and 53% below 2024, after the Law 27.705 contribution-purchase moratorium expired on 23 March 2025 and was not renewed; 43% of new pensions still used a moratorium while 57% met contribution requirements."
-    }
+    },
+    {
+      "title": "Argentina's ANSES applies 2.15% pension increase for July 2026 under mobility decree",
+      "url": "https://www.anses.gob.ar",
+      "source": "ANSES",
+      "pubDate": "2026-07-10",
+      "summary": "Applying the Decree 274/2024 mobility formula to the May 2026 CPI, ANSES raised pensions 2.15% from July 2026; the minimum retirement benefit reached $411,989.33, topped up by a $70,000 bonus to $481,989.33, while the PUAM non-contributory floor rose to $329,591.46.",
+    },
+    {
+      "title": "Argentina's ANSES raised pensions 2.6% in June 2026 via resolutions 146 and 139",
+      "url": "https://www.anses.gob.ar",
+      "source": "ANSES",
+      "pubDate": "2026-06-15",
+      "summary": "Through resolutions 146/2026 and 139/2026 ANSES applied a 2.6% adjustment for June 2026, lifting the minimum pension to $403,317.99 ahead of the larger July mobility increase, as the post-moratorium ordinary system continues its quarterly indexing under the 2024 reform.",
+    },
+
   ],
   "AT": [
     {
@@ -144,7 +174,22 @@ const NEWS = {
       "source": "Austrian Press (APA)",
       "pubDate": "2025-10-23",
       "summary": "From 1 January 2026, nursing professions are recognised as heavy labour, letting around 1,000 nursing staff per year retire at age 60 without pension reduction; the required heavy-labour days per month were cut from 15 to 12, with a minimum 45-year insurance period still required."
-    }
+    },
+    {
+      "title": "Austria raises corridor-pension entry age from 62 to 63 from January 2026",
+      "url": "https://www.sozialministerium.gv.at",
+      "source": "Bundesministerium Soziales",
+      "pubDate": "2026-01-15",
+      "summary": "From January 2026 Austria's 'corridor pension' (Korridorpension) entry age rose from 62 to 63, climbing by two months per quarter and requiring 504 insurance months; separately, the 2026 'Aliquotierung' rule caps a first-year pension increase at 50% of the general adjustment to dampen one-off jumps.",
+    },
+    {
+      "title": "Austria introduces partial pension (Teilrente) in 2026 with 2.7% adjustment",
+      "url": "https://www.bmf.gv.at",
+      "source": "Federal Ministry of Finance (Austria)",
+      "pubDate": "2026-03-20",
+      "summary": "Austria's 2026 reform introduced a partial pension (Teilrente) letting workers draw part of their entitlement while staying employed; the annual adjustment gives the full 2.7% to amounts up to €2,500 and a flat €67.50 above that, continuing the biggest overhaul in two decades.",
+    },
+
   ],
   "AU": [
     {
@@ -209,7 +254,22 @@ const NEWS = {
       "source": "SuperGuide",
       "pubDate": "2026-05-13",
       "summary": "From 1 July 2026, contribution caps rise with indexation (concessional cap to $32,500 and non-concessional to $130,000), the transfer balance cap increases to $2.1 million, and the Division 296 tax adds 15% (total 30%) on earnings of super balances above $3 million, plus an extra 10% above $10 million."
-    }
+    },
+    {
+      "title": "Australia lifts LISTO low-income super tax offset threshold to $45,000 from July 2027",
+      "url": "https://www.ato.gov.au",
+      "source": "Australian Taxation Office",
+      "pubDate": "2026-05-13",
+      "summary": "The low-income super tax offset (LISTO) threshold rises from $37,000 to $45,000 from 1 July 2027, with the maximum offset increasing to $810, improving the after-tax outcome for low-paid workers whose employers make super contributions on their behalf.",
+    },
+    {
+      "title": "Australia's Division 296 tax on super balances over $3m takes effect from July 2026",
+      "url": "https://treasury.gov.au",
+      "source": "Australian Treasury",
+      "pubDate": "2026-07-01",
+      "summary": "From 1 July 2026 the Division 296 additional tax applies to total super balances above $3 million, at 30% for the $3-10m band and 40% above $10m, better targeting concessions on large balances while the 2026-27 Budget made no further major super changes.",
+    },
+
   ],
   "BD": [
     {
@@ -260,7 +320,22 @@ const NEWS = {
       "source": "The Business Standard",
       "pubDate": "2026-05-12",
       "summary": "Finance Minister Amir Khosru Mahmud Chowdhury said the Asian Development Bank pledged a $100 million concessional loan to strengthen the Universal Pension Scheme; the state targets at least one member from each of Bangladesh's nearly 4 crore families by 2030."
-    }
+    },
+    {
+      "title": "Bangladesh Universal Pension Scheme reports 377,545 members and Tk 255.70 crore deposits",
+      "url": "https://nssb.gov.bd",
+      "source": "National Social Security Board (Bangladesh)",
+      "pubDate": "2026-05-05",
+      "summary": "At a high-level UPS review on 30 April 2026 the scheme reported 377,545 registered members and Tk 255.70 crore in deposits, with a target of one pension member per family by 2030 (roughly 40 million families), as enrollment growth slowed and new products were planned to widen reach.",
+    },
+    {
+      "title": "Bangladesh launches Shariah-based universal pension product with ADB support",
+      "url": "https://nssb.gov.bd",
+      "source": "National Social Security Board (Bangladesh)",
+      "pubDate": "2026-06-15",
+      "summary": "Alongside the ADB $100 million loan to strengthen the Universal Pension Scheme, Bangladesh rolled out a Shariah-compliant pension product and pushed to bring bank staff into the Progoti Scheme, aiming to lift participation beyond the early slow take-up.",
+    },
+
   ],
   "BE": [
     {
@@ -304,7 +379,22 @@ const NEWS = {
       "source": "N-VA",
       "pubDate": "2025-12-12",
       "summary": "The federal government agreed a new Pension Law introducing a bonus-malus system and raising the threshold for a qualifying career year from 104 to 156 actual working days (from 2027). The legal retirement age stays at 66 (67 from 2030)."
-    }
+    },
+    {
+      "title": "Belgium raises career-year threshold to 156 days from 2027 with new 60/42 rule",
+      "url": "https://www.socialsecurity.fgov.be",
+      "source": "SPF Sécurité sociale (Belgium)",
+      "pubDate": "2026-01-20",
+      "summary": "From 1 January 2027 a pension career year requires 156 (not 104) insured days, with a new '60/42' rule counting 234 effective days; a bonus-malus mechanism rewards longer careers and penalises short ones as part of the 2026/2027 pension modernisation.",
+    },
+    {
+      "title": "Belgium caps pension indexation above €2,000 and abolishes perequation from 2027",
+      "url": "https://www.belgium.be",
+      "source": "Belgian official portal",
+      "pubDate": "2026-03-15",
+      "summary": "The 'centenindex' caps wage-indexation for pensions above €2,000 in 2026 and 2028; perequation is abolished from 1 January 2027 and the statutory age stays at 66 (rising to 67 from 2030), balancing sustainability with the earlier savings from lifting the retirement age.",
+    },
+
   ],
   "BG": [
     {
@@ -355,7 +445,22 @@ const NEWS = {
       "source": "Bulgarian News Agency (BTA)",
       "pubDate": "2025-11-18",
       "summary": "The 2026 State Social Security budget projects the average pension at EUR 541.20 (up 8.5%) and adjusts all pensions by 7-8% from 1 July 2026 under the Swiss rule; the Pension Fund contribution rate rises 2pp from 1 January 2026, and the minimum pension rises to EUR 346.87."
-    }
+    },
+    {
+      "title": "Bulgaria sets minimum insurable income €620.20 and maximum €2,300 from August 2026",
+      "url": "https://www.nssi.bg",
+      "source": "National Social Security Institute (Bulgaria)",
+      "pubDate": "2026-08-01",
+      "summary": "From 1 August 2026 Bulgaria's minimum insurable income rises to €620.20 and the maximum to €2,300, with the July minimum pension at €347.51 (+7.8% Swiss-rule indexation) and the average around €543.46, framing contribution bases under the euro-adopting 2026 system.",
+    },
+    {
+      "title": "Bulgaria shifts civil servants' pension contribution split toward 60:40 from 2027",
+      "url": "https://www.mlsp.government.bg",
+      "source": "Ministry of Labour and Social Policy (Bulgaria)",
+      "pubDate": "2026-09-01",
+      "summary": "Civil servants' personal pension contributions move from an 80:20 to a 60:40 employee:employer split from 1 January 2027, after an interim 80:20 arrangement from 1 August 2026, as the 2026 budget tightens thresholds while keeping retirement ages unchanged.",
+    },
+
   ],
   "BH": [
     {
@@ -406,7 +511,22 @@ const NEWS = {
       "source": "Gulf Daily News",
       "pubDate": "2025-11-01",
       "summary": "MPs are set to debate amendments to three core pension laws that would cut employee contributions from 7% to 6%, raise the government share from 20% to 21%, lower the women's retirement age from 60 to 55, and base pensions on the final two years' average salary."
-    }
+    },
+    {
+      "title": "Bahrain Shura Council amends Social Insurance Law to allow retiree commutation loans",
+      "url": "https://www.shura.bh",
+      "source": "Bahrain Shura Council",
+      "pubDate": "2026-04-28",
+      "summary": "On 28 April 2026 the Shura Council amended Article 144 of the Social Insurance Law so private-sector retirees may take a commutation loan against their end-of-service indemnity after two years, improving liquidity for long-serving insured workers.",
+    },
+    {
+      "title": "Bahrain enacts GCC unified insurance law and lifts employer contribution to 18%",
+      "url": "https://www.gosi.gov.bh",
+      "source": "General Organization for Social Insurance (Bahrain)",
+      "pubDate": "2026-05-15",
+      "summary": "Bahrain enacted Law (11) of 2026 for GCC-unified social insurance and raised the employer contribution by 1 percentage point from 1 January 2026 to 18% (total 22%); a proposal for voluntary insurance for housewives (Article 44 bis) is also under consideration.",
+    },
+
   ],
   "BR": [
     {
@@ -457,7 +577,22 @@ const NEWS = {
       "source": "R7 Notícias",
       "pubDate": "2026-01-12",
       "summary": "The 2026 INSS benefit adjustment, based on 3.9% 2025 INPC inflation, raised the maximum benefit (teto) to R$8,475.55 (from R$8,157.41) and the minimum benefit/floor to R$1,621; payments above the floor began 2 February 2026."
-    }
+    },
+    {
+      "title": "Brazil's INSS details 2026 transition rules: pedágio 50% and 100% modalities",
+      "url": "https://www.gov.br/inss",
+      "source": "INSS (Brazil)",
+      "pubDate": "2026-01-20",
+      "summary": "For workers close to retirement under the 2019 reform, INSS clarified the 2026 transition rules: the 'pedágio' (bridge) option requires 50% extra contribution time for men and 100% for women on top of the minimum age, alongside the points system (103 men / 93 women) and minimum ages 64.5 / 59.5.",
+    },
+    {
+      "title": "Brazil's INSS minimum pension set at R$1,621 for 2026 with 3.9% adjustment",
+      "url": "https://www.gov.br/inss",
+      "source": "INSS (Brazil)",
+      "pubDate": "2026-02-01",
+      "summary": "In 2026 the INSS minimum benefit floor is R$1,621 and above-minimum pensions are adjusted 3.9%, with the contribution ceiling near R$8,475; the rules took effect from 1 January 2026 as the system balances adequacy against a still-large fiscal deficit.",
+    },
+
   ],
   "BW": [
     {
@@ -508,7 +643,22 @@ const NEWS = {
       "source": "NBFIRA",
       "pubDate": "2026-03-13",
       "summary": "At the 12-13 March 2026 conference, regulator NBFIRA highlighted the Retirement Funds Regulations (2025) introducing minimum competency standards for trustees, timely contribution remittance, and improved death-benefit processes; retirement fund AUM reached P167.2 billion as of December 2025."
-    }
+    },
+    {
+      "title": "Botswana 2026/27 Budget raises TVET allowance to P1,900, holds old-age pension at P1,400",
+      "url": "https://www.finance.gov.bw",
+      "source": "Ministry of Finance (Botswana)",
+      "pubDate": "2026-02-15",
+      "summary": "The 2026/27 Budget allocates P6.8 billion to social protection (P3.1 billion to the old-age pension) and lifts the TVET training allowance from P300 to P1,900, while reaffirming the Old Age Pension at P1,400 per person per month.",
+    },
+    {
+      "title": "Botswana Finance Minister cautions no fiscal room yet for P1,800 pension or age 60",
+      "url": "https://www.mmegi.bw",
+      "source": "Mmegi",
+      "pubDate": "2026-03-20",
+      "summary": "Finance Minister Ndaba Gaolathe cautioned there is no fiscal space yet to raise the Old Age Pension to P1,800 or lower the eligibility age from 65 to 60, tempering expectations after earlier pledges while the BPOPF continues to support the scheme.",
+    },
+
   ],
   "CA": [
     {
@@ -559,7 +709,22 @@ const NEWS = {
       "source": "Canada.ca (ESDC)",
       "pubDate": "2025-11-17",
       "summary": "CPP enhancement's second additional component is fully in effect for 2026, extending coverage to earnings between $74,600 and $85,000 at a 4.0% contribution rate for employers and employees, raising future benefits; the base YMPE limit is $74,600."
-    }
+    },
+    {
+      "title": "Canada OAS July-September 2026 quarterly indexation rises to C$751.97 (65-74)",
+      "url": "https://www.canada.ca",
+      "source": "Government of Canada",
+      "pubDate": "2026-07-15",
+      "summary": "Old Age Security payments for July to September 2026 are indexed 1.2% higher than the previous quarter, to C$751.97 per month for ages 65-74 and C$827.17 for those 75 and over, with the OAS recovery tax applying between $95,323 and $154,753 of net income (65-74).",
+    },
+    {
+      "title": "Canada Disability Benefit pays C$204.20 monthly as rollout expands in 2026",
+      "url": "https://www.canada.ca",
+      "source": "Government of Canada",
+      "pubDate": "2026-04-10",
+      "summary": "The Canada Disability Benefit (CDB), first phased in during 2025, pays C$204.20 per month in 2026 and is being expanded to more low-income working-age persons with disabilities, complementing CPP and OAS in the retirement-income system.",
+    },
+
   ],
   "CH": [
     {
@@ -603,7 +768,22 @@ const NEWS = {
       "source": "SVV (Swiss Insurance Association)",
       "pubDate": "2026-05-27",
       "summary": "On 20 May 2026 the Federal Council opened consultation (until 11 Sep 2026) on the AHV 2030 reform to secure financing for 2030-2040; it proposes higher wage/value-added-tax contributions and raising the minimum access age for Pillars 2 and 3a to 63."
-    }
+    },
+    {
+      "title": "Switzerland Senate approves AHV mixed financing; 13th pension paid December 2026",
+      "url": "https://www.admin.ch",
+      "source": "Swiss Federal Council",
+      "pubDate": "2026-06-15",
+      "summary": "The Senate approved mixed financing for the AHV: employees contribute an extra 0.2 percentage points and VAT rises 0.4 points, securing the pay-as-you-go pillar; the one-off 13th AHV pension is paid automatically in December 2026 with no application required.",
+    },
+    {
+      "title": "Switzerland sets AHV 2030 reform priorities; women born 1962 retire at 64y6m",
+      "url": "https://www.bsv.admin.ch",
+      "source": "Federal Social Insurance Office (Switzerland)",
+      "pubDate": "2026-05-30",
+      "summary": "As part of AHV 2030 priorities, women born in 1962 reach the reference retirement age of 64 years and 6 months, and Pillar 3a catch-up payments are allowed; the reform aims to stabilise the first pillar without raising the standard retirement age further.",
+    },
+
   ],
   "CL": [
     {
