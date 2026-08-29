@@ -268,7 +268,14 @@ const NEWS = {
       "source": "Australian Treasury",
       "pubDate": "2026-07-01",
       "summary": "From 1 July 2026 the Division 296 additional tax applies to total super balances above $3 million, at 30% for the $3-10m band and 40% above $10m, better targeting concessions on large balances while the 2026-27 Budget made no further major super changes.",
-    },
+    },,
+    {
+      "title": "Australia unveils sweeping superannuation reforms after Shield and First Guardian collapses",
+      "url": "https://ministers.treasury.gov.au/ministers/daniel-mulino-2025/media-releases/protecting-consumers-and-promise-superannuation",
+      "source": "Australian Treasury",
+      "pubDate": "2026-08-19",
+      "summary": "On 19 August 2026 Assistant Treasurer Daniel Mulino announced a comprehensive reform package responding to the ~A$1 billion Shield and First Guardian collapses that hit almost 12,000 Australians. Measures raise APRA-fund civil penalties from 2,400 to 50,000 penalty units, lift the SMSF levy to $295, and ban unlicensed real-time superannuation communications to curb hawking."
+    }
 
   ],
   "BD": [
@@ -591,7 +598,14 @@ const NEWS = {
       "source": "INSS (Brazil)",
       "pubDate": "2026-02-01",
       "summary": "In 2026 the INSS minimum benefit floor is R$1,621 and above-minimum pensions are adjusted 3.9%, with the contribution ceiling near R$8,475; the rules took effect from 1 January 2026 as the system balances adequacy against a still-large fiscal deficit.",
-    },
+    },,
+    {
+      "title": "Brazil's Supreme Court ends the 'whole-life review' of INSS pensions",
+      "url": "https://todayinbrazil.com/article/brazil-supreme-court-ends-inss-whole-life-pension-review",
+      "source": "Today in Brazil (Folha de S.Paulo)",
+      "pubDate": "2026-07-09",
+      "summary": "On 9 July 2026 the Supreme Court published the final procedural step ending the 'revisão da vida toda' (whole-life review) of INSS pensions under Law 9,876/1999; retirees who received court-ordered increases after 5 April 2024 may face repayment to the pre-review level, while a separate bill (PL 3379/2026, 2 July) proposes reinstating the review administratively."
+    }
 
   ],
   "BW": [
@@ -723,7 +737,14 @@ const NEWS = {
       "source": "Government of Canada",
       "pubDate": "2026-04-10",
       "summary": "The Canada Disability Benefit (CDB), first phased in during 2025, pays C$204.20 per month in 2026 and is being expanded to more low-income working-age persons with disabilities, complementing CPP and OAS in the retirement-income system.",
-    },
+    },,
+    {
+      "title": "OAS and GIS benefits rise 1.2% for the July–September 2026 quarter",
+      "url": "https://www.canada.ca/en/services/benefits/publicpensions/cpp/old-age-security.html",
+      "source": "Employment and Social Development Canada",
+      "pubDate": "2026-07-29",
+      "summary": "ESDC confirmed a 1.2% cost-of-living increase to Old Age Security and the Guaranteed Income Supplement for the July–September 2026 quarter — the largest single-quarter OAS adjustment in 2026 — taking the maximum OAS to $751.97/month (65–74) and $827.17/month (75+), with a further 1.4% rise set for the October–December quarter."
+    }
 
   ],
   "CH": [
@@ -899,6 +920,13 @@ const NEWS = {
       "source": "China.org.cn (State Council Information Office)",
       "pubDate": "2025-12-17",
       "summary": "The 15th Five-Year Plan proposal calls for steadily implementing the phased retirement-age delay and optimising employment and social-insurance age limits, removing the household-registration barrier for flexible/non-standard workers to join workplace pension insurance and tilting pension adjustments toward lower-income retirees."
+    },
+    {
+      "title": "China's delayed-retirement reform passes first full year; minimum contribution period to rise from 2030",
+      "url": "https://www.huli.gov.cn/zmhd/zxft/202603/t20260324_1147764.htm",
+      "source": "Xiamen Municipal Human Resources & Social Security Bureau",
+      "pubDate": "2026-08-04",
+      "summary": "Local social-security authorities clarified that China's progressive delayed-retirement scheme (men 60→63, female cadres 55→58, female workers 50→55 over 15 years from 2025) is proceeding on schedule, with flexible early/delayed retirement of up to three years, and the minimum contribution period will rise from 15 to 20 years from 2030 at 6 months per year."
     }
   ],
   "CO": [
@@ -1947,6 +1975,20 @@ const NEWS = {
       "source": "Rediff / PTI",
       "pubDate": "2026-05-20",
       "summary": "PFRDA Chairman S Ramann said Atal Pension Yojana (APY) reached 8.96 crore subscribers at end-FY26 (a record 1.35 crore added) and is on track to cross 10 crore in FY27. The National Pension System (NPS) stood at 2.17 crore subscribers with a INR 15.95 lakh crore corpus; the regulator is reviewing a higher APY monthly pension cap."
+    },
+    {
+      "title": "India notifies new EPF Scheme 2026, keeping 8.25% interest and 12% contribution",
+      "url": "https://pib.gov.in/newsite/archiveContent.aspx?relid=288622",
+      "source": "Press Information Bureau (Government of India)",
+      "pubDate": "2026-06-29",
+      "summary": "The Employees' Provident Fund Scheme 2026 replaced the 1952 scheme on 29 June 2026, retaining the 12% (basic + DA) contribution, the 8.25% FY2025-26 interest rate, and the ₹1,000/month minimum EPS pension. NPS assets under management reached about ₹15.95 lakh crore as of 31 March 2026."
+    },
+    {
+      "title": "India clarifies higher EPS-95 pension and studies raising EPF wage ceiling to ₹25,000",
+      "url": "https://economictimes.indiatimes.com/topic/india-pension-fund-regulation/news",
+      "source": "The Economic Times",
+      "pubDate": "2026-08-07",
+      "summary": "In August 2026 the government confirmed uniform implementation of the higher EPS-95 pension following the Madras High Court and Supreme Court rulings and opened an online facility for opting in; officials also discussed lifting the EPF wage ceiling from ₹15,000 to ₹25,000, which would widen coverage and raise many pensions."
     }
   ],
   "IS": [
@@ -2100,6 +2142,13 @@ const NEWS = {
       "source": "Japan DC Association",
       "pubDate": "2026-01-31",
       "summary": "As of end-January 2026, iDeCo (individual defined-contribution) accounts reached about 3.87 million, a record high, ahead of the 1 December 2026 changes that raise the eligibility-age ceiling from 65 to 70 and lift monthly contribution caps (self-employed Type-1 up to 75,000 yen)."
+    },
+    {
+      "title": "Japan expands iDeCo personal pension: enrollment age cap raised to 70",
+      "url": "https://www.mhlw.go.jp/content/12500000/act_250926a.pdf",
+      "source": "Ministry of Health, Labour and Welfare",
+      "pubDate": "2026-07-15",
+      "summary": "As part of the 2026 pension system revision, Japan raised the iDeCo (personal defined-contribution) enrollment age cap from 65 to 70 and will lift contribution limits from December 2026, while the income threshold above which working pensioners see benefits suspended rose to ¥650,000 from April 2026 to encourage longer careers."
     }
   ],
   "KE": [
@@ -2267,6 +2316,13 @@ const NEWS = {
       "source": "Korea JoongAng Daily",
       "pubDate": "2026-06-01",
       "summary": "From 1 January 2026 the reform raised the contribution rate to 9.5% (toward 13% by 2033) and the replacement rate to 43%; it also expanded the childbirth credit to 12 months (50-month cap removed), doubled the military credit to 12 months, widened the low-income regional subsidy to about 736,000 people, and from June 2026 eased the in-service pension-income reduction."
+    },
+    {
+      "title": "South Korea's 2026 pension reform writes state payment guarantee into law, expands childbirth credits",
+      "url": "https://www.koreaherald.com/article/10446290",
+      "source": "The Korea Herald",
+      "pubDate": "2026-01-01",
+      "summary": "Effective 1 January 2026, the first pension reform in 18 years raises the contribution rate from 9% to 9.5% (heading to 13% by 2033) and the income replacement rate to 43%, grants a 12-month childbirth credit from the first child with no 50-month cap, doubles military-service credit to 12 months, and formally enshrines the state's obligation to pay benefits."
     }
   ],
   "KW": [
@@ -2814,6 +2870,20 @@ const NEWS = {
       "source": "El Fondo",
       "pubDate": "2026-01-01",
       "summary": "For the whole 2026 calendar year CONSAR capped AFORE commissions at 0.54% of managed balance (PENSIONISSSTE 0.52%, system average 0.538%), down from 0.55% in 2025, pushing funds to compete on net return rather than fees."
+    },
+    {
+      "title": "Mexico's 2026 minimum guaranteed pension rises to 10,636 pesos/month",
+      "url": "https://mexico.as.com/actualidad/pension-imss-e-issste-aumentan-en-2026-esta-es-la-cantidad-que-recibiran-los-pensionados-cada-mes-f202601-n/",
+      "source": "AS México",
+      "pubDate": "2026-01-02",
+      "summary": "Driven by a 13% general minimum-wage increase effective 1 January 2026, the IMSS/ISSSTE guaranteed minimum pension rose from 9,412 pesos (2025) to 10,636 pesos per month, while pensions above the minimum are adjusted by the INPC inflation rate (estimated 3.9%–4.5% for 2026); the Pensión Bienestar bimonthly payment rose from 6,200 to 6,400 pesos."
+    },
+    {
+      "title": "Mexico 2026 Budget trims IMSS/ISSSTE pensions while boosting welfare pensions",
+      "url": "https://independentxpress.de/en-es/category/economy/2026-budget:-imss-and-issste-pensions-cut-1673447",
+      "source": "Independent Express (CIEP analysis)",
+      "pubDate": "2026-02-15",
+      "summary": "The 2026 Federal Expenditure Budget slightly reduces IMSS pensions (−2.5%) and ISSSTE pensions (−2.3%) for the first time since 2018, even as contributor numbers grow ~3% yearly, while the Welfare Ministry's pensions rise 13.5% (Senior Citizens +5.2%, Women's Welfare Pension for ages 60–64 +266%), per CIEP analysis."
     }
   ],
   "MY": [
@@ -3609,6 +3679,20 @@ const NEWS = {
       "source": "TASS",
       "pubDate": "2026-08-01",
       "summary": "From 1 August 2026 the Social Fund began a recalculation of benefits for working pensioners reflecting their additional contributions, part of a wider 2026 package that also indexed maternity capital 6.8% from February."
+    },
+    {
+      "title": "Russia to auto-recalculate pensions from 1 September 2026 for three groups",
+      "url": "https://iz.ru/en/2145487/2026-08-07/three-categories-pensioners-will-receive-increase-payments-starting-september-1",
+      "source": "Izvestia",
+      "pubDate": "2026-08-07",
+      "summary": "From 1 September 2026 the Social Fund will automatically recalculate insurance pensions for pensioners who turned 80 (fixed payment doubles to 19,169.38 rubles plus a 1,413.86 ruble care allowance), those newly assigned disability group I, and people who stopped working in August and reclaim missed indexations — no applications required."
+    },
+    {
+      "title": "Russia simplifies pension applications to passport and SNILS from July 2026",
+      "url": "https://iz.ru/en/node/2134814",
+      "source": "Izvestia",
+      "pubDate": "2026-07-07",
+      "summary": "From 7 July 2026 a pension can be claimed with just a passport and SNILS; the Social Fund fetches employment and earnings data automatically via a unified digital platform and inter-agency exchange. Earlier 2026 indexations were 7.6% for insurance pensions (1 Jan) and 6.8% for social pensions (1 Apr), with a 4% military-pension indexation planned for 1 Oct."
     }
   ],
   "SA": [
@@ -4008,7 +4092,14 @@ const NEWS = {
       "source": "Le Global (employment law)",
       "pubDate": "2026-02-10",
       "summary": "The Complementary Pension System (TES) is set to launch in Q2 2026, replacing auto-enrolment (OKS) with a mandatory second pillar: employees contribute 3% and employers 2%, with a 1% state top-up, compulsory participation and no opt-out, benefits accessible from age 58/60 after 10 years.",
-    },
+    },,
+    {
+      "title": "Türkiye raises minimum pension to 23,552 lira after 17.76% H1 inflation",
+      "url": "https://en.haberler.com/retirees-were-waiting-with-curiosity-here-is-the-2280469",
+      "source": "Haberler.com",
+      "pubDate": "2026-07-22",
+      "summary": "Following TÜİK's 17.76% first-half-2026 inflation figure, SSK and Bağ-Kur retirees received a 17.76% raise and parliament approved lifting the minimum pension from 20,000 to 23,552 lira (about $500), benefiting some 5.1 million retirees at a budget cost of roughly 79 billion lira ($1.68 billion) for H2 2026; increased payments landed 17–28 July by allocation number."
+    }
 
   ],
   "TW": [
@@ -4280,7 +4371,14 @@ const NEWS = {
       "source": "Congressional Budget Office",
       "pubDate": "2026-03-20",
       "summary": "A March 2026 Congressional Budget Office estimate moved the projected depletion of the Old-Age and Survivors Insurance (OASI) trust fund to 2032, earlier than the Social Security Trustees' 2035 outlook, intensifying debate over the program's long-run solvency.",
-    },
+    },,
+    {
+      "title": "2026 Social Security Trustees Report warns OASI reserve depletion by 2033",
+      "url": "https://www.ssa.gov/oact/TR/2026/tr2026.html",
+      "source": "SSA Office of the Chief Actuary",
+      "pubDate": "2026-06-25",
+      "summary": "The 2026 Trustees Report projects the Old-Age and Survivors Insurance (OASI) trust fund will pay 100% of scheduled benefits only until 2033, after which continuing income covers about 77%; the combined OASDI fund depletion slips to 2034 (about 81% payable)."
+    }
 
   ],
   "UY": [
@@ -4431,7 +4529,14 @@ const NEWS = {
       "source": "IOL",
       "pubDate": "2026-02-20",
       "summary": "By February 2026 about R79.3 billion had been approved for withdrawal from the savings pot across 5.6 million people; Old Mutual reported preservation improved by about 33% compared with the pre-two-pot era, though concerns persist over long-run retirement adequacy.",
-    },
+    },,
+    {
+      "title": "South Africa raises Old Age Grant by R80 to R2,400 in the 2026/27 budget",
+      "url": "https://www.gov.za/2026BudgetSpeech",
+      "source": "South African Government",
+      "pubDate": "2026-02-18",
+      "summary": "The 2026 Budget lifted the old age, disability and care-dependency grants by R80 from April 2026 to R2,400/month (ages 60–74) and R2,420 (75+); about 26.5 million people receive social grants. SASSA also tightened biometric and income verification, terminating nearly 35,000 fraudulent grants."
+    }
 
   ]
 };
