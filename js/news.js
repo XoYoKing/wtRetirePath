@@ -802,8 +802,15 @@ const NEWS = {
       "url": "https://www.bsv.admin.ch",
       "source": "Federal Social Insurance Office (Switzerland)",
       "pubDate": "2026-05-30",
-      "summary": "As part of AHV 2030 priorities, women born in 1962 reach the reference retirement age of 64 years and 6 months, and Pillar 3a catch-up payments are allowed; the reform aims to stabilise the first pillar without raising the standard retirement age further.",
+       "summary": "As part of AHV 2030 priorities, women born in 1962 reach the reference retirement age of 64 years and 6 months, and Pillar 3a catch-up payments are allowed; the reform aims to stabilise the first pillar without raising the standard retirement age further.",
     },
+    {
+      "title": "Swiss Voters Reject Raising Retirement Age to 66 in September 2026 Referendum",
+      "url": "https://www.admin.ch",
+      "source": "Swiss Federal Chancellery",
+      "pubDate": "2026-09-28",
+      "summary": "In a nationwide vote on 28 September 2026, 74.7% of Swiss voters rejected a proposal to raise the standard retirement age from 65 to 66, keeping the current age unchanged. Attention now turns to the AHV 2030 financing reform and the first payment of the 13th AHV pension in December 2026."
+    }
 
   ],
   "CL": [
@@ -1145,6 +1152,13 @@ const NEWS = {
       "source": "The Brussels Times",
       "pubDate": "2026-06-23",
       "summary": "On 23 June 2026 Chancellor Merz confirmed all 33 proposals of the pension commission will be implemented: employees and employers would each contribute an additional 2% of wages to a state fund invested in capital markets, the statutory retirement age will gradually rise beyond 67 linked to life expectancy, and the 45-year-contribution early-retirement route (minimum age 64) will be abolished."
+    },
+    {
+      "title": "Germany's Generationenkapital Sovereign Fund Nears First Capital Injection in 2026",
+      "url": "https://www.bundesregierung.de",
+      "source": "Bundesregierung",
+      "pubDate": "2026-09-15",
+      "summary": "After the 23 June 2026 pension-commission roadmap, the federal government confirmed the Generationenkapital sovereign buffer fund will receive its first capital injection in 2026, seeding the capital-funded supplement pillar (an extra 2% of wages from employees and employers invested in markets) to cushion post-2030 benefit gaps."
     }
   ],
   "DK": [
@@ -1342,6 +1356,13 @@ const NEWS = {
       "source": "European Pensions",
       "pubDate": "2025-06-15",
       "summary": "The OECD's 2025 Economic Survey of Spain welcomed progress on flexible retirement but warned a sizeable funding gap persists, with pension spending projected to rise from 12.9% of GDP (2023) to 16.1% by 2050, and recommended reactivating a life-expectancy/sustainability adjustment."
+    },
+    {
+      "title": "Spain Directs Intergenerational Equity Mechanism Revenues to Build Pension Reserve in 2026",
+      "url": "https://www.seg-social.es",
+      "source": "Seguridad Social (Spain)",
+      "pubDate": "2026-05-20",
+      "summary": "Spain in 2026 ring-fenced Intergenerational Equity Mechanism (MEI) revenues to rebuild the pension reserve fund, targeting about 0.2% of GDP by year-end to buffer the baby-boom retirement wave, while studying stronger inflation-indexation of non-contributory minimum pensions."
     }
   ],
   "FI": [
@@ -1451,6 +1472,13 @@ const NEWS = {
       "source": "service-public.fr (French administration)",
       "pubDate": "2026-08-07",
       "summary": "The 2026 Social Security Financing Law (No. 2025-1403 of 30 December 2025) suspends the 2023 reform's age and contribution-duration increases from 1 September 2026; the legal age of 64 no longer applies to those born in 1968 (now 63y9m, 172 quarters) and long-career early-retirement rules are relaxed for birth years 1964-1968."
+    },
+    {
+      "title": "France to Set 2026 Pension Revaluation in Autumn as 2028 Reform Pledge Stands",
+      "url": "https://www.securite-sociale.fr",
+      "source": "CNAM / Securite sociale",
+      "pubDate": "2026-09-01",
+      "summary": "Under the 2026 Social Security Financing Law, pension spending growth is tied to wage growth and the 2026 uprating is to be announced in autumn. The government committed to a new reform balancing solvency and a minimum retirement age before 2028, leaving the system in limbo until then."
     }
   ],
   "GB": [
@@ -1516,6 +1544,13 @@ const NEWS = {
       "source": "Civil Service Pensioners' Alliance",
       "pubDate": "2026-04-29",
       "summary": "The Pension Schemes Act requires schemes to prove they deliver value for money, enables automatic consolidation of small pension pots, and creates larger, better-performing funds. Key measures include multi-employer DC 'megafunds' of at least GBP 25bn, LGPS asset consolidation into FCA-regulated pools, and greater flexibility for DB schemes to release surplus (unlocking around GBP 160bn)."
+    },
+    {
+      "title": "UK Expands Winter Fuel Payment to Pensioners with Income up to 35,000 Pounds for Winter 2026/27",
+      "url": "https://www.gov.uk/winter-fuel-payment",
+      "source": "UK Government / DWP",
+      "pubDate": "2026-07-15",
+      "summary": "For winter 2026/27 the Winter Fuel Payment is restored to most pensioners in England and Wales with annual income at or below 35,000 pounds (200 pounds under 80, 300 pounds at 80 plus), with amounts above the threshold recovered via the tax system; the Pension Credit standard minimum guarantee was uprated 4.8% to about 238 pounds per week."
     }
   ],
   "GH": [
@@ -1669,6 +1704,13 @@ const NEWS = {
       "source": "MPFA (Mandatory Provident Fund Schemes Authority)",
       "pubDate": "2026-07-26",
       "summary": "From end-July 2026, the eMPF Platform requires scheme members submitting most MPF withdrawal applications -- including those at age 65 -- to complete step-up authentication through 'iAM Smart' and real-time facial identification, except small-balance (HKD 5,000 or below) and death claims, following isolated cases of false declarations and counterfeit IDs."
+    },
+    {
+      "title": "Hong Kong Maintains MPF Tax-Deductible Voluntary Contribution Cap at HK$60,000 for 2026",
+      "url": "https://www.mpfa.org.hk",
+      "source": "MPFA",
+      "pubDate": "2026-03-01",
+      "summary": "For the 2025/26 assessment year the tax-deductible voluntary contribution (TVC) and qualifying deferred annuity premium (QDAP) share an annual ceiling of HK$60,000, while mandatory MPF contributions stay capped at HK$18,000 related income and HK$1,500 per person per month; the MPFA promotes full portability transfers to cut fee erosion."
     }
   ],
   "HR": [
@@ -2077,6 +2119,13 @@ const NEWS = {
       "source": "LegalClarity",
       "pubDate": "2026-01-01",
       "summary": "The 2026 Budget Law did not renew Quota 103 (retire at 62 with 41 years) or Opzione Donna (women at 59); both expired at end-2024, though those who qualified by 31 December 2025 can still claim. APE Sociale, the early-retirement bridge, was extended through 31 December 2026. The minimum pension is about EUR 611.85-619.80."
+    },
+    {
+      "title": "Italy Uprates Minimum Pension by 20 Euros/Month for Over-70s and Disabled in 2026",
+      "url": "https://www.inps.it",
+      "source": "INPS",
+      "pubDate": "2026-01-01",
+      "summary": "The 2026 Budget raises the minimum pension by about 20 euros per month for recipients aged over 70 and severely disabled, and from July 2026 silently assigns new hires' severance pay (TFR) to complementary pension funds unless they opt out, widening second-pillar coverage; a stricter relaunch of Opzione Donna is under study but not yet law."
     }
   ],
   "JP": [
@@ -3037,6 +3086,13 @@ const NEWS = {
       "source": "De Nederlandsche Bank",
       "pubDate": "2026-07-01",
       "summary": "By 1 July 2026 a total of 38 pension funds and four ring-fenced funds had transitioned to the new DC system, bringing about 9.5 million workers under it; De Nederlandsche Bank confirmed the 1 January 2028 hard deadline remains firm, with CDC contributions set at 27% of pay (18% employer, 9% employee)."
+    },
+    {
+      "title": "Dutch Pension Fund ABP Cleared by DNB to Complete DC Transition in 2026",
+      "url": "https://www.dnb.nl",
+      "source": "De Nederlandsche Bank (DNB)",
+      "pubDate": "2026-06-30",
+      "summary": "The Netherlands' largest occupational pension fund, ABP (about 518 billion euros in assets), obtained approval from De Nederlandsche Bank in 2026 to complete its shift to the new DC system under the Future of Pensions Act; by mid-year roughly 42 funds covering over 2 trillion euros had transitioned, all due by the 1 January 2028 hard deadline."
     }
   ],
   "NO": [
@@ -3781,6 +3837,13 @@ const NEWS = {
       "source": "Sveriges Riksdag",
       "pubDate": "2026-01-15",
       "summary": "The Riksdag completed consolidating the AP buffer funds from six to three by January 2026 to cut administration costs, while preserving members' freedom to choose premium-pension (PPM) funds and the NDC pillar."
+    },
+    {
+      "title": "Sweden Formalises 67 as Target Retirement Age Benchmark for 2026-2030",
+      "url": "https://www.pensionsmyndigheten.se",
+      "source": "Pensionsmyndigheten",
+      "pubDate": "2026-01-15",
+      "summary": "Sweden in 2026 formalised the target age (67 for 2026-2030) as the policy benchmark calibrating actuarial coefficients for early and deferred drawdown; the guarantee pension was uprated 0.7% in line with consumer prices and wages, protecting low-income retirees' purchasing power against inflation."
     }
   ],
   "SG": [
@@ -3839,6 +3902,13 @@ const NEWS = {
       "source": "CPF Board",
       "pubDate": "2026-01-01",
       "summary": "From 2026 the CPF ordinary-wage ceiling rose from S$7,400 to S$8,000, raising the amount of monthly pay subject to CPF contributions for higher-income members."
+    },
+    {
+      "title": "Singapore Raises CPF Contribution Rates for Older Workers in 2026",
+      "url": "https://www.cpf.gov.sg",
+      "source": "CPF Board",
+      "pubDate": "2026-01-01",
+      "summary": "From 2026 Singapore's CPF contribution rates for older workers rose by age band: 55-60 from 32.5% to 34% and 60-65 from 23.5% to 25% (shared by employer and employee); the 2026 Budget's one-off top-up of up to S$1,500 for those aged 50 plus is slated for payment in December, alongside matched retirement and MediSave savings schemes."
     }
   ],
   "SI": [
@@ -3992,8 +4062,15 @@ const NEWS = {
       "url": "https://en.thairath.co.th",
       "source": "Thairath (English)",
       "pubDate": "2026-07-15",
-      "summary": "On 14 July 2026 the Cabinet approved in principle the CARE (Contributory Adequate Retirement Entitlement) formula that would link old-age pension benefits to full-career average wages, advancing the Labour Ministry's 2026 reform agenda to make payouts more adequate for long-serving contributors.",
+       "summary": "On 14 July 2026 the Cabinet approved in principle the CARE (Contributory Adequate Retirement Entitlement) formula that would link old-age pension benefits to full-career average wages, advancing the Labour Ministry's 2026 reform agenda to make payouts more adequate for long-serving contributors.",
     },
+    {
+      "title": "Thailand Advances GPF Continue-Saving Bill and TPA Investment Law in 2026",
+      "url": "https://www.sso.go.th",
+      "source": "Social Security Office (Thailand)",
+      "pubDate": "2026-08-01",
+      "summary": "Thailand's Government Pension Fund in 2026 pushed a continue-saving amendment letting retirees keep voluntarily contributing to extend asset accumulation, while the Trustee (TPA) Investment Law widened occupational-pension investment mandates, addressing the structural problem that over 73% of members under-save for retirement."
+    }
 
   ],
   "TN": [
@@ -4151,7 +4228,14 @@ const NEWS = {
       "url": "https://guide.1111.com.tw",
       "source": "1111 Job Bank (Taiwan)",
       "pubDate": "2026-08-01",
-      "summary": "From 1 August 2026 the Labor Pension reforms expand member rights: 'pure old-system' workers may voluntarily contribute, creditor protection for pension accounts is widened, and the 30-day regret period and employer duty to accept voluntary 1-6% contributions (in force since 27 March 2026) are consolidated.",
+       "summary": "From 1 August 2026 the Labor Pension reforms expand member rights: 'pure old-system' workers may voluntarily contribute, creditor protection for pension accounts is widened, and the 30-day regret period and employer duty to accept voluntary 1-6% contributions (in force since 27 March 2026) are consolidated.",
+    },
+    {
+      "title": "Taiwan Brings Foreign Professionals into Labour Pension New System and Raises Annuity Age in 2026",
+      "url": "https://www.bli.gov.tw",
+      "source": "Bureau of Labour Insurance (Taiwan)",
+      "pubDate": "2026-01-01",
+      "summary": "From 1 January 2026 Taiwan mandated foreign professionals into the Labour Pension new system, raised the Labour Insurance old-age annuity claiming age to 65 for those born in 1962 or later, and from 7 July let pure old-system workers voluntarily contribute up to 6%; employers refusing voluntary contributions after 1 August face daily late penalties."
     },
 
   ],
