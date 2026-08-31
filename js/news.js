@@ -64,7 +64,20 @@ const NEWS = {
       "pubDate": "2026-06-10",
       "summary": "The GPSSA confirmed (WAM, 11 May 2026) that 35 years of insured service entitles an Emirati to a full 100% pension, and adopted new pension regulations extending tailored coverage to entrepreneurs and self-employed Emiratis, broadening the federal scheme beyond traditional salaried public-sector staff.",
     },
-
+    {
+      "title": "UAE pension board approves strategic AI roadmap to secure financial stability",
+      "url": "https://economymiddleeast.com/news/uae-pension-board-approves-strategic-ai-roadmap-to-secure-national-financial-stability/",
+      "source": "Economy Middle East",
+      "pubDate": "2026-05-20",
+      "summary": "At its 2026 board meeting the GPSSA approved a strategic AI roadmap (2025-2029) to strengthen the federal pension system's long-term financial stability, part of wider digitalisation of contribution collection and member services."
+    },
+    {
+      "title": "UAE requires Emirati employees to be registered with pension fund within days of hire",
+      "url": "https://economymiddleeast.com/news/new-uae-rule-to-register-insured-emirati-employees-days-of-hiring/",
+      "source": "Economy Middle East",
+      "pubDate": "2026-06-10",
+      "summary": "New GPSSA rules require employers to register insured Emirati employees with the pension fund within days of hiring, tightening compliance and reducing gaps in contribution records; penalties for late registration and delayed payments remain in force from 2025."
+    }
   ],
   "AR": [
     {
@@ -130,7 +143,13 @@ const NEWS = {
       "pubDate": "2026-06-15",
       "summary": "Through resolutions 146/2026 and 139/2026 ANSES applied a 2.6% adjustment for June 2026, lifting the minimum pension to $403,317.99 ahead of the larger July mobility increase, as the post-moratorium ordinary system continues its quarterly indexing under the 2024 reform.",
     },
-
+    {
+      "title": "Argentina confirms 2.6% June 2026 pension rise plus AR$70,000 bonus",
+      "url": "https://www.ambito.com/informacion-general/aguinaldo-y-aumento-jubilados-anses-junio-2026-montos-oficiales-y-cuando-cobro-bolsillo-n6278769",
+      "source": "Ambito",
+      "pubDate": "2026-06-01",
+      "summary": "ANSES confirmed a 2.6% mobility increase for June 2026 plus a half-yearly bonus (aguinaldo) and a AR$70,000 extraordinary bonus for minimum-pension recipients, lifting a minimum pensioner's total to about AR$675,212; the update follows Decree 274/24's monthly CPI-based mobility formula."
+    }
   ],
   "AT": [
     {
@@ -189,7 +208,20 @@ const NEWS = {
       "pubDate": "2026-03-20",
       "summary": "Austria's 2026 reform introduced a partial pension (Teilrente) letting workers draw part of their entitlement while staying employed; the annual adjustment gives the full 2.7% to amounts up to €2,500 and a flat €67.50 above that, continuing the biggest overhaul in two decades.",
     },
-
+    {
+      "title": "Austria introduces partial pension (Teilpension) from 1 January 2026",
+      "url": "https://austrianpress.com/2025/12/31/pension-system-these-changes-will-come-into-effect-in-2026/",
+      "source": "Austrian News / APA",
+      "pubDate": "2026-01-01",
+      "summary": "From 2026 Austria's new partial pension lets qualifying employees cut working hours by 25-75% and draw part of their accrued pension while continuing to build insurance periods. Women's retirement age rises another six months to 61.5, the corridor-pension entry age moves 62 to 63, and pensions up to EUR 2,500 rise 2.7% (higher ones by a fixed EUR 67.50)."
+    },
+    {
+      "title": "Austria: partial pension and a 2030 sustainability cap reshape retirement",
+      "url": "https://wienpress.at/mehrerlei/101931-government-introduces-partial-pension-and-pension-cap.html",
+      "source": "WIENPRESS",
+      "pubDate": "2026-06-18",
+      "summary": "The government's pension package pairs the new Teilpension with a statutory sustainability mechanism from 2030 - a legally binding spending cap that, if savings fall short, obliges measures such as raising the retirement age. Subsidised partial-retirement duration is shortened from five to three years."
+    }
   ],
   "AU": [
     {
@@ -401,7 +433,20 @@ const NEWS = {
       "pubDate": "2026-03-15",
       "summary": "The 'centenindex' caps wage-indexation for pensions above €2,000 in 2026 and 2028; perequation is abolished from 1 January 2027 and the statutory age stays at 66 (rising to 67 from 2030), balancing sustainability with the earlier savings from lifting the retirement age.",
     },
-
+    {
+      "title": "Belgium's pension reform enters final phase ahead of 2027 implementation",
+      "url": "https://www.vanbreda.be/en/insights/the-pension-reform-enters-its-final-phase",
+      "source": "Vanbreda",
+      "pubDate": "2026-03-01",
+      "summary": "After a third reading in early March 2026 the federal government agreed the new pension law, sending it to parliament for the final phase with most measures from 2027: the career-year threshold tightens from 104 to 156 actual-work days, a 60/42 early-retirement route is added, and a bonus-malus (2-5%) rewards working longer or penalises early exit."
+    },
+    {
+      "title": "Belgium: higher pensions get 'centime indexation' capped at EUR 40/month in 2026",
+      "url": "https://www.nn.be/nl/kapitalevragen/pensioenhervorming-2026-wat-verandert-er-en-wat-niet",
+      "source": "NN (Belgium)",
+      "pubDate": "2026-01-01",
+      "summary": "In 2026 and 2028 a 'centime indexation' applies to statutory pensions above EUR 2,000: once the pivot index is exceeded, increases are capped at EUR 40 gross per month instead of a percentage. The legal pension age stays 66 (67 from 2030); the new pension bonus and the centime rule start in 2026, with most other changes from 2027."
+    }
   ],
   "BG": [
     {
@@ -862,6 +907,20 @@ const NEWS = {
       "source": "Latinometrics",
       "pubDate": "2026-01-31",
       "summary": "Chile's new FAPP social-insurance component (the first pooled fund inside the contributory pillar since 1981) banked about US$446 million by November 2025 and paid its first benefits to 1.37 million pensioners in January 2026, while the guaranteed universal pension (PGU) is being raised from about US$240 to US$265/month phased by age through 2027."
+    },
+    {
+      "title": "Chile's 2026 pension reform: employer contribution climbs from 1% toward 8.5%",
+      "url": "https://www.nss.cl/en/blog/reforma-previsional-2026-aporte-empleador",
+      "source": "NSS (Chile)",
+      "pubDate": "2026-08-01",
+      "summary": "Under Law No. 21.735, from the August 2026 payroll the employer's additional contribution rises from 1% to 3.5% (0.1% to the worker's individual account, 0.9% as a protected-return contribution, CRP, into the FAPP, and 2.5% to the FAPP), stepping up annually to an 8.5% cap by 2033; disability and survivors insurance (SIS) moves to collection by the Social Security Institute (IPS) via Previred."
+    },
+    {
+      "title": "Key dates in Chile's pension reform: generational funds replace A-E in 2027",
+      "url": "https://www.latincounsel.com/?Noticias=Fechas_clave_de_la_reforma_previsional_chilena_EN",
+      "source": "Latin Counsel",
+      "pubDate": "2026-03-26",
+      "summary": "One year after publication of Law 21.735, all implementing decrees were due by 26 March 2026, the FAPP regulatory framework and investment regime are set for mid-2026, and the ten generational (target-date) funds replace the current A-E multi-funds from 1 April 2027, with the first AFP account tenders for future retirees in late 2027."
     }
   ],
   "CN": [
@@ -985,6 +1044,20 @@ const NEWS = {
       "source": "Pension Policy International",
       "pubDate": "2026-01-05",
       "summary": "Following a Constitutional Court ruling, from 1 January 2026 the minimum contribution weeks for women to qualify for an old-age pension in the prima-media regime fell by 50 weeks (to 1,250 in 2026), on a path to 1,000 weeks by 2036, applied across both Colpensiones and private funds."
+    },
+    {
+      "title": "Colombia's Constitutional Court upholds most of 2024 pension reform, returns 9 articles",
+      "url": "https://www.areacucuta.com/corte-constitucional-avala-la-mayoria-de-la-reforma-pensional-y-devuelve-nueve-articulos-al-congreso/",
+      "source": "Area Cucuta",
+      "pubDate": "2026-08-25",
+      "summary": "On 25 August 2026 the Constitutional Court voted 7-1 to declare most of Law 2381 of 2024 (the four-pillar reform) constitutional, keeping the pillar structure intact, but returned nine articles (11, 14, 19, 23, 36, 63, 84, 92, 93) to the Chamber of Representatives for procedural correction; the upheld provisions take effect 1 April 2027."
+    },
+    {
+      "title": "What Colombia's high court approved - and what Congress must still fix",
+      "url": "https://www.elpais.com.co/economia/reforma-pensional-en-colombia-que-aprobo-la-corte-y-que-debe-revisar-la-camara-2642.html",
+      "source": "El Pais (Colombia)",
+      "pubDate": "2026-08-26",
+      "summary": "The Court confirmed unchanged retirement ages (57 women / 62 men), the 16% contribution and the four-pillar design, while sending articles 14, 19, 36 and 92 back to Congress; about 150,000 affiliates used the 'opportunity window' to switch regimes, involving more than 27 trillion pesos still subject to Council of State litigation."
     }
   ],
   "CY": [
@@ -1087,6 +1160,20 @@ const NEWS = {
       "source": "2FP.cz",
       "pubDate": "2026-01-05",
       "summary": "From January 2026 the minimum old-age pension was re-pegged to 20% of the average wage (both the basic and percentage components set at CZK 4,900 each), lifting the floor to CZK 9,800/month -- nearly double the 2025 level of CZK 5,430 -- with automatic annual valorisation."
+    },
+    {
+      "title": "Czechia: 2026 brings higher pensions, minimum wage and unemployment benefits",
+      "url": "https://english.radio.cz/node/8873188",
+      "source": "Radio Prague International",
+      "pubDate": "2026-01-01",
+      "summary": "From the start of 2026 all old-age, disability and survivor pensions rise by CZK 240 plus 2.6% of the earnings-related part, the minimum pension is re-linked to 20% of average wages (about CZK 9,800/month), and the minimum wage climbs CZK 1,600 to CZK 22,400."
+    },
+    {
+      "title": "Czech labour minister lists demanding professions eligible for early retirement",
+      "url": "https://english.radio.cz/labour-minister-unveils-list-demanding-professions-which-will-merit-early-8810280",
+      "source": "Radio Prague International",
+      "pubDate": "2026-01-01",
+      "summary": "A pension-reform bill would let workers in demanding professions (e.g. blacksmiths, foresters, welders, glassmakers) retire up to five years early without penalty; about 120,000 people qualify, with each 2,200 hazardous shifts easing retirement by a year, and employers paying 5% higher social-security contributions."
     }
   ],
   "DE": [
@@ -1210,6 +1297,20 @@ const NEWS = {
       "source": "Life in Denmark (borger.dk)",
       "pubDate": "2026-01-01",
       "summary": "For 2026 Denmark's folkepension basic amount is DKK 7,544/month before tax, with a means-tested supplement of up to DKK 8,729 (single) / DKK 4,467 (cohabiting); wage income does not reduce the pension, and the supplement begins phasing out above DKK 99,200 annual other income."
+    },
+    {
+      "title": "Denmark lifts tax-free senior premium in 2026 to keep older workers employed",
+      "url": "https://dvt.ddd.dk/bladarkiv/2026/nr-2/oekonomiske-fordele-skal-faa-flere-seniorer-til-at-blive-laengere-paa-arbejdsmarkedet",
+      "source": "Danske Bank (DVT)",
+      "pubDate": "2026-02-01",
+      "summary": "The 2026 finance act raises the tax-free senior premium for those working in the first and second year after pension age to DKK 53,901 and DKK 32,074 respectively (from 2029: DKK 63,080 and DKK 37,420), adds an extra employment deduction of up to DKK 7,950-9,500, and lifts the folkepension by 4.8% - the biggest rise in 16 years."
+    },
+    {
+      "title": "For the first time, over 100,000 Danish seniors keep working past pension age",
+      "url": "https://fagligsenior.dk/2025/12/15/for-foerste-gang-nogensinde-over-100-000-seniorer-arbejder-efter-pensionsalderen/",
+      "source": "Faglige Seniorer",
+      "pubDate": "2025-12-15",
+      "summary": "Since the 2023 rule ended the clawback of earnings against the folkepension, the number of seniors in work has risen about 30%; for the first time more than 100,000 Danes work past pension age, and parliament has raised the senior premium from the year's turn to further reward deferred retirement."
     }
   ],
   "EE": [
@@ -1312,6 +1413,13 @@ const NEWS = {
       "source": "Ahram Online",
       "pubDate": "2026-05-25",
       "summary": "The House of Representatives gave final approval to the government's amendment to the 2019 Social Insurance and Pensions Law, raising the treasury's annual contribution by about EGP 11 billion to forestall a projected 2036 deficit; opposition MPs criticised it as narrow and insufficient for pension adequacy."
+    },
+    {
+      "title": "Egypt's President El-Sisi decrees 15% pension increase effective July 2026",
+      "url": "https://sis.gov.eg/en/presidency/internal-affairs/presidential-decrees/president-el-sisi-issues-decree-increasing-pensions-by-15-as-of-july/",
+      "source": "State Information Service (Egypt)",
+      "pubDate": "2026-06-24",
+      "summary": "A presidential decree issued 24 June 2026 raises all pensions by 15% from 1 July 2026, adding to the 2026 social-insurance law (Law 11/2026) that lifted the annual state allocation to NOSI to EGP 238.55 billion and compounds it 6.4% yearly through 2029."
     }
   ],
   "ES": [
@@ -1407,6 +1515,13 @@ const NEWS = {
       "source": "Ilmarinen",
       "pubDate": "2025-10-20",
       "summary": "The agreed Finnish earnings-related pension reform stabilises the TyEL contribution at 24.4% for 2026-2030, improves funding and allows higher equity weighting (link to equity yield raised from 20% to 30%), introduces an inflation stabiliser in 2030 limiting annual index increments, with no changes to pension benefits or the retirement age."
+    },
+    {
+      "title": "Finland confirms 2026 earnings-related pension index (0.9%) and wage coefficient (1.712)",
+      "url": "https://www.etk.fi/en/finnish-pension-system/pensions/pension-indexation",
+      "source": "Finnish Centre for Pensions (ETK)",
+      "pubDate": "2026-01-01",
+      "summary": "The Ministry confirmed the 2026 earnings-related pension index at 3104 (+0.9%) and the wage coefficient at 1.712 (+2.3%), while the national pension index is 1939 (+0.5%). In payment, earnings-related pensions rise 0.9% and national/guarantee pensions 0.5% from January 2026, applied automatically."
     }
   ],
   "FR": [
@@ -3137,6 +3252,13 @@ const NEWS = {
       "source": "OECD",
       "pubDate": "2026-06-01",
       "summary": "The OECD's 2026 Economic Survey of Norway credited the 2011 and 2018 pension reforms with strengthening work incentives and curbing ageing-cost pressures, but warned that sickness and disability benefits absorb more than 8% of mainland GDP and recommended tighter work-incentive settings."
+    },
+    {
+      "title": "Norway raises National Insurance basic amount (G) 4.91% to NOK 136,549 for 2026",
+      "url": "https://spk.no/en/pharmacy-scheme/news/how-much-your-pension-will-increase-in-2026",
+      "source": "SPK (Statens Pensjonskasse)",
+      "pubDate": "2026-05-01",
+      "summary": "From 1 May 2026 the National Insurance basic amount (G) rises 4.91% to NOK 136,549, lifting retirement/AFP pensions paid out by 4.69% (and disability or under-67 survivors' pensions by 4.91%); the new rates, adopted by royal decree on 22 May 2026, are paid from July with back-pay for May-June."
     }
   ],
   "NP": [
@@ -3494,6 +3616,20 @@ const NEWS = {
       "source": "Ministry of Family, Labour and Social Policy",
       "pubDate": "2026-07-01",
       "summary": "With about 40% of eligible workers having opted out of PPK, the government scheduled automatic re-enrolment of opt-out employees for 2027, giving them another chance to join the auto-enrolment DC pillar without a new active choice."
+    },
+    {
+      "title": "Poland indexes pensions 5.3% in March 2026; minimum pension rises to PLN 1,978.49",
+      "url": "https://trustedone.pl/en/pensions-interest-rates-and-cyberfraud-key-changes-at-the-start-of-2026/",
+      "source": "TrustedONE",
+      "pubDate": "2026-03-01",
+      "summary": "Based on 2025 average wage data published 9 February 2026, ZUS applied a 5.3% pension indexation from 1 March 2026 - above the 4.88% in the budget law - lifting the minimum pension from PLN 1,878.91 to PLN 1,978.49 gross. The thirteenth pension also rises to PLN 1,978.49, paid in April; total cost is about PLN 24.8 billion."
+    },
+    {
+      "title": "2026 raises third-pillar pension contribution limits in Poland",
+      "url": "https://trustedone.pl?p=11329/",
+      "source": "TrustedONE",
+      "pubDate": "2026-03-01",
+      "summary": "From 2026 the annual cap on Individual Retirement Account (IKE) contributions rises to PLN 28,260 (from PLN 26,019 in 2025) and the cap on Employee Capital Plans (PPK) additional contributions reaches PLN 42,390, letting households shelter more voluntary savings from capital-gains tax."
     }
   ],
   "PT": [
