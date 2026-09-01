@@ -300,7 +300,7 @@ const NEWS = {
       "source": "Australian Treasury",
       "pubDate": "2026-07-01",
       "summary": "From 1 July 2026 the Division 296 additional tax applies to total super balances above $3 million, at 30% for the $3-10m band and 40% above $10m, better targeting concessions on large balances while the 2026-27 Budget made no further major super changes.",
-    },,
+    },
     {
       "title": "Australia unveils sweeping superannuation reforms after Shield and First Guardian collapses",
       "url": "https://ministers.treasury.gov.au/ministers/daniel-mulino-2025/media-releases/protecting-consumers-and-promise-superannuation",
@@ -373,6 +373,20 @@ const NEWS = {
       "source": "National Social Security Board (Bangladesh)",
       "pubDate": "2026-06-15",
       "summary": "Alongside the ADB $100 million loan to strengthen the Universal Pension Scheme, Bangladesh rolled out a Shariah-compliant pension product and pushed to bring bank staff into the Progoti Scheme, aiming to lift participation beyond the early slow take-up.",
+    },
+    {
+      "title": "Bangladesh urges banks to enrol staff in Progoti universal pension scheme",
+      "url": "https://www.unb.com.bd/category/bangladesh/banks-urged-to-bring-personnel-under-progoti-ups/187305",
+      "source": "United News of Bangladesh",
+      "pubDate": "2026-08-13",
+      "summary": "A Finance Ministry review meeting pushed scheduled banks to enrol officers and employees in the Progoti scheme. As of 30 May 2026, 377,930 people had registered under the four UPS pillars with deposits near Tk260 crore and a fund of Tk286 crore; the National Pension Authority has signed MoUs with 48 banks and financial institutions."
+    },
+    {
+      "title": "NGOs urged to bring employees into Bangladesh's Universal Pension Scheme",
+      "url": "https://www.bssnews.net/news/414393",
+      "source": "BSS",
+      "pubDate": "2026-08-13",
+      "summary": "Prime Minister's adviser Rashed Al Mahmud Titumir called on local and international NGOs to enrol eligible staff in the Progoti scheme. The National Pension Authority is developing a Shariah-compliant pension option with ADB support and aims to cover at least one member of each of the country's nearly 40 million families by 2030."
     },
 
   ],
@@ -643,7 +657,7 @@ const NEWS = {
       "source": "INSS (Brazil)",
       "pubDate": "2026-02-01",
       "summary": "In 2026 the INSS minimum benefit floor is R$1,621 and above-minimum pensions are adjusted 3.9%, with the contribution ceiling near R$8,475; the rules took effect from 1 January 2026 as the system balances adequacy against a still-large fiscal deficit.",
-    },,
+    },
     {
       "title": "Brazil's Supreme Court ends the 'whole-life review' of INSS pensions",
       "url": "https://todayinbrazil.com/article/brazil-supreme-court-ends-inss-whole-life-pension-review",
@@ -782,7 +796,7 @@ const NEWS = {
       "source": "Government of Canada",
       "pubDate": "2026-04-10",
       "summary": "The Canada Disability Benefit (CDB), first phased in during 2025, pays C$204.20 per month in 2026 and is being expanded to more low-income working-age persons with disabilities, complementing CPP and OAS in the retirement-income system.",
-    },,
+    },
     {
       "title": "OAS and GIS benefits rise 1.2% for the July–September 2026 quarter",
       "url": "https://www.canada.ca/en/services/benefits/publicpensions/cpp/old-age-security.html",
@@ -1979,6 +1993,20 @@ const NEWS = {
       "source": "IFC News",
       "pubDate": "2026-07-07",
       "summary": "OJK reported Indonesian pension fund industry assets grew 7.71% yoy to IDR 1,693.37 trillion as of May 2026, with mandatory programmes (BPJS Ketenagakerjaan old-age and pension security, plus civil-servant schemes) reaching IDR 1,282.72 trillion (+8.63%). The regulator continues to stress governance and participant protection."
+    },
+    {
+      "title": "Layoffs drive surge in Indonesia BPJS old-age and job-loss claims",
+      "url": "https://jawawa.id/newsitem/rise-in-layoffs-leads-to-increased-claims-for-job-loss-and-old-age-benefits-from-bpjs-ketenagakerjaan-1780673212",
+      "source": "JawaWA",
+      "pubDate": "2026-03-20",
+      "summary": "OJK recorded BPJS Ketenagakerjaan old-age (JHT) claims up IDR1.85 trillion or 14.1% year-on-year in March 2026, and job-loss (JKP) claims up 91%, driven by rising layoffs and eased claim rules under PP 6/2025. OJK urged prudent, adaptive management of the social-security programs."
+    },
+    {
+      "title": "OJK reports Indonesian pension fund assets at IDR1,680 trillion in June 2026",
+      "url": "https://institute.ojk.go.id/iru/WebSite/ArticleList/View/1043_The_Indonesia_Financial_Services_Authority_Board_of_Commissioners_Meeting:_Maintaining_Financial_Sector_Resilience_to_Support_Development_and_Financial_Sector_Strength",
+      "source": "OJK",
+      "pubDate": "2026-07-27",
+      "summary": "OJK's July 2026 board meeting showed total pension-fund assets of IDR1,680.57 trillion as of June 2026, up 6.47% year-on-year; mandatory programs (BPJS Ketenagakerjaan, civil servants) reached IDR1,273.24 trillion (+7.26%) and voluntary programs IDR407.33 trillion (+4.06%)."
     }
   ],
   "IE": [
@@ -2023,6 +2051,20 @@ const NEWS = {
       "source": "The Irish Times",
       "pubDate": "2026-06-01",
       "summary": "Almost 770,000 workers were compulsorily signed up to My Future Fund on 1 January 2026. From 1 July a two-month opt-out window opened; those who leave get their own contributions refunded while employer and State contributions remain invested. Rates are 1.5% employee / 1.5% employer / 0.5% State, rising over the decade."
+    },
+    {
+      "title": "Ireland sets minimum contribution thresholds for auto-enrolment exemption",
+      "url": "https://kpmglaw.ie/insight-minimum-pension-contributions.html",
+      "source": "KPMG Law",
+      "pubDate": "2026-06-30",
+      "summary": "Under the Section 52 Regulations, an employee is exempt from MyFutureFund auto-enrolment only if their workplace pension meets minimum thresholds: employer contributes at least 1.5% of gross pay (or EUR 1,200/yr) and total contributions reach at least 3.5% (or EUR 2,800/yr). NAERSA will verify exemptions using Revenue payroll data with a 13-week lookback."
+    },
+    {
+      "title": "MyFutureFund passes 763,000 auto-enrolled employees and EUR60m invested",
+      "url": "https://www.gov.ie/en/department-of-social-protection/press-releases/update-on-myfuturefund-the-automatic-enrolment-retirement-savings-system",
+      "source": "Government of Ireland",
+      "pubDate": "2026-07-15",
+      "summary": "The Department of Social Protection reported over 763,000 employees across about 104,000 employers had been automatically enrolled in MyFutureFund since its 1 January 2026 launch, with more than EUR60 million invested through the three contracted investment managers and over 40,000 customer engagements handled."
     }
   ],
   "IL": [
@@ -2074,6 +2116,13 @@ const NEWS = {
       "source": "All About Aliyah",
       "pubDate": "2026-01-01",
       "summary": "Israel's retirement age is 67 for men and 62 for women, gradually rising to 65 for women born from 1962 (1962 cohort = 63, 1970+ = 65). To qualify for the standard state pension, 12 years (144 months) of Bituach Leumi contributions are required; eligibility is based on residency, not citizenship."
+    },
+    {
+      "title": "Israeli old-age pension indexed 2.4% for 2026 as Bituach Leumi flags gap",
+      "url": "https://semerenkogroup.com/israel-retirement-age-bituach-leumi",
+      "source": "Semerenko Group",
+      "pubDate": "2026-01-15",
+      "summary": "From 1 January 2026 CPI-linked benefits including the old-age pension rose 2.4% while wage-linked disability pensions rose 3.4%, a gap Bituach Leumi flagged as pressure on the elderly floor. The base old-age pension is NIS 1,838/month (single) and NIS 2,762 (couple), with a deferral bonus of 5% per year up to age 70."
     }
   ],
   "IN": [
@@ -3099,6 +3148,13 @@ const NEWS = {
       "source": "The Sun Malaysia",
       "pubDate": "2026-05-31",
       "summary": "The EPF Flexible Account (Account 3) recorded RM19.87 billion in withdrawals involving 5.5 million members as of 31 May 2026, with RM14.36 billion still saved; the retirement-account allocation was raised from 70% to 75%, channeling an extra RM9.1 billion into retirement savings between May 2024 and December 2025."
+    },
+    {
+      "title": "EPF investment income jumps 48% to RM57.5bn in first half 2026",
+      "url": "https://newswav.com/article/higher-epf-dividend-this-year-epf-s-investment-income-surges-48-to-rm57-5b-A2608_IKvp3O",
+      "source": "WeirdKaya / Newswav",
+      "pubDate": "2026-08-15",
+      "summary": "EPF earned RM57.5 billion in investment income in H1 2026, up 48% year-on-year, with equities contributing RM41.28 billion and overseas assets about 60% of total income. The 2026 dividend is due around February 2027; flexible-account (Akaun Fleksibel) withdrawals continue to weigh on the dividend base."
     }
   ],
   "NG": [
@@ -3361,6 +3417,13 @@ const NEWS = {
       "source": "1News",
       "pubDate": "2026-04-01",
       "summary": "From 1 April 2026 the default KiwiSaver rate for employees and employers rose from 3% to 3.5%, 16 and 17-year-olds began receiving employer contributions, the adult minimum wage rose to $23.95 an hour, and benefits and NZ Super increased about 3.11% in line with inflation."
+    },
+    {
+      "title": "Budget 2026: a chance to lift KiwiSaver toward a 12% contribution path",
+      "url": "https://www.nzherald.co.nz/business/personal-finance/kiwisaver/budget-2026-tight-spending-but-a-big-chance-to-lift-kiwisaver-gererate-wealth-weekly/A63KDTREHBCQDNF7GT2TPGPJS4",
+      "source": "NZ Herald",
+      "pubDate": "2026-05-21",
+      "summary": "Ahead of the 2026 Budget, commentators argue New Zealand should pair near-term fiscal discipline with a staged pathway to a 12% total KiwiSaver contribution (6% employee + 6% employer) to ease long-term pressure on New Zealand Superannuation. Default rates are already legislated to rise from 3.5% to 4% from 1 April 2028."
     }
   ],
   "OM": [
@@ -3463,6 +3526,13 @@ const NEWS = {
       "source": "Ius Laboris",
       "pubDate": "2026-01-15",
       "summary": "Peru's pension modernisation creates the Secure and Transparent Affiliation Platform (PAST) as the official enrolment channel, opens special consumption accounts from December 2026, and shifts to electronic-payslip-based contribution calculation from 1 January 2027."
+    },
+    {
+      "title": "Peru Congress weighs ninth AFP withdrawal but bills stay unscheduled",
+      "url": "https://www.pensionpolicyinternational.com/?p=82247",
+      "source": "Pension Policy International",
+      "pubDate": "2026-06-15",
+      "summary": "Five congressional bills since February 2026 propose a ninth extraordinary AFP withdrawal of up to 4 UIT (about S/22,000), but the Economy Commission has not scheduled any for debate. Analysts note only about 10% of the workforce still hold sufficient balances after eight prior withdrawals, and the 2024 reform explicitly ruled out new withdrawals."
     }
   ],
   "PH": [
@@ -3514,6 +3584,13 @@ const NEWS = {
       "source": "SSS Philippines",
       "pubDate": "2026-01-15",
       "summary": "For 2026 SSS plans foreign representative offices in Madrid, San Francisco and Macau plus 10 new local branches and about 1,800 hires, and will deliver its micro-loan program through partner banks, as reserves head toward 2 trillion peso within three to four years."
+    },
+    {
+      "title": "SSS first-half 2026 net income falls 28% as pension hike lifts payouts",
+      "url": "https://www.briefasia.com/en/article/philippine-sss-net-income-falls-pension-hike-costs",
+      "source": "Briefing Asia",
+      "pubDate": "2026-08-20",
+      "summary": "SSS posted H1 2026 net income of PHP48 billion, down 27.8%, as benefit payments rose 19% to PHP173.45 billion under the early rollout of the second tranche of the three-year Pension Reform Program to 4.1 million pensioners. Investment income surged 38% to PHP33.18 billion and total assets stood at PHP1.35 trillion."
     }
   ],
   "PK": [
@@ -3674,6 +3751,13 @@ const NEWS = {
       "source": "Portal das Financas",
       "pubDate": "2026-05-20",
       "summary": "Parliament approved the Single Social Benefit (Prestacao Social Unica) in May 2026, and the Simplified Contribution Cycle becomes mandatory from January 2027; the Elderly Solidarity Supplement rose to EUR 670 and the social support index (IAS) to EUR 537.13."
+    },
+    {
+      "title": "Portugal receives pension sustainability report, government rules out structural reform",
+      "url": "https://aman-alliance.org/Home/ContentDetail/105901",
+      "source": "Lusa (AMAN)",
+      "pubDate": "2026-08-19",
+      "summary": "The Jorge Bravo expert group's July 2026 report 'Reforming Pensions in Portugal' urges uniform indexation of all pensions at least in line with inflation and new retail public-debt instruments to top up pensions. The sustainability-factor penalty rose to 17.63% in 2026 (factor 0.8307). The government reiterated it will not undertake structural reform this parliamentary term."
     }
   ],
   "QA": [
@@ -3929,6 +4013,13 @@ const NEWS = {
       "source": "Argaam",
       "pubDate": "2026-09-01",
       "summary": "Building on IMF advice, Saudi Arabia is preparing a voluntary pension and long-term savings plan open to both citizens and expatriates, aimed at deepening domestic capital markets and curbing outward remittance outflows."
+    },
+    {
+      "title": "Saudi GOSI new-system rates rise to 23.5% combined from 1 July 2026",
+      "url": "https://gulfhr.ae/insights/gosi-2026-rate-change-saudi-arabia",
+      "source": "gulfHR",
+      "pubDate": "2026-07-01",
+      "summary": "From 1 July 2026, new-system Saudi employees (first registered on or after 3 July 2024) face a pension-branch rate of 10.75% employee and 12.75% employer (23.5% combined including SANED and occupational hazards). Legacy-system Saudis stay at 21.5% and expatriates at 2%; payroll must be configured per registration date."
     }
   ],
   "SE": [
@@ -4305,7 +4396,7 @@ const NEWS = {
       "source": "Le Global (employment law)",
       "pubDate": "2026-02-10",
       "summary": "The Complementary Pension System (TES) is set to launch in Q2 2026, replacing auto-enrolment (OKS) with a mandatory second pillar: employees contribute 3% and employers 2%, with a 1% state top-up, compulsory participation and no opt-out, benefits accessible from age 58/60 after 10 years.",
-    },,
+    },
     {
       "title": "Türkiye raises minimum pension to 23,552 lira after 17.76% H1 inflation",
       "url": "https://en.haberler.com/retirees-were-waiting-with-curiosity-here-is-the-2280469",
@@ -4591,7 +4682,7 @@ const NEWS = {
       "source": "Congressional Budget Office",
       "pubDate": "2026-03-20",
       "summary": "A March 2026 Congressional Budget Office estimate moved the projected depletion of the Old-Age and Survivors Insurance (OASI) trust fund to 2032, earlier than the Social Security Trustees' 2035 outlook, intensifying debate over the program's long-run solvency.",
-    },,
+    },
     {
       "title": "2026 Social Security Trustees Report warns OASI reserve depletion by 2033",
       "url": "https://www.ssa.gov/oact/TR/2026/tr2026.html",
@@ -4644,6 +4735,13 @@ const NEWS = {
       "source": "Coface",
       "pubDate": "2026-05-10",
       "summary": "The 2025-2029 Budget Bill lists strengthening social protection as a priority, funding the non-contributory BPS floor and the October 2026 social-security referendum process (on eliminating AFAPs, lowering the age to 60 and aligning the minimum pension with the minimum wage) without pre-committing to structural change.",
+    },
+    {
+      "title": "Uruguay's main union campaigns for yes vote on 27 October pension plebiscite",
+      "url": "https://www.latinnews.com/component/k2/item/103266.html?Itemid=6",
+      "source": "LatinNews",
+      "pubDate": "2026-09-10",
+      "summary": "The PIT-CNT union urged citizens to back the binding social-security referendum to be held alongside the 27 October 2026 elections. The reform would peg basic pensions to the minimum wage, lower the retirement age from 65 to 60 and re-nationalise pension-fund managers (AFAPs); all main presidential candidates oppose it."
     },
 
   ],
@@ -4698,6 +4796,13 @@ const NEWS = {
       "pubDate": "2026-06-22",
       "summary": "By end-2025 seven supplementary pension funds held about VND 2,210 billion in net assets, up 53% year on year and roughly 26 times the 2021 level, covering more than 28,500 members as the Finance Ministry proposes raising the tax-deductible contribution cap to VND 3 million per month.",
     },
+    {
+      "title": "Vietnam moves to boost small supplementary pension fund market",
+      "url": "https://vietnamnews.vn/economy/1783175/viet-nam-moves-to-boost-supplementary-pension-funds.html",
+      "source": "Vietnam News",
+      "pubDate": "2026-06-01",
+      "summary": "Under Decree 85/2026/ND-CP, only four fund managers were licensed by end-2025 (Dragon Capital, SSI, MB Capital, Vietcombank) running seven funds with VND2.2 trillion in assets and about 28,600 participants. A draft personal-income-tax amendment proposes raising the deductible contribution limit from VND1 million to VND3 million per month to widen take-up."
+    },
 
   ],
   "ZA": [
@@ -4749,7 +4854,7 @@ const NEWS = {
       "source": "IOL",
       "pubDate": "2026-02-20",
       "summary": "By February 2026 about R79.3 billion had been approved for withdrawal from the savings pot across 5.6 million people; Old Mutual reported preservation improved by about 33% compared with the pre-two-pot era, though concerns persist over long-run retirement adequacy.",
-    },,
+    },
     {
       "title": "South Africa raises Old Age Grant by R80 to R2,400 in the 2026/27 budget",
       "url": "https://www.gov.za/2026BudgetSpeech",
