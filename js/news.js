@@ -1123,7 +1123,15 @@ const NEWS = {
       "source": "Cyprus Tax Life",
       "pubDate": "2026-01-15",
       "summary": "Under the Social Insurance Law's long-term funding schedule, Cyprus will hold the 8.8%/8.8% employee/employer rates through end-2028 and next raise them to 10.7% each (21.4% combined) on 1 January 2029, part of a gradual climb toward about 10.3-10.7% by 2039 to keep the Fund actuarially solvent."
+    },
+    {
+      "title": "Cyprus minister outlines pension reform: 12% early-retirement penalty stays, bill due September 2026",
+      "url": "https://en.politis.com.cy/news/1015005/cyprus-pension-reform-takes-shape-as-key-disputes-remain-unresolved",
+      "source": "Politis (Cyprus)",
+      "pubDate": "2026-08-29",
+      "summary": "Labour Minister Marinos Mousouttas confirmed the reform bill will go to parliament in September 2026 with the baseline retirement age at 65 and no full abolition of the 12% actuarial reduction for retiring at 63 (only its calculation changes). Mandatory vs voluntary provident-fund enrolment remains disputed; the state will start repaying its Social Insurance Fund debt from 1 January 2028."
     }
+
   ],
   "CZ": [
     {
@@ -1376,7 +1384,15 @@ const NEWS = {
       "source": "ERR News",
       "pubDate": "2025-06-15",
       "summary": "The Finance Ministry is drafting a bill to protect the second pension pillar: shortening the re-entry ban to five years, banning more than one exit, allowing only partial withdrawals, and requiring any future worsening change to be announced five years in advance -- correcting the 2021 reform that let about 250,000 people withdraw savings."
+    },
+    {
+      "title": "OECD Estonia 2026: retirement age to reach about 71 by 2071, average pension 40% of wage",
+      "url": "https://www.oecd.org/en/publications/oecd-economic-surveys-estonia-2026_2514521c-en/full-report/adapting-government-spending-and-taxation-to-fiscal-pressures-in-an-ageing-estonia_481932a8.html",
+      "source": "OECD Economic Surveys: Estonia 2026",
+      "pubDate": "2026-03-20",
+      "summary": "The OECD's 2026 survey notes Estonia's retirement age (65) is linked to life expectancy, reaching about 71 for a full-career retiree in 2071, and that the 2025 average pension was EUR 817/month (about 40% of the average wage). Around 40% of those over 65 were at risk of poverty — among the highest in the OECD."
     }
+
   ],
   "EG": [
     {
@@ -1731,7 +1747,15 @@ const NEWS = {
       "source": "TaxLawGH",
       "pubDate": "2026-01-01",
       "summary": "From 1 January 2026, SSNIT and the National Pensions Regulatory Authority raised the maximum insurable earnings for SSNIT contributions to GHS 69,000 (from GHS 61,000 in 2025), with a maximum monthly contribution of GHS 9,315, while the minimum insurable earnings rose to GHS 587.80, under the National Pensions Act 2008 (Act 766)."
+    },
+    {
+      "title": "Ghana's three-tier pension assets under NPRA managers exceed GHS 40 billion in 2026",
+      "url": "https://investmentkit.com/guides/ghana/pension-guide",
+      "source": "InvestmentKit (Ghana guide 2026)",
+      "pubDate": "2026-01-10",
+      "summary": "Assets under management by NPRA-approved fund managers across Ghana's three-tier scheme surpassed GHS 40 billion in 2026, making pension funds a major investor in local capital markets. The state Tier 1 (SSNIT) paid a 10% pension indexation in January 2026 and lifted the minimum monthly pension to GHS 400, with the 18.5% contribution rate unchanged."
     }
+
   ],
   "GR": [
     {
@@ -2239,7 +2263,22 @@ const NEWS = {
       "source": "European Pensions",
       "pubDate": "2026-05-28",
       "summary": "The National Association of Pension Funds (Lifeyrismal) urged parliament to pass the investment-authorisation reform before summer recess. Total pension-system assets reached ISK 8,878bn at end-2025, around 190% of estimated GDP, with the 2025 real return at 2.6% versus 6.7% in 2024."
+    },
+    {
+      "title": "Iceland introduces age supplement for old-age pension from 1 January 2026",
+      "url": "http://www.island.is/en/apply-for-retirement-pension",
+      "source": "Ísland.is (Social Insurance Administration)",
+      "pubDate": "2026-01-01",
+      "summary": "An income-related age supplement (aldursthálag) for the old-age pension took effect on 1 January 2026, paid to those entitled to an age supplement for a disability pension at retirement age. The maximum supplement is 32,917 ISK for people first assessed between ages 18 and 24, decreasing 5% per year of age from 25 to 44; it is reduced by 45% of income above the exemption limit."
+    },
+    {
+      "title": "Iceland ends pension-savings refunds to foreign nationals moving abroad from 1 August 2026",
+      "url": "https://lv-umbraco.azurewebsites.net/en/key-life-events/moving-from-iceland/",
+      "source": "Tryggingastofnun / SIA (Iceland)",
+      "pubDate": "2026-08-01",
+      "summary": "From 1 August 2026, foreign nationals leaving Iceland are no longer refunded their occupational pension savings (except US, UK, Canadian and EEA/Swiss nationals). All members may still start drawing their pension from age 60, with rights to disability and survivor pensions preserved."
     }
+
   ],
   "IT": [
     {
@@ -2413,7 +2452,22 @@ const NEWS = {
       "source": "Retirement Benefits Authority (RBA)",
       "pubDate": "2026-03-15",
       "summary": "With NSSF assets reported at about KSh 558 billion as of June 2025 and annual contributions projected above KSh 100 billion under the new bands, the RBA is urging employer compliance and promoting voluntary, mobile-based schemes such as Mbao to widen pension coverage beyond the formal sector."
+    },
+    {
+      "title": "Kenya lets employers contract out Tier II NSSF contributions to private schemes",
+      "url": "https://thekenyatimes.com/latest-kenya-times-news/national/nssf-issues-guidelines-on-new-ksh5940-pension-deductions-from-february-2026/",
+      "source": "The Kenya Times",
+      "pubDate": "2026-02-01",
+      "summary": "Under the NSSF Act 2013, from February 2026 employers may channel Tier II contributions to Retirement Benefits Authority-registered private or occupational schemes, provided they give 60 days' written notice and still remit at least 6% to NSSF. Contributions remain tax-deductible, softening the take-home impact of higher statutory deductions."
+    },
+    {
+      "title": "Kenya: workers below KSh50,000 shielded from 2026 NSSF contribution increase",
+      "url": "https://the-star.co.ke/explained-how-new-nssf-deductions-will-change-kenyan-pay-slips-from-february-2026/",
+      "source": "The Star (Kenya)",
+      "pubDate": "2026-02-16",
+      "summary": "The fourth-phase NSSF limits (Tier I KSh9,000, Tier II KSh108,000; max KSh12,960/month) chiefly hit middle- and high-earners. Employees earning KSh25,000, KSh35,000 or KSh50,000 are unaffected, and because NSSF contributions are tax-deductible the real cut to take-home pay is smaller than the gross deduction."
     }
+
   ],
   "KH": [
         {
@@ -2784,7 +2838,15 @@ const NEWS = {
       "source": "Étude",
       "pubDate": "2026-07-15",
       "summary": "CNAP president Alain Reuter said the 2026 reform (contribution rate up to 25.5%, longer careers) strengthened near-term finances but left the demographic gap intact; the general scheme held 32 billion euro in reserves at end-2025 (4.24 years of spending, the lowest since 2013), and a full review is due in 2030."
+    },
+    {
+      "title": "Luxembourg government and social partners reach pension-reform compromise; system reviewed again in 2030",
+      "url": "https://www.luxtimes.lu/luxembourg/government-strikes-first-compromises-on-pension-reform/87950588.html",
+      "source": "Luxembourg Times",
+      "pubDate": "2026-01-08",
+      "summary": "After a third round of talks, the government kept the legal retirement age at 65 while agreeing to align the effective and legal ages from 2026, raise the contribution rate to 25.5%, extend progressive retirement to the private sector, lift tax deductions for private pensions and grant a special tax rebate to those working past early-retirement eligibility. The package will be reviewed again in 2030."
     }
+
   ],
   "LV": [
         {
@@ -2879,7 +2941,15 @@ const NEWS = {
       "source": "Upsilon Consulting",
       "pubDate": "2026-06-10",
       "summary": "Under draft law 65-25, Morocco plans to align the CNSS minimum pension (currently 1,590 MAD) with the minimum wage (3,422 MAD) in steps between 2027 and 2030, complementing the 12 May 2026 reform that also fully exempts basic retirement pensions from income tax; the contributor/retiree ratio has fallen from 5.2 (2010) to 3.1 (2025)."
+    },
+    {
+      "title": "Morocco's 2026 pension reform bill heads to parliament, planned entry into force 1 January 2027",
+      "url": "https://wafir.ma/en/actu/retraite-cnss-reforme-2026-age-depart-63-ans-pension-revalorisee",
+      "source": "Wafir.ma",
+      "pubDate": "2026-05-12",
+      "summary": "The CNSS pension reform presented on 12 May 2026 — raising the legal age from 60 to 63 in steps from 2027, lifting CNSS pensions 8% over 2027-2029 and harmonising CNSS/CMR/RCAR under a new National Retirement Organisation — is expected to be voted by parliament around October 2026, with entry into force planned for 1 January 2027."
     }
+
   ],
   "MM": [
         {
@@ -3032,7 +3102,15 @@ const NEWS = {
       "source": "Social Security Malta",
       "pubDate": "2026-01-01",
       "summary": "Workers who defer their pension past the pension age receive cumulative lifetime increases of 13.5% to 29% depending on deferral, while from 2026 elderly residents in care homes see deductions cut to 50% or 70% of income (from 60% or 80%), leaving more disposable income."
+    },
+    {
+      "title": "Malta to equalise widows' pensions and align maximum pensionable income by 2028",
+      "url": "https://www.independent.com.mt/articles/2026-06-23/local-news/Government-rules-out-raising-retirement-age-and-social-security-contributions-6736290774",
+      "source": "The Malta Independent",
+      "pubDate": "2026-06-23",
+      "summary": "Following the 2025 Strategic Pensions Report consultation, the government ruled out raising the retirement age or contribution rates and pledged a €50 weekly pension increase over the legislature. From next year widows' pensions will equal what a spouse would have received had they still been alive, and by 2028 the maximum pensionable income threshold will be equalised for all pensioners regardless of birth year."
     }
+
   ],
   "MX": [
     {
@@ -3206,7 +3284,22 @@ const NEWS = {
       "source": "Pidom Nigeria",
       "pubDate": "2026-08-15",
       "summary": "In its Q1 2026 report PenCom said only 1,485,052 of an estimated 8,722,609 legacy RSA holders (17.03%) had completed the mandatory data recapture, warning it would set PFA-level quarterly targets and impose sanctions on operators that materially under-perform during 2026."
+    },
+    {
+      "title": "Nigeria's PenCom proposes raising employer pension contribution; increase would hit employers only",
+      "url": "https://nairametrics.com/2026/07/22/pencom-dg-says-proposed-pension-contribution-increase-applies-only-to-employers",
+      "source": "Nairametrics",
+      "pubDate": "2026-07-22",
+      "summary": "PenCom Director-General Omolola Oloworaran said the review of the Pension Reform Act 2014 will raise the employer contribution (currently 10%, with employee 8% = 18% total) and clarified on 22 July 2026 that the increase applies only to employers, not workers' pay. Industry assets reached a record N31.32 trillion in May 2026."
+    },
+    {
+      "title": "Nigeria employers' group warns proposed pension hike threatens jobs",
+      "url": "https://guardian.ng/news/proposed-pension-hike-will-cause-job-loss-business-cuts-opsn-warns/",
+      "source": "The Guardian (Nigeria)",
+      "pubDate": "2026-07-24",
+      "summary": "The Organised Private Sector of Nigeria urged withdrawal of PenCom's proposed contribution-rate increase, warning it could suppress wages, cut jobs and push firms to outsource. The coalition argued any change needs comprehensive actuarial, economic and employment-impact assessments and genuine consultation."
     }
+
   ],
   "NL": [
     {
@@ -4344,6 +4437,13 @@ const NEWS = {
       "pubDate": "2026-01-20",
       "summary": "As part of the 2026 employment incentives, the state will cover part of CNSS employer contributions for firms hiring new graduates, phasing the subsidy from 100% down to 20% over five years to lower youth unemployment without permanently expanding the pension wage bill.",
     },
+    {
+      "title": "Tunisia debates draft law for optional early retirement for private-sector women at 50",
+      "url": "https://www.tunisiaonlinenews.com?p=2828/",
+      "source": "Tunisia Online News",
+      "pubDate": "2026-02-10",
+      "summary": "A draft law submitted by deputies in July 2025 would let private-sector women retire optionally at age 50 after 20 years of CNSS contributions. The proposal resurfaced in 2026 debate, with critics noting the CNSS chronic deficit (1.2 billion dinars in 2024) makes the fiscal cost hard to bear."
+    }
 
   ],
   "TR": [
@@ -4616,6 +4716,20 @@ const NEWS = {
       "pubDate": "2026-03-05",
       "summary": "The URBRA Annual Sector Report (5 March 2026) showed Uganda's retirement savings sector reached Ugx 30.7 trillion in assets (up 21% year on year) across 4,062,144 savers, with an average interest rate of 14.6% credited to members.",
     },
+    {
+      "title": "Uganda NSSF mid-term access pays out Shs421 billion to 21,603 members in three months",
+      "url": "https://nilepost.co.ug/business/135825/nssf-midterm-payments-hit-shs421bn-in-three-months",
+      "source": "Nile Post (Uganda)",
+      "pubDate": "2026-06-10",
+      "summary": "Since launching on 7 March 2026, NSSF paid Shs421 billion in mid-term benefits to 21,603 eligible members under the 2022 Amendment Act. Members aged 45+ with at least 10 years of contributions may withdraw up to 20% of accrued savings (disabled members from 40 may take 50%)."
+    },
+    {
+      "title": "Uganda Cabinet approves principles to amend NSSF Act for mid-term access and wider coverage",
+      "url": "https://www.monitor.co.ug/News/National/Workers-get-NSSF-savings-before-55-years-says-Cabinet/688334-4331950-d4644mz/index.html",
+      "source": "Daily Monitor (Uganda)",
+      "pubDate": "2026-02-15",
+      "summary": "Cabinet approved principles to amend the NSSF Act (Cap 222): allow mid-term access to voluntary benefits, make contributions mandatory for all workers regardless of enterprise size, permit voluntary self-employed savings, and let NSSF lend to government — shifting the Fund from a provident to a hybrid scheme."
+    }
 
   ],
   "US": [
