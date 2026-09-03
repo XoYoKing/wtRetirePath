@@ -1806,6 +1806,20 @@ const NEWS = {
       "source": "24 Hours Worlds",
       "pubDate": "2026-07-10",
       "summary": "Greek workers submitted 110,298 retirement applications to EFKA in the first half of 2026, a record six-month high and the highest since EFKA's 2017 creation. Nearly one in two applicants sought recognition of fictitious insurance years to complete 40 years of service and claim a full pension at age 62."
+    },
+    {
+      "title": "Greece launches fresh pension-sustainability review after 1.18 million retired in 2020–2025",
+      "url": "https://www.dnews.gr/eidhseis/news-in-english/604086/greece-reviews-pension-system-after-historic-retirement-wave",
+      "source": "Dnews",
+      "pubDate": "2026-08-20",
+      "summary": "After e-EFKA awarded 1,186,035 new pensions between 2020 and 2025 — the largest retirement wave in decades — Greece opened a new actuarial study on the surge, average exit age and fund finances. The life-expectancy clause that would lift retirement ages is now expected to be revisited around 2030 rather than 2027, easing the rush to retire early."
+    },
+    {
+      "title": "Seven in ten new Greek pension claims are women using 'mothers of minors' early-exit rules",
+      "url": "https://www.tovima.com/finance/women-make-up-7-in-10-new-greek-pension-claims/",
+      "source": "To Vima",
+      "pubDate": "2026-06-15",
+      "summary": "EFKA data show women file about 70% of new retirement applications in 2026, many retiring at 58–61 with reduced pensions under decades-old 'mothers of minors' exemptions that remain on the books even after the general age rose to 62. The pattern is a major driver of the record application surge."
     }
   ],
   "HK": [
@@ -1915,6 +1929,13 @@ const NEWS = {
       "source": "Lider Media",
       "pubDate": "2026-05-26",
       "summary": "The government will abolish income tax on pensions from 1 January 2027, bringing the measure forward by a year. About 491,000 pensioners paid pension tax in March 2026; the cut is worth roughly EUR 200 million and benefits higher pensions most, while those below the EUR 600 personal allowance gain nothing."
+    },
+    {
+      "title": "Croatia's anti-inflation package confirms 2027 pension-tax abolition, draws fairness criticism",
+      "url": "https://www.croatiaweek.com/croatia-anti-inflation-package-budget-cuts-new-taxes-pension-relief",
+      "source": "Croatia Week",
+      "pubDate": "2026-05-28",
+      "summary": "The Croatian government's May 2026 anti-inflation package confirmed that income tax on all pensions will be abolished from January 2027, benefiting more than 540,000 taxpayers at a cost of about €180 million. Critics note the relief mainly helps higher pensions — those below the €600 personal allowance gain nothing — while a new 50% excess-profit tax targets large firms."
     }
   ],
   "HU": [
@@ -1966,6 +1987,13 @@ const NEWS = {
       "source": "MREAST",
       "pubDate": "2026-04-15",
       "summary": "Pensions were increased by 3.6% in January 2026 to reflect projected inflation, yet about a third of Hungarian retirees are considered relatively poor and roughly a sixth live in extreme poverty, with a large gap between the average pension (around 260,993 forint) and the minimum. The 13th and 14th pensions are widely seen as electoral sweeteners."
+    },
+    {
+      "title": "Hungary says average pension tops 286,000 forint with 13th and 14th months; replacement rate above EU average",
+      "url": "https://www.budapesttimes.hu/hungary/gulyas-the-government-has-exceeded-its-pledge-to-preserve-the-real-value-of-pensions/",
+      "source": "The Budapest Times",
+      "pubDate": "2026-02-10",
+      "summary": "Prime Minister's Office minister Gergely Gulyás said the average Hungarian pension exceeded 286,000 forint per month in January 2026 once the 13th-month and first 14th-month instalments are counted. He cited a replacement rate of 78% for men and 72.8% for women — above the EU (68%) and OECD (63%/62.4%) averages — alongside the 3.6% January uplift."
     }
   ],
   "ID": [
@@ -2518,6 +2546,13 @@ const NEWS = {
       "source": "DG Cambodia",
       "pubDate": "2026-07-28",
       "summary": "On 28 July 2026 Cambodia began rolling out the LACMS digital registration system in Banteay Meanchey province to streamline NSSF enrollment and pension record-keeping, the latest step in digitising social-protection administration for the phased private pension."
+    },
+    {
+      "title": "Cambodia's NSSF passes 3.5 million members as 2026 review sets digital, family-coverage course",
+      "url": "https://en.kampucheathmey.com/national/1109962",
+      "source": "Kampuchea Thmey",
+      "pubDate": "2026-02-23",
+      "summary": "At its 2025 Annual Review and 2026 Direction Setting meeting, Labour Minister Heng Sour said Cambodia's NSSF had grown to more than 3.5 million members (nearly 2 million women) across close to 30,000 enterprises, with 1,617 partner health facilities and over 8 million healthcare visits. Officials highlighted digital contribution and payment systems and expansion toward voluntary members' families."
     }
   ],
   "KR": [
@@ -2692,6 +2727,13 @@ const NEWS = {
       "source": "Government of Kazakhstan",
       "pubDate": "2026-01-01",
       "summary": "The new Tax Code effective 1 January 2026 exempts both lump-sum and periodic UAPF pension payouts from individual income tax, and early retirees' UAPF benefits were raised by 5%, supporting take-home retirement income as the ECPC employer contribution climbs toward 5% by 2028."
+    },
+    {
+      "title": "Kazakhstan pension savings hit 28.35 trillion tenge in August 2026 as employer contributions surge",
+      "url": "https://www.enbekshiqazaq.kz/en/news/401166-kazakhstanis-pension-savings-reached-2835-trillion-tenge.html",
+      "source": "Enbekshi Qazaq",
+      "pubDate": "2026-09-01",
+      "summary": "UAPF pension savings reached 28.35 trillion tenge as of 1 August 2026 (up 14.1% year-on-year) across 18.89 million accounts. Employer compulsory pension contributions (ECPC), booked since January 2024, rose to 1,273.93 billion tenge — 2.5 times the year-earlier level — while old-age payments averaged 38,993 tenge a month."
     }
   ],
   "LK": [
@@ -2743,6 +2785,13 @@ const NEWS = {
       "source": "On Lanka",
       "pubDate": "2026-02-12",
       "summary": "The annuity proposal drew pushback from trade unions who noted members were not consulted, recalling the failed 2011 attempt that triggered street protests; EPF's post-restructuring bond portfolio (yields cut from about 12% to 9% after 2026) has reduced expected lump sums, intensifying the adequacy debate."
+    },
+    {
+      "title": "Sri Lanka EPF annuity plan draws governance criticism over Treasury control and lack of consultation",
+      "url": "https://lankanews.lk/?p=89591",
+      "source": "Lanka News",
+      "pubDate": "2026-02-12",
+      "summary": "The proposal to convert the EPF lump sum into a monthly pension drew sharp criticism in 2026: unions said they were not formally consulted, and analysts warned moving EPF and ETF management from the Central Bank to the Treasury risks political use and a repeat of the failed 2011 attempt. Advocates urge an optional, independently regulated scheme."
     }
   ],
   "LT": [
@@ -2794,6 +2843,13 @@ const NEWS = {
       "source": "Infoerdve",
       "pubDate": "2026-08-01",
       "summary": "Despite the exodus, about 781,000 participants remained in the second pillar in Q2 2026 holding some 5.82 billion euro (averaging about 7,600 euro), with 672.4 million withdrawn that quarter -- 285.4m own contributions, 387m returns, 272m redirected to Sodra -- while over 20,000 new voluntary sign-ups were recorded."
+    },
+    {
+      "title": "Lithuania second-pillar withdrawals slow to 7.2% in Q2 as average balance rises €700",
+      "url": "https://infoerdve.lt/en/lithuanias-second-pension-pillar-average-saver-gains-eur700",
+      "source": "Infoerdve / LIPFA",
+      "pubDate": "2026-07-15",
+      "summary": "After a first-quarter rush, new second-pillar withdrawal requests fell to 7.2% of savers in Q2 2026 from 35.6% in Q1. About 781,000 people remained in the funded pillar holding roughly €5.82 billion, with the average balance up about €700 year-to-date on fund returns; more than 20,000 new saving contracts were signed in H1."
     }
   ],
   "LU": [
@@ -2897,6 +2953,13 @@ const NEWS = {
       "source": "Baltic News Network (BNN)",
       "pubDate": "2026-05-20",
       "summary": "Following a State Chancellery report, Latvia intends from 2027 to strip early-retirement pensions from professions with no regular health or life risks, while gradually raising the minimum retirement age and service length for current holders by six months a year; economists urge a clearer phase-out to boost capital accumulation."
+    },
+    {
+      "title": "Latvia parliament adopts early-retirement overhaul in final reading, rollout from 2027",
+      "url": "https://ogreszinas.news/changes-to-early-retirement-in-latvia-service-tenure-and-retirement-age-will-increase-payments-will-be-standardised/",
+      "source": "Ogres Ziņas",
+      "pubDate": "2026-06-10",
+      "summary": "The Saeima passed, in final reading, amendments to nine laws reforming Latvia's service-pension system from 2027: professions without health-or-life risk are excluded from early retirement, current holders face a six-month annual rise in both minimum age and required service (up to five extra years), prosecutors and judges are removed, and payment caps are unified 10%–20% lower."
     }
   ],
   "MA": [
@@ -3000,6 +3063,13 @@ const NEWS = {
       "source": "Myanmar Pension Department",
       "pubDate": "2026-01-15",
       "summary": "Building on the July 2025 launch, Myanmar's centralized e-Pension system linked to the national e-ID had issued UID smart cards at Myanmar Economic Bank branches to about 85.75% of retirees by December 2025, with the remaining rollout continuing in 2026 alongside the 90,000-kyat monthly support allowance extended to retired civil servants and pensioners from October 2025."
+    },
+    {
+      "title": "Myanmar e-Pension reaches 190 bank branches; 85+ social pension to pay via mobile transfer",
+      "url": "https://www.gnlm.com.mm/e-pension-withdrawals-available-across-190-banks-as-of-may-2026/",
+      "source": "Global New Light of Myanmar",
+      "pubDate": "2026-05-20",
+      "summary": "Myanma Economic Bank said its centralised e-Pension system spanned 190 branches as of May 2026 (up from 185 in February), letting retirees withdraw without fees. Separately, the 85-and-over non-contributory social pension for FY2026–27 will be paid through mobile-transfer systems, at 60,000 kyat a year (about 5,000 a month) — a level citizens criticised as too low."
     }
   ],
   "MN": [
@@ -3051,6 +3121,13 @@ const NEWS = {
       "source": "MONTSAME",
       "pubDate": "2026-04-03",
       "summary": "Under the 2024 shift to a partially funded system, the Pension Reserve Fund had accumulated MNT 302.7 billion by end-2025 and earned an investment return of MNT 2.7 billion for March 2026, with MNT 215.3 billion placed as one-year bank deposits at 15.11% to grow the fund further."
+    },
+    {
+      "title": "Mongolia parliament passes three-pillar pension overhaul; payouts to rise 100k–300k tugrik in 2027",
+      "url": "https://mongolia.robertritz.com/daily/mongolia-daily-parliament-oks-pension-overhaul-passes-soe-climate-bills-and-adb-lends-64m",
+      "source": "MongolBeat",
+      "pubDate": "2026-07-02",
+      "summary": "Parliament approved amendments to the General Law on Social Insurance with about 85% support, creating a three-pillar model. From 1 January 2027 pensions rise by 100,000–300,000 tugrik by contribution years; from 2033 payouts use a 10-year average wage; a voluntary savings pillar offers a 50% state match on an extra 1% contribution for up to 120 months."
     }
   ],
   "MT": [
@@ -3895,6 +3972,13 @@ const NEWS = {
       "source": "General Secretariat",
       "pubDate": "2026-08-01",
       "summary": "Daman (GRSIA) reaffirmed that expatriates - over 90% of the workforce - remain outside the contributory pension and rely on end-of-service gratuity, while a review of expat coverage and longer-term savings options continues."
+    },
+    {
+      "title": "Qatar's Daman joins GCC committee to advance unified 2026–2030 pension action plan",
+      "url": "https://www.gulf-times.com/article/718762/qatar/qatar-takes-part-in-gcc-civil-retirement-and-social-insurance-agencies-meeting",
+      "source": "Gulf Times",
+      "pubDate": "2026-05-18",
+      "summary": "Qatar's General Retirement and Social Insurance Authority (Daman) took part in the 63rd GCC Technical Committee meeting on civil retirement and social insurance, backing the 2026–2030 action plan, an updated unified system extending coverage to GCC citizens working abroad, electronic linkage between agencies, and a unified 'GCC Umbrella' awareness campaign launched across all six member states in May 2026."
     }
   ],
   "RO": [
