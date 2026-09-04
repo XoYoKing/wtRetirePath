@@ -3536,7 +3536,22 @@ const NEWS = {
       "source": "Nepal News",
       "pubDate": "2026-05-15",
       "summary": "The government agreed to bring about 35,000 temporary, contract and daily-wage public workers into the Social Security Fund from FY2026/27, with contributions of 20% by the government and 11% by the worker calculated on at least 60% of salary as the basic wage."
+    },
+    {
+      "title": "Nepal Cabinet approves five-year strategy creating dedicated regulator for social security funds",
+      "url": "https://www.fiscalnepal.com/2026/02/01/24227/separate-regulator-to-established-for-nepals-non-bank-financial-institutions-under-new-financial-sector-strategy/",
+      "source": "Fiscal Nepal",
+      "pubDate": "2026-02-01",
+      "summary": "On 12 January 2026 the Cabinet approved the FY2025/26–2029/30 Financial Sector Development Strategy, which proposes a dedicated regulator for major non-bank financial institutions including the Employees Provident Fund, Citizen Investment Trust and Social Security Fund, aiming to strengthen governance, risk oversight and capital-market diversification."
+    },
+    {
+      "title": "Nepal to enrol informal workers into Social Security Fund by mid-July 2026",
+      "url": "https://english.nepalnews.com/s/business/informal-laborers-to-be-brought-into-social-security-net-voluntary-allowance-waiver-campaign-launched",
+      "source": "Nepal News",
+      "pubDate": "2026-06-05",
+      "summary": "Presenting the FY2026/27 federal budget, Finance Minister Swarnim Wagle set a mid-July 2026 deadline to bring informal and unorganised workers into the Social Security Fund, while launching a voluntary campaign encouraging affluent citizens to renounce state social-security allowances so resources reach vulnerable groups."
     }
+
   ],
   "NZ": [
     {
@@ -3645,7 +3660,22 @@ const NEWS = {
       "source": "Oman Observer",
       "pubDate": "2026-07-01",
       "summary": "Oman is phasing the expatriate Social Protection Law introduced by Royal Decree 52/2023 as amended by Decree 60/2025: the savings system (9% of basic wage, replacing end-of-service gratuity) launches 19 July 2027, while the Work Injuries and Occupational Diseases branch is deferred to July 2028."
+    },
+    {
+      "title": "Oman issues Royal Decree 65/2026 strengthening GCC cross-border pension protection",
+      "url": "https://www.thearabianstories.com/2026/06/20/omans-citizens-in-gcc-to-get-stronger-social-protection-under-new-royal-decree",
+      "source": "The Arabian Stories",
+      "pubDate": "2026-06-20",
+      "summary": "Royal Decree No. 65/2026, issued on 17 June 2026, amends the unified GCC insurance-protection extension system so Omani workers in other Gulf states keep home-country pension, disability, death and job-security cover; the 18.5% contribution (7.5% employee plus 11% employer) covered about 7,850 Omani insured abroad by end-April 2026."
+    },
+    {
+      "title": "Oman rolls out expat social-insurance branch as part of 2026 reform",
+      "url": "http://www.humancehr.com/knowledge-base/omans-2026-social-security-reform",
+      "source": "Humance HR",
+      "pubDate": "2026-07-19",
+      "summary": "Under the 2025 Social Protection Law, Oman extended sickness and special-leave insurance to expatriate workers from 19 July 2026 and will replace end-of-service indemnity for foreign staff with a savings-based provident fund from July 2027, while employers pay 1% of payroll without a ceiling."
     }
+
   ],
   "PE": [
     {
@@ -3812,7 +3842,22 @@ const NEWS = {
       "source": "SECP",
       "pubDate": "2026-04-07",
       "summary": "Under the Balochistan Contributory Pension Scheme Rules 2025, SECP approved the first seven provincial voluntary pension funds on 25 March 2026 and a further eight Balochistan plus one Punjab fund on 7 April 2026, deepening provincial coverage beyond the federal scheme."
+    },
+    {
+      "title": "Pakistan raises EOBI private-sector pension minimum to Rs 11,500 with 15% hike",
+      "url": "https://alif.com.pk/govt-relief-package-announced-eobi-pension-increase",
+      "source": "Alif.com.pk",
+      "pubDate": "2026-03-01",
+      "summary": "The 2026 relief package lifts the minimum Employees Old-Age Benefits Institution pension from Rs 10,000 to Rs 11,500 and raises formula-based pensions by 15%, with arrears from January paid in September; a Federal Constitutional Court ruling counts 14 years 6 months of service as 15, unlocking benefits for many previously rejected applicants."
+    },
+    {
+      "title": "EOBI 2026 increase effective 1 January with biometric verification drive",
+      "url": "https://starseed.pk?p=160/",
+      "source": "Starseed.pk",
+      "pubDate": "2026-01-15",
+      "summary": "Revised EOBI rates took effect on 1 January 2026, raising the minimum pension to Rs 11,500 and boosting formula pensions by 15%, with arrears cleared in September; pensioners must complete biometric verification twice a year to keep payments flowing."
     }
+
   ],
   "PL": [
     {
@@ -4030,7 +4075,22 @@ const NEWS = {
       "source": "Digi24",
       "pubDate": "2026-06-15",
       "summary": "After enacting the magistrates' special-pension reform, the government signalled a follow-up package extending the overhaul to aviators, diplomats and parliamentarians, aiming to curb the fiscal cost of privileged schemes."
+    },
+    {
+      "title": "Romanian Senate passes bill lifting mandatory Pillar II contribution to 5.25% in 2026",
+      "url": "http://romania-insider.com/senate-bill-mandatory-pension-funds-feb-2026",
+      "source": "Romania Insider",
+      "pubDate": "2026-02-04",
+      "summary": "The Senate tacitly adopted a bill raising the mandatory private-pension (Pillar II) contribution from 4.75% to 5.25% in 2026 and 6% in 2027, benefiting more than 8.4 million contributors and strengthening long-term adequacy as the public system faces demographic pressure after 2030."
+    },
+    {
+      "title": "Romania begins July 2026 pension reforms as women's retirement age rises",
+      "url": "https://lemonews.com/en/article/modificari-semnificative-in-sistemul-de-pensii-din-romania-incepand-cu-iulie-2026-zcolka",
+      "source": "Lemonews",
+      "pubDate": "2026-06-20",
+      "summary": "From 1 July 2026 Romania gradually lifts women's retirement age to 62 years 7 months on the way to a unified 65 by 2035, raises the minimum gross salary to 4,325 lei and shifts pension-payment dates, with extra support planned for low-income pensioners."
     }
+
   ],
   "RS": [
     {
@@ -4081,7 +4141,22 @@ const NEWS = {
       "source": "NIN",
       "pubDate": "2026-01-01",
       "summary": "From 1 January 2026 Serbia's statutory minimum wage rose 10.1%, lifting take-home pay for low-income workers and easing pressure on the many pensioners who continue to work alongside their pensions."
+    },
+    {
+      "title": "Serbia PIO Fund still weighing three formulas for December 2026 pension hike",
+      "url": "https://srpske.rs/en/news/ekonomija/2026/09/03/serbia-pension-hike-fund-weighs-three-formulas",
+      "source": "Srpske Novine",
+      "pubDate": "2026-09-03",
+      "summary": "The Pension and Disability Insurance Fund said it will pick one of three legal formulas for the December 2026 adjustment based on pension spending as a share of GDP; about 1.7 million pensioners are affected, and the previous share of 9.98% had pensions track wage growth."
+    },
+    {
+      "title": "Serbia changes pension rules from 2026 as women's retirement age rises to 64",
+      "url": "https://vreme.com/en?p=4963548",
+      "source": "Vreme",
+      "pubDate": "2026-01-01",
+      "summary": "From 1 January 2026 women can retire at 64 with 15 years of service, reaching 65 by 2032, and low-income pensioners up to 73,700 dinars receive a monthly supplement of up to 5,000 dinars alongside the regular adjustment."
     }
+
   ],
   "RU": [
     {
@@ -4364,7 +4439,22 @@ const NEWS = {
       "source": "ZPIZ",
       "pubDate": "2026-02-01",
       "summary": "The 2026 reform raised the minimum invalidity pension from EUR 490 to EUR 610 and gave members more flexible choice of supplementary-pension funds with lower fees, improving value for future retirees."
+    },
+    {
+      "title": "Slovenia approves extra 1% pension adjustment, lifting 2026 total to 5.2%",
+      "url": "https://www.gov.si/en/news/2026-03-12-194th-regular-session-of-the-government-of-the-republic-of-slovenia",
+      "source": "Government of the Republic of Slovenia",
+      "pubDate": "2026-03-12",
+      "summary": "The government consented to the ZPIZ Council's extraordinary 1% pension adjustment effective 1 March 2026 on top of the 4.2% regular rise, bringing the year's total adjustment to 5.2%; the higher amounts are paid with the May 2026 pension."
+    },
+    {
+      "title": "Slovenia's 2026 reform reshapes supplementary pension insurance for employers",
+      "url": "https://greco.services/slovenias-new-pension-reform-major-changes-ahead-for-supplementary-pension-insurance/",
+      "source": "GrECo",
+      "pubDate": "2026-01-20",
+      "summary": "From 1 January 2026 employers with more than 10 staff must negotiate a collective supplementary pension plan within two years, lump-sum withdrawal thresholds rise, management fees fall and annuity and inheritance rules become more flexible under the overhauled second pillar."
     }
+
   ],
   "SK": [
     {
@@ -4415,7 +4505,22 @@ const NEWS = {
       "source": "Socialna poistovna",
       "pubDate": "2026-01-01",
       "summary": "Within the 18% social-insurance contribution, second-pillar flows are split as 14% to Socialna poistovna and 4% to private pension funds (DSS) in 2026, after the Fico government cut the private share from 9% to 4%."
+    },
+    {
+      "title": "Slovakia's labour minister confirms second pension pillar untouched by consolidation",
+      "url": "https://www.tasr.sk/tasr-clanok/TASR:2025082700000399",
+      "source": "TASR",
+      "pubDate": "2026-08-27",
+      "summary": "Labour Minister Erik Tomas said the second pillar will not be reduced for a second year running and contributions stay at a 4% floor, announcing a time-unlimited working group to discuss enshrining a minimum contribution in the constitution and allowing voluntary entry."
+    },
+    {
+      "title": "Slovakia's second pillar tops another billion-euro milestone in 2026",
+      "url": "https://www.adss.sk/",
+      "source": "ADSS",
+      "pubDate": "2026-08-12",
+      "summary": "The association of pension fund managers reported second-pillar assets above EUR 22 billion for more than two million savers; in 2026 the 18% compulsory contribution splits 14% to Socialna poistovna and 4% to private DSS accounts, with the rate at 5.75% rising to 6% in 2027."
     }
+
   ],
   "TH": [
     {
@@ -4747,6 +4852,20 @@ const NEWS = {
       "pubDate": "2026-03-15",
       "summary": "From 1 April 2026 working pensioners receive an automatic recalculation of their benefits once they have 24 months of covered service, complementing the 12.1% March indexation and the higher minimum tiers for seniors with full contribution records.",
     },
+    {
+      "title": "Ukraine indexes pensions by 12.1% from 1 March 2026",
+      "url": "https://komersant.ua/en/pensii-ta-strakhovi-vyplaty-ukraintsiv-pidvyshchyly-na-12-1-shcho-zminytsia-z-1-bereznia?noamp=mobile",
+      "source": "Komersant Ukraine",
+      "pubDate": "2026-03-01",
+      "summary": "The Cabinet indexed pensions and insurance payments by 12.1% (50% of 8% inflation plus 50% of three-year wage growth) from 1 March 2026, exceeding 2025 inflation; minimum top-ups rose for older cohorts and the per-pensioner increase ranged from UAH 100 to UAH 2,595."
+    },
+    {
+      "title": "Ukraine to submit voluntary three-tier pension reform bill in September 2026",
+      "url": "https://en.newssky.com.ua/minsoczpolityky-u-veresni-2026-vynese-do-rady-dobrovilnu-pensijnu-reformu-ta-pereglyad-speczpensij-suddiv-i-sylovykiv",
+      "source": "Newsky",
+      "pubDate": "2026-09-01",
+      "summary": "The Ministry of Social Policy plans to send the Rada a voluntary three-tier reform: an updated pay-as-you-go first pillar, a voluntary savings second pillar (dropping the long-debated mandatory version) and existing non-state funds, while reviewing special pensions for judges, prosecutors and law-enforcement staff."
+    }
 
   ],
   "UG": [
