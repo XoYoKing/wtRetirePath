@@ -1501,6 +1501,13 @@ const NEWS = {
       "source": "Seguridad Social (Spain)",
       "pubDate": "2026-05-20",
       "summary": "Spain in 2026 ring-fenced Intergenerational Equity Mechanism (MEI) revenues to rebuild the pension reserve fund, targeting about 0.2% of GDP by year-end to buffer the baby-boom retirement wave, while studying stronger inflation-indexation of non-contributory minimum pensions."
+    },
+    {
+        "title": "Spain approves 2026 pension rise of 2.7%, minimum pensions up to 11.4%",
+        "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/Paginas/2026/subida-pensiones-2026.aspx",
+        "source": "La Moncloa (Govt of Spain)",
+        "pubDate": "2026-02-10",
+        "summary": "A Royal Decree-Law approved on 3 February 2026 revalues contributory pensions by 2.7% (about €570 more per year for an average pension), raises minimum pensions by over 7% and non-contributory benefits by 11.4%, and extends early-retirement rules for firefighters and GPs."
     }
   ],
   "FI": [
@@ -1552,6 +1559,13 @@ const NEWS = {
       "source": "Finnish Centre for Pensions (ETK)",
       "pubDate": "2026-01-01",
       "summary": "The Ministry confirmed the 2026 earnings-related pension index at 3104 (+0.9%) and the wage coefficient at 1.712 (+2.3%), while the national pension index is 1939 (+0.5%). In payment, earnings-related pensions rise 0.9% and national/guarantee pensions 0.5% from January 2026, applied automatically."
+    },
+    {
+        "title": "Finnish earnings-related pension reforms take effect from 1 July 2026",
+        "url": "https://www.europeanpensions.net/ep/Finnish-pension-reforms-to-come-into-force-from-1-July.php",
+        "source": "European Pensions",
+        "pubDate": "2026-06-16",
+        "summary": "Signed by President Stubb on 16 June, the reform lowers the solvency limit for pension insurers by about one-third, lets them take more investment risk and borrow for real estate, adds an index cap from 2030, and from 2027 sets aside 0.5pp of accrued pensions for funding; the package is worth about €2bn to public finances."
     }
   ],
   "FR": [
@@ -2357,6 +2371,13 @@ const NEWS = {
       "source": "INPS",
       "pubDate": "2026-01-01",
       "summary": "The 2026 Budget raises the minimum pension by about 20 euros per month for recipients aged over 70 and severely disabled, and from July 2026 silently assigns new hires' severance pay (TFR) to complementary pension funds unless they opt out, widening second-pillar coverage; a stricter relaunch of Opzione Donna is under study but not yet law."
+    },
+    {
+        "title": "Italian pensions revalued 1.4% in 2026 as cost-of-living index confirmed",
+        "url": "https://www.professione-lavoro.it/pensioni-nel-2026-come-cambiano-i-requisiti-e-gli-importi/",
+        "source": "Professione Lavoro",
+        "pubDate": "2026-01-10",
+        "summary": "Under the 2026 Budget Law all pensions were revalued by 1.4% from January 2026 based on the provisional CPI, safeguarding purchasing power; full adjustment applies to benefits up to four times the minimum, while Quota 103 and Opzione Donna ended for new claimants."
     }
   ],
   "JP": [
@@ -2676,6 +2697,13 @@ const NEWS = {
       "source": "Arab Times",
       "pubDate": "2026-03-10",
       "summary": "The amended early-retirement draft -- allowing retirement five years before the normal age with a 2% pension cut per year -- passed a first reading but stayed in committee through early 2026; the Cabinet's 2025 criteria (women 50/men 55 with 30 years' service for a full pension) continue to apply in the meantime."
+    },
+    {
+        "title": "GCC launches unified pension awareness campaign under 'GCC Umbrella' in May 2026",
+        "url": "https://mgcg.co/unified-gcc-pension-system-cross-border-hiring",
+        "source": "MGCG",
+        "pubDate": "2026-05-20",
+        "summary": "In May 2026 all six GCC social-security authorities ran a simultaneous campaign on the Unified Extension Protection System, confirming cross-border Gulf nationals stay in their home pension scheme with host employers collecting at home-country rates; late contributions now trigger automatic penalties (e.g. UAE 0.1%/day)."
     }
   ],
   "KZ": [
@@ -2901,6 +2929,13 @@ const NEWS = {
       "source": "Luxembourg Times",
       "pubDate": "2026-01-08",
       "summary": "After a third round of talks, the government kept the legal retirement age at 65 while agreeing to align the effective and legal ages from 2026, raise the contribution rate to 25.5%, extend progressive retirement to the private sector, lift tax deductions for private pensions and grant a special tax rebate to those working past early-retirement eligibility. The package will be reviewed again in 2030."
+    },
+    {
+        "title": "CNAP chief warns Luxembourg pension reform only buys about four years of breathing room",
+        "url": "https://today-prod.rtl.lu/news/luxembourg/luxembourg-pension-reform-buys-time-but-leaves-structural-problems-unsolved-1117182452",
+        "source": "RTL Today",
+        "pubDate": "2026-07-30",
+        "summary": "CNAP president Alain Reuter said the December reforms (contribution rate raised to 25.5%) push the 'wall'—when reserves fall to 1.5× annual spending—from 2036–37 to 2040–41, but reserves of €32bn (4.24× spending) remain the lowest since 2013 and the structural demographic imbalance is unresolved."
     }
 
   ],
@@ -3011,6 +3046,13 @@ const NEWS = {
       "source": "Wafir.ma",
       "pubDate": "2026-05-12",
       "summary": "The CNSS pension reform presented on 12 May 2026 — raising the legal age from 60 to 63 in steps from 2027, lifting CNSS pensions 8% over 2027-2029 and harmonising CNSS/CMR/RCAR under a new National Retirement Organisation — is expected to be voted by parliament around October 2026, with entry into force planned for 1 January 2027."
+    },
+    {
+        "title": "Morocco's CMR simplifies retirement and survivor-pension procedures under Circular 8/2026",
+        "url": "https://www.moroccoworldnews.com/2026/08/335085/morocco-introduces-new-measures-to-ease-retirement-survivor-pension-procedures/",
+        "source": "Morocco World News",
+        "pubDate": "2026-08-18",
+        "summary": "The Head of Government issued Circular 8/2026 to streamline retirement and survivor-pension files at the Caisse Marocaine des Retraites, cutting required documents via inter-agency data exchange as part of the CMR's 2025–2027 digitalisation plan; implementation is gradual."
     }
 
   ],
@@ -3485,6 +3527,13 @@ const NEWS = {
       "source": "SPK (Statens Pensjonskasse)",
       "pubDate": "2026-05-01",
       "summary": "From 1 May 2026 the National Insurance basic amount (G) rises 4.91% to NOK 136,549, lifting retirement/AFP pensions paid out by 4.69% (and disability or under-67 survivors' pensions by 4.91%); the new rates, adopted by royal decree on 22 May 2026, are paid from July with back-pay for May-June."
+    },
+    {
+        "title": "Norway approves reform to boost returns on guaranteed pension products",
+        "url": "https://europeanpensions.net/ep/Norway-approves-reforms-to-boost-returns-on-guaranteed-pension-products.php",
+        "source": "European Pensions",
+        "pubDate": "2026-04-24",
+        "summary": "The Storting passed changes to the Foretakspensjonsloven and Insurance Activity Act letting providers of about 600,000 fripoliser (paid-up policies) adopt longer-horizon, higher-risk strategies via 'borrowed equity' while keeping guarantees; Storebrand called it long-awaited relief from over-cautious rules."
     }
   ],
   "NP": [
@@ -3973,6 +4022,13 @@ const NEWS = {
       "source": "Lusa (AMAN)",
       "pubDate": "2026-08-19",
       "summary": "The Jorge Bravo expert group's July 2026 report 'Reforming Pensions in Portugal' urges uniform indexation of all pensions at least in line with inflation and new retail public-debt instruments to top up pensions. The sustainability-factor penalty rose to 17.63% in 2026 (factor 0.8307). The government reiterated it will not undertake structural reform this parliamentary term."
+    },
+    {
+        "title": "Portugal's retirement-age battle: Chega pushes 65 while PSD defends sustainability",
+        "url": "https://theportugalpost.com/posts/portugals-retirement-age-battle-why-your-pension-could-be-worth-less-in-2026",
+        "source": "The Portugal Post",
+        "pubDate": "2026-05-28",
+        "summary": "With the 2026 statutory age at 66 years 9 months (67y11m in 2027) and the sustainability factor at 17.63%, Chega leader André Ventura made lowering the age to 65 a condition for backing labour reform, drawing PSD warnings that it would endanger the pay-as-you-go system's solvency."
     }
   ],
   "QA": [
@@ -4024,6 +4080,13 @@ const NEWS = {
       "source": "Gulf Times",
       "pubDate": "2026-05-18",
       "summary": "Qatar's General Retirement and Social Insurance Authority (Daman) took part in the 63rd GCC Technical Committee meeting on civil retirement and social insurance, backing the 2026–2030 action plan, an updated unified system extending coverage to GCC citizens working abroad, electronic linkage between agencies, and a unified 'GCC Umbrella' awareness campaign launched across all six member states in May 2026."
+    },
+    {
+        "title": "Qatar's 2022 national pension reform enters phased implementation in 2026",
+        "url": "https://www.qatarday.com/working-in-qatar-heres-how-your-retirement-benefits-actually-work-in-2026/102832/0",
+        "source": "Qatar Day",
+        "pubDate": "2026-03-15",
+        "summary": "The 2022 reform creating a unified national pension fund is being rolled out sector by sector; qualifying expatriates are starting to accrue funded entitlements alongside the end-of-service gratuity, while the Wage Protection System tightens to secure settlements."
     }
   ],
   "RO": [
@@ -4272,6 +4335,13 @@ const NEWS = {
       "source": "gulfHR",
       "pubDate": "2026-07-01",
       "summary": "From 1 July 2026, new-system Saudi employees (first registered on or after 3 July 2024) face a pension-branch rate of 10.75% employee and 12.75% employer (23.5% combined including SANED and occupational hazards). Legacy-system Saudis stay at 21.5% and expatriates at 2%; payroll must be configured per registration date."
+    },
+    {
+        "title": "Saudi GOSI sets 2026 pension payment dates and dependent allowances",
+        "url": "https://english.ajel.sa/news/ygsiabirz",
+        "source": "Ajel",
+        "pubDate": "2026-08-25",
+        "summary": "GOSI fixed pension payments for the rest of 2026 on the first day of each month (1 Sep, 1 Oct, 1 Nov, 1 Dec) for civil, military and social-insurance beneficiaries; dependent supplements are 10% (one), 15% (two) and 20% (three or more), counted only on service before 1 Jan 2001."
     }
   ],
   "SE": [
@@ -4323,6 +4393,13 @@ const NEWS = {
       "source": "Pensionsmyndigheten",
       "pubDate": "2026-01-15",
       "summary": "Sweden in 2026 formalised the target age (67 for 2026-2030) as the policy benchmark calibrating actuarial coefficients for early and deferred drawdown; the guarantee pension was uprated 0.7% in line with consumer prices and wages, protecting low-income retirees' purchasing power against inflation."
+    },
+    {
+        "title": "Sweden raises standard pension age to 67 in 2026 as incomes climb",
+        "url": "http://swedenherald.com/article/more-news-a-good-time-to-review-your-pension",
+        "source": "Sweden Herald",
+        "pubDate": "2026-01-05",
+        "summary": "From 1 January 2026 the standard age rises to 67 (lowest age to draw income pension becomes 64, three years before), and income and supplementary pensions increase 1.9% while the guarantee pension rises 0.7%; the standard age is set to climb toward 70 for the late-1990s cohorts."
     }
   ],
   "SG": [
@@ -4798,6 +4875,20 @@ const NEWS = {
       "source": "InvestmentKit",
       "pubDate": "2026-06-20",
       "summary": "NSSF reported assets of about TSh 11.6 trillion by June 2026 and aims to register 3.7 million self-employed Tanzanians by June 2031, with roughly 85% of the workforce still in the informal sector targeted via mobile-money products like the Hifadhi Scheme.",
+    },
+    {
+        "title": "Tanzania opens second phase of pension verification to secure payments for retirees",
+        "url": "https://tanzaniainsight.com/tanzania-embarks-on-a-pension-verification-exercise-instructs-retirees-to-complete-process-before-july-15",
+        "source": "Tanzania Insight",
+        "pubDate": "2026-06-12",
+        "summary": "The Ministry of Finance launched the second phase of a nationwide pension beneficiary verification (1 June–15 July 2026) for Treasury pensioners, including retirees living abroad; those who miss the deadline risk suspension of monthly payments, with verification available via bank mobile apps or branches."
+    },
+    {
+        "title": "Tanzania's Hifadhi social-protection scheme tops 500,000 informal workers",
+        "url": "https://vellum.co.tz/?p=1719/",
+        "source": "Vellum Tanzania",
+        "pubDate": "2026-02-20",
+        "summary": "By December 2025 over 500,000 self-employed Tanzanians had enrolled in the Hifadhi Scheme launched under the NSSF, aiming for 5.5 million by June 2031; flexible contributions via mobile money target informal workers long outside the social-security system."
     },
 
   ],
