@@ -1892,6 +1892,13 @@ const NEWS = {
       "source": "MPFA",
       "pubDate": "2026-03-01",
       "summary": "For the 2025/26 assessment year the tax-deductible voluntary contribution (TVC) and qualifying deferred annuity premium (QDAP) share an annual ceiling of HK$60,000, while mandatory MPF contributions stay capped at HK$18,000 related income and HK$1,500 per person per month; the MPFA promotes full portability transfers to cut fee erosion."
+    },
+    {
+      "title": "Hong Kong cuts eMPF platform fee to 29 basis points from 1 April 2026",
+      "url": "https://www.mpfa.org.hk/en/info-centre/press-releases/20260323",
+      "source": "MPFA",
+      "pubDate": "2026-03-23",
+      "summary": "The Financial Secretary approved reducing the eMPF Platform fee for 2026-27 from 37 bps to 29 bps (a 21.6% cut), directly benefiting all MPF members. The MPFA said cumulative administrative cost savings are now forecast at HK$50 billion within a decade, with further reductions to 20-25 bps expected within five years."
     }
   ],
   "HR": [
@@ -2189,6 +2196,13 @@ const NEWS = {
       "source": "Semerenko Group",
       "pubDate": "2026-01-15",
       "summary": "From 1 January 2026 CPI-linked benefits including the old-age pension rose 2.4% while wage-linked disability pensions rose 3.4%, a gap Bituach Leumi flagged as pressure on the elderly floor. The base old-age pension is NIS 1,838/month (single) and NIS 2,762 (couple), with a deferral bonus of 5% per year up to age 70."
+    },
+    {
+      "title": "Smotrich denies plan to raise Israel's retirement age to 70",
+      "url": "https://www.timesofisrael.com/smotrich-denies-bid-to-hike-retirement-age-to-70-as-treasury-drafts-multi-year-plan/amp",
+      "source": "The Times of Israel",
+      "pubDate": "2026-03-29",
+      "summary": "Finance Minister Bezalel Smotrich dismissed reports that Israel plans to gradually raise the retirement age to 70 as part of a 2027-2032 multi-year economic plan, saying 'the issue is not on the agenda.' Officials said the idea remains in a long-term contingency plan; the statutory retirement age stays at 67 for men and 62-65 for women by birth year."
     }
   ],
   "IN": [
@@ -3476,6 +3490,13 @@ const NEWS = {
       "source": "De Nederlandsche Bank (DNB)",
       "pubDate": "2026-06-30",
       "summary": "The Netherlands' largest occupational pension fund, ABP (about 518 billion euros in assets), obtained approval from De Nederlandsche Bank in 2026 to complete its shift to the new DC system under the Future of Pensions Act; by mid-year roughly 42 funds covering over 2 trillion euros had transitioned, all due by the 1 January 2028 hard deadline."
+    },
+    {
+      "title": "Dutch Senate passes Lump Sum Revision Act; one-off 10% pension withdrawal delayed to 1 January 2029",
+      "url": "https://www.ipe.com/news/dutch-government-postpones-pension-lump-sum-to-2029/10136028.article",
+      "source": "Investment & Pensions Europe",
+      "pubDate": "2026-06-16",
+      "summary": "The Senate adopted the Lump Sum Revision Act on 16 June 2026, allowing retirees to take up to 10% of their pension as a one-off lump sum. Entry into force was postponed for an eighth time to 1 January 2029, after the DC transition, to avoid disrupting funds. The AOW eligibility age remains 67 in 2026; the coalition eased the 1:1 life-expectancy link in February 2026."
     }
   ],
   "NO": [
@@ -3658,6 +3679,13 @@ const NEWS = {
       "source": "NZ Herald",
       "pubDate": "2026-05-21",
       "summary": "Ahead of the 2026 Budget, commentators argue New Zealand should pair near-term fiscal discipline with a staged pathway to a 12% total KiwiSaver contribution (6% employee + 6% employer) to ease long-term pressure on New Zealand Superannuation. Default rates are already legislated to rise from 3.5% to 4% from 1 April 2028."
+    },
+    {
+      "title": "New Zealand's National pledges compulsory KiwiSaver from July 2028 as rates rise toward 12%",
+      "url": "https://newswire.co.nz/2026/06/national-compulsory-kiwisaver-election-policy/",
+      "source": "NEWS WIRE",
+      "pubDate": "2026-06-21",
+      "summary": "National leader Christopher Luxon pledged at the party conference to make KiwiSaver compulsory for all workers from 1 July 2028 if re-elected, with default rates rising so employers and employees each contribute 6% by 2032 (12% combined). Newborns would be auto-enrolled with a $1,500 Baby Boost, and employer contributions would extend to staff over 65."
     }
   ],
   "OM": [
@@ -3782,6 +3810,20 @@ const NEWS = {
       "source": "Pension Policy International",
       "pubDate": "2026-06-15",
       "summary": "Five congressional bills since February 2026 propose a ninth extraordinary AFP withdrawal of up to 4 UIT (about S/22,000), but the Economy Commission has not scheduled any for debate. Analysts note only about 10% of the workforce still hold sufficient balances after eight prior withdrawals, and the 2024 reform explicitly ruled out new withdrawals."
+    },
+    {
+      "title": "Peru's SBS says S/600 minimum pension regulation is 'quite ready' pending new government validation",
+      "url": "https://www.pensionpolicyinternational.com/peru-pension-minima-en-afp-sbs-afirma-que-reglamento-esta-bastante-listo-y-espera-validacion-del-ministerio-de-economia",
+      "source": "Pension Policy International",
+      "pubDate": "2026-08-20",
+      "summary": "Peru's banking and pension regulator (SBS) said the regulation to set a guaranteed minimum pension of S/600 under the modernisation law (Law 32123) is largely complete but awaits validation by the new Keiko Fujimori administration via the Ministry of Economy. The semi-contributory pillar would top up both ONP and AFP retirees whose savings fall short."
+    },
+    {
+      "title": "Peru gives 1.8 million AFP members choice to switch from salary-based to fund-based commissions",
+      "url": "https://todaytimeslive.com/peru-gives-pension-savers-choice-to-switch-afp-fee-structure",
+      "source": "Today Times Live",
+      "pubDate": "2026-07-31",
+      "summary": "The SBS published a draft rule giving 1.8 million AFP members a six-month window from October 2026 to March 2027 to switch from salary-based to fund-based commissions, taking effect June 2027. Salaried fees run 1.47%-1.69% of pay; fund-based fees 0.68%-1.25% a year, with a four-year mixed period before the fund-based charge applies in full from 2031."
     }
   ],
   "PH": [
@@ -3840,6 +3882,13 @@ const NEWS = {
       "source": "Briefing Asia",
       "pubDate": "2026-08-20",
       "summary": "SSS posted H1 2026 net income of PHP48 billion, down 27.8%, as benefit payments rose 19% to PHP173.45 billion under the early rollout of the second tranche of the three-year Pension Reform Program to 4.1 million pensioners. Investment income surged 38% to PHP33.18 billion and total assets stood at PHP1.35 trillion."
+    },
+    {
+      "title": "SSS marks 69th anniversary with record benefit payouts and $1.29 trillion portfolio",
+      "url": "https://www.sss.gov.ph/news-and-updates/sss-marks-69th-anniversary-with-stronger-member-protection-expanding-services",
+      "source": "Social Security System (Philippines)",
+      "pubDate": "2026-09-02",
+      "summary": "At its 69th anniversary on 2 September 2026, SSS said it released ₱205.56 billion in benefits from January to July 2026 (₱180.86 billion for retirement and survivors), with an average basic monthly pension of ₱5,704 and an investment portfolio of ₱1.29 trillion. A House panel also approved a Universal Social Pension Bill granting at least ₱1,000 a month to all seniors."
     }
   ],
   "PK": [
@@ -4656,8 +4705,21 @@ const NEWS = {
       "source": "Social Security Office (Thailand)",
       "pubDate": "2026-08-01",
       "summary": "Thailand's Government Pension Fund in 2026 pushed a continue-saving amendment letting retirees keep voluntarily contributing to extend asset accumulation, while the Trustee (TPA) Investment Law widened occupational-pension investment mandates, addressing the structural problem that over 73% of members under-save for retirement."
+    },
+    {
+      "title": "Thailand's GPF pushes 'Save More' law and Total Portfolio Approach under new secretary-general",
+      "url": "https://thailandedition.com/i/gpf-adjusts-investment-strategy-pushes-save-more-00a46a90008c1ca9074bc51e",
+      "source": "Thailand Edition",
+      "pubDate": "2026-08-27",
+      "summary": "The Government Pension Fund (AUM about 1.6 trillion baht, 1.2m members) is adopting a Total Portfolio Approach and seeking legal amendments to let former members and pensioners continue saving with the GPF, with 80-90% interested. The Thai Equity plan returned 34.69% and Foreign Equity 24.19% year-to-date to 16 August 2026."
+    },
+    {
+      "title": "Thailand SEC opens consultation on amending the 1987 Provident Fund Act",
+      "url": "https://new.qq.com/rain/a/20260803A0A7Y400?refer=cp_1009",
+      "source": "Thai Chinese News / SEC",
+      "pubDate": "2026-08-03",
+      "summary": "The Securities and Exchange Commission launched a public consultation on revising the Provident Fund Act 1987 as part of its five-year effectiveness review, closing 2 October 2026. Proposed changes cover default investment portfolios, clearer disclosure and broader member servicing to improve retirement adequacy."
     }
-
   ],
   "TN": [
     {
@@ -4709,8 +4771,14 @@ const NEWS = {
       "source": "Tunisia Online News",
       "pubDate": "2026-02-10",
       "summary": "A draft law submitted by deputies in July 2025 would let private-sector women retire optionally at age 50 after 20 years of CNSS contributions. The proposal resurfaced in 2026 debate, with critics noting the CNSS chronic deficit (1.2 billion dinars in 2024) makes the fiscal cost hard to bear."
+    },
+    {
+      "title": "Tunisia parliament committee to scrutinize draft law letting private-sector women retire at 50",
+      "url": "https://www.tunisiaonlinenews.com/?p=2828/",
+      "source": "Tunisia Online News",
+      "pubDate": "2026-04-16",
+      "summary": "Tunisia's Health and Social Affairs Commission was set to examine draft Law No. 104 of 2025 on 16 April 2026, allowing private-sector women who completed 20 years of contributions to take voluntary early retirement at age 50 without the three-children condition. The CNSS chronic deficit widened to 1.2 billion dinars in 2024 (from 950 million in 2023), raising doubts over the law's financial feasibility."
     }
-
   ],
   "TR": [
     {
@@ -5151,7 +5219,13 @@ const NEWS = {
       "pubDate": "2026-09-10",
       "summary": "The PIT-CNT union urged citizens to back the binding social-security referendum to be held alongside the 27 October 2026 elections. The reform would peg basic pensions to the minimum wage, lower the retirement age from 65 to 60 and re-nationalise pension-fund managers (AFAPs); all main presidential candidates oppose it."
     },
-
+    {
+      "title": "Uruguay's pension-age referendum rattles investors as JP Morgan warns on fiscal sustainability",
+      "url": "https://www.investing.com/news/economy-news/analysisaging-uruguays-vote-to-drop-pension-age-is-rattling-investors-3659309",
+      "source": "Reuters / Investing.com",
+      "pubDate": "2026-09-01",
+      "summary": "Ahead of the binding 27 October 2026 plebiscite, JP Morgan warned that lowering the retirement age to 60, pegging minimum pensions to the minimum wage and nationalising the $23 billion AFAP private pension industry would widen the pension deficit by about $1 billion a year and risk Uruguay's investment-grade rating. The peso has weakened more than 10% against the dollar since April."
+    }
   ],
   "VN": [
     {
