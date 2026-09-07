@@ -1130,6 +1130,13 @@ const NEWS = {
       "source": "Politis (Cyprus)",
       "pubDate": "2026-08-29",
       "summary": "Labour Minister Marinos Mousouttas confirmed the reform bill will go to parliament in September 2026 with the baseline retirement age at 65 and no full abolition of the 12% actuarial reduction for retiring at 63 (only its calculation changes). Mandatory vs voluntary provident-fund enrolment remains disputed; the state will start repaying its Social Insurance Fund debt from 1 January 2028."
+    },
+    {
+      "title": "Cyprus pension reform bill nears parliament: 50,000 pensioners to gain over €100/month",
+      "url": "https://cyprusinsider.cy/en/pensioners-in-cyprus-set-to-receive-significant-pay-boost-under-new-reforms",
+      "source": "Cyprus Insider",
+      "pubDate": "2026-09-01",
+      "summary": "Labour Minister Marinos Moushouttas confirmed the pension-reform bill will reach Parliament in September 2026; about 50,000 pensioners will see monthly payments rise by more than €100, low-income future pensions up to 60% higher, and the early-retirement penalty eased from 12% to 7.5%, with the statutory age of 65 and contribution rates unchanged and first payments from February 2027."
     }
 
   ],
@@ -1391,6 +1398,13 @@ const NEWS = {
       "source": "OECD Economic Surveys: Estonia 2026",
       "pubDate": "2026-03-20",
       "summary": "The OECD's 2026 survey notes Estonia's retirement age (65) is linked to life expectancy, reaching about 71 for a full-career retiree in 2071, and that the 2025 average pension was EUR 817/month (about 40% of the average wage). Around 40% of those over 65 were at risk of poverty — among the highest in the OECD."
+    },
+    {
+      "title": "OECD 2026 survey: Estonia's retirement age to hit about 71 by 2071 as life-expectancy link bites",
+      "url": "https://www.oecd.org/en/publications/oecd-economic-surveys-estonia-2026_2514521c-en/full-report/adapting-government-spending-and-taxation-to-fiscal-pressures-in-an-ageing-estonia_481932a8.html",
+      "source": "OECD",
+      "pubDate": "2026-09-01",
+      "summary": "The OECD's 2026 Estonia survey notes the retirement age (65, linked to life expectancy, capped at +3 months/year) will reach about 71 for a full-career worker retiring in 2071. It flags the first-tier replacement rate falling from 49% to 31% by 2070 and urges stronger voluntary third-pillar saving to lift adequacy."
     }
 
   ],
@@ -1450,6 +1464,13 @@ const NEWS = {
       "source": "State Information Service (Egypt)",
       "pubDate": "2026-06-24",
       "summary": "A presidential decree issued 24 June 2026 raises all pensions by 15% from 1 July 2026, adding to the 2026 social-insurance law (Law 11/2026) that lifted the annual state allocation to NOSI to EGP 238.55 billion and compounds it 6.4% yearly through 2029."
+    },
+    {
+      "title": "Egypt raises all pensions 15% from July 2026, covering 11.5 million",
+      "url": "https://sis.gov.eg/en/presidency/internal-affairs/presidential-decrees/president-el-sisi-issues-decree-increasing-pensions-by-15-as-of-july/",
+      "source": "State Information Service (Egypt)",
+      "pubDate": "2026-06-24",
+      "summary": "President El-Sisi's 24 June 2026 decree lifted all pensions by 15% from 1 July 2026, benefiting about 11.5 million pensioners at an annual cost near EGP 70bn (max increase EGP 2,505). Law 11 of 2026 also reset the state-treasury instalment to the insurance fund to EGP 238.55bn, rising 6.4%/yr then 7%, over 50 years."
     }
   ],
   "ES": [
@@ -1768,6 +1789,13 @@ const NEWS = {
       "source": "InvestmentKit (Ghana guide 2026)",
       "pubDate": "2026-01-10",
       "summary": "Assets under management by NPRA-approved fund managers across Ghana's three-tier scheme surpassed GHS 40 billion in 2026, making pension funds a major investor in local capital markets. The state Tier 1 (SSNIT) paid a 10% pension indexation in January 2026 and lifted the minimum monthly pension to GHS 400, with the 18.5% contribution rate unchanged."
+    },
+    {
+      "title": "SSNIT raises 2026 pensions 10% and minimum to GHS 400",
+      "url": "https://employsome.com/hire/ghana/ssnit-ghana",
+      "source": "Employsome",
+      "pubDate": "2026-01-20",
+      "summary": "In January 2026 SSNIT approved a 10% indexation of monthly pensions and lifted the minimum pension from GHS 300 to GHS 400, with a flat 6% to all pensioners plus a redistributed amount weighted to low incomes; the 18.5% contribution rate was unchanged and 2026 insurable earnings run GHS 587.80-GHS 69,000. Industry assets now exceed GHS 40bn."
     }
 
   ],
@@ -1957,6 +1985,13 @@ const NEWS = {
       "source": "Croatia Week",
       "pubDate": "2026-05-28",
       "summary": "The Croatian government's May 2026 anti-inflation package confirmed that income tax on all pensions will be abolished from January 2027, benefiting more than 540,000 taxpayers at a cost of about €180 million. Critics note the relief mainly helps higher pensions — those below the €600 personal allowance gain nothing — while a new 50% excess-profit tax targets large firms."
+    },
+    {
+      "title": "Croatia's 2026 pension-law tweak lifts minimum pensions, adds service-linked supplement",
+      "url": "https://economy-finance.ec.europa.eu/economic-surveillance-eu-member-states/country-pages/country-report-croatia_en",
+      "source": "European Commission",
+      "pubDate": "2026-06-15",
+      "summary": "The 2026 amendment to Croatia's Pension Insurance Act (parts effective from January 2026) raised the minimum pension, switched indexation to an 85:15 wage/price mix, and introduced an annual supplement linked to years of insurance; a EUROMOD simulation puts the pensioner poverty-risk rate 3.3pp lower. The aggregate replacement ratio was still only 0.37 in 2025 versus the EU's 0.6."
     }
   ],
   "HU": [
@@ -2015,6 +2050,13 @@ const NEWS = {
       "source": "The Budapest Times",
       "pubDate": "2026-02-10",
       "summary": "Prime Minister's Office minister Gergely Gulyás said the average Hungarian pension exceeded 286,000 forint per month in January 2026 once the 13th-month and first 14th-month instalments are counted. He cited a replacement rate of 78% for men and 72.8% for women — above the EU (68%) and OECD (63%/62.4%) averages — alongside the 3.6% January uplift."
+    },
+    {
+      "title": "Analysts warn one in three Hungarian pensioners still near poverty despite 14th-month payout",
+      "url": "https://www.mreast.eu/2026/04/hungarys-elderly-courted-at-the-ballot-box-squeezed-in-everyday-life",
+      "source": "MREAST",
+      "pubDate": "2026-04-20",
+      "summary": "Despite the 2026 14th-month pension and 3.6% rise, analysts note about a third of Hungarian retireers remain near or below the poverty line and roughly a sixth in extreme poverty; public pension spending has fallen from over 11% of GDP around 2008-09 to just above 7%, even as the elderly population grows."
     }
   ],
   "ID": [
@@ -2333,6 +2375,13 @@ const NEWS = {
       "source": "Tryggingastofnun / SIA (Iceland)",
       "pubDate": "2026-08-01",
       "summary": "From 1 August 2026, foreign nationals leaving Iceland are no longer refunded their occupational pension savings (except US, UK, Canadian and EEA/Swiss nationals). All members may still start drawing their pension from age 60, with rights to disability and survivor pensions preserved."
+    },
+    {
+      "title": "Iceland Parliament eases pension-investment rules under Prudent Person Principle",
+      "url": "https://politpro.eu/en/iceland",
+      "source": "PolitPro",
+      "pubDate": "2026-07-15",
+      "summary": "Parliament passed amendments to the 1997 Pension Act on 24 June 2026, giving pension funds more investment freedom under the Prudent Person Principle from mid-July, aiming for higher returns for an ageing population. The change follows January's launch of the old-age age supplement (Act 95/2025) and a roughly 20% rise in the exemption limit."
     }
 
   ],
@@ -2892,6 +2941,13 @@ const NEWS = {
       "source": "Infoerdve / LIPFA",
       "pubDate": "2026-07-15",
       "summary": "After a first-quarter rush, new second-pillar withdrawal requests fell to 7.2% of savers in Q2 2026 from 35.6% in Q1. About 781,000 people remained in the funded pillar holding roughly €5.82 billion, with the average balance up about €700 year-to-date on fund returns; more than 20,000 new saving contracts were signed in H1."
+    },
+    {
+      "title": "Lithuania opens 2026-2027 second-pillar exit window as auto-enrolment ends",
+      "url": "https://madeinvilnius.lt/en/news/Lithuanian-news/Social-Security-explained-what-will-change-in-the-second-pension-pillar-from-2026",
+      "source": "Made in Vilnius",
+      "pubDate": "2026-01-10",
+      "summary": "From 1 January 2026 Lithuania ended automatic enrolment in Pillar II, shifting to voluntary saving with annual reminders; a two-year window (to 31 Dec 2027) lets existing members exit and reclaim contributions plus returns (state/Sodra portions convert to Pillar I units). Mandatory annuity thresholds for 2026 are EUR 16,785-83,925, with the state incentive at EUR 33.49/month."
     }
   ],
   "LU": [
@@ -3009,6 +3065,13 @@ const NEWS = {
       "source": "Ogres Ziņas",
       "pubDate": "2026-06-10",
       "summary": "The Saeima passed, in final reading, amendments to nine laws reforming Latvia's service-pension system from 2027: professions without health-or-life risk are excluded from early retirement, current holders face a six-month annual rise in both minimum age and required service (up to five extra years), prosecutors and judges are removed, and payment caps are unified 10%–20% lower."
+    },
+    {
+      "title": "Latvia opposition launches signature drive to allow early second-pillar withdrawal",
+      "url": "https://eng.lsm.lv/article/politics/politics/06.05.2026-signature-collection-drive-for-pension-withdrawal-plan-can-begin.a645918",
+      "source": "LSM (Latvian Public Media)",
+      "pubDate": "2026-05-06",
+      "summary": "On 6 May 2026 the Central Election Commission cleared a referendum drive by the opposition Latvia First party to let people withdraw or move second-pillar savings before retirement (over €10bn is accumulated); banks, the central bank and the finance ministry oppose it as a risk to sustainability. Separately, from April 2026 working pensioners' benefits are recalculated automatically each 1 April."
     }
   ],
   "MA": [
@@ -3126,6 +3189,13 @@ const NEWS = {
       "source": "Global New Light of Myanmar",
       "pubDate": "2026-05-20",
       "summary": "Myanma Economic Bank said its centralised e-Pension system spanned 190 branches as of May 2026 (up from 185 in February), letting retirees withdraw without fees. Separately, the 85-and-over non-contributory social pension for FY2026–27 will be paid through mobile-transfer systems, at 60,000 kyat a year (about 5,000 a month) — a level citizens criticised as too low."
+    },
+    {
+      "title": "Myanmar e-Pension reaches 190 banks; social pension moves to mobile pay",
+      "url": "https://www.gnlm.com.mm/e-pension-withdrawals-available-across-190-banks-as-of-may-2026/",
+      "source": "Global New Light of Myanmar",
+      "pubDate": "2026-05-10",
+      "summary": "By May 2026 Myanma Economic Bank's centralised e-Pension system covered 190 branches (up from 185 in February) for fee-free cash withdrawals by government pensioners. For 2026-2027 the Social Pension Support Programme pays about 150,000 people aged 85+ K10,000/month via mobile money (KBZ Pay, Wave Pay, AYA Pay) in two half-yearly instalments, registrations closing 31 May 2026."
     }
   ],
   "MN": [
@@ -4898,6 +4968,13 @@ const NEWS = {
       "pubDate": "2026-01-01",
       "summary": "From 1 January 2026 Taiwan mandated foreign professionals into the Labour Pension new system, raised the Labour Insurance old-age annuity claiming age to 65 for those born in 1962 or later, and from 7 July let pure old-system workers voluntarily contribute up to 6%; employers refusing voluntary contributions after 1 August face daily late penalties."
     },
+    {
+      "title": "Taiwan labour pension rules eased: 30-day switch, self-pay protected",
+      "url": "https://jensin.tw/05-labor-pension-2026-amendments",
+      "source": "Jensin Law (Taiwan)",
+      "pubDate": "2026-07-29",
+      "summary": "Taiwan's 2026 amendments to the Labour Pension Act enforcement rules let monthly-pension recipients switch to a lump sum within 30 days of first payment (from 27 March), bar employers from refusing voluntary contributions (from 1 August), and open voluntary contributions for pure old-system workers (from 17 July); the labour-insurance old-age annuity claim age also unified to 65."
+    },
 
   ],
   "TZ": [
@@ -5343,6 +5420,13 @@ const NEWS = {
       "source": "South African Government",
       "pubDate": "2026-02-18",
       "summary": "The 2026 Budget lifted the old age, disability and care-dependency grants by R80 from April 2026 to R2,400/month (ages 60–74) and R2,420 (75+); about 26.5 million people receive social grants. SASSA also tightened biometric and income verification, terminating nearly 35,000 fraudulent grants."
+    },
+    {
+      "title": "Two-pot reform lifts South Africa's stuck 6% comfortable-retirement outlook",
+      "url": "https://www.moneyweb.co.za/news/south-africa/two-pot-reform-lifts-long-stuck-6-comfortable-retirement-outlook",
+      "source": "Moneyweb",
+      "pubDate": "2026-03-20",
+      "summary": "Industry analysts say the two-pot system's ring-fencing of two-thirds of contributions is starting to lift South Africa's decades-long 6% comfortable-retirement rate; NMG Benefits reports retirement contributions rose to R500bn in 2026 (from R360bn in 2016) and the net replacement ratio sits at 30-38%, with tax relief on pension saving raised to 27.5% (cap R430,000/year)."
     }
 
   ]
