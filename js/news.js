@@ -1587,7 +1587,15 @@ const NEWS = {
         "source": "European Pensions",
         "pubDate": "2026-06-16",
         "summary": "Signed by President Stubb on 16 June, the reform lowers the solvency limit for pension insurers by about one-third, lets them take more investment risk and borrow for real estate, adds an index cap from 2030, and from 2027 sets aside 0.5pp of accrued pensions for funding; the package is worth about €2bn to public finances."
+    },
+    {
+        "title": "Finland earnings-related pension assets top EUR300 billion for the first time in Q2 2026",
+        "url": "https://www.tela.fi/en/2026/09/04/earnings-related-pension-providers-investment-work-bears-fruit-pension-assets-exceed-the-eur-300-billion-mark",
+        "source": "TELA",
+        "pubDate": "2026-09-04",
+        "summary": "Earnings-related pension assets exceeded EUR300 billion (EUR300.2bn) at end-Q2 2026, up EUR16bn in the quarter, with a 6.2% nominal (4.2% real) return in H1; the 1 July 2026 reform relaxed investment limits, lifting the equity allocation target toward about 70%."
     }
+
   ],
   "FR": [
     {
@@ -2180,7 +2188,15 @@ const NEWS = {
       "source": "Government of Ireland",
       "pubDate": "2026-07-15",
       "summary": "The Department of Social Protection reported over 763,000 employees across about 104,000 employers had been automatically enrolled in MyFutureFund since its 1 January 2026 launch, with more than EUR60 million invested through the three contracted investment managers and over 40,000 customer engagements handled."
+    },
+    {
+        "title": "CCPC study shows Irish pension ownership up 17% since 2025 as MyFutureFund tops 835,000",
+        "url": "https://www.gov.ie/en/department-of-social-protection/press-releases/new-research-published-by-ccpc-reveals-that-pension-ownership-has-risen-by-17-since-2025/",
+        "source": "Department of Social Protection (gov.ie)",
+        "pubDate": "2026-09-09",
+        "summary": "New CCPC research finds pension ownership in Ireland has risen by 17% since 2025, driven by the auto-enrolment MyFutureFund which now has over 835,000 participants and more than EUR500m in contributions; the first opt-out window in July-August saw fewer than 4% of savers leave."
     }
+
   ],
   "IL": [
     {
@@ -2637,7 +2653,15 @@ const NEWS = {
       "source": "Kampuchea Thmey",
       "pubDate": "2026-02-23",
       "summary": "At its 2025 Annual Review and 2026 Direction Setting meeting, Labour Minister Heng Sour said Cambodia's NSSF had grown to more than 3.5 million members (nearly 2 million women) across close to 30,000 enterprises, with 1,617 partner health facilities and over 8 million healthcare visits. Officials highlighted digital contribution and payment systems and expansion toward voluntary members' families."
+    },
+    {
+        "title": "Cambodia to require all Labour-Law firms to pay 4% pension from 1 October 2026",
+        "url": "https://www.phnompenhpost.com/national-post-depth/understanding-new-pension-system",
+        "source": "The Phnom Penh Post",
+        "pubDate": "2026-09-02",
+        "summary": "From 1 October 2026, all enterprises governed by the Labour Law must contribute 4% of wages to the pension scheme (2% employer and 2% employee), NSSF deputy director-general Heng Sophannarith said; the rollout follows the voluntary self-employed plan that drew over 24,000 registrations by August 2025."
     }
+
   ],
   "KR": [
         {
@@ -2825,7 +2849,15 @@ const NEWS = {
       "source": "Enbekshi Qazaq",
       "pubDate": "2026-09-01",
       "summary": "UAPF pension savings reached 28.35 trillion tenge as of 1 August 2026 (up 14.1% year-on-year) across 18.89 million accounts. Employer compulsory pension contributions (ECPC), booked since January 2024, rose to 1,273.93 billion tenge — 2.5 times the year-earlier level — while old-age payments averaged 38,993 tenge a month."
+    },
+    {
+        "title": "Kazakhstan pension savings reach 28.09 trillion tenge in July 2026 as employer contributions surge",
+        "url": "https://www.gov.kz/memleket/entities/abay-kokpekti/press/news/details/1265250?lang=ru",
+        "source": "gov.kz",
+        "pubDate": "2026-07-01",
+        "summary": "UAPF reported pension savings of 28.09 trillion tenge as of 1 July 2026 (up 17.0% year-on-year) across 18.78 million accounts; the employer mandatory contribution (ECPC) balance reached 117.522 billion tenge, about 2.5 times a year earlier, as the new Tax Code took effect in 2026."
     }
+
   ],
   "LK": [
         {
@@ -2883,7 +2915,15 @@ const NEWS = {
       "source": "Lanka News",
       "pubDate": "2026-02-12",
       "summary": "The proposal to convert the EPF lump sum into a monthly pension drew sharp criticism in 2026: unions said they were not formally consulted, and analysts warned moving EPF and ETF management from the Central Bank to the Treasury risks political use and a repeat of the failed 2011 attempt. Advocates urge an optional, independently regulated scheme."
+    },
+    {
+        "title": "Sri Lanka studies converting EPF lump-sum payouts into monthly private-sector pensions",
+        "url": "https://island.lk/govt-exploring-possibility-of-converting-epf-benefits-into-private-sector-pensions/",
+        "source": "The Island",
+        "pubDate": "2026-01-06",
+        "summary": "Deputy Minister of Labour Mahinda Jayasinghe said the government is studying converting Employees Provident Fund lump-sum benefits into regular monthly annuities or private-sector pensions, keeping the lump-sum option; the plan revives a 2011 debate over worker control and Treasury governance."
     }
+
   ],
   "LT": [
         {
@@ -3254,7 +3294,15 @@ const NEWS = {
       "source": "MongolBeat",
       "pubDate": "2026-07-02",
       "summary": "Parliament approved amendments to the General Law on Social Insurance with about 85% support, creating a three-pillar model. From 1 January 2027 pensions rise by 100,000–300,000 tugrik by contribution years; from 2033 payouts use a 10-year average wage; a voluntary savings pillar offers a 50% state match on an extra 1% contribution for up to 120 months."
+    },
+    {
+        "title": "Mongolia to raise basic pensions by 100,000-300,000 tugrik from 1 November 2026",
+        "url": "https://www.aryanews.com/en/News/120260824054902865/Basic-pensions-for-Mongolia%E2%80%99s-senior-citizens-to-increase-from-Nov-1",
+        "source": "Arya News",
+        "pubDate": "2026-08-20",
+        "summary": "Prime Minister N.Uchral announced that from 1 November 2026 Mongolia basic pension will rise by 100,000-300,000 tugrik, benefiting about 435,000 elderly at a cost of roughly 1.2 trillion tugrik; average monthly pensions are projected to climb from about 955,000 to 1.19 million tugrik."
     }
+
   ],
   "MT": [
     {
@@ -3312,7 +3360,15 @@ const NEWS = {
       "source": "The Malta Independent",
       "pubDate": "2026-06-23",
       "summary": "Following the 2025 Strategic Pensions Report consultation, the government ruled out raising the retirement age or contribution rates and pledged a €50 weekly pension increase over the legislature. From next year widows' pensions will equal what a spouse would have received had they still been alive, and by 2028 the maximum pensionable income threshold will be equalised for all pensioners regardless of birth year."
+    },
+    {
+        "title": "Malta first-half social security spending rises 10.3% to EUR946.1m as pensions drive costs",
+        "url": "https://themalteseherald.com/2026/07/24/social-security-expenditure-rises-by-e88-3-million-as-pensions-continue-to-drive-government-spending/",
+        "source": "The Maltese Herald",
+        "pubDate": "2026-07-24",
+        "summary": "Malta social security expenditure reached EUR946.1 million in the first half of 2026, up 10.3% year-on-year, with retirement pension spending rising by EUR42.2 million; the number of contributory pension recipients grew to 100,173 and the 2026 budget added EUR10 per week to pensions."
     }
+
 
   ],
   "MX": [
@@ -3436,7 +3492,15 @@ const NEWS = {
       "source": "WeirdKaya / Newswav",
       "pubDate": "2026-08-15",
       "summary": "EPF earned RM57.5 billion in investment income in H1 2026, up 48% year-on-year, with equities contributing RM41.28 billion and overseas assets about 60% of total income. The 2026 dividend is due around February 2027; flexible-account (Akaun Fleksibel) withdrawals continue to weigh on the dividend base."
+    },
+    {
+        "title": "Malaysia 24-hour SOCSO cover (Lindung 24 Jam) made voluntary for locals, stays mandatory for foreign workers",
+        "url": "https://bispointgroup.com/blogs/socso-lindung-24-jam-skbbk-employee-guide-2026",
+        "source": "Bispoint Group",
+        "pubDate": "2026-07-09",
+        "summary": "Malaysia Skim Lindung 24 Jam (SKBBK), a 24-hour non-work accident cover under SOCSO effective 1 June 2026, was made voluntary for Malaysian employees from 8 July 2026 while remaining mandatory for foreign workers; the employee-funded Phase 1 rate is 0.75% of monthly wages (RM6,000 ceiling). Foreign-worker EPF contributions also became mandatory at 2% each from October 2025."
     }
+
   ],
   "NG": [
     {
@@ -4848,7 +4912,15 @@ const NEWS = {
       "source": "Tunisia Online News",
       "pubDate": "2026-04-16",
       "summary": "Tunisia's Health and Social Affairs Commission was set to examine draft Law No. 104 of 2025 on 16 April 2026, allowing private-sector women who completed 20 years of contributions to take voluntary early retirement at age 50 without the three-children condition. The CNSS chronic deficit widened to 1.2 billion dinars in 2024 (from 950 million in 2023), raising doubts over the law's financial feasibility."
+    },
+    {
+        "title": "Tunisia reopens social security reform on 18 August 2026, eyeing informal and platform workers",
+        "url": "https://trovit.tn/news/projet-de-reforme-de-la-securite-sociale-un-chantier-a-double-tranchant-pour-lentrepreneuriat",
+        "source": "Trovit News",
+        "pubDate": "2026-08-18",
+        "summary": "On 18 August 2026 the Tunisian government reopened its social security reform at the Kasbah, tasking ministers with drafting modernization texts; the multi-pillar plan would extend coverage to informal workers, farmers, the self-employed and digital platform workers, with pensions to be reformed step by step."
     }
+
   ],
   "TR": [
     {
@@ -4907,7 +4979,15 @@ const NEWS = {
       "source": "Haberler.com",
       "pubDate": "2026-07-22",
       "summary": "Following TÜİK's 17.76% first-half-2026 inflation figure, SSK and Bağ-Kur retirees received a 17.76% raise and parliament approved lifting the minimum pension from 20,000 to 23,552 lira (about $500), benefiting some 5.1 million retirees at a budget cost of roughly 79 billion lira ($1.68 billion) for H2 2026; increased payments landed 17–28 July by allocation number."
+    },
+    {
+        "title": "Turkey mandatory TES supplementary pension stalls as no bill reaches parliament, burden feared at 44.75%",
+        "url": "https://en.haberler.com/it-concerned-millions-the-new-era-in-retirement-2305631/",
+        "source": "Haberler.com",
+        "pubDate": "2026-08-29",
+        "summary": "Turkey planned mandatory Complementary Pension System (TES) faces an uncertain 2026 timeline as no draft law has reached parliament; experts warn a 3% employee plus 3% employer contribution could lift the total premium burden to 44.75%, while unions rebut claims that severance pay would be scrapped."
     }
+
 
   ],
   "TW": [
@@ -5302,7 +5382,15 @@ const NEWS = {
       "source": "Reuters / Investing.com",
       "pubDate": "2026-09-01",
       "summary": "Ahead of the binding 27 October 2026 plebiscite, JP Morgan warned that lowering the retirement age to 60, pegging minimum pensions to the minimum wage and nationalising the $23 billion AFAP private pension industry would widen the pension deficit by about $1 billion a year and risk Uruguay's investment-grade rating. The peso has weakened more than 10% against the dollar since April."
+    },
+    {
+        "title": "Uruguay pension-age referendum nears as polls slip to 42-47% and JP Morgan flags fiscal risk",
+        "url": "https://www.investing.com/news/economy-news/analysisaging-uruguays-vote-to-drop-pension-age-is-rattling-investors-3659309",
+        "source": "Investing.com / Reuters",
+        "pubDate": "2026-09-10",
+        "summary": "Ahead of the binding 27 October 2026 social-security referendum, support has slipped from near 60% in May to about 42-47%; JP Morgan warns cutting the retirement age to 60 would add roughly USD1 billion a year and about USD3 billion overall (4% of GDP), while the PIT-CNT union urges a yes vote."
     }
+
   ],
   "VN": [
     {
@@ -5362,6 +5450,14 @@ const NEWS = {
       "pubDate": "2026-06-01",
       "summary": "Under Decree 85/2026/ND-CP, only four fund managers were licensed by end-2025 (Dragon Capital, SSI, MB Capital, Vietcombank) running seven funds with VND2.2 trillion in assets and about 28,600 participants. A draft personal-income-tax amendment proposes raising the deductible contribution limit from VND1 million to VND3 million per month to widen take-up."
     },
+    {
+        "title": "Vietnam supplementary pension pillar grows under Decree 85/2026 with 7 funds and 28,538 members",
+        "url": "https://www.vietnam.vn/en/huu-tri-bo-sung-mo-rong-tru-cot-an-sinh-tang-lua-chon-cho-nguoi-lao-dong",
+        "source": "Vietnam.vn",
+        "pubDate": "2026-08-15",
+        "summary": "Under Decree 85/2026/ND-CP, Vietnam voluntary supplementary pension pillar now has 7 licensed fund managers serving 28,538 members with nearly VND221 billion in net assets (up 53% year-on-year); the decree allows investment in listed securities and lowers the government-bond floor to 40%."
+    }
+,
 
   ],
   "ZA": [
