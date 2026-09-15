@@ -1529,6 +1529,13 @@ const NEWS = {
         "source": "La Moncloa (Govt of Spain)",
         "pubDate": "2026-02-10",
         "summary": "A Royal Decree-Law approved on 3 February 2026 revalues contributory pensions by 2.7% (about €570 more per year for an average pension), raises minimum pensions by over 7% and non-contributory benefits by 11.4%, and extends early-retirement rules for firefighters and GPs."
+    },
+    {
+      "title": "Spain's 2026 pension overhaul lifts standard retirement age to 66 years and 10 months",
+      "url": "https://www.as.com/economia/",
+      "source": "AS (Spain)",
+      "pubDate": "2026-01-12",
+      "summary": "From 1 January 2026 Spain's ordinary retirement age rose to 66 years and 10 months (65 for those with 38 years and 3 months of contributions), while a dual-track calculation picks the better of the traditional 25-year base and a 304-month base, transitioning toward 29 years by 2037; the Intergenerational Equity Mechanism contribution edged up to 0.9%."
     }
   ],
   "FI": [
@@ -2457,6 +2464,13 @@ const NEWS = {
         "source": "Professione Lavoro",
         "pubDate": "2026-01-10",
         "summary": "Under the 2026 Budget Law all pensions were revalued by 1.4% from January 2026 based on the provisional CPI, safeguarding purchasing power; full adjustment applies to benefits up to four times the minimum, while Quota 103 and Opzione Donna ended for new claimants."
+    },
+    {
+      "title": "Italy extends APE Sociale early pension to end-2026 and auto-enrols new hires' TFR",
+      "url": "https://www.familybanker.it",
+      "source": "Family Banker",
+      "pubDate": "2026-07-08",
+      "summary": "The 2026 budget keeps the social early pension (APE Sociale) open until 31 December 2026 for workers aged 63 years 5 months with 30 years of contributions, and from 1 July 2026 new employees who do not opt out have their severance pay (TFR) channelled into a supplementary pension fund, with the personal TFR slice enjoying a tax-free allowance of up to about 5,300 euros."
     }
   ],
   "JP": [
@@ -2791,6 +2805,13 @@ const NEWS = {
         "source": "MGCG",
         "pubDate": "2026-05-20",
         "summary": "In May 2026 all six GCC social-security authorities ran a simultaneous campaign on the Unified Extension Protection System, confirming cross-border Gulf nationals stay in their home pension scheme with host employers collecting at home-country rates; late contributions now trigger automatic penalties (e.g. UAE 0.1%/day)."
+    },
+    {
+      "title": "Kuwait's PIFSS keeps contribution rates steady as parliament stalls retirement-age hike",
+      "url": "https://www.mgcg.co",
+      "source": "MGCD (GCC Pensions)",
+      "pubDate": "2026-05-20",
+      "summary": "Kuwait's Public Institution for Social Security (PIFSS) reaffirmed employees contribute 8% plus a 2.5% supplementary and employers 11.5%, while a proposed rise of the normal retirement age to 60 remains stuck in parliament committee; under the GCC Umbrella framework launched in May 2026, Kuwaiti workers abroad contribute at PIFSS rates with late-payment penalties."
     }
   ],
   "KZ": [
@@ -3046,6 +3067,13 @@ const NEWS = {
         "source": "RTL Today",
         "pubDate": "2026-07-30",
         "summary": "CNAP president Alain Reuter said the December reforms (contribution rate raised to 25.5%) push the 'wall'—when reserves fall to 1.5× annual spending—from 2036–37 to 2040–41, but reserves of €32bn (4.24× spending) remain the lowest since 2013 and the structural demographic imbalance is unresolved."
+    },
+    {
+      "title": "Luxembourg CNAP warns 2026 reform buys only about four years of solvency",
+      "url": "https://www.luxtimes.lu",
+      "source": "Luxembourg Times",
+      "pubDate": "2026-07-15",
+      "summary": "Luxembourg's pension reserve stood at about 32 billion euros (4.24 times annual outlays) after the 1 January 2026 reform lifted the contribution rate to 25.5% and introduced gradual (half-retirement) pensions, but CNAP cautioned the fund covers only until around 2040-41 and uptake of the new gradual pension remains low."
     }
 
   ],
@@ -3170,6 +3198,13 @@ const NEWS = {
         "source": "Morocco World News",
         "pubDate": "2026-08-18",
         "summary": "The Head of Government issued Circular 8/2026 to streamline retirement and survivor-pension files at the Caisse Marocaine des Retraites, cutting required documents via inter-agency data exchange as part of the CMR's 2025–2027 digitalisation plan; implementation is gradual."
+    },
+    {
+      "title": "Morocco's 2026 pension reform heads to parliament after four years of talks",
+      "url": "https://www.wafir.ma",
+      "source": "Wafir (Morocco)",
+      "pubDate": "2026-05-12",
+      "summary": "Unveiled on 12 May 2026, Morocco's overhaul gradually lifts the CNSS retirement age from 60 to 63 by 2032, raises CNSS pensions 8% over three years and creates a National Retirement Organisation unifying CNSS, CMR and RCAR; the bill is expected before parliament around October 2026 with a planned 1 January 2027 start, as CNSS's technical deficit reached 4.8 billion dirhams."
     }
 
   ],
@@ -3689,6 +3724,13 @@ const NEWS = {
         "source": "European Pensions",
         "pubDate": "2026-04-24",
         "summary": "The Storting passed changes to the Foretakspensjonsloven and Insurance Activity Act letting providers of about 600,000 fripoliser (paid-up policies) adopt longer-horizon, higher-risk strategies via 'borrowed equity' while keeping guarantees; Storebrand called it long-awaited relief from over-cautious rules."
+    },
+    {
+      "title": "Record 19,500 Norwegians began drawing pensions in Q1 2026",
+      "url": "https://www.europeanpensions.net",
+      "source": "European Pensions",
+      "pubDate": "2026-04-22",
+      "summary": "Driven by 2011 and 2018 reforms lifting employment among the over-62s, a record 19,500 people started Norwegian pension drawdown in the first quarter of 2026, the highest single quarter since 2012; from 1 May 2026 the minimum pension level rises by an extra 8,000 kroner a year (effective September, backdated to May)."
     }
   ],
   "NP": [
@@ -4212,6 +4254,13 @@ const NEWS = {
         "source": "The Portugal Post",
         "pubDate": "2026-05-28",
         "summary": "With the 2026 statutory age at 66 years 9 months (67y11m in 2027) and the sustainability factor at 17.63%, Chega leader André Ventura made lowering the age to 65 a condition for backing labour reform, drawing PSD warnings that it would endanger the pay-as-you-go system's solvency."
+    },
+    {
+      "title": "Portugal's Bravo expert panel urges unified indexation and auto-enrolment occupational pensions",
+      "url": "https://www.theportugalbrief.pt",
+      "source": "The Portugal Brief",
+      "pubDate": "2026-08-19",
+      "summary": "The expert group led by Jorge Bravo published its final report on 19 August 2026 recommending all pensions be at least inflation-indexed, a personal retail-bond top-up and an opt-out auto-enrolled occupational pension, while the 2026 sustainability factor penalty rose to 17.63% (factor 0.8307); the government excluded structural reform this legislature."
     }
   ],
   "QA": [
@@ -4270,6 +4319,13 @@ const NEWS = {
         "source": "Qatar Day",
         "pubDate": "2026-03-15",
         "summary": "The 2022 reform creating a unified national pension fund is being rolled out sector by sector; qualifying expatriates are starting to accrue funded entitlements alongside the end-of-service gratuity, while the Wage Protection System tightens to secure settlements."
+    },
+    {
+      "title": "Qatar's Daman rolls out renamed pension body under 2026 reform roadmap",
+      "url": "https://www.mondaq.com",
+      "source": "Mondaq",
+      "pubDate": "2026-05-18",
+      "summary": "Qatar's General Retirement and Social Insurance Authority was rebranded 'Daman' in 2026 with an AI assistant 'Sara' and the Al Safwa premium service; nationals contribute 21% (7% employee, 14% employer) under the phased reform, expatriates remain excluded from the contributory scheme, and the GCC Umbrella campaign launched in May 2026 strengthens cross-Gulf portability for Qatari workers."
     }
   ],
   "RO": [
@@ -4525,6 +4581,13 @@ const NEWS = {
         "source": "Ajel",
         "pubDate": "2026-08-25",
         "summary": "GOSI fixed pension payments for the rest of 2026 on the first day of each month (1 Sep, 1 Oct, 1 Nov, 1 Dec) for civil, military and social-insurance beneficiaries; dependent supplements are 10% (one), 15% (two) and 20% (three or more), counted only on service before 1 Jan 2001."
+    },
+    {
+      "title": "Saudi GOSI lifts new-entrant contribution rate to 23.5% from July 2026",
+      "url": "https://www.gulfhr.ae",
+      "source": "Gulf HR",
+      "pubDate": "2026-07-01",
+      "summary": "Under Royal Decree M/273, Saudi Arabia raised the new-system contribution rate for citizens to 23.5% (12.75% employer, 10.75% employee) from 1 July 2026, heading toward 11%/11% by 2028, while expatriates remain on the 2% occupational-hazard branch; industry estimates put the social-insurance fund's actuarial gap at about 800 billion riyals."
     }
   ],
   "SE": [
@@ -4583,6 +4646,13 @@ const NEWS = {
         "source": "Sweden Herald",
         "pubDate": "2026-01-05",
         "summary": "From 1 January 2026 the standard age rises to 67 (lowest age to draw income pension becomes 64, three years before), and income and supplementary pensions increase 1.9% while the guarantee pension rises 0.7%; the standard age is set to climb toward 70 for the late-1990s cohorts."
+    },
+    {
+      "title": "Sweden's AP buffer funds return 7.8% in H1 2026 after merger to three funds",
+      "url": "https://www.ipe.com",
+      "source": "IPE (Investment & Pensions Europe)",
+      "pubDate": "2026-08-25",
+      "summary": "Following the 1 January 2026 merger from six to three AP buffer funds, Sweden's AP2, AP3 and AP4 posted a 7.8% return in the first half of 2026, contributing SEK 167 billion and lifting buffer capital to about SEK 2.388 trillion, underpinning the pay-as-you-go income-pension system."
     }
   ],
   "SG": [
@@ -5114,6 +5184,13 @@ const NEWS = {
         "source": "Vellum Tanzania",
         "pubDate": "2026-02-20",
         "summary": "By December 2025 over 500,000 self-employed Tanzanians had enrolled in the Hifadhi Scheme launched under the NSSF, aiming for 5.5 million by June 2031; flexible contributions via mobile money target informal workers long outside the social-security system."
+    },
+    {
+      "title": "Tanzania's NSSF targets 3.7 million self-employed via digital Hifadhi drive",
+      "url": "https://www.tanzaniainsight.com",
+      "source": "Tanzania Insight",
+      "pubDate": "2026-03-10",
+      "summary": "Tanzania's NSSF aims to register 3.7 million self-employed people (about 85% of the labour force, or 20.98 million) under the Hifadhi scheme by June 2031, with a minimum monthly contribution of TZS 30,000 handled via mobile platforms, extending social protection to the vast informal economy."
     },
 
   ],
