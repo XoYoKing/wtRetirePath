@@ -526,6 +526,14 @@ const NEWS = {
       "pubDate": "2026-09-01",
       "summary": "Civil servants' personal pension contributions move from an 80:20 to a 60:40 employee:employer split from 1 January 2027, after an interim 80:20 arrangement from 1 August 2026, as the 2026 budget tightens thresholds while keeping retirement ages unchanged.",
     },
+    {
+      "title": "Bulgaria adopts 2026 social security budget; pensions indexed 7–8% as euro adoption takes effect",
+      "url": "https://www.parliament.bg/en/news/ID/6596",
+      "source": "National Assembly of Bulgaria",
+      "pubDate": "2026-01-01",
+      "summary": "Bulgaria entered the euro area on 1 January 2026, switching all social-security contributions and pensions to euros. The 2026 budget indexes all pre-2026 pensions by 7–8% under the 'Swiss rule' from 1 July, lifts the average pension to about €541, sets the minimum at €347.51 and the maximum at €1,738.40, and steps retirement ages to 62y6m/36y10m (women) and 64y9m/39y10m (men)."
+    }
+,
 
   ],
   "BH": [
@@ -592,6 +600,14 @@ const NEWS = {
       "pubDate": "2026-05-15",
       "summary": "Bahrain enacted Law (11) of 2026 for GCC-unified social insurance and raised the employer contribution by 1 percentage point from 1 January 2026 to 18% (total 22%); a proposal for voluntary insurance for housewives (Article 44 bis) is also under consideration.",
     },
+    {
+      "title": "Bahrain lifts employer social-insurance contribution to 18% in 2026 under phased 2022 reform",
+      "url": "https://taxonimo.com/taxes/bahrain/social-security",
+      "source": "Taxonimo",
+      "pubDate": "2026-01-01",
+      "summary": "Under Law 14 of 2022, the employer's SIO pension contribution for Bahraini private-sector staff rose one percentage point to 18% in January 2026 and steps to 20% by 2028, while the employee share stays at 8% (7% pension + 1% unemployment). Expatriates' end-of-service benefit is now remitted monthly to the SIO at 4.2% (first 3 years) or 8.4% of wage."
+    }
+,
 
   ],
   "BR": [
@@ -731,6 +747,14 @@ const NEWS = {
       "pubDate": "2026-03-20",
       "summary": "Finance Minister Ndaba Gaolathe cautioned there is no fiscal space yet to raise the Old Age Pension to P1,800 or lower the eligibility age from 65 to 60, tempering expectations after earlier pledges while the BPOPF continues to support the scheme.",
     },
+    {
+      "title": "Botswana keeps old-age pension at P1,400 in 2026/27 budget while pledging rise to P1,800",
+      "url": "https://www.africa-press.net/botswana?p=79160",
+      "source": "Africa-Press",
+      "pubDate": "2026-01-01",
+      "summary": "The 2026/27 budget holds the universal Old Age Pension at P1,400 a month for citizens aged 65+, with the government reaffirming a future rise to P1,800 and lowering the eligibility age to 60 'when finances allow'. A new P300 monthly child-support grant starts in April 2026 (backdated to 1 April), and cumulative old-age payouts reached about P2.56 billion over the past 12 months."
+    }
+,
 
   ],
   "CA": [
@@ -869,7 +893,15 @@ const NEWS = {
       "source": "Swiss Federal Chancellery",
       "pubDate": "2026-09-28",
       "summary": "In a nationwide vote on 28 September 2026, 74.7% of Swiss voters rejected a proposal to raise the standard retirement age from 65 to 66, keeping the current age unchanged. Attention now turns to the AHV 2030 financing reform and the first payment of the 13th AHV pension in December 2026."
+    },
+    {
+      "title": "Switzerland to pay first 13th AHV pension in December 2026 as women's reference age hits 64½",
+      "url": "https://www.srb.ch/key-figures-social-insurance-2026",
+      "source": "Swiss Reinsurance Company (SRB)",
+      "pubDate": "2026-01-01",
+      "summary": "Under AHV 21, the 13th AHV old-age pension is introduced from December 2026, women's reference age rises by three months to 64 years and 6 months in 2026 (65 for both sexes from 2028), and the BVG minimum interest rate holds at 1.25% for 2026 while AHV/IV/EO contribution rates stay unchanged at 10.6%."
     }
+
 
   ],
   "CL": [
@@ -935,7 +967,15 @@ const NEWS = {
       "source": "Latin Counsel",
       "pubDate": "2026-03-26",
       "summary": "One year after publication of Law 21.735, all implementing decrees were due by 26 March 2026, the FAPP regulatory framework and investment regime are set for mid-2026, and the ten generational (target-date) funds replace the current A-E multi-funds from 1 April 2027, with the first AFP account tenders for future retirees in late 2027."
+    },
+    {
+      "title": "Chile steps employer pension contribution to 3.5% from August 2026 under Law 21.735",
+      "url": "https://amr-auditores.cl/en/reforma-previsional-nueva-etapa-de-implementacion-de-la-ley-n-21-735-comienza-con-las-remuneraciones-de-agosto-de-2026/",
+      "source": "AMR Contadores Auditores",
+      "pubDate": "2026-08-01",
+      "summary": "From August 2026 remunerations the employer's additional pension contribution under Law 21.735 rises from 1% to 3.5% (0.1% to the individual AFP account, 0.9% to the new Protected-Return Contribution, 2.5% to the Autonomous Pension Protection Fund). The Disability and Survivors Insurance (SIS) rate moved to 2.0% from July 2026 salaries, and the new social-insurance old-age pension pays 0.1 UF per contributory year (max 2.5 UF) to those aged 65 with 20 (men)/10 (women) years of contributions."
     }
+
   ],
   "CN": [
     {
@@ -1072,7 +1112,15 @@ const NEWS = {
       "source": "El Pais (Colombia)",
       "pubDate": "2026-08-26",
       "summary": "The Court confirmed unchanged retirement ages (57 women / 62 men), the 16% contribution and the four-pillar design, while sending articles 14, 19, 36 and 92 back to Congress; about 150,000 affiliates used the 'opportunity window' to switch regimes, involving more than 27 trillion pesos still subject to Council of State litigation."
+    },
+    {
+      "title": "Colombia's Constitutional Court upholds 2024 pension reform; four-pillar system starts 1 April 2027",
+      "url": "https://www.riotimesonline.com/colombia-pension-reform-savings-shield-nine-articles-congress-2026",
+      "source": "The Rio Times",
+      "pubDate": "2026-08-26",
+      "summary": "On 25 August 2026 the Constitutional Court upheld most of Law 2381 of 2024 by seven votes to one, shielding individual savings as private property and setting entry into force for the upheld articles at 1 April 2027. A Banco de la República fund will manage affiliates' resources, while the opposition (Centro Democrático / Uribe) drafted a counter-reform proposing to close Colpensiones to new members and let private funds manage about COP 550 trillion (US$173.5bn) in savings."
     }
+
   ],
   "CY": [
     {
@@ -1203,7 +1251,15 @@ const NEWS = {
       "source": "Radio Prague International",
       "pubDate": "2026-01-01",
       "summary": "A pension-reform bill would let workers in demanding professions (e.g. blacksmiths, foresters, welders, glassmakers) retire up to five years early without penalty; about 120,000 people qualify, with each 2,200 hazardous shifts easing retirement by a year, and employers paying 5% higher social-security contributions."
+    },
+    {
+      "title": "Czech government lifts average pension by CZK 668 a month from January 2026",
+      "url": "https://gnews.cz/en/the-government-of-the-czech-republic-has-decided-to-increase-the-average-monthly-pension-by-668-crowns-from-january",
+      "source": "General News CZ",
+      "pubDate": "2025-09-24",
+      "summary": "From 1 January 2026 the average self-funded pension rises CZK 668 a month (3.1%): the flat component increases CZK 240 and the earnings-related part 2.6%. The minimum old-age pension climbs to CZK 9,800, and newly granted pensions begin growing more slowly as the 2024 reform phases in (income-credit rate easing from 100% toward 90% by 2035)."
     }
+
   ],
   "DE": [
     {
@@ -1340,7 +1396,15 @@ const NEWS = {
       "source": "Faglige Seniorer",
       "pubDate": "2025-12-15",
       "summary": "Since the 2023 rule ended the clawback of earnings against the folkepension, the number of seniors in work has risen about 30%; for the first time more than 100,000 Danes work past pension age, and parliament has raised the senior premium from the year's turn to further reward deferred retirement."
+    },
+    {
+      "title": "Denmark raises folkepension 4.8% in 2026 and PM pledges extra DKK 1,000 a month for poorest",
+      "url": "https://www.denoffentlige.dk/?p=102547",
+      "source": "DenOffentlige.dk",
+      "pubDate": "2026-08-19",
+      "summary": "The 2026 folkepension rose 4.8%, the largest increase in 16 years, lifting a single pensioner's total to up to DKK 16,273 a month before tax; the tax-free senior premium was raised to DKK 53,901 (year one) and DKK 32,074 (year two). At an 19 August 2026 press conference the government pledged an extra DKK 1,000 a month for folkepensioners with the least income."
     }
+
   ],
   "EE": [
     {
@@ -1877,7 +1941,15 @@ const NEWS = {
       "source": "To Vima",
       "pubDate": "2026-06-15",
       "summary": "EFKA data show women file about 70% of new retirement applications in 2026, many retiring at 58–61 with reduced pensions under decades-old 'mothers of minors' exemptions that remain on the books even after the general age rose to 62. The pattern is a major driver of the record application surge."
+    },
+    {
+      "title": "Greece grants 2.4% pension increase to 2.5 million retirees in January 2026; EAS threshold rises",
+      "url": "https://indicator.gr/higher-pensions-through-5-key-reforms-addressing-injustices-and-incentivizing-work",
+      "source": "The Indicator",
+      "pubDate": "2026-01-01",
+      "summary": "About 2.5 million Greek pensioners received a 2.4% increase paid early in December 2025, with the EAS solidarity contribution threshold indexed up to €1,469.85. A new personal-difference mechanism lets more than 670,000 retirees receive a real increase for the first time, and an annual €300 supplement is paid each November to roughly 1.87 million vulnerable citizens."
     }
+
   ],
   "HK": [
     {
@@ -2137,7 +2209,15 @@ const NEWS = {
       "source": "OJK",
       "pubDate": "2026-07-27",
       "summary": "OJK's July 2026 board meeting showed total pension-fund assets of IDR1,680.57 trillion as of June 2026, up 6.47% year-on-year; mandatory programs (BPJS Ketenagakerjaan, civil servants) reached IDR1,273.24 trillion (+7.26%) and voluntary programs IDR407.33 trillion (+4.06%)."
+    },
+    {
+      "title": "Indonesia raises pension retirement age to 59 and lifts contribution wage ceiling for 2026",
+      "url": "https://en.tempo.co/amp/1962312/gradual-retirement-age-increase-indonesian-workers-now-retire-at-59",
+      "source": "Tempo",
+      "pubDate": "2026-03-01",
+      "summary": "BPJS Ketenagakerjaan raised the Jaminan Pensiun retirement age from 58 to 59 under Government Regulation 45/2015, part of a path that began at 56 in 2015 and adds one year every three years toward 65 by 2043. From the March 2026 contribution period the wage ceiling is IDR 11,086,300 and monthly benefits range IDR 411,400–4,932,300."
     }
+
   ],
   "IE": [
     {
@@ -2268,7 +2348,15 @@ const NEWS = {
       "source": "The Times of Israel",
       "pubDate": "2026-03-29",
       "summary": "Finance Minister Bezalel Smotrich dismissed reports that Israel plans to gradually raise the retirement age to 70 as part of a 2027-2032 multi-year economic plan, saying 'the issue is not on the agenda.' Officials said the idea remains in a long-term contingency plan; the statutory retirement age stays at 67 for men and 62-65 for women by birth year."
+    },
+    {
+      "title": "Israeli finance minister rules out raising retirement age to 70 under 2027–2032 plan",
+      "url": "https://legalclarity.org/retirement-age-in-israel-men-women-and-pensions",
+      "source": "LegalClarity",
+      "pubDate": "2026-03-29",
+      "summary": "Finance Minister Bezalel Smotrich denied reports of gradually raising the retirement age to 70, saying the issue 'is not on the agenda'; the statutory age stays at 67 for men and 62–65 for women by birth cohort, with an absolute eligibility age of 70. The 2026 basic old-age pension is NIS 1,838 for a single person and NIS 2,762 for a couple, with 57.5% of qualifying pension income tax-free."
     }
+
   ],
   "IN": [
     {
@@ -2608,7 +2696,15 @@ const NEWS = {
       "source": "The Star (Kenya)",
       "pubDate": "2026-02-16",
       "summary": "The fourth-phase NSSF limits (Tier I KSh9,000, Tier II KSh108,000; max KSh12,960/month) chiefly hit middle- and high-earners. Employees earning KSh25,000, KSh35,000 or KSh50,000 are unaffected, and because NSSF contributions are tax-deductible the real cut to take-home pay is smaller than the gross deduction."
+    },
+    {
+      "title": "Kenya activates Year 4 NSSF rates in February 2026, lifting monthly ceiling to KSh 12,960",
+      "url": "https://gaa.go.ke/sites/default/files/2026-02/Notice%20To%20Employers%20%E2%80%94%20Year%204%20%282026%29%20NSSF%20Contribution%20Rates%20.pdf",
+      "source": "National Social Security Fund (Kenya)",
+      "pubDate": "2026-02-01",
+      "summary": "The fourth phase of the NSSF Act 2013 took effect in February 2026: the Tier I lower limit rose to KSh 9,000 and the Tier II upper limit to KSh 108,000, so employee and employer each pay up to KSh 5,940 on Tier II for a maximum KSh 12,960 a month. NSSF declared a 17% net interest for 2024/25 at its 6 February 2026 AGM, with assets about KSh 558 billion."
     }
+
 
   ],
   "KH": [
