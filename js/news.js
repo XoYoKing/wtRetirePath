@@ -2014,7 +2014,15 @@ const NEWS = {
       "source": "MPFA",
       "pubDate": "2026-03-23",
       "summary": "The Financial Secretary approved reducing the eMPF Platform fee for 2026-27 from 37 bps to 29 bps (a 21.6% cut), directly benefiting all MPF members. The MPFA said cumulative administrative cost savings are now forecast at HK$50 billion within a decade, with further reductions to 20-25 bps expected within five years."
+    },
+    {
+        "title": "Hong Kong eMPF platform fee cut to 29 basis points from April 2026",
+        "url": "https://www.mpfa.org.hk/en/info-centre/press-releases/20260323",
+        "source": "MPFA",
+        "pubDate": "2026-03-23",
+        "summary": "The Financial Secretary approved the eMPF Platform fee for 2026-27 to fall from 37 to 29 basis points of assets under management, a 21.6 percent cut that must be fully passed through to all MPF members. The eMPF rollout across all 12 trustees completed in early 2026, overseeing more than HK$1.5 trillion in retirement savings for about 5 million members, with further fee cuts to 20-25 bps targeted within five years."
     }
+
   ],
   "HR": [
     {
@@ -3565,7 +3573,15 @@ const NEWS = {
       "source": "Independent Express (CIEP analysis)",
       "pubDate": "2026-02-15",
       "summary": "The 2026 Federal Expenditure Budget slightly reduces IMSS pensions (−2.5%) and ISSSTE pensions (−2.3%) for the first time since 2018, even as contributor numbers grow ~3% yearly, while the Welfare Ministry's pensions rise 13.5% (Senior Citizens +5.2%, Women's Welfare Pension for ages 60–64 +266%), per CIEP analysis."
+    },
+    {
+        "title": "Mexico lower chamber approves new public pension fund for elderly workers",
+        "url": "https://www.latinnews.com/component/k2/item/101166.html?Itemid=6",
+        "source": "LatinNews",
+        "pubDate": "2026-06-10",
+        "summary": "Mexico's Chamber of Deputies approved a reform creating a new public pension fund: workers' retirement sub-account resources transfer to a Banxico-trusteed fund at age 70 (state workers at 75), aiming to deliver pensions equal to 100 percent of pre-retirement salary up to a capped monthly amount. The bill now moves to the Senate."
     }
+
   ],
   "MY": [
     {
@@ -3696,6 +3712,13 @@ const NEWS = {
       "source": "The Guardian (Nigeria)",
       "pubDate": "2026-07-24",
       "summary": "The Organised Private Sector of Nigeria urged withdrawal of PenCom's proposed contribution-rate increase, warning it could suppress wages, cut jobs and push firms to outsource. The coalition argued any change needs comprehensive actuarial, economic and employment-impact assessments and genuine consultation."
+    },
+    {
+        "title": "Nigeria PenCom proposes higher employer pension contribution, private sector objects",
+        "url": "https://www.vanguardngr.com/2026/07/man-naccima-neca-nasme-nassi-reject-3-pension-hike/amp/",
+        "source": "Vanguard News",
+        "pubDate": "2026-07-22",
+        "summary": "The National Pension Commission proposed amending the Pension Reform Act 2014 to raise the statutory employer pension contribution only (currently 10 percent of pay, with employees at 8 percent), but organised private-sector groups rejected the plan, warning of job losses and higher inflation. PenCom noted only 8 of 36 states comply with the contributory scheme, while industry assets hit a record N31.32 trillion in May 2026."
     }
 
   ],
@@ -3762,7 +3785,15 @@ const NEWS = {
       "source": "Investment & Pensions Europe",
       "pubDate": "2026-06-16",
       "summary": "The Senate adopted the Lump Sum Revision Act on 16 June 2026, allowing retirees to take up to 10% of their pension as a one-off lump sum. Entry into force was postponed for an eighth time to 1 January 2029, after the DC transition, to avoid disrupting funds. The AOW eligibility age remains 67 in 2026; the coalition eased the 1:1 life-expectancy link in February 2026."
+    },
+    {
+        "title": "Netherlands keeps AOW pension age at 67 in 2026 as workplace reform advances",
+        "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontenten/belastingdienst/business/payroll_taxes/you_are_not_established_in_the_netherlands_are_you_required_to_withhold_payroll_taxes/when_you_are_going_to_withhold_payroll_taxes/pension_schemes",
+        "source": "Belastingdienst",
+        "pubDate": "2026-01-01",
+        "summary": "The Dutch state pension (AOW) payable age remains 67 in 2026 and 2027, then rises to 67 years and 3 months from 2028, indexed to life expectancy. Workplace schemes continue transitioning to the new defined-contribution personal-pot model under the Future Pensions Act, with all funds required to switch by 1 January 2028."
     }
+
   ],
   "NO": [
     {
@@ -3892,6 +3923,13 @@ const NEWS = {
       "source": "Nepal News",
       "pubDate": "2026-06-05",
       "summary": "Presenting the FY2026/27 federal budget, Finance Minister Swarnim Wagle set a mid-July 2026 deadline to bring informal and unorganised workers into the Social Security Fund, while launching a voluntary campaign encouraging affluent citizens to renounce state social-security allowances so resources reach vulnerable groups."
+    },
+    {
+        "title": "Nepal opens new investment avenues for EPF, CIT and Social Security Fund",
+        "url": "https://myrepublica.nagariknetwork.com/news/govt-opens-new-investment-avenues-to-mobilize-funds-collected-by-epf-cit-an-11-38.html",
+        "source": "My Republica",
+        "pubDate": "2026-05-06",
+        "summary": "An ordinance amended the EPF, CIT and contribution-based Social Security Acts to let the three state-run pension funds invest in mutual funds, private equity and venture capital, beyond their traditional deposits, government bonds and hydropower shares. The EPF manages over Rs 500 billion, the CIT nearly Rs 300 billion and the SSF over Rs 102 billion as of February 2026."
     }
 
   ],
@@ -3958,7 +3996,15 @@ const NEWS = {
       "source": "NEWS WIRE",
       "pubDate": "2026-06-21",
       "summary": "National leader Christopher Luxon pledged at the party conference to make KiwiSaver compulsory for all workers from 1 July 2028 if re-elected, with default rates rising so employers and employees each contribute 6% by 2032 (12% combined). Newborns would be auto-enrolled with a $1,500 Baby Boost, and employer contributions would extend to staff over 65."
+    },
+    {
+        "title": "New Zealand lifts default KiwiSaver rate to 3.5 percent from April 2026",
+        "url": "https://retirement.govt.nz/news/latest-news/new-analysis-reveals-new-zealanders-kiwisaver-funds-could-last-30-longer-than-under-pre-budget-2025-settings",
+        "source": "Retirement Commission",
+        "pubDate": "2026-03-27",
+        "summary": "From 1 April 2026 the default KiwiSaver contribution rate rose to 3.5 percent (from 3 percent) for both employees and employers, rising again to 4 percent from 1 April 2028. The Retirement Commission found the increase will make retirement funds last about 30 percent longer for median earners, though low-income and self-employed members gain less after the government contribution was halved."
     }
+
   ],
   "OM": [
     {
@@ -4023,6 +4069,13 @@ const NEWS = {
       "source": "Humance HR",
       "pubDate": "2026-07-19",
       "summary": "Under the 2025 Social Protection Law, Oman extended sickness and special-leave insurance to expatriate workers from 19 July 2026 and will replace end-of-service indemnity for foreign staff with a savings-based provident fund from July 2027, while employers pay 1% of payroll without a ceiling."
+    },
+    {
+        "title": "Oman clarifies old-age pension payable only after employment ends",
+        "url": "https://www.muscatdaily.com?p=105365/",
+        "source": "Muscat Daily",
+        "pubDate": "2026-06-22",
+        "summary": "Oman's Social Protection Fund issued Decision R/12/2026 clarifying that the old-age pension becomes payable only once an insured person's service has ended, even after reaching the statutory retirement age. A companion decision set 22 June 2026 as the effective date for transferring assets from seven legacy government pension funds into the unified SPF."
     }
 
   ],
@@ -4161,7 +4214,15 @@ const NEWS = {
       "source": "Social Security System (Philippines)",
       "pubDate": "2026-09-02",
       "summary": "At its 69th anniversary on 2 September 2026, SSS said it released ₱205.56 billion in benefits from January to July 2026 (₱180.86 billion for retirement and survivors), with an average basic monthly pension of ₱5,704 and an investment portfolio of ₱1.29 trillion. A House panel also approved a Universal Social Pension Bill granting at least ₱1,000 a month to all seniors."
+    },
+    {
+        "title": "Philippines SSS marks 69th year with stronger benefits and record fund",
+        "url": "https://www.sss.gov.ph/news-and-updates/sss-marks-69th-anniversary-with-stronger-member-protection-expanding-services",
+        "source": "Social Security System",
+        "pubDate": "2026-09-02",
+        "summary": "On its 69th anniversary the SSS reported releasing P205.56 billion in benefits from January to July 2026, with the average basic monthly pension at P5,704. The Pension Reform Program continued its multi-year increases (retirement and disability pensions up 10 percent, survivor pensions up 5 percent), and the fund's investment portfolio reached P1.29 trillion."
     }
+
   ],
   "PK": [
     {
@@ -4226,6 +4287,13 @@ const NEWS = {
       "source": "Starseed.pk",
       "pubDate": "2026-01-15",
       "summary": "Revised EOBI rates took effect on 1 January 2026, raising the minimum pension to Rs 11,500 and boosting formula pensions by 15%, with arrears cleared in September; pensioners must complete biometric verification twice a year to keep payments flowing."
+    },
+    {
+        "title": "Pakistan set to disburse enhanced EOBI pensions and arrears in September 2026",
+        "url": "https://fyep.org.pk/eobi-pension-increase/",
+        "source": "FYE Pakistan",
+        "pubDate": "2026-09-05",
+        "summary": "The federal cabinet approved a 15 percent increase in formula-based EOBI pensions and raised the minimum monthly pension from Rs 10,000 to Rs 11,500, effective 1 January 2026 with arrears paid in September 2026 to about 500,000 pensioners. A landmark 14.5-year service rule lets workers with 14 years 6 months of contributions qualify as having completed 15 years."
     }
 
   ],
@@ -4292,7 +4360,15 @@ const NEWS = {
       "source": "TrustedONE",
       "pubDate": "2026-03-01",
       "summary": "From 2026 the annual cap on Individual Retirement Account (IKE) contributions rises to PLN 28,260 (from PLN 26,019 in 2025) and the cap on Employee Capital Plans (PPK) additional contributions reaches PLN 42,390, letting households shelter more voluntary savings from capital-gains tax."
+    },
+    {
+        "title": "Poland raises minimum old-age pension to PLN 1,978.49 from March 2026",
+        "url": "https://expatessentials.pl/polish-pension-system-zus-for-expats-what-youre-paying-and-what-you-get/",
+        "source": "Expat Essentials",
+        "pubDate": "2026-03-01",
+        "summary": "From 1 March 2026 Poland's statutory minimum old-age pension rose to PLN 1,978.49 gross per month, alongside the 13th and an income-tested 14th pension supplement. The standard retirement age remains 60 for women and 65 for men, with a 20- or 25-year insurance record required for the guarantee."
     }
+
   ],
   "PT": [
     {
@@ -4487,6 +4563,13 @@ const NEWS = {
       "source": "Lemonews",
       "pubDate": "2026-06-20",
       "summary": "From 1 July 2026 Romania gradually lifts women's retirement age to 62 years 7 months on the way to a unified 65 by 2035, raises the minimum gross salary to 4,325 lei and shifts pension-payment dates, with extra support planned for low-income pensioners."
+    },
+    {
+        "title": "Romania mandatory private pension assets jump 33 percent to RON 212 billion in Q1 2026",
+        "url": "https://business-review.eu/money/romanias-pillar-ii-pension-assets-rise-33-to-over-ron-212-billion-in-q1-2026-297801",
+        "source": "Business Review",
+        "pubDate": "2026-04-20",
+        "summary": "Romania's mandatory private pension funds (Pillar II) held RON 212.55 billion at end-March 2026, up about 33 percent year-on-year, with more than 8.51 million enrolled participants. The contribution rate rose to 5.25 percent from 1 January 2026 under the 2025 pension reform, climbing further to 6 percent in 2027."
     }
 
   ],
@@ -4814,7 +4897,15 @@ const NEWS = {
       "source": "CPF Board",
       "pubDate": "2026-01-01",
       "summary": "From 2026 Singapore's CPF contribution rates for older workers rose by age band: 55-60 from 32.5% to 34% and 60-65 from 23.5% to 25% (shared by employer and employee); the 2026 Budget's one-off top-up of up to S$1,500 for those aged 50 plus is slated for payment in December, alongside matched retirement and MediSave savings schemes."
+    },
+    {
+        "title": "Singapore to launch low-cost lifecycle CPF investment scheme in 2028",
+        "url": "https://cpf.gov.sg/budget2026updates",
+        "source": "CPF Board",
+        "pubDate": "2026-02-13",
+        "summary": "As part of Budget 2026, Singapore's CPF Board will introduce a new voluntary, low-cost lifecycle investment scheme in the first half of 2028, with two to three reputable providers offering a small number of diversified products whose portfolios auto-rebalance from equities to bonds and are phased out by a target retirement date."
     }
+
   ],
   "SI": [
     {
