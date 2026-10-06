@@ -1469,8 +1469,14 @@ const NEWS = {
       "source": "OECD",
       "pubDate": "2026-09-01",
       "summary": "The OECD's 2026 Estonia survey notes the retirement age (65, linked to life expectancy, capped at +3 months/year) will reach about 71 for a full-career worker retiring in 2071. It flags the first-tier replacement rate falling from 49% to 31% by 2070 and urges stronger voluntary third-pillar saving to lift adequacy."
+    },
+    {
+      "title": "One third of Estonians who withdrew 2nd-pillar savings want to rejoin",
+      "url": "https://europeanpensions.net/ep/31pc-Estonians-who-withdraw-money-from-2nd-pillar-pension-want-to-rejoin.php",
+      "source": "European Pensions",
+      "pubDate": "2026-08-04",
+      "summary": "A Norstat survey for Luminor found 31% of Estonians who withdrew second-pillar savings would like to resume contributing; a bill before the Riigikogu would cut the rejoin wait from 10 to 5 years, with partial pre-retirement withdrawals also planned."
     }
-
   ],
   "EG": [
     {
@@ -2501,8 +2507,14 @@ const NEWS = {
       "source": "PolitPro",
       "pubDate": "2026-07-15",
       "summary": "Parliament passed amendments to the 1997 Pension Act on 24 June 2026, giving pension funds more investment freedom under the Prudent Person Principle from mid-July, aiming for higher returns for an ageing population. The change follows January's launch of the old-age age supplement (Act 95/2025) and a roughly 20% rise in the exemption limit."
+    },
+    {
+      "title": "Iceland 2026 elderly fund contribution set at ISK 14,614; social security tax 6.35%",
+      "url": "https://taxsummaries.pwc.com/iceland/individual/other-taxes",
+      "source": "PwC Tax Summaries",
+      "pubDate": "2026-01-01",
+      "summary": "PwC's 2026 summary lists the elderly fund contribution at ISK 14,614 for ages 16-69 and the general social-security contribution (tryggingagjald) at 6.35%; mandatory pension-fund contributions stay at 15.5% (4% employee plus 11.5% employer)."
     }
-
   ],
   "IT": [
     {
@@ -3113,6 +3125,13 @@ const NEWS = {
       "source": "Made in Vilnius",
       "pubDate": "2026-01-10",
       "summary": "From 1 January 2026 Lithuania ended automatic enrolment in Pillar II, shifting to voluntary saving with annual reminders; a two-year window (to 31 Dec 2027) lets existing members exit and reclaim contributions plus returns (state/Sodra portions convert to Pillar I units). Mandatory annuity thresholds for 2026 are EUR 16,785-83,925, with the state incentive at EUR 33.49/month."
+    },
+    {
+      "title": "About a third of Lithuanians exited the second pillar, assets fell to EUR 6.8bn",
+      "url": "https://europeanpensions.net/ep/Around-a-third-of-Estonians-and-Lithuanians-withdraw-second-pillar-pension-savings-early.php",
+      "source": "European Pensions / Swedbank",
+      "pubDate": "2026-09-18",
+      "summary": "Swedbank data shows about 514,000 Lithuanians (37% of joiners) left the second pillar in the first exit wave, cutting assets from EUR 10.6bn at end-2025 to EUR 6.8bn in Q2 2026; total payouts reached EUR 4.2bn, of which EUR 2.9bn went to households (~3.4% of GDP)."
     }
   ],
   "LU": [
@@ -3244,6 +3263,13 @@ const NEWS = {
       "source": "LSM (Latvian Public Media)",
       "pubDate": "2026-05-06",
       "summary": "On 6 May 2026 the Central Election Commission cleared a referendum drive by the opposition Latvia First party to let people withdraw or move second-pillar savings before retirement (over €10bn is accumulated); banks, the central bank and the finance ministry oppose it as a risk to sustainability. Separately, from April 2026 working pensioners' benefits are recalculated automatically each 1 April."
+    },
+    {
+      "title": "Latvia drafts six options for second-pillar payout, three-year decision delay",
+      "url": "https://news.inbox.lv/150skwa-withdraw-in-parts-or-leave-it-to-work-latvia-wants-to-change-the-rules-of-the-second-pension-level",
+      "source": "Inbox.lv",
+      "pubDate": "2026-09-25",
+      "summary": "The Welfare Ministry's draft amendment to the State Funded Pensions Act (public consultation to 8 October 2026) would expand second-pillar payout choices from two to six, let people delay the decision by three years, and let those with at least 10 minimum wages keep funds invested or take regular payments."
     }
   ],
   "MA": [
@@ -4636,8 +4662,14 @@ const NEWS = {
       "source": "Vreme",
       "pubDate": "2026-01-01",
       "summary": "From 1 January 2026 women can retire at 64 with 15 years of service, reaching 65 by 2032, and low-income pensioners up to 73,700 dinars receive a monthly supplement of up to 5,000 dinars alongside the regular adjustment."
+    },
+    {
+      "title": "Vucic announces pensions to rise 5.5% from 1 January with DIN 20,000 allowance",
+      "url": "https://rs.n1info.com/english/news/vucic-salaries-and-pensions-to-increase-from-january-1/",
+      "source": "N1 Info",
+      "pubDate": "2026-11-02",
+      "summary": "President Aleksandar Vucic said pensions will increase by 5.5% from 1 January 2027 and be topped with a DIN 20,000 allowance, alongside a 9.4% minimum-wage rise to DIN 35,025, as part of the 2027 budget package announced in late 2026."
     }
-
   ],
   "RU": [
     {
@@ -4702,6 +4734,13 @@ const NEWS = {
       "source": "Izvestia",
       "pubDate": "2026-07-07",
       "summary": "From 7 July 2026 a pension can be claimed with just a passport and SNILS; the Social Fund fetches employment and earnings data automatically via a unified digital platform and inter-agency exchange. Earlier 2026 indexations were 7.6% for insurance pensions (1 Jan) and 6.8% for social pensions (1 Apr), with a 4% military-pension indexation planned for 1 Oct."
+    },
+    {
+      "title": "Russia's average pension reaches RUB 25,254 in January 2026",
+      "url": "https://iz.ru/en/node/2047836",
+      "source": "Izvestia",
+      "pubDate": "2026-02-24",
+      "summary": "The Social Fund reported the nationwide average pension rose by RUB 2,079 to RUB 25,254 as of 1 January 2026 (non-working pensioners RUB 25,678, working RUB 23,279); Chukotka recorded the highest regional average at RUB 41,932."
     }
   ],
   "SA": [
@@ -4970,8 +5009,14 @@ const NEWS = {
       "source": "GrECo",
       "pubDate": "2026-01-20",
       "summary": "From 1 January 2026 employers with more than 10 staff must negotiate a collective supplementary pension plan within two years, lump-sum withdrawal thresholds rise, management fees fall and annuity and inheritance rules become more flexible under the overhauled second pillar."
+    },
+    {
+      "title": "EU Commission 2026 report details Slovenia's pension reform parameters",
+      "url": "https://economy-finance.ec.europa.eu/document/download/b0045ec2-0cda-4eff-85d6-7d5530485ccc_en?filename=2026_dbp_si_en.pdf",
+      "source": "European Commission",
+      "pubDate": "2026-07-01",
+      "summary": "The 2026 Draft Budgetary Plan confirms the reform: accrual rate for 40 years of contributions rises from 63.5% toward 70% by 2035, the reference period extends to 40 years over eight years, the indexation formula shifts toward 80% prices, and widow(er) pensions rise from 70% toward 80%."
     }
-
   ],
   "SK": [
     {
@@ -5036,8 +5081,14 @@ const NEWS = {
       "source": "ADSS",
       "pubDate": "2026-08-12",
       "summary": "The association of pension fund managers reported second-pillar assets above EUR 22 billion for more than two million savers; in 2026 the 18% compulsory contribution splits 14% to Socialna poistovna and 4% to private DSS accounts, with the rate at 5.75% rising to 6% in 2027."
+    },
+    {
+      "title": "Fitch praises Slovakia's pension reform for easing aging pressures",
+      "url": "https://mfsr.sk/en/press/fitch-appreciates-slovakias-creditworthiness.html",
+      "source": "Ministry of Finance SR / Fitch",
+      "pubDate": "2026-03-10",
+      "summary": "Fitch Ratings affirmed Slovakia's A rating and positively assessed the pension-system reform, saying it helps reduce long-term pressures from population aging while the economy is supported by a stable labour market."
     }
-
   ],
   "TH": [
     {
@@ -5312,7 +5363,13 @@ const NEWS = {
       "pubDate": "2026-07-29",
       "summary": "Taiwan's 2026 amendments to the Labour Pension Act enforcement rules let monthly-pension recipients switch to a lump sum within 30 days of first payment (from 27 March), bar employers from refusing voluntary contributions (from 1 August), and open voluntary contributions for pure old-system workers (from 17 July); the labour-insurance old-age annuity claim age also unified to 65."
     },
-
+    {
+      "title": "Taiwan mandates foreign white-collar workers into Labor Pension new system from 2026",
+      "url": "https://workforce.wda.gov.tw/index.php/News/Detail/1299",
+      "source": "Workforce Development Agency",
+      "pubDate": "2026-01-01",
+      "summary": "From 1 January 2026 the amended Act for the Employment of Foreign Professionals brings foreign white-collar workers into the Labor Pension new system; employers must enrol new arrivals at 6% and confirm existing staff choices by 30 June 2026."
+    }
   ],
   "TZ": [
     {
@@ -5445,8 +5502,14 @@ const NEWS = {
       "source": "Newsky",
       "pubDate": "2026-09-01",
       "summary": "The Ministry of Social Policy plans to send the Rada a voluntary three-tier reform: an updated pay-as-you-go first pillar, a voluntary savings second pillar (dropping the long-debated mandatory version) and existing non-state funds, while reviewing special pensions for judges, prosecutors and law-enforcement staff."
+    },
+    {
+      "title": "Ukraine submits voluntary pension fund bills (15570-15572) to parliament",
+      "url": "https://sud.ua/en/news/ukraine/370688-rada-hotovyt-novuiu-model-dobrovolnykh-pensyonnykh-nakoplenyi-usyliat-nadzor-y-rasprostraniat-nalohovuiu-skydku-na-vznosy",
+      "source": "Sud.ua / Legal Newspaper",
+      "pubDate": "2026-08-28",
+      "summary": "A package of three draft laws on voluntary pension funds was registered in the Verkhovna Rada on 28 August 2026, applying the prudent-person rule and strengthening supervision and inheritance; third-pillar assets stood at UAH 7.6 billion with 889.2 thousand participants."
     }
-
   ],
   "UG": [
     {
@@ -5512,8 +5575,14 @@ const NEWS = {
       "source": "Daily Monitor (Uganda)",
       "pubDate": "2026-02-15",
       "summary": "Cabinet approved principles to amend the NSSF Act (Cap 222): allow mid-term access to voluntary benefits, make contributions mandatory for all workers regardless of enterprise size, permit voluntary self-employed savings, and let NSSF lend to government — shifting the Fund from a provident to a hybrid scheme."
+    },
+    {
+      "title": "Uganda Cabinet clears board for new Public Service Pension Fund",
+      "url": "https://newvision.co.ug/category/news/cabinet-clears-new-directors-for-the-pension-NV_232682_042026",
+      "source": "New Vision",
+      "pubDate": "2026-04-28",
+      "summary": "Cabinet approved a nine-member board for the newly created Public Service Pension Fund, steering Uganda's shift from a non-contributory pay-as-you-go model to a contributory, fully funded system that begins on 1 July 2026 under the 2025 Act."
     }
-
   ],
   "US": [
     {
@@ -5787,8 +5856,14 @@ const NEWS = {
       "source": "Moneyweb",
       "pubDate": "2026-03-20",
       "summary": "Industry analysts say the two-pot system's ring-fencing of two-thirds of contributions is starting to lift South Africa's decades-long 6% comfortable-retirement rate; NMG Benefits reports retirement contributions rose to R500bn in 2026 (from R360bn in 2016) and the net replacement ratio sits at 30-38%, with tax relief on pension saving raised to 27.5% (cap R430,000/year)."
+    },
+    {
+      "title": "Discovery: 46% of two-pot members withdrew savings in 2026",
+      "url": "https://moneyweb.co.za/news/south-africa/stress-contributing-to-many-two-pot-withdrawals",
+      "source": "Moneyweb",
+      "pubDate": "2026-09-15",
+      "summary": "Discovery data shows 46% of its retirement-fund members took a two-pot savings withdrawal in 2026, up from 43% in 2025, while the amount available dropped from 36% to 27%; financial stress and gambling were cited as key drivers."
     }
-
   ]
 };
 
