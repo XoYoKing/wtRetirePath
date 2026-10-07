@@ -1185,6 +1185,13 @@ const NEWS = {
       "source": "Cyprus Insider",
       "pubDate": "2026-09-01",
       "summary": "Labour Minister Marinos Moushouttas confirmed the pension-reform bill will reach Parliament in September 2026; about 50,000 pensioners will see monthly payments rise by more than €100, low-income future pensions up to 60% higher, and the early-retirement penalty eased from 12% to 7.5%, with the statutory age of 65 and contribution rates unchanged and first payments from February 2027."
+    },
+    {
+      "title": "Keve to meet House speaker Demetriou over pension reform",
+      "url": "https://cyprus-mail.com/2026/08/26/keve-to-meet-house-speaker-demetriou-over-pension-reform",
+      "source": "Cyprus Mail",
+      "pubDate": "2026-08-26",
+      "summary": "The Cyprus Chamber of Commerce and Industry (Keve) will meet House Speaker Annita Demetriou on 1 September 2026 to discuss the first major pension-system overhaul since 1980, targeted for implementation on 1 January 2027. Lower-income pensioners are set to gain the most, with over 51,000 of the island's 123,212 social-insurance pensioners expected to see monthly increases above 100 euros."
     }
 
   ],
@@ -1541,6 +1548,13 @@ const NEWS = {
       "source": "State Information Service (Egypt)",
       "pubDate": "2026-06-24",
       "summary": "President El-Sisi's 24 June 2026 decree lifted all pensions by 15% from 1 July 2026, benefiting about 11.5 million pensioners at an annual cost near EGP 70bn (max increase EGP 2,505). Law 11 of 2026 also reset the state-treasury instalment to the insurance fund to EGP 238.55bn, rising 6.4%/yr then 7%, over 50 years."
+    },
+    {
+      "title": "NOSI raises insurable wage limits starting January 2026",
+      "url": "https://www.arabfinance.com/en/News/newdetails/nosi-raises-insurable-wage-limits-starting-january-2026",
+      "source": "Arab Finance",
+      "pubDate": "2026-01-01",
+      "summary": "Egypt's National Organization for Social Insurance (NOSI) raised the minimum insurable wage from 2,300 to 2,700 Egyptian pounds and the maximum from 14,500 to 16,700 pounds, effective 1 January 2026 under the 2019 Social Insurance and Pensions Law. The move lifts the minimum pension to 1,755 pounds and the maximum to 13,360 pounds, aligning recorded wages with future entitlements."
     }
   ],
   "ES": [
@@ -1606,6 +1620,13 @@ const NEWS = {
       "source": "AS (Spain)",
       "pubDate": "2026-01-12",
       "summary": "From 1 January 2026 Spain's ordinary retirement age rose to 66 years and 10 months (65 for those with 38 years and 3 months of contributions), while a dual-track calculation picks the better of the traditional 25-year base and a 304-month base, transitioning toward 29 years by 2037; the Intergenerational Equity Mechanism contribution edged up to 0.9%."
+    },
+    {
+      "title": "Pension increase and revaluation in 2026",
+      "url": "https://www.lamoncloa.gob.es/lang/en/gobierno/news/paginas/2025/pension-increase-and-revaluation.aspx",
+      "source": "La Moncloa",
+      "pubDate": "2026-02-03",
+      "summary": "Spain's contributory pensions were revalued by 2.7% for 2026, benefiting nearly 13 million pensioners and benefit recipients, with the Royal Decree-Law ratified by Congress on 26 February 2026. Minimum pensions rose by more than 7%, while non-contributory pensions and the Minimum Vital Income increased by 11.4%."
     }
   ],
   "FI": [
@@ -1671,6 +1692,13 @@ const NEWS = {
         "source": "TELA",
         "pubDate": "2026-09-04",
         "summary": "Earnings-related pension assets exceeded EUR300 billion (EUR300.2bn) at end-Q2 2026, up EUR16bn in the quarter, with a 6.2% nominal (4.2% real) return in H1; the 1 July 2026 reform relaxed investment limits, lifting the equity allocation target toward about 70%."
+    },
+    {
+      "title": "Finnish President approves pension reforms",
+      "url": "https://www.europeanpensions.net/ep/Finnish-President-approves-pension-reforms.php",
+      "source": "European Pensions",
+      "pubDate": "2026-06-16",
+      "summary": "President Alexander Stubb signed pension-reform legislation on 16 June 2026, the final step before the first measures take effect on 1 July. The solvency limit for private-sector employment pension insurers is lowered by about one-third, borrowing capacity for real-estate investments is expanded, and an index cap limiting payout growth is introduced from 2030."
     }
 
   ],
@@ -1881,6 +1909,13 @@ const NEWS = {
       "source": "Employsome",
       "pubDate": "2026-01-20",
       "summary": "In January 2026 SSNIT approved a 10% indexation of monthly pensions and lifted the minimum pension from GHS 300 to GHS 400, with a flat 6% to all pensioners plus a redistributed amount weighted to low incomes; the 18.5% contribution rate was unchanged and 2026 insurable earnings run GHS 587.80-GHS 69,000. Industry assets now exceed GHS 40bn."
+    },
+    {
+      "title": "SSNIT raises maximum insurable earnings to GHS 69,000 for 2026",
+      "url": "https://theindependentghana.com/article/undefined/ssnit-raises-maximum-insurable-earnings-to-ghs-69000-for-2026",
+      "source": "The Independent Ghana",
+      "pubDate": "2026-01-14",
+      "summary": "Ghana's Social Security and National Insurance Trust (SSNIT) raised the maximum insurable earnings from 61,000 to 69,000 cedis effective 1 January 2026, lifting the top monthly contribution to 9,315 cedis. The adjustment follows a 10% pension indexation and the rise of the minimum monthly pension for new retirees from 300 to 400 cedis."
     }
 
   ],
@@ -2093,6 +2128,13 @@ const NEWS = {
       "source": "European Commission",
       "pubDate": "2026-06-15",
       "summary": "The 2026 amendment to Croatia's Pension Insurance Act (parts effective from January 2026) raised the minimum pension, switched indexation to an 85:15 wage/price mix, and introduced an annual supplement linked to years of insurance; a EUROMOD simulation puts the pensioner poverty-risk rate 3.3pp lower. The aggregate replacement ratio was still only 0.37 in 2025 versus the EU's 0.6."
+    },
+    {
+      "title": "More Croatian retirees paying income tax as allowance stays frozen",
+      "url": "https://total-croatia-news.com/?p=196994/",
+      "source": "Total Croatia News",
+      "pubDate": "2026-07-08",
+      "summary": "As pensions keep rising while the 600-euro tax-free personal allowance remains frozen, the number of Croatian pensioners paying income tax climbed to 529,542 by July 2026. The government has confirmed pension income tax will be abolished from 1 January 2027, a year earlier than originally planned, though lower-income pensioners below the threshold gain nothing."
     }
   ],
   "HU": [
@@ -2158,6 +2200,13 @@ const NEWS = {
       "source": "MREAST",
       "pubDate": "2026-04-20",
       "summary": "Despite the 2026 14th-month pension and 3.6% rise, analysts note about a third of Hungarian retireers remain near or below the poverty line and roughly a sixth in extreme poverty; public pension spending has fallen from over 11% of GDP around 2008-09 to just above 7%, even as the elderly population grows."
+    },
+    {
+      "title": "Hungarian pensioners gain purchasing power as inflation undershoots",
+      "url": "https://streamlinefeed.co.ke/news/hungarian-pensioners-gain-purchasing-power-as-inflation-undershoots-forecast",
+      "source": "Streamline Feed",
+      "pubDate": "2026-09-17",
+      "summary": "With August 2026 inflation at just 1.3% against a 3.5% trigger, Hungarian pensioners saw a real purchasing-power gain and no pension premium was paid in 2026. The cabinet's decision to lift the minimum old-age pension to 120,000 forints from January 2027 is expected to benefit nearly 130,000 low-income recipients."
     }
   ],
   "ID": [
@@ -2296,6 +2345,13 @@ const NEWS = {
         "source": "Department of Social Protection (gov.ie)",
         "pubDate": "2026-09-09",
         "summary": "New CCPC research finds pension ownership in Ireland has risen by 17% since 2025, driven by the auto-enrolment MyFutureFund which now has over 835,000 participants and more than EUR500m in contributions; the first opt-out window in July-August saw fewer than 4% of savers leave."
+    },
+    {
+      "title": "Minister Calleary highlights MyFutureFund success at EU Presidency event",
+      "url": "https://www.gov.ie/en/department-of-social-protection/press-releases/minister-for-social-protection-dara-calleary-speaks-at-an-irish-eu-presidency-event-on-saving-for-retirement-through-autoenrolment-and-supplementary-pensions",
+      "source": "Government of Ireland",
+      "pubDate": "2026-09-10",
+      "summary": "At a joint Irish EU Presidency and European Commission event, Minister Dara Calleary said MyFutureFund now has over 825,000 participants and more than half a billion euros in contributions collected in its first six months. The EU Commission cited the auto-enrolment retirement savings scheme as a model of best practice for other member states."
     }
 
   ],
@@ -2579,6 +2635,13 @@ const NEWS = {
       "source": "Family Banker",
       "pubDate": "2026-07-08",
       "summary": "The 2026 budget keeps the social early pension (APE Sociale) open until 31 December 2026 for workers aged 63 years 5 months with 30 years of contributions, and from 1 July 2026 new employees who do not opt out have their severance pay (TFR) channelled into a supplementary pension fund, with the personal TFR slice enjoying a tax-free allowance of up to about 5,300 euros."
+    },
+    {
+      "title": "New Italian pension decumulation rules take effect",
+      "url": "https://europeanpensions.net/ep/New-Italian-pension-decumulation-rules-take-effect.php",
+      "source": "European Pensions",
+      "pubDate": "2026-07-01",
+      "summary": "COVIP's reform of supplementary-pension payout options took effect on 1 July 2026, introducing three ways for members to draw down savings at retirement: a fixed-term annuity linked to remaining life expectancy, flexible withdrawals within defined limits, and a phased drawdown over at least five years while capital stays invested. A transitional period runs to 31 December 2026."
     }
   ],
   "JP": [
@@ -2790,6 +2853,13 @@ const NEWS = {
         "source": "The Phnom Penh Post",
         "pubDate": "2026-09-02",
         "summary": "From 1 October 2026, all enterprises governed by the Labour Law must contribute 4% of wages to the pension scheme (2% employer and 2% employee), NSSF deputy director-general Heng Sophannarith said; the rollout follows the voluntary self-employed plan that drew over 24,000 registrations by August 2025."
+    },
+    {
+      "title": "Cambodia social protection coverage nears 50% in third quarter of 2026",
+      "url": "https://asianspeech.net/cambodias-social-protection-coverage-nears-50-in-third-quarter-of-2026",
+      "source": "Asian Speech",
+      "pubDate": "2026-09-04",
+      "summary": "By the third quarter of 2026 Cambodia's social-protection system reached about 8.5 million people, nearly half the population. The social-security scheme, including the NSSF pension pillar, covered more than 3.5 million people, backed by roughly 1.9 trillion riel (487 million US dollars) in the 2026 budget alongside member contributions."
     }
 
   ],
@@ -2928,6 +2998,13 @@ const NEWS = {
       "source": "MGCD (GCC Pensions)",
       "pubDate": "2026-05-20",
       "summary": "Kuwait's Public Institution for Social Security (PIFSS) reaffirmed employees contribute 8% plus a 2.5% supplementary and employers 11.5%, while a proposed rise of the normal retirement age to 60 remains stuck in parliament committee; under the GCC Umbrella framework launched in May 2026, Kuwaiti workers abroad contribute at PIFSS rates with late-payment penalties."
+    },
+    {
+      "title": "New study ranks Kuwait first globally in pension generosity",
+      "url": "https://beta.kuwaittimes.com/article/39617/kuwait/other-news/new-study-ranks-kuwait-first-globally-in-pension-generosity",
+      "source": "Kuwait Times",
+      "pubDate": "2026-09-10",
+      "summary": "UK-based payroll firm Moorepay ranked Kuwait first worldwide for state-pension generosity, with the average pension of 16,308 dinars a year covering 566% of the cost of living. The average varies by sector, at about 1,450 dinars a month in government, 1,850 in oil and 1,650 in private work, far ahead of Luxembourg and the UK."
     }
   ],
   "KZ": [
@@ -2993,6 +3070,13 @@ const NEWS = {
         "source": "gov.kz",
         "pubDate": "2026-07-01",
         "summary": "UAPF reported pension savings of 28.09 trillion tenge as of 1 July 2026 (up 17.0% year-on-year) across 18.78 million accounts; the employer mandatory contribution (ECPC) balance reached 117.522 billion tenge, about 2.5 times a year earlier, as the new Tax Code took effect in 2026."
+    },
+    {
+      "title": "Kazakhstan pension savings exceed 28.47 trillion tenge as of September 1",
+      "url": "https://memleket.kz/en/news/110714-the-volume-of-pension-savings-of-kazakhstanis-exceeded-2847-trillion-tenge-as-of-september-1-2026",
+      "source": "memleket.kz",
+      "pubDate": "2026-09-01",
+      "summary": "As of 1 September 2026, Kazakhstanis' pension savings at the UAPF surpassed 28.47 trillion tenge, up 13.4% year on year, across 19.01 million accounts, a 6.3% increase. Employer compulsory contributions reached 1,348.82 billion tenge, nearly 2.5 times a year earlier, while the average monthly old-age payout was 39,008 tenge."
     }
 
   ],
