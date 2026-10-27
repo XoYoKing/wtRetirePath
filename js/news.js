@@ -3143,7 +3143,15 @@ const NEWS = {
         "source": "The Island",
         "pubDate": "2026-01-06",
         "summary": "Deputy Minister of Labour Mahinda Jayasinghe said the government is studying converting Employees Provident Fund lump-sum benefits into regular monthly annuities or private-sector pensions, keeping the lump-sum option; the plan revives a 2011 debate over worker control and Treasury governance."
+    },
+    {
+      "title": "Sri Lanka's retiree numbers set to rise by about 20,000 each year",
+      "url": "https://ziradaily.com/news/115694",
+      "source": "Zira Daily",
+      "pubDate": "2026-06-29",
+      "summary": "Officials told the Committee on Public Finance that Sri Lanka's retiree population is growing by roughly 20,000 a year, with about 720,000 pensioners today and 25,000-30,000 new entrants annually against only about 10,000 deaths. Financing the latest budget's pension increases will require an extra Rs. 60 billion a year over two years, pushing pension spending to about Rs. 565 billion; the committee urged long-term reform including a contributory scheme first mooted in 2004."
     }
+
 
   ],
   "LT": [
@@ -3281,7 +3289,15 @@ const NEWS = {
       "source": "Luxembourg Times",
       "pubDate": "2026-07-15",
       "summary": "Luxembourg's pension reserve stood at about 32 billion euros (4.24 times annual outlays) after the 1 January 2026 reform lifted the contribution rate to 25.5% and introduced gradual (half-retirement) pensions, but CNAP cautioned the fund covers only until around 2040-41 and uptake of the new gradual pension remains low."
+    },
+    {
+      "title": "Luxembourg's 2026 pension reform takes effect with higher contribution rate",
+      "url": "https://cnap.public.lu/en/actualites/2026/informationsreforme202601.html",
+      "source": "CNAP Luxembourg",
+      "pubDate": "2026-01-15",
+      "summary": "From 1 January 2026 the general pension scheme raised the overall contribution rate from 24% to 25.5% (through 2032), introduced a gradual pension allowing part-time work while drawing part of the benefit, eased recognition of study years from age 18, and began a gradual extension of the insurance period required for early retirement at 60 (reaching plus 8 months by 2030). The legal retirement age stays 65."
     }
+
 
   ],
   "LV": [
@@ -3419,7 +3435,15 @@ const NEWS = {
       "source": "Wafir (Morocco)",
       "pubDate": "2026-05-12",
       "summary": "Unveiled on 12 May 2026, Morocco's overhaul gradually lifts the CNSS retirement age from 60 to 63 by 2032, raises CNSS pensions 8% over three years and creates a National Retirement Organisation unifying CNSS, CMR and RCAR; the bill is expected before parliament around October 2026 with a planned 1 January 2027 start, as CNSS's technical deficit reached 4.8 billion dirhams."
+    },
+    {
+      "title": "Morocco's 2026 pension reform bill sets 60-to-63 age rise and two-pillar split",
+      "url": "https://wafir.ma/en/guide/retraite-anticipee-cnss-maroc-2026-conditions-cout",
+      "source": "Wafir.ma",
+      "pubDate": "2026-05-12",
+      "summary": "The government presented a systemic pension reform on 12 May 2026 that would reorganise Morocco's schemes into a public pole (CMR and RCAR) and a private pole (CNSS and CIMR). The legal retirement age would rise gradually from 60 to 63 from 2027, pensions would increase about 8% over three years, and the minimum pension would be aligned toward the minimum wage; the parliamentary vote is expected around October 2026 with entry into force on 1 January 2027."
     }
+
 
   ],
   "MM": [
@@ -3485,7 +3509,15 @@ const NEWS = {
       "source": "Global New Light of Myanmar",
       "pubDate": "2026-05-10",
       "summary": "By May 2026 Myanma Economic Bank's centralised e-Pension system covered 190 branches (up from 185 in February) for fee-free cash withdrawals by government pensioners. For 2026-2027 the Social Pension Support Programme pays about 150,000 people aged 85+ K10,000/month via mobile money (KBZ Pay, Wave Pay, AYA Pay) in two half-yearly instalments, registrations closing 31 May 2026."
+    },
+    {
+      "title": "Myanmar begins mobile-wallet disbursement of social pensions",
+      "url": "https://www.gnlm.com.mm/social-pensions-can-be-withdrawn-via-mobile-pay-system",
+      "source": "Global New Light of Myanmar",
+      "pubDate": "2026-10-22",
+      "summary": "The Department of Social Welfare said social pension payments for 2026-2027 would be made via mobile money transfer. Eligible citizens aged 85 and above (about 150,000 people) can withdraw at Myanmar Economic Bank branches from 15 October 2026 to 6 January 2027, or have funds transferred directly to registered phone numbers from 28 October 2026 through KBZ Pay, Wave and AYA Pay wallets."
     }
+
   ],
   "MN": [
     {
@@ -3550,7 +3582,15 @@ const NEWS = {
         "source": "Arya News",
         "pubDate": "2026-08-20",
         "summary": "Prime Minister N.Uchral announced that from 1 November 2026 Mongolia basic pension will rise by 100,000-300,000 tugrik, benefiting about 435,000 elderly at a cost of roughly 1.2 trillion tugrik; average monthly pensions are projected to climb from about 955,000 to 1.19 million tugrik."
+    },
+    {
+      "title": "Mongolia parliament passes three-pillar pension overhaul",
+      "url": "https://mongolia.robertritz.com/daily/mongolia-daily-parliament-oks-pension-overhaul-passes-soe-climate-bills-and-adb-lends-64m",
+      "source": "MongolBeat",
+      "pubDate": "2026-07-02",
+      "summary": "Parliament approved amendments to the General Law on Social Insurance with about 85% support, creating a three-pillar pension model. From 1 January 2027 pensions rise by MNT 100,000-300,000 for more than 500,000 pensioners based on contribution years, the calculation base shifts to a 10-year average from 2033, and a voluntary savings pillar offers a 50% state match on an extra 1% contribution for up to 120 months."
     }
+
 
   ],
   "MT": [
@@ -3616,7 +3656,15 @@ const NEWS = {
         "source": "The Maltese Herald",
         "pubDate": "2026-07-24",
         "summary": "Malta social security expenditure reached EUR946.1 million in the first half of 2026, up 10.3% year-on-year, with retirement pension spending rising by EUR42.2 million; the number of contributory pension recipients grew to 100,173 and the 2026 budget added EUR10 per week to pensions."
+    },
+    {
+      "title": "Malta social security pension spending rises 9.5% in first half of 2026",
+      "url": "https://nso.gov.mt/government-expenditure-on-social-security-benefits-january-june-2026/",
+      "source": "NSO Malta",
+      "pubDate": "2026-07-15",
+      "summary": "Contributory benefits outlay reached EUR 732.1 million by end-June 2026, 9.5% above the prior year, with retirement pensions the largest contributor (EUR 42.2 million increase). Non-contributory expenditure rose 13.2% to EUR 214.0 million; 101,270 households received the Additional Cost of Living Adjustment and 45,392 seniors got the Assistance to Help the Elderly Live Independently."
     }
+
 
 
   ],
@@ -3756,7 +3804,15 @@ const NEWS = {
         "source": "Bispoint Group",
         "pubDate": "2026-07-09",
         "summary": "Malaysia Skim Lindung 24 Jam (SKBBK), a 24-hour non-work accident cover under SOCSO effective 1 June 2026, was made voluntary for Malaysian employees from 8 July 2026 while remaining mandatory for foreign workers; the employee-funded Phase 1 rate is 0.75% of monthly wages (RM6,000 ceiling). Foreign-worker EPF contributions also became mandatory at 2% each from October 2025."
+    },
+    {
+      "title": "Malaysia to auto-enrol all citizens in EPF at age 18 under 2027 budget",
+      "url": "https://test.theedgemalaysia.com/node/821291",
+      "source": "The Edge Malaysia",
+      "pubDate": "2026-10-09",
+      "summary": "Prime Minister Anwar Ibrahim announced in the 2027 budget that all Malaysians will be automatically registered as Employees Provident Fund members upon turning 18, expanding retirement-savings access beyond the current employer-triggered sign-up. The EPF reported 18.5 million members at end-June 2026, of whom 10.95 million were active contributors."
     }
+
 
   ],
   "NG": [
@@ -3968,7 +4024,15 @@ const NEWS = {
       "source": "European Pensions",
       "pubDate": "2026-04-22",
       "summary": "Driven by 2011 and 2018 reforms lifting employment among the over-62s, a record 19,500 people started Norwegian pension drawdown in the first quarter of 2026, the highest single quarter since 2012; from 1 May 2026 the minimum pension level rises by an extra 8,000 kroner a year (effective September, backdated to May)."
+    },
+    {
+      "title": "Norway proposes wear-and-tear pension supplement for long-serving workers",
+      "url": "https://denmark.dlapiper.com/en/pdf/news/6910",
+      "source": "DLA Piper Nordic Bulletin",
+      "pubDate": "2026-08-24",
+      "summary": "On 24 August 2026 the government proposed a new sliterordning (wear-and-tear pension) within the National Insurance Scheme for employees unable or unwilling to keep working until the normal retirement age after long, lower-earning careers. Eligible retirees who stop five years early could receive an annual supplement of 0.25 G (about NOK 34,000) on top of their state, occupational and AFP pensions."
     }
+
   ],
   "NP": [
     {
@@ -4543,7 +4607,15 @@ const NEWS = {
       "source": "The Portugal Brief",
       "pubDate": "2026-08-19",
       "summary": "The expert group led by Jorge Bravo published its final report on 19 August 2026 recommending all pensions be at least inflation-indexed, a personal retail-bond top-up and an opt-out auto-enrolled occupational pension, while the 2026 sustainability factor penalty rose to 17.63% (factor 0.8307); the government excluded structural reform this legislature."
+    },
+    {
+      "title": "Portugal pension-reform report backs auto-enrolment workplace schemes",
+      "url": "https://aman-alliance.org/Home/ContentDetail/105904",
+      "source": "Lusa (AMAN)",
+      "pubDate": "2026-08-19",
+      "summary": "An expert group led by Jorge Bravo presented its report Reforming Pensions in Portugal, proposing automatic-enrolment occupational pension schemes (8-10% contributions shared by employee, employer and state), individual retirement savings accounts for children, nominal defined-contribution accounts and new public-debt instruments to top up pensions. The government reiterated it will not pursue a structural reform this parliamentary term."
     }
+
   ],
   "QA": [
     {
@@ -4608,7 +4680,15 @@ const NEWS = {
       "source": "Mondaq",
       "pubDate": "2026-05-18",
       "summary": "Qatar's General Retirement and Social Insurance Authority was rebranded 'Daman' in 2026 with an AI assistant 'Sara' and the Al Safwa premium service; nationals contribute 21% (7% employee, 14% employer) under the phased reform, expatriates remain excluded from the contributory scheme, and the GCC Umbrella campaign launched in May 2026 strengthens cross-Gulf portability for Qatari workers."
+    },
+    {
+      "title": "Qatar holds workshop on Social Insurance Law and executive regulations",
+      "url": "https://qna.org.qa/en/News-Area/News/2026-9/30/ministry-of-justice-holds-workshop-on-social-insurance-law-and-executive-regulations",
+      "source": "Qatar News Agency",
+      "pubDate": "2026-09-30",
+      "summary": "The Ministry of Justice and the General Retirement and Social Insurance Authority ran an introductory workshop on Social Insurance Law No. 1 of 2022 and Cabinet Resolution No. 3 of 2025. It covered mandatory coverage for Qatari workers, the voluntary income-bracket scheme for the self-employed at a 21% rate, and the end-of-service bonus for more than 30 years of actual service (capped at 50% of total contributions)."
     }
+
   ],
   "RO": [
     {
@@ -4890,7 +4970,15 @@ const NEWS = {
       "source": "Gulf HR",
       "pubDate": "2026-07-01",
       "summary": "Under Royal Decree M/273, Saudi Arabia raised the new-system contribution rate for citizens to 23.5% (12.75% employer, 10.75% employee) from 1 July 2026, heading toward 11%/11% by 2028, while expatriates remain on the 2% occupational-hazard branch; industry estimates put the social-insurance fund's actuarial gap at about 800 billion riyals."
+    },
+    {
+      "title": "Saudi Arabia tops Gulf in 2026 global pension index",
+      "url": "https://najmpress.com/2026/10/25/saudi-tops-gulf-pension-rankings-in-2026-global-index",
+      "source": "NAJM Press",
+      "pubDate": "2026-10-25",
+      "summary": "Saudi Arabia ranked first among GCC states and 12th of 55 pension systems worldwide in the 2026 Marsh CFA Institute Global Pension Index, with an overall score of 73.2 (up from 67.6 in 2025). Its integrity sub-score rose to 83.5 (grade A); the gains were attributed to governance reforms, data modernisation and stronger safeguards under the 2024 Social Insurance Law."
     }
+
   ],
   "SE": [
     {
@@ -4955,7 +5043,15 @@ const NEWS = {
       "source": "IPE (Investment & Pensions Europe)",
       "pubDate": "2026-08-25",
       "summary": "Following the 1 January 2026 merger from six to three AP buffer funds, Sweden's AP2, AP3 and AP4 posted a 7.8% return in the first half of 2026, contributing SEK 167 billion and lifting buffer capital to about SEK 2.388 trillion, underpinning the pay-as-you-go income-pension system."
+    },
+    {
+      "title": "Swedish buffer funds post SEK 167 billion gain in first half of 2026",
+      "url": "https://www.ap3.se/en/nyheter/nyhetsarkiv/starkt-halvar-foer-ap2-ap3-och-ap4-167-miljarder-kronor-till-pensionssystemet",
+      "source": "AP3 (Sweden)",
+      "pubDate": "2026-09-03",
+      "summary": "Buffer funds AP2, AP3 and AP4 reported a combined first-half 2026 result of SEK 167 billion (7.8% net return) and contributed more than SEK 13 billion to cover pension-system deficits. Combined buffer capital exceeded SEK 2,388 billion at end-June 2026, reflecting the completed consolidation of the AP funds under the 2025 parliamentary decision."
     }
+
   ],
   "SG": [
     {
