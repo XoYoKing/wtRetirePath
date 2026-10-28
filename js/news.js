@@ -5407,6 +5407,13 @@ const NEWS = {
         "source": "Trovit News",
         "pubDate": "2026-08-18",
         "summary": "On 18 August 2026 the Tunisian government reopened its social security reform at the Kasbah, tasking ministers with drafting modernization texts; the multi-pillar plan would extend coverage to informal workers, farmers, the self-employed and digital platform workers, with pensions to be reformed step by step."
+    },
+    {
+      "title": "Tunisia enacts 2026-2028 wage scales, lifting SMIG and linked retirement pensions",
+      "url": "https://distantnews.com/article/tunisia-adjusts-minimum-wage-bonuses-and-pensions-for-2026-2-03kt8jne",
+      "source": "Distant News (Republika)",
+      "pubDate": "2026-04-30",
+      "summary": "Decrees published in the Official Gazette on 30 April 2026 raise the guaranteed minimum wage (SMIG) in agriculture and non-agriculture for 2026-2028 and mandate a 5% annual base-salary increase for collective-bargaining sectors; the adjustment also flows through to CNSS retirement pensions, with penalties for non-compliant employers."
     }
 
   ],
@@ -5474,6 +5481,13 @@ const NEWS = {
         "source": "Haberler.com",
         "pubDate": "2026-08-29",
         "summary": "Turkey planned mandatory Complementary Pension System (TES) faces an uncertain 2026 timeline as no draft law has reached parliament; experts warn a 3% employee plus 3% employer contribution could lift the total premium burden to 44.75%, while unions rebut claims that severance pay would be scrapped."
+    },
+    {
+      "title": "Turkey's 2026 wage adjustment raises pensions 12.19%-18.60% and lifts the lowest pension to 18,939 lira",
+      "url": "https://www.taitra.org.tw/News_Content.aspx?n=104&s=122848",
+      "source": "Taiwan External Trade Development Council (TAITRA)",
+      "pubDate": "2026-01-06",
+      "summary": "Triggered by 2025 inflation, the automatic wage-adjustment mechanism effective 15 January 2026 affects more than 16 million retirees: SSK and Bag-Kur pensions rose 12.19%, civil-service pensions 18.60% including a collective-agreement differential, and the lowest pension climbed from 20,000 to 18,939 lira from January, while the holiday bonus rose from 4,000 to 5,000 lira."
     }
 
 
@@ -5616,6 +5630,13 @@ const NEWS = {
       "pubDate": "2026-03-10",
       "summary": "Tanzania's NSSF aims to register 3.7 million self-employed people (about 85% of the labour force, or 20.98 million) under the Hifadhi scheme by June 2031, with a minimum monthly contribution of TZS 30,000 handled via mobile platforms, extending social protection to the vast informal economy."
     },
+    {
+      "title": "Tanzania's NSSF reports 592,791 informal workers enrolled in revamped Hifadhi Scheme",
+      "url": "https://streamlinefeed.co.ke/news/nssf-says-592-791-informal-workers-joined-redesigned-hifadhi-scheme",
+      "source": "Streamline Feed",
+      "pubDate": "2026-09-22",
+      "summary": "NSSF Director General Masha Mshomba told editors on 21 September 2026 that 592,791 self-employed members had joined the redesigned Hifadhi Scheme by 30 June 2026, with a target of 279,371 more in 2026/27; the scheme now allows daily, weekly or monthly contributions and added healthcare benefits, while audited fund assets reached TSh 9.8 trillion."
+    }
 
   ],
   "UA": [
@@ -5902,6 +5923,13 @@ const NEWS = {
         "source": "Investing.com / Reuters",
         "pubDate": "2026-09-10",
         "summary": "Ahead of the binding 27 October 2026 social-security referendum, support has slipped from near 60% in May to about 42-47%; JP Morgan warns cutting the retirement age to 60 would add roughly USD1 billion a year and about USD3 billion overall (4% of GDP), while the PIT-CNT union urges a yes vote."
+    },
+    {
+      "title": "Uruguay cabinet backs bill to let workers with 30 years of contributions retire at 60",
+      "url": "https://www.euros.run/article/108216/uruguay-cabinet-backs-bill-to-allow-retirement-at-60",
+      "source": "Euros (Presidency of Uruguay)",
+      "pubDate": "2026-10-12",
+      "summary": "On 12 October 2026 the Uruguayan cabinet agreed to send Parliament a bill letting workers with at least 30 years of contributions to the BPS and an AFAP retire voluntarily at 60, softening the 2023 reform that steps the normal age to 65; the 2023 schedule stays in force until Parliament passes the new law."
     }
 
   ],
@@ -5969,6 +5997,13 @@ const NEWS = {
         "source": "Vietnam.vn",
         "pubDate": "2026-08-15",
         "summary": "Under Decree 85/2026/ND-CP, Vietnam voluntary supplementary pension pillar now has 7 licensed fund managers serving 28,538 members with nearly VND221 billion in net assets (up 53% year-on-year); the decree allows investment in listed securities and lowers the government-bond floor to 40%."
+    },
+    {
+      "title": "Vietnam's retirement age keeps rising in 2026 to 61 years 6 months (men) and 57 (women)",
+      "url": "https://www.vietnam.vn/en/tiep-tuc-tang-tuoi-nghi-huu-trong-nam-2026",
+      "source": "Vietnam.vn (Vietnam Social Security)",
+      "pubDate": "2026-02-27",
+      "summary": "Under the 2019 Labor Code roadmap, Vietnam's normal retirement age rose again in 2026 to 61 years 6 months for men and 57 for women, heading to 62 by 2028 and 60 by 2035; pensions begin the month after retirement, with eligibility requiring 15 years of social-insurance contributions and payouts linked to the CPI and fund capacity."
     }
 ,
 
