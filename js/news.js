@@ -680,6 +680,13 @@ const NEWS = {
       "source": "Today in Brazil (Folha de S.Paulo)",
       "pubDate": "2026-07-09",
       "summary": "On 9 July 2026 the Supreme Court published the final procedural step ending the 'revisão da vida toda' (whole-life review) of INSS pensions under Law 9,876/1999; retirees who received court-ordered increases after 5 April 2024 may face repayment to the pre-review level, while a separate bill (PL 3379/2026, 2 July) proposes reinstating the review administratively."
+    },
+    {
+      "title": "Brazil's INSS 2026 adjustment: floor R$1,621, ceiling R$8,475.55",
+      "url": "https://www.diariodepernambuco.com.br/amp/economia/2026/01/11704905-inss-2026-beneficios-acima-do-minimo-sobem-39-veja-como-ficam-os-valores.html",
+      "source": "Diário de Pernambuco",
+      "pubDate": "2026-01-12",
+      "summary": "A joint ministry portaria published 12 Jan 2026 set the INSS benefit ceiling at 8,475.55 reais (up 3.90% on 2025 INPC) and the minimum benefit at 1,621 reais (tracking the new minimum wage, a 6.79% rise). Benefits above the minimum are corrected 3.9% (pro-rated for those granted during 2025)."
     }
 
   ],
@@ -827,6 +834,13 @@ const NEWS = {
       "source": "Employment and Social Development Canada",
       "pubDate": "2026-07-29",
       "summary": "ESDC confirmed a 1.2% cost-of-living increase to Old Age Security and the Guaranteed Income Supplement for the July–September 2026 quarter — the largest single-quarter OAS adjustment in 2026 — taking the maximum OAS to $751.97/month (65–74) and $827.17/month (75+), with a further 1.4% rise set for the October–December quarter."
+    },
+    {
+      "title": "Canada's OAS and GIS rise 1.4% for the October-December 2026 quarter",
+      "url": "https://www.canada.ca/en/services/benefits/publicpensions/old-age-security/payments.html",
+      "source": "Government of Canada",
+      "pubDate": "2026-10-28",
+      "summary": "Old Age Security and the Guaranteed Income Supplement increased 1.4% for the Oct-Dec 2026 quarter (after a 1.2% rise in the prior quarter), first paid 28 Oct 2026. Maximum OAS is 762.50 dollars/month at 65-74 and 838.75 dollars at 75+, GIS up to 1,138.90 dollars for a single pensioner; CPP is adjusted annually each January."
     }
 
   ],
@@ -1047,6 +1061,13 @@ const NEWS = {
       "source": "Xiamen Municipal Human Resources & Social Security Bureau",
       "pubDate": "2026-08-04",
       "summary": "Local social-security authorities clarified that China's progressive delayed-retirement scheme (men 60→63, female cadres 55→58, female workers 50→55 over 15 years from 2025) is proceeding on schedule, with flexible early/delayed retirement of up to three years, and the minimum contribution period will rise from 15 to 20 years from 2030 at 6 months per year."
+    },
+    {
+      "title": "China's gradual retirement-age delay reaches 60y6m for men by October 2026",
+      "url": "http://www.dlshk.gov.cn/web/shk/information/detail?id=da95cde616df42feb50aed9b9f13f7a6",
+      "source": "Dalian News (大连新闻)",
+      "pubDate": "2026-10-12",
+      "summary": "Dalian's HRSS bureau explained that, under the incremental reform effective 1 Jan 2025, a male worker's statutory retirement age had progressed to 60 years and 6 months by October 2026; the minimum contribution period stays 15 years through 2029 and then rises 6 months yearly from 2030 toward 20 years, with voluntary early or delayed retirement of up to 3 years."
     }
   ],
   "CO": [
@@ -1338,6 +1359,13 @@ const NEWS = {
       "source": "Bundesregierung",
       "pubDate": "2026-09-15",
       "summary": "After the 23 June 2026 pension-commission roadmap, the federal government confirmed the Generationenkapital sovereign buffer fund will receive its first capital injection in 2026, seeding the capital-funded supplement pillar (an extra 2% of wages from employees and employers invested in markets) to cushion post-2030 benefit gaps."
+    },
+    {
+      "title": "Germany debates mandatory funded pension component modelled on Sweden",
+      "url": "https://www.lemonde.fr/en/economy/article/2026/06/27/in-germany-debate-heats-up-over-mandatory-pension-fund-component_6754923_19.html",
+      "source": "Le Monde",
+      "pubDate": "2026-06-27",
+      "summary": "A panel of experts proposed shifting the pay-as-you-go system toward a Swedish-style mandatory funded pillar: all insured workers would contribute from 0.5% of gross salary (rising to 2% by 2031), invested in capital markets; Chancellor Merz pledged to adopt all 33 commission proposals by end-2026."
     }
   ],
   "DK": [
@@ -1627,6 +1655,13 @@ const NEWS = {
       "source": "La Moncloa",
       "pubDate": "2026-02-03",
       "summary": "Spain's contributory pensions were revalued by 2.7% for 2026, benefiting nearly 13 million pensioners and benefit recipients, with the Royal Decree-Law ratified by Congress on 26 February 2026. Minimum pensions rose by more than 7%, while non-contributory pensions and the Minimum Vital Income increased by 11.4%."
+    },
+    {
+      "title": "Spain's pension spending hits EUR 14.5bn a month as average retirement pension tops EUR 1,576",
+      "url": "https://www.surinenglish.com/spain/pension-expenditure-shows-20260925000500-nt.html",
+      "source": "SUR in English",
+      "pubDate": "2026-09-25",
+      "summary": "Social Security paid 10.5 million pensions in September 2026 at a cost of 14.5 billion euros (up 6.3% year-on-year); the average retirement pension reached 1,576 euros/month (+4.5%). Contributory pensions were revalued 2.7% for 2026 and minimum pensions by over 7%, while the standard retirement age is 66y10m, rising to 67 in 2027."
     }
   ],
   "FI": [
@@ -1772,6 +1807,13 @@ const NEWS = {
       "source": "CNAM / Securite sociale",
       "pubDate": "2026-09-01",
       "summary": "Under the 2026 Social Security Financing Law, pension spending growth is tied to wage growth and the 2026 uprating is to be announced in autumn. The government committed to a new reform balancing solvency and a minimum retirement age before 2028, leaving the system in limbo until then."
+    },
+    {
+      "title": "France 2026 social security financing law reshapes retirement and payroll rules",
+      "url": "https://www.abg-france.net/employee-benefits-in-france/french-social-law-2026-key-reforms-impacting-employers-and-payroll",
+      "source": "ABG France",
+      "pubDate": "2026-01-01",
+      "summary": "The 2026 LFSS suspends the 2023 pension reform (legal age frozen at 62y9m until 2028, effective for pensions from 1 Sept 2026) and, from 1 Jan 2027, overhauls rules combining pension receipts with work income; it also raises the CSG rate on capital income from 9.2% to 10.6%."
     }
   ],
   "GB": [
@@ -1844,6 +1886,13 @@ const NEWS = {
       "source": "UK Government / DWP",
       "pubDate": "2026-07-15",
       "summary": "For winter 2026/27 the Winter Fuel Payment is restored to most pensioners in England and Wales with annual income at or below 35,000 pounds (200 pounds under 80, 300 pounds at 80 plus), with amounts above the threshold recovered via the tax system; the Pension Credit standard minimum guarantee was uprated 4.8% to about 238 pounds per week."
+    },
+    {
+      "title": "UK Government Actuary projects 4.8% State Pension rise for 2026 under Triple Lock",
+      "url": "https://www.gov.uk/government/publications/report-to-parliament-on-the-2026-re-rating-and-up-rating-orders",
+      "source": "GOV.UK",
+      "pubDate": "2026-01-26",
+      "summary": "The Government Actuary's report on the draft 2026 up-rating order confirms the Triple Lock lifts the new State Pension by 4.8% in April 2026 (to 241.30 pounds/week), with projections showing further indexed rises through 2030 before the statutory 2.5% floor would dominate."
     }
   ],
   "GH": [
@@ -2498,6 +2547,13 @@ const NEWS = {
       "source": "The Economic Times",
       "pubDate": "2026-08-07",
       "summary": "In August 2026 the government confirmed uniform implementation of the higher EPS-95 pension following the Madras High Court and Supreme Court rulings and opened an online facility for opting in; officials also discussed lifting the EPF wage ceiling from ₹15,000 to ₹25,000, which would widen coverage and raise many pensions."
+    },
+    {
+      "title": "EPFO higher-pension claims cross 15 lakh; 1.49 lakh PPOs issued",
+      "url": "https://www.cnbctv18.com/personal-finance/epfo-update-higher-pension-claims-cross-15-lakh-new-withdrawal-rules-19966206.htm",
+      "source": "CNBC TV18",
+      "pubDate": "2026-08-05",
+      "summary": "The EPFO had received 15.24 lakh higher-pension claims (based on higher wages) with 11,595 pending as of 8 May 2026 and 1.49 lakh Pension Payment Orders issued; EPS had 85.85 lakh pensioners as of 31 March 2026. New EPF withdrawal rules set 12-month and 36-month waiting periods."
     }
   ],
   "IS": [
@@ -2714,6 +2770,13 @@ const NEWS = {
       "source": "Ministry of Health, Labour and Welfare",
       "pubDate": "2026-07-15",
       "summary": "As part of the 2026 pension system revision, Japan raised the iDeCo (personal defined-contribution) enrollment age cap from 65 to 70 and will lift contribution limits from December 2026, while the income threshold above which working pensioners see benefits suspended rose to ¥650,000 from April 2026 to encourage longer careers."
+    },
+    {
+      "title": "Japan's iDeCo reform from December 2026: join-up age raised to 70, caps lifted",
+      "url": "https://www.asahi.com/articles/ASV1732GPV17ULFA014M.html",
+      "source": "Asahi Shimbun",
+      "pubDate": "2026-11-20",
+      "summary": "From December 2026 the iDeCo personal pension raises the eligible joining age from under 65 to under 70 and lifts contribution caps: self-employed to 75,000 yen/month (from 68,000) and employees without a corporate plan to 62,000 yen/month (from 23,000); from January 2026 the interval rule for lump-sum withdrawals was lengthened from 5 to 10 years."
     }
   ],
   "KE": [
@@ -2933,6 +2996,13 @@ const NEWS = {
       "source": "The Korea Herald",
       "pubDate": "2026-01-01",
       "summary": "Effective 1 January 2026, the first pension reform in 18 years raises the contribution rate from 9% to 9.5% (heading to 13% by 2033) and the income replacement rate to 43%, grants a 12-month childbirth credit from the first child with no 50-month cap, doubles military-service credit to 12 months, and formally enshrines the state's obligation to pay benefits."
+    },
+    {
+      "title": "South Korea raises national pension premium rate to 9.5%, replacement to 43%",
+      "url": "https://en.sedaily.com/society/2025/12/31/korea-raises-national-pension-premium-rate-to-95-percent",
+      "source": "Seoul Economic Daily",
+      "pubDate": "2025-12-31",
+      "summary": "From 2026 the National Pension premium rate rises from 9% to 9.5% (and by 0.5pp yearly to 13% by 2033) while the nominal income replacement rate rises from 41.5% to 43%; the reform also expands childbirth and military-service contribution credits and enshrines the state's obligation to pay benefits."
     }
   ],
   "KW": [
@@ -5856,6 +5926,13 @@ const NEWS = {
       "source": "SSA Office of the Chief Actuary",
       "pubDate": "2026-06-25",
       "summary": "The 2026 Trustees Report projects the Old-Age and Survivors Insurance (OASI) trust fund will pay 100% of scheduled benefits only until 2033, after which continuing income covers about 77%; the combined OASDI fund depletion slips to 2034 (about 81% payable)."
+    },
+    {
+      "title": "US Social Security sets 3.6% COLA for 2027, OASI trust fund projected to empty in 2032",
+      "url": "https://www.independent.co.uk/us/money/social-security-cola-2027-b3065846.html",
+      "source": "The Independent",
+      "pubDate": "2026-10-15",
+      "summary": "The SSA announced a 3.6% cost-of-living adjustment for 2027 (up from 2.8% in 2026), effective 31 Dec 2026 - the third-largest in nine years. Separately, the 2026 Trustees Report projects the OASI trust fund will be exhausted in 2032, implying a potential 22% benefit cut if unreformed."
     }
 
   ],
@@ -6078,6 +6155,13 @@ const NEWS = {
       "source": "Moneyweb",
       "pubDate": "2026-09-15",
       "summary": "Discovery data shows 46% of its retirement-fund members took a two-pot savings withdrawal in 2026, up from 43% in 2025, while the amount available dropped from 36% to 27%; financial stress and gambling were cited as key drivers."
+    },
+    {
+      "title": "South Africa lifts retirement tax thresholds in 2026 Budget; Two-Pot preservation improving",
+      "url": "https://charteredeb.co.za/2026/07/significant-retirement-risk-and-investment-developments",
+      "source": "Chartered Employee Benefits",
+      "pubDate": "2026-07-01",
+      "summary": "From 1 March 2026 the annual deductible retirement contribution ceiling rose from 350,000 to 430,000 rand, the retirement interest de minimis from 247,500 to 360,000 rand, the living-annuity commutation threshold from 125,000 to 150,000 rand, and the tax-free investment annual limit from 36,000 to 46,000 rand; Old Mutual reported a 33% improvement in preservation since the Two-Pot system's inception."
     }
   ]
 };
