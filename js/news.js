@@ -149,6 +149,13 @@ const NEWS = {
       "source": "Ambito",
       "pubDate": "2026-06-01",
       "summary": "ANSES confirmed a 2.6% mobility increase for June 2026 plus a half-yearly bonus (aguinaldo) and a AR$70,000 extraordinary bonus for minimum-pension recipients, lifting a minimum pensioner's total to about AR$675,212; the update follows Decree 274/24's monthly CPI-based mobility formula."
+    },
+    {
+      "title": "Argentina formalizes October 2026 pension and family-allowance increase",
+      "url": "http://www.eltribuno.com/salta/2026-9-23-9-10-0-jubilaciones-pensiones-y-asignaciones-oficializaron-los-aumentos-para-octubre",
+      "source": "El Tribuno (Salta)",
+      "pubDate": "2026-09-23",
+      "summary": "Argentina's ANSeS formalized the October 2026 adjustment for pensions, family allowances and the PUAM at 1.66% based on August INDEC CPI; the guaranteed minimum pension rises to 435,748.51 pesos and the universal pension for the elderly to 348,598.81 pesos, with contribution bases also reset."
     }
   ],
   "AT": [
@@ -221,6 +228,13 @@ const NEWS = {
       "source": "WIENPRESS",
       "pubDate": "2026-06-18",
       "summary": "The government's pension package pairs the new Teilpension with a statutory sustainability mechanism from 2030 - a legally binding spending cap that, if savings fall short, obliges measures such as raising the retirement age. Subsidised partial-retirement duration is shortened from five to three years."
+    },
+    {
+      "title": "OECD urges Austria to link retirement age to life expectancy and curb pension spending",
+      "url": "https://www.oecd.org/en/publications/oecd-economic-surveys-austria-2026_7cea027b-en/full-report/executive-summary_c9dca28f.html",
+      "source": "OECD",
+      "pubDate": "2026-02-10",
+      "summary": "The OECD 2026 Economic Survey for Austria warns pension spending is among the highest in the OECD and will keep rising to 2035, recommending linking the statutory retirement age to life-expectancy gains, slightly lowering accrual rates and differentiating indexation between low and high pensions."
     }
   ],
   "AU": [
@@ -460,6 +474,13 @@ const NEWS = {
       "source": "NN (Belgium)",
       "pubDate": "2026-01-01",
       "summary": "In 2026 and 2028 a 'centime indexation' applies to statutory pensions above EUR 2,000: once the pivot index is exceeded, increases are capped at EUR 40 gross per month instead of a percentage. The legal pension age stays 66 (67 from 2030); the new pension bonus and the centime rule start in 2026, with most other changes from 2027."
+    },
+    {
+      "title": "Belgium approves contested centenindex wage cap and 2027 pension reform",
+      "url": "https://www.brusselstimes.com/2160387/belgium-caps-automatic-wage-indexation-tbtb",
+      "source": "The Brussels Times",
+      "pubDate": "2026-05-29",
+      "summary": "Belgium's federal parliament approved a contested package including the centenindex, which fully indexes only the first 2,000 euros of pensions and benefits from June 2026 and again in 2028, plus a 2027 pension reform cutting payouts for early retirees short on career years and rewarding work beyond retirement age."
     }
   ],
   "BG": [
@@ -534,6 +555,13 @@ const NEWS = {
       "summary": "Bulgaria entered the euro area on 1 January 2026, switching all social-security contributions and pensions to euros. The 2026 budget indexes all pre-2026 pensions by 7–8% under the 'Swiss rule' from 1 July, lifts the average pension to about €541, sets the minimum at €347.51 and the maximum at €1,738.40, and steps retirement ages to 62y6m/36y10m (women) and 64y9m/39y10m (men)."
     }
 ,
+    {
+      "title": "Bulgaria begins paying 7.8% higher pensions under Swiss-rule indexation",
+      "url": "https://www.bta.bg/en/news/1162279-payment-of-increased-pensions-begins",
+      "source": "BTA (Bulgarian News Agency)",
+      "pubDate": "2026-07-07",
+      "summary": "From 7 July 2026 Bulgaria began paying pensions indexed 7.8% under the Swiss rule for all retirement pensions granted by end-2025; the minimum old-age pension rose from 322.37 to 347.51 euros and the social old-age pension to 183.81 euros."
+    }
 
   ],
   "BH": [
@@ -608,6 +636,13 @@ const NEWS = {
       "summary": "Under Law 14 of 2022, the employer's SIO pension contribution for Bahraini private-sector staff rose one percentage point to 18% in January 2026 and steps to 20% by 2028, while the employee share stays at 8% (7% pension + 1% unemployment). Expatriates' end-of-service benefit is now remitted monthly to the SIO at 4.2% (first 3 years) or 8.4% of wage."
     }
 ,
+    {
+      "title": "Bahrain enacts Decree-Law 44/2026 setting minimum social-insurance contribution floor",
+      "url": "https://www.lexisnexis.com/blogs/amppage/192/bahrain-king-issues-decree-law-on-minimum-social-insurance-contributions",
+      "source": "LexisNexis / Gulf Digital News",
+      "pubDate": "2026-10-19",
+      "summary": "Bahrain's King issued Decree-Law No. 44/2026 inserting Article 19 bis into the Social Insurance Law, setting a minimum contribution base decided by Cabinet for old-age, disability and death branches, applicable to first-time insureds to curb low contributions against minimum pension payouts."
+    }
 
   ],
   "BR": [
@@ -762,6 +797,13 @@ const NEWS = {
       "summary": "The 2026/27 budget holds the universal Old Age Pension at P1,400 a month for citizens aged 65+, with the government reaffirming a future rise to P1,800 and lowering the eligibility age to 60 'when finances allow'. A new P300 monthly child-support grant starts in April 2026 (backdated to 1 April), and cumulative old-age payouts reached about P2.56 billion over the past 12 months."
     }
 ,
+    {
+      "title": "Botswana's BPOPF nears 47% onshore investment target under PFR2",
+      "url": "https://na.co.bw/bpopf-moves-closer-to-onshore-investment-target/",
+      "source": "NA (Botswana)",
+      "pubDate": "2026-07-15",
+      "summary": "Botswana's largest fund, the BPOPF, says it has reached a 46.21% onshore allocation and expects 47% of assets invested domestically by end-2026, on track for NBFIRA's PFR2 localisation ladder of 44% in 2025, 47% in 2026 and 50% in 2027."
+    }
 
   ],
   "CA": [
@@ -914,6 +956,13 @@ const NEWS = {
       "source": "Swiss Reinsurance Company (SRB)",
       "pubDate": "2026-01-01",
       "summary": "Under AHV 21, the 13th AHV old-age pension is introduced from December 2026, women's reference age rises by three months to 64 years and 6 months in 2026 (65 for both sexes from 2028), and the BVG minimum interest rate holds at 1.25% for 2026 while AHV/IV/EO contribution rates stay unchanged at 10.6%."
+    },
+    {
+      "title": "Switzerland votes 29 November on VAT rise to co-finance 13th AHV pension",
+      "url": "https://www.bluewin.ch/en/news/switzerland/the-13th-ahv-pension-is-coming-now-switzerland-is-voting-on-higher-taxes-li.3632904",
+      "source": "Bluewin (Switzerland)",
+      "pubDate": "2026-10-20",
+      "summary": "A mandatory referendum on 29 November 2026 will decide whether to raise VAT (standard 8.1% to 8.5%, hotel rate 3.8% to 4%) to co-finance the new 13th AHV pension; the first extra monthly payment lands in December 2026 regardless, with about 2.5 million pensioners affected."
     }
 
 
@@ -988,6 +1037,13 @@ const NEWS = {
       "source": "AMR Contadores Auditores",
       "pubDate": "2026-08-01",
       "summary": "From August 2026 remunerations the employer's additional pension contribution under Law 21.735 rises from 1% to 3.5% (0.1% to the individual AFP account, 0.9% to the new Protected-Return Contribution, 2.5% to the Autonomous Pension Protection Fund). The Disability and Survivors Insurance (SIS) rate moved to 2.0% from July 2026 salaries, and the new social-insurance old-age pension pays 0.1 UF per contributory year (max 2.5 UF) to those aged 65 with 20 (men)/10 (women) years of contributions."
+    },
+    {
+      "title": "Chile's pension regulator issues new AFP investment regime with 10 generational funds",
+      "url": "https://www.riotimesonline.com/chile-rewrites-the-rules-for-how-pension-funds-invest",
+      "source": "The Rio Times",
+      "pubDate": "2026-09-01",
+      "summary": "Chile's pension regulator (SP) issued Resolution 1195 on 1 September 2026, replacing the A to E funds with ten life-cycle generational funds, repealing the minimum-return rule and widening performance bands; managers must file initial allocations by 1 March 2027 and the regime takes effect 1 April 2027."
     }
 
   ],
@@ -1140,6 +1196,13 @@ const NEWS = {
       "source": "The Rio Times",
       "pubDate": "2026-08-26",
       "summary": "On 25 August 2026 the Constitutional Court upheld most of Law 2381 of 2024 by seven votes to one, shielding individual savings as private property and setting entry into force for the upheld articles at 1 April 2027. A Banco de la República fund will manage affiliates' resources, while the opposition (Centro Democrático / Uribe) drafted a counter-reform proposing to close Colpensiones to new members and let private funds manage about COP 550 trillion (US$173.5bn) in savings."
+    },
+    {
+      "title": "Colombia's Finance Ministry opens fiscal-impact proceeding over pension reform shortfall",
+      "url": "https://co.ibtimes.com/pension-reform-fiscal-impact-colombia-2099",
+      "source": "International Business Times (Colombia)",
+      "pubDate": "2026-10-15",
+      "summary": "Colombia's Finance Ministry opened a fiscal-impact proceeding on 15 October 2026 arguing implementation of Law 2381 could require nearly 5 trillion pesos not in the 2027 budget; the court gave 30 working days to substantiate, while Colpensiones separately seeks to delay the effective date to 1 April 2028."
     }
 
   ],
@@ -1286,6 +1349,13 @@ const NEWS = {
       "source": "General News CZ",
       "pubDate": "2025-09-24",
       "summary": "From 1 January 2026 the average self-funded pension rises CZK 668 a month (3.1%): the flat component increases CZK 240 and the earnings-related part 2.6%. The minimum old-age pension climbs to CZK 9,800, and newly granted pensions begin growing more slowly as the 2024 reform phases in (income-credit rate easing from 100% toward 90% by 2035)."
+    },
+    {
+      "title": "Czech employers must fund pension savings for high-risk workers from 2026",
+      "url": "https://english.radio.cz/node/8853872",
+      "source": "Radio Prague International",
+      "pubDate": "2026-01-05",
+      "summary": "From 1 January 2026 Czech employers must contribute 4% of gross pay into supplementary pension savings (DPS) for employees in category-three high-risk jobs who work at least three qualifying shifts a month, letting them retire early without penalising the state pension."
     }
 
   ],
@@ -1438,6 +1508,13 @@ const NEWS = {
       "source": "DenOffentlige.dk",
       "pubDate": "2026-08-19",
       "summary": "The 2026 folkepension rose 4.8%, the largest increase in 16 years, lifting a single pensioner's total to up to DKK 16,273 a month before tax; the tax-free senior premium was raised to DKK 53,901 (year one) and DKK 32,074 (year two). At an 19 August 2026 press conference the government pledged an extra DKK 1,000 a month for folkepensioners with the least income."
+    },
+    {
+      "title": "Denmark drops plan to tighten senior pension rules after party veto",
+      "url": "https://cphpost.dk/2026-10-21/general/plans-to-tighten-denmarks-senior-pension-rules-dropped-after-political-opposition",
+      "source": "The Copenhagen Post",
+      "pubDate": "2026-10-21",
+      "summary": "Denmark's government abandoned its plan to tighten senior pension (seniorpension) eligibility after parties to the 2019 agreement invoked their veto; the proposal would have assessed work capacity against all jobs and aimed to save 800 million kroner by 2030, while the separate Arne early-retirement pension rises about 3,000 kroner a month."
     }
 
   ],
@@ -1511,6 +1588,13 @@ const NEWS = {
       "source": "European Pensions",
       "pubDate": "2026-08-04",
       "summary": "A Norstat survey for Luminor found 31% of Estonians who withdrew second-pillar savings would like to resume contributing; a bill before the Riigikogu would cut the rejoin wait from 10 to 5 years, with partial pre-retirement withdrawals also planned."
+    },
+    {
+      "title": "Estonia's average old-age pension rises 5.3% to 860 euros from April",
+      "url": "https://news.err.ee/1609966040/average-monthly-pension-to-rise-5-3-percent-to-860-from-april",
+      "source": "ERR News (Estonia)",
+      "pubDate": "2026-03-13",
+      "summary": "From 1 April 2026 Estonia indexed state pensions by 5.3%, lifting the average old-age pension to 860 euros a month and the national pension to 414.10 euros, affecting about 328,000 pensioners; the tax-free threshold for pensioners stays at 776 euros a month."
     }
   ],
   "EG": [
