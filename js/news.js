@@ -2122,6 +2122,13 @@ const NEWS = {
       "source": "The Indicator",
       "pubDate": "2026-01-01",
       "summary": "About 2.5 million Greek pensioners received a 2.4% increase paid early in December 2025, with the EAS solidarity contribution threshold indexed up to €1,469.85. A new personal-difference mechanism lets more than 670,000 retirees receive a real increase for the first time, and an annual €300 supplement is paid each November to roughly 1.87 million vulnerable citizens."
+    },
+    {
+      "title": "Greece enacts Law 5327/2026 overhauling occupational pension framework",
+      "url": "https://www.zeya.com/index%2ephp/newsletters/new-law-53272026-strengthening-occupational-insurance-and-collective-pension-savings",
+      "source": "Zepos & Yannopoulos",
+      "pubDate": "2026-09-08",
+      "summary": "Greece's new Law 5327/2026, published in the Government Gazette on 28 August 2026, modernises the second-pillar occupational pension system. It introduces Open Occupational Pension Funds (Open TEA) and Group Occupational Retirement Insurance Products (OAPES), makes contributions fully tax-deductible (up to EUR 35,000 a year for the self-employed and 35% of income for employees), and guarantees free portability of vested rights between providers."
     }
 
   ],
@@ -2195,6 +2202,13 @@ const NEWS = {
         "source": "MPFA",
         "pubDate": "2026-03-23",
         "summary": "The Financial Secretary approved the eMPF Platform fee for 2026-27 to fall from 37 to 29 basis points of assets under management, a 21.6 percent cut that must be fully passed through to all MPF members. The eMPF rollout across all 12 trustees completed in early 2026, overseeing more than HK$1.5 trillion in retirement savings for about 5 million members, with further fee cuts to 20-25 bps targeted within five years."
+    },
+    {
+      "title": "MPFA and eMPF Company publish 2025-26 annual reports",
+      "url": "https://www.mpfa.org.hk/en/info-centre/press-releases/20260901",
+      "source": "Mandatory Provident Fund Schemes Authority (Hong Kong)",
+      "pubDate": "2026-09-01",
+      "summary": "Hong Kong's MPF assets exceeded HK$1.5 trillion as at the end of March 2026, and annual total contributions reached HK$91.23 billion in 2025-26. All 24 MPF schemes had completed migration to the centralised eMPF Platform by April 2026, covering more than 280,000 employers and nearly 5 million members."
     }
 
   ],
@@ -2412,6 +2426,13 @@ const NEWS = {
       "source": "Tempo",
       "pubDate": "2026-03-01",
       "summary": "BPJS Ketenagakerjaan raised the Jaminan Pensiun retirement age from 58 to 59 under Government Regulation 45/2015, part of a path that began at 56 in 2015 and adds one year every three years toward 65 by 2043. From the March 2026 contribution period the wage ceiling is IDR 11,086,300 and monthly benefits range IDR 411,400–4,932,300."
+    },
+    {
+      "title": "Indonesia's pension savings claims rise 22% in first half of 2026",
+      "url": "https://www.asia-pacific-solidarity.net/news/2026-07-28/indonesias-pension-savings-claims-rise-22-first-half-unrelated-layoffs.html",
+      "source": "Asia-Pacific Solidarity Network (Jakarta Globe)",
+      "pubDate": "2026-07-28",
+      "summary": "Indonesia's BPJS Ketenagakerjaan paid 2 million Old-Age Security (JHT) claims worth IDR 30 trillion ($1.7 billion) in the first half of 2026, up 22.6% year-on-year, while stressing the rise was not mainly driven by layoffs. The agency also paid Job Loss Insurance (JKP) benefits of IDR 602.67 billion to more than 44,000 workers in the same period."
     }
 
   ],
@@ -2558,6 +2579,13 @@ const NEWS = {
       "source": "LegalClarity",
       "pubDate": "2026-03-29",
       "summary": "Finance Minister Bezalel Smotrich denied reports of gradually raising the retirement age to 70, saying the issue 'is not on the agenda'; the statutory age stays at 67 for men and 62–65 for women by birth cohort, with an absolute eligibility age of 70. The 2026 basic old-age pension is NIS 1,838 for a single person and NIS 2,762 for a couple, with 57.5% of qualifying pension income tax-free."
+    },
+    {
+      "title": "Israel's National Insurance publishes 2026 benefit rates",
+      "url": "http://www.btl.gov.il/English%20Homepage/About/PressReleases/Pages/idkonkitzvaot2025.aspx",
+      "source": "Bituach Leumi (National Insurance Institute)",
+      "pubDate": "2026-01-15",
+      "summary": "Israel's National Insurance indexed CPI-linked benefits for 2026: the basic old-age pension rose by 2.4% to NIS 1,838 a month for an individual and NIS 2,762 for a couple, with an 80-plus age increment of NIS 103, while a seniority bonus can lift the individual amount to about NIS 2,757."
     }
 
   ],
@@ -3892,6 +3920,13 @@ const NEWS = {
         "source": "LatinNews",
         "pubDate": "2026-06-10",
         "summary": "Mexico's Chamber of Deputies approved a reform creating a new public pension fund: workers' retirement sub-account resources transfer to a Banxico-trusteed fund at age 70 (state workers at 75), aiming to deliver pensions equal to 100 percent of pre-retirement salary up to a capped monthly amount. The bill now moves to the Senate."
+    },
+    {
+      "title": "Mexico's IMSS tightens Modalidad 40 pension rules",
+      "url": "https://elpais.com/mexico/2026-10-22/cambios-en-la-modalidad-40-del-imss-como-afecta-a-la-pension-de-los-trabajadores-en-mexico.html",
+      "source": "EL PAÍS",
+      "pubDate": "2026-10-22",
+      "summary": "Mexico's social security institute (IMSS) tightened the voluntary Modalidad 40 pension scheme in October 2026: new entrants may contribute only on their last registered salary base plus one UMA (about MXN 117.31 a day in 2026), retroactive payments are abolished from 22 October 2026, and existing members keep their accrued rights and conditions."
     }
 
   ],
@@ -4112,6 +4147,13 @@ const NEWS = {
         "source": "Belastingdienst",
         "pubDate": "2026-01-01",
         "summary": "The Dutch state pension (AOW) payable age remains 67 in 2026 and 2027, then rises to 67 years and 3 months from 2028, indexed to life expectancy. Workplace schemes continue transitioning to the new defined-contribution personal-pot model under the Future Pensions Act, with all funds required to switch by 1 January 2028."
+    },
+    {
+      "title": "Dutch AOW age stays at 67 through 2027, set to rise in 2028",
+      "url": "https://taxsavers.nl/en/pension/retirement",
+      "source": "TaxSavers",
+      "pubDate": "2026-08-06",
+      "summary": "Based on the latest CBS life-expectancy projection, the Netherlands confirmed the AOW state pension age remains 67 in 2026 and 2027 and will rise to 67 years and 3 months from 2028 to 2031. From the AOW age, the first income-tax bracket drops from 35.75% to 17.85%, and a full single AOW is EUR 1,662.16 a month from July 2026."
     }
 
   ],
@@ -4331,6 +4373,13 @@ const NEWS = {
         "source": "Retirement Commission",
         "pubDate": "2026-03-27",
         "summary": "From 1 April 2026 the default KiwiSaver contribution rate rose to 3.5 percent (from 3 percent) for both employees and employers, rising again to 4 percent from 1 April 2028. The Retirement Commission found the increase will make retirement funds last about 30 percent longer for median earners, though low-income and self-employed members gain less after the government contribution was halved."
+    },
+    {
+      "title": "KiwiSaver default rate rises to 3.5% from 1 April 2026",
+      "url": "https://www.ird.govt.nz/kiwisaver-changes",
+      "source": "Inland Revenue (New Zealand)",
+      "pubDate": "2026-04-01",
+      "summary": "New Zealand's KiwiSaver default employee and employer contribution rates rose from 3% to 3.5% on 1 April 2026 and will reach 4% on 1 April 2028. From April 2026, 16- and 17-year-olds qualify for employer contributions, while the government contribution was halved to 25 cents per dollar (max NZD 260.72) from July 2025."
     }
 
   ],
@@ -4477,6 +4526,13 @@ const NEWS = {
       "source": "Today Times Live",
       "pubDate": "2026-07-31",
       "summary": "The SBS published a draft rule giving 1.8 million AFP members a six-month window from October 2026 to March 2027 to switch from salary-based to fund-based commissions, taking effect June 2027. Salaried fees run 1.47%-1.69% of pay; fund-based fees 0.68%-1.25% a year, with a four-year mixed period before the fund-based charge applies in full from 2031."
+    },
+    {
+      "title": "Peru's SBS to diversify AFP products and let members switch commission type",
+      "url": "https://aders-peru.org/stability-and-innovation-sbs-outlines-future-of-perus-pension-system-amidst-regulatory-shifts",
+      "source": "ADERS-Peru",
+      "pubDate": "2026-10-15",
+      "summary": "Peru's banking and pension regulator (SBS) will issue a new framework by November 2026 to let pension fund managers (AFPs) offer more flexible products and plans to admit new competitors from 2027. More than 1.8 million AFP members may choose between salary-based and balance-based commissions from 14 December 2026 to 14 May 2027, with a seven-year hybrid transition."
     }
   ],
   "PH": [
@@ -4549,6 +4605,13 @@ const NEWS = {
         "source": "Social Security System",
         "pubDate": "2026-09-02",
         "summary": "On its 69th anniversary the SSS reported releasing P205.56 billion in benefits from January to July 2026, with the average basic monthly pension at P5,704. The Pension Reform Program continued its multi-year increases (retirement and disability pensions up 10 percent, survivor pensions up 5 percent), and the fund's investment portfolio reached P1.29 trillion."
+    },
+    {
+      "title": "Philippines SSS grants 10% pension increase with no contribution hike",
+      "url": "https://www.dof.gov.ph/press-releases/bigger-pensions-and-better-member-loans-sss-translates-record-performance-to-stronger-member-benefits",
+      "source": "Department of Finance (Philippines)",
+      "pubDate": "2026-02-26",
+      "summary": "The Social Security System (SSS) will raise retirement and disability pensions by 10% and survivor pensions by 5% in 2026 under its three-year Pension Reform Program, with no member contribution increase. SSS reserves reached PHP 1.065 trillion in 2025 with a record PHP 142.97 billion net income, and it launched a micro-loan programme for pensioners."
     }
 
   ],
@@ -5059,6 +5122,13 @@ const NEWS = {
       "source": "Izvestia",
       "pubDate": "2026-02-24",
       "summary": "The Social Fund reported the nationwide average pension rose by RUB 2,079 to RUB 25,254 as of 1 January 2026 (non-working pensioners RUB 25,678, working RUB 23,279); Chukotka recorded the highest regional average at RUB 41,932."
+    },
+    {
+      "title": "Russia stages 2026 pension indexation across categories",
+      "url": "https://en.iz.ru/en/2017668/naina-kurbanova/what-will-change-russians-2026",
+      "source": "Izvestia",
+      "pubDate": "2026-01-01",
+      "summary": "Russia indexed insurance pensions by 7.6% from 1 January 2026 (fixed payment rising to 9,584.69 rubles and the individual pension coefficient to 156.76 rubles, lifting the average old-age pension to about 27,000 rubles), social pensions by 6.8% from 1 April, and military pensions by 4% from 1 October."
     }
   ],
   "SA": [
@@ -5277,6 +5347,13 @@ const NEWS = {
         "source": "CPF Board",
         "pubDate": "2026-02-13",
         "summary": "As part of Budget 2026, Singapore's CPF Board will introduce a new voluntary, low-cost lifecycle investment scheme in the first half of 2028, with two to three reputable providers offering a small number of diversified products whose portfolios auto-rebalance from equities to bonds and are phased out by a target retirement date."
+    },
+    {
+      "title": "Singapore Budget 2026 boosts CPF retirement adequacy",
+      "url": "https://www.cpf.gov.sg/member/infohub/news/cpf-related-announcements/budget-highlights-2026",
+      "source": "Central Provident Fund Board (Singapore)",
+      "pubDate": "2026-02-12",
+      "summary": "Singapore's FY2026 Budget grants a CPF top-up of up to SGD 1,500 in December 2026 to citizens aged 50 and above with lower retirement savings, raises senior-worker CPF contribution rates from January 2027, and will introduce a low-cost lifecycle investment scheme in 2028; the matched retirement savings scheme was expanded in 2026."
     }
 
   ],
@@ -5495,6 +5572,13 @@ const NEWS = {
       "source": "Thai Chinese News / SEC",
       "pubDate": "2026-08-03",
       "summary": "The Securities and Exchange Commission launched a public consultation on revising the Provident Fund Act 1987 as part of its five-year effectiveness review, closing 2 October 2026. Proposed changes cover default investment portfolios, clearer disclosure and broader member servicing to improve retirement adequacy."
+    },
+    {
+      "title": "Thailand SEC proposes stronger provident fund member protection",
+      "url": "https://www.sec.or.th/EN/Pages/News_Detail.aspx?Lang=EN&NewsNo=189&NewsYear=2026",
+      "source": "Securities and Exchange Commission (Thailand)",
+      "pubDate": "2026-09-11",
+      "summary": "Thailand's SEC sought public comments until 11 October 2026 on a draft ministerial regulation requiring provident fund articles to include member-information disclosure to asset managers and higher voting thresholds for changes that materially affect members' benefits, with a one-year transition for existing funds."
     }
   ],
   "TN": [
