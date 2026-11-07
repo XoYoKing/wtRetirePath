@@ -3343,8 +3343,14 @@ const NEWS = {
       "source": "memleket.kz",
       "pubDate": "2026-09-01",
       "summary": "As of 1 September 2026, Kazakhstanis' pension savings at the UAPF surpassed 28.47 trillion tenge, up 13.4% year on year, across 19.01 million accounts, a 6.3% increase. Employer compulsory contributions reached 1,348.82 billion tenge, nearly 2.5 times a year earlier, while the average monthly old-age payout was 39,008 tenge."
-    }
-
+    },
+      {
+    "title": "Kazakhstan opens pension savers' portfolios to private managers from September 2026",
+    "url": "https://www.gov.kz/memleket/entities/abay/press/news/details/1297123?lang=ru",
+    "source": "Government of Kazakhstan (gov.kz)",
+    "pubDate": "2026-09-09",
+    "summary": "From 7 September 2026, amendments to the Social Code let UAPF contributors transfer up to 100% of their savings — including compulsory, occupational and voluntary contributions — to licensed private investment portfolio managers, choosing among conservative, moderate and high-risk portfolios via the invest.enpf.kz portal."
+  }
   ],
   "LK": [
         {
@@ -3490,7 +3496,14 @@ const NEWS = {
       "source": "European Pensions / Swedbank",
       "pubDate": "2026-09-18",
       "summary": "Swedbank data shows about 514,000 Lithuanians (37% of joiners) left the second pillar in the first exit wave, cutting assets from EUR 10.6bn at end-2025 to EUR 6.8bn in Q2 2026; total payouts reached EUR 4.2bn, of which EUR 2.9bn went to households (~3.4% of GDP)."
-    }
+    },
+      {
+    "title": "Lithuanians withdraw over €3 billion from second-pillar pension funds",
+    "url": "https://www.lrt.lt/en/news-in-english/19/2963125/lithuanians-withdraw-eur3-billion-or-3-of-gdp-from-pension-funds",
+    "source": "LRT (Lithuanian National Radio)",
+    "pubDate": "2026-09-12",
+    "summary": "More than 500,000 people have withdrawn over €3 billion (about 3% of GDP) since the two-year opt-out window opened in January 2026; the Bank of Lithuania governor said the spending cushions the hit from rising energy prices."
+  }
   ],
   "LU": [
         {
@@ -3636,7 +3649,14 @@ const NEWS = {
       "source": "Inbox.lv",
       "pubDate": "2026-09-25",
       "summary": "The Welfare Ministry's draft amendment to the State Funded Pensions Act (public consultation to 8 October 2026) would expand second-pillar payout choices from two to six, let people delay the decision by three years, and let those with at least 10 minimum wages keep funds invested or take regular payments."
-    }
+    },
+      {
+    "title": "Latvia's INDEXO reports second-pillar pension assets up 18% in first half of 2026",
+    "url": "https://financialreports.eu/filings/indexo/interim-quarterly-report/2026/45431847",
+    "source": "INDEXO / FinancialReports.eu",
+    "pubDate": "2026-08-30",
+    "summary": "Pension manager INDEXO said second-pillar assets under management grew 18.4% year-on-year to €1,543 million by end-Q2 2026, driven by contributions and investment returns despite a 2.5% drop in client numbers amid the opt-out wave."
+  }
   ],
   "MA": [
         {
@@ -4158,8 +4178,14 @@ const NEWS = {
         "source": "Vanguard News",
         "pubDate": "2026-07-22",
         "summary": "The National Pension Commission proposed amending the Pension Reform Act 2014 to raise the statutory employer pension contribution only (currently 10 percent of pay, with employees at 8 percent), but organised private-sector groups rejected the plan, warning of job losses and higher inflation. PenCom noted only 8 of 36 states comply with the contributory scheme, while industry assets hit a record N31.32 trillion in May 2026."
-    }
-
+    },
+      {
+    "title": "Nigeria to launch Minimum Pension Guarantee on 10 November after 12-year delay",
+    "url": "https://businesspost.ng/general/pencom-to-launch-minimum-pension-guarantee-november-10-after-12-year-delay/",
+    "source": "Business Post Nigeria",
+    "pubDate": "2026-09-18",
+    "summary": "PenCom will launch the long-delayed Minimum Pension Guarantee on 10 November 2026, setting a payment floor for low-income retirees; President Tinubu also unveiled the PenCare healthcare programme and a ₦758 billion bond for accrued pension rights."
+  }
   ],
   "NL": [
     {
@@ -4384,8 +4410,14 @@ const NEWS = {
         "source": "My Republica",
         "pubDate": "2026-05-06",
         "summary": "An ordinance amended the EPF, CIT and contribution-based Social Security Acts to let the three state-run pension funds invest in mutual funds, private equity and venture capital, beyond their traditional deposits, government bonds and hydropower shares. The EPF manages over Rs 500 billion, the CIT nearly Rs 300 billion and the SSF over Rs 102 billion as of February 2026."
-    }
-
+    },
+      {
+    "title": "Nepal moves to let EPF invest in mutual funds and venture capital via Parliament bill",
+    "url": "https://ansuinvest.com/news/view/1037",
+    "source": "Ansu Invest",
+    "pubDate": "2026-04-20",
+    "summary": "A bill registered at the Parliament Secretariat to amend the EPF Act 2019 would give Nepal's largest retirement fund its broadest mandate yet — capital-market instruments, ICT projects and SEBON-approved mutual, private equity and venture capital funds."
+  }
   ],
   "NZ": [
     {
@@ -4537,8 +4569,14 @@ const NEWS = {
         "source": "Muscat Daily",
         "pubDate": "2026-06-22",
         "summary": "Oman's Social Protection Fund issued Decision R/12/2026 clarifying that the old-age pension becomes payable only once an insured person's service has ended, even after reaching the statutory retirement age. A companion decision set 22 June 2026 as the effective date for transferring assets from seven legacy government pension funds into the unified SPF."
-    }
-
+    },
+      {
+    "title": "Oman climbs nine points in 2026 Global Marsh Pension Index to Category B",
+    "url": "https://tscogroup.com/oman-climbs-nine-points-in-2026-global-marsh-pension-index/oman-climbs-nine-points-in-2026-global-marsh-pension-index-3",
+    "source": "TSCO Group / ONA",
+    "pubDate": "2026-10-26",
+    "summary": "Oman's pension system rose nine points to 69.9/100 in the 2026 Global Marsh Pension Index, advancing from Category C+ to B (21st of 55); adequacy reached Category A at 80.3 points."
+  }
   ],
   "PE": [
     {
@@ -4769,8 +4807,14 @@ const NEWS = {
         "source": "FYE Pakistan",
         "pubDate": "2026-09-05",
         "summary": "The federal cabinet approved a 15 percent increase in formula-based EOBI pensions and raised the minimum monthly pension from Rs 10,000 to Rs 11,500, effective 1 January 2026 with arrears paid in September 2026 to about 500,000 pensioners. A landmark 14.5-year service rule lets workers with 14 years 6 months of contributions qualify as having completed 15 years."
-    }
-
+    },
+      {
+    "title": "Pakistan extends EOBI pension and social security to agriculture, domestic and informal workers",
+    "url": "https://dailythedestination.com/labor-day-government-measures-for-workers",
+    "source": "The Destination",
+    "pubDate": "2026-05-01",
+    "summary": "On Labour Day the government said the minimum EOBI pension for private-sector retirees rose from ₨10,000 to ₨11,500 (a 15% formula increase) and confirmed plans to extend EOBI and social security to agriculture, domestic and informal-sector workers."
+  }
   ],
   "PL": [
     {
@@ -4842,8 +4886,14 @@ const NEWS = {
         "source": "Expat Essentials",
         "pubDate": "2026-03-01",
         "summary": "From 1 March 2026 Poland's statutory minimum old-age pension rose to PLN 1,978.49 gross per month, alongside the 13th and an income-tested 14th pension supplement. The standard retirement age remains 60 for women and 65 for men, with a 20- or 25-year insurance record required for the guarantee."
-    }
-
+    },
+      {
+    "title": "Poland's planned second 2026 pension increase looks unlikely as inflation stays low",
+    "url": "https://polandradar.com/second-pension-increase-2026-looks-increasingly-unlikely",
+    "source": "Poland Radar",
+    "pubDate": "2026-09-10",
+    "summary": "After March 2026 pensions rose 5.3% and the minimum pension reached 1,978.49 zł, a proposed September top-up now looks unlikely: H1 inflation of 2.7% is well below the 5% trigger and the enabling bill has stalled in parliament."
+  }
   ],
   "PT": [
     {
@@ -5061,8 +5111,14 @@ const NEWS = {
         "source": "Business Review",
         "pubDate": "2026-04-20",
         "summary": "Romania's mandatory private pension funds (Pillar II) held RON 212.55 billion at end-March 2026, up about 33 percent year-on-year, with more than 8.51 million enrolled participants. The contribution rate rose to 5.25 percent from 1 January 2026 under the 2025 pension reform, climbing further to 6 percent in 2027."
-    }
-
+    },
+      {
+    "title": "Romania's top court upholds cap on judges' pensions in win for pension reform",
+    "url": "https://www.thestar.com.my/news/world/2026/02/18/court-backs-romanian-plan-to-cap-judges039-benefits-in-win-for-pro-eu-government",
+    "source": "The Star (Reuters)",
+    "pubDate": "2026-02-18",
+    "summary": "Romania's Constitutional Court upheld a government plan to raise judges' and prosecutors' retirement age toward 65 over 15 years and cap their pensions at 70% of final gross salary, part of a broader special-pensions overhaul tied to EU recovery funds."
+  }
   ],
   "RS": [
     {
@@ -5134,7 +5190,14 @@ const NEWS = {
       "source": "N1 Info",
       "pubDate": "2026-11-02",
       "summary": "President Aleksandar Vucic said pensions will increase by 5.5% from 1 January 2027 and be topped with a DIN 20,000 allowance, alongside a 9.4% minimum-wage rise to DIN 35,025, as part of the 2027 budget package announced in late 2026."
-    }
+    },
+      {
+    "title": "Serbia to raise pensions 7.5% from December 2026; Vucic pledges over 10% in 2027",
+    "url": "http://srpske.rs/en/news/ekonomija/2026/10/15/vucic-pledges-pension-rise-above-10-percent-2027",
+    "source": "Srpske Novine",
+    "pubDate": "2026-10-15",
+    "summary": "Pensions will rise 7.5% from 1 December 2026 under the PIO Fund's statutory three-formula mechanism (the path depends on pensions' share of GDP); President Vucic separately pledged a rise above 10% in 2027 if GDP growth exceeds 4.2%."
+  }
   ],
   "RU": [
     {
@@ -5511,7 +5574,14 @@ const NEWS = {
       "source": "European Commission",
       "pubDate": "2026-07-01",
       "summary": "The 2026 Draft Budgetary Plan confirms the reform: accrual rate for 40 years of contributions rises from 63.5% toward 70% by 2035, the reference period extends to 40 years over eight years, the indexation formula shifts toward 80% prices, and widow(er) pensions rise from 70% toward 80%."
-    }
+    },
+      {
+    "title": "OECD Slovenia 2026 survey backs pension reform's long-term savings",
+    "url": "https://www.oecd-ilibrary.org/en/publications/oecd-economic-surveys-slovenia-2026_9189105b-en/full-report/strengthening-growth-and-public-finances_fbfd1a5b.html",
+    "source": "OECD",
+    "pubDate": "2026-06-01",
+    "summary": "The OECD Economic Survey Slovenia 2026 notes the 2025 pension reform — shifting indexation toward prices and extending the reference wage period — cuts long-term pension expenditure by about 1 percentage point of GDP by 2070 while raising accrual rates."
+  }
   ],
   "SK": [
     {
@@ -5583,7 +5653,14 @@ const NEWS = {
       "source": "Ministry of Finance SR / Fitch",
       "pubDate": "2026-03-10",
       "summary": "Fitch Ratings affirmed Slovakia's A rating and positively assessed the pension-system reform, saying it helps reduce long-term pressures from population aging while the economy is supported by a stable labour market."
-    }
+    },
+      {
+    "title": "Slovakia confirms second-pillar pension contribution will not be cut",
+    "url": "https://www.tasr.sk/tasr-clanok/TASR:2025082700000270?noGraphics=1",
+    "source": "TASR (Slovak News Agency)",
+    "pubDate": "2026-08-27",
+    "summary": "Prime Minister Robert Fico said the contribution to the second (capitalisation) pension pillar would remain unchanged in the 2026 consolidation, and that a working group would explore locking in a statutory minimum contribution rate."
+  }
   ],
   "TH": [
     {
