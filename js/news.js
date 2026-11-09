@@ -3506,14 +3506,14 @@ const NEWS = {
   }
   ],
   "LU": [
-        {
+    {
       "title": "Luxembourg pension reform takes effect Jan 1, 2026: rate to 25.5%, progressive pension added",
       "url": "https://chronicle.lu/category/at-home/58625-luxembourg-mps-approve-pension-reform",
       "source": "Chronicle.lu",
       "pubDate": "2025-12-18",
       "summary": "Luxembourg's parliament adopted pension adjustments effective Jan 1, 2026: the total contribution rate rose from 24% to 25.5% (state, employee and employer each 8.5%, through 2032), a progressive part-time pension was introduced for the private sector, study years are recognized more flexibly, and the 40-year early-retirement record extends gradually to 2030."
     },
-        {
+    {
       "title": "CNAP warns Luxembourg reform buys time but leaves structural gap",
       "url": "https://today-prod.rtl.lu/news/luxembourg/luxembourg-pension-reform-buys-time-but-leaves-structural-problems-unsolved-1117182452",
       "source": "RTL Today",
@@ -3556,11 +3556,11 @@ const NEWS = {
       "summary": "After a third round of talks, the government kept the legal retirement age at 65 while agreeing to align the effective and legal ages from 2026, raise the contribution rate to 25.5%, extend progressive retirement to the private sector, lift tax deductions for private pensions and grant a special tax rebate to those working past early-retirement eligibility. The package will be reviewed again in 2030."
     },
     {
-        "title": "CNAP chief warns Luxembourg pension reform only buys about four years of breathing room",
-        "url": "https://today-prod.rtl.lu/news/luxembourg/luxembourg-pension-reform-buys-time-but-leaves-structural-problems-unsolved-1117182452",
-        "source": "RTL Today",
-        "pubDate": "2026-07-30",
-        "summary": "CNAP president Alain Reuter said the December reforms (contribution rate raised to 25.5%) push the 'wall'—when reserves fall to 1.5× annual spending—from 2036–37 to 2040–41, but reserves of €32bn (4.24× spending) remain the lowest since 2013 and the structural demographic imbalance is unresolved."
+      "title": "CNAP chief warns Luxembourg pension reform only buys about four years of breathing room",
+      "url": "https://today-prod.rtl.lu/news/luxembourg/luxembourg-pension-reform-buys-time-but-leaves-structural-problems-unsolved-1117182452",
+      "source": "RTL Today",
+      "pubDate": "2026-07-30",
+      "summary": "CNAP president Alain Reuter said the December reforms (contribution rate raised to 25.5%) push the 'wall'—when reserves fall to 1.5× annual spending—from 2036–37 to 2040–41, but reserves of €32bn (4.24× spending) remain the lowest since 2013 and the structural demographic imbalance is unresolved."
     },
     {
       "title": "Luxembourg CNAP warns 2026 reform buys only about four years of solvency",
@@ -3575,9 +3575,14 @@ const NEWS = {
       "source": "CNAP Luxembourg",
       "pubDate": "2026-01-15",
       "summary": "From 1 January 2026 the general pension scheme raised the overall contribution rate from 24% to 25.5% (through 2032), introduced a gradual pension allowing part-time work while drawing part of the benefit, eased recognition of study years from age 18, and began a gradual extension of the insurance period required for early retirement at 60 (reaching plus 8 months by 2030). The legal retirement age stays 65."
+    },
+    {
+      "title": "Luxembourg pensions rise 2.5% from 1 June 2026 under automatic indexation",
+      "url": "https://cnap.public.lu/en/actualites/2026/applicationindiciairejuin2026.html",
+      "source": "CNAP Luxembourg",
+      "pubDate": "2026-06-01",
+      "summary": "Following STATEC's provisional consumer-price result, Luxembourg triggered an index bracket lifting wages, salaries and pensions by 2.5% from 1 June 2026 (index 992.24 points, up from 968.04). Pensions paid at end-May were paid before the release, so the increase is paid retroactively with the July pension. The minimum pension thus rose to €2,436.04/month for a 40-year career from June 2026."
     }
-
-
   ],
   "LV": [
         {
@@ -3659,14 +3664,14 @@ const NEWS = {
   }
   ],
   "MA": [
-        {
+    {
       "title": "Morocco CNSS launches retroactive old-age pension for partial contributors",
       "url": "https://en.7news.ma/cnss-to-launch-retroactive-pension-plan-for-retirees-in-may-2025/",
       "source": "7news.ma",
       "pubDate": "2025-05-01",
       "summary": "From May 1, 2025 Morocco's CNSS began paying the old-age pension retroactively to partial contributors with 1,320-3,240 days of coverage (Decree 2.25.265), with benefits backdated to the actual retirement date. Those below the 1,320-day minimum get a refund of contributions; survivors' pensions also apply."
     },
-        {
+    {
       "title": "Morocco unveils 2026 pension reform: legal age to 63, +8% CNSS pensions, harmonization",
       "url": "https://wafir.ma/en/actu/retraite-cnss-reforme-2026-age-depart-63-ans-pension-revalorisee",
       "source": "Wafir.ma",
@@ -3709,11 +3714,11 @@ const NEWS = {
       "summary": "The CNSS pension reform presented on 12 May 2026 — raising the legal age from 60 to 63 in steps from 2027, lifting CNSS pensions 8% over 2027-2029 and harmonising CNSS/CMR/RCAR under a new National Retirement Organisation — is expected to be voted by parliament around October 2026, with entry into force planned for 1 January 2027."
     },
     {
-        "title": "Morocco's CMR simplifies retirement and survivor-pension procedures under Circular 8/2026",
-        "url": "https://www.moroccoworldnews.com/2026/08/335085/morocco-introduces-new-measures-to-ease-retirement-survivor-pension-procedures/",
-        "source": "Morocco World News",
-        "pubDate": "2026-08-18",
-        "summary": "The Head of Government issued Circular 8/2026 to streamline retirement and survivor-pension files at the Caisse Marocaine des Retraites, cutting required documents via inter-agency data exchange as part of the CMR's 2025–2027 digitalisation plan; implementation is gradual."
+      "title": "Morocco's CMR simplifies retirement and survivor-pension procedures under Circular 8/2026",
+      "url": "https://www.moroccoworldnews.com/2026/08/335085/morocco-introduces-new-measures-to-ease-retirement-survivor-pension-procedures/",
+      "source": "Morocco World News",
+      "pubDate": "2026-08-18",
+      "summary": "The Head of Government issued Circular 8/2026 to streamline retirement and survivor-pension files at the Caisse Marocaine des Retraites, cutting required documents via inter-agency data exchange as part of the CMR's 2025–2027 digitalisation plan; implementation is gradual."
     },
     {
       "title": "Morocco's 2026 pension reform heads to parliament after four years of talks",
@@ -3728,9 +3733,14 @@ const NEWS = {
       "source": "Wafir.ma",
       "pubDate": "2026-05-12",
       "summary": "The government presented a systemic pension reform on 12 May 2026 that would reorganise Morocco's schemes into a public pole (CMR and RCAR) and a private pole (CNSS and CIMR). The legal retirement age would rise gradually from 60 to 63 from 2027, pensions would increase about 8% over three years, and the minimum pension would be aligned toward the minimum wage; the parliamentary vote is expected around October 2026 with entry into force on 1 January 2027."
+    },
+    {
+      "title": "Morocco's pension reform pushed to next government after September 2026 elections",
+      "url": "https://moroccotelegraph.com/morocco-pension-reform-delayed-next-government-2026",
+      "source": "Morocco Telegraph",
+      "pubDate": "2026-10-01",
+      "summary": "Multiple sources report that Morocco's Akhannouch government will not ratify a pension reform bill this term, steering the file to the next administration after the 23 September 2026 legislative elections. No discussions have opened on the largest scheme, the Caisse Marocaine des Retraites (CMR), and committees have only 'examined the situation'. Several funds are in continuous reserve depletion, and analysts warn each postponement raises the eventual cost. The October 2026–2031 government programme nonetheless pledged to launch a comprehensive reform, raise the minimum pension toward US$300/month and lift survivor pensions to 100% of the late partner's main pension."
     }
-
-
   ],
   "MM": [
         {
@@ -3827,7 +3837,7 @@ const NEWS = {
       "pubDate": "2025-12-01",
       "summary": "Mongolia's retirement age remained 60 for men and 55 for women in 2025, with a legislated gradual rise toward 65 (men by 2042, women by 2067) under the 2023 reform."
     },
-        {
+    {
       "title": "Mongolia launches semi-funded pension system, MNT 214.8 billion already saved",
       "url": "https://mlsp.gov.mn/eng/content/detail/1932",
       "source": "Ministry of Family, Labour and Social Protection",
@@ -3863,11 +3873,11 @@ const NEWS = {
       "summary": "Parliament approved amendments to the General Law on Social Insurance with about 85% support, creating a three-pillar model. From 1 January 2027 pensions rise by 100,000–300,000 tugrik by contribution years; from 2033 payouts use a 10-year average wage; a voluntary savings pillar offers a 50% state match on an extra 1% contribution for up to 120 months."
     },
     {
-        "title": "Mongolia to raise basic pensions by 100,000-300,000 tugrik from 1 November 2026",
-        "url": "https://www.aryanews.com/en/News/120260824054902865/Basic-pensions-for-Mongolia%E2%80%99s-senior-citizens-to-increase-from-Nov-1",
-        "source": "Arya News",
-        "pubDate": "2026-08-20",
-        "summary": "Prime Minister N.Uchral announced that from 1 November 2026 Mongolia basic pension will rise by 100,000-300,000 tugrik, benefiting about 435,000 elderly at a cost of roughly 1.2 trillion tugrik; average monthly pensions are projected to climb from about 955,000 to 1.19 million tugrik."
+      "title": "Mongolia to raise basic pensions by 100,000-300,000 tugrik from 1 November 2026",
+      "url": "https://www.aryanews.com/en/News/120260824054902865/Basic-pensions-for-Mongolia%E2%80%99s-senior-citizens-to-increase-from-Nov-1",
+      "source": "Arya News",
+      "pubDate": "2026-08-20",
+      "summary": "Prime Minister N.Uchral announced that from 1 November 2026 Mongolia basic pension will rise by 100,000-300,000 tugrik, benefiting about 435,000 elderly at a cost of roughly 1.2 trillion tugrik; average monthly pensions are projected to climb from about 955,000 to 1.19 million tugrik."
     },
     {
       "title": "Mongolia parliament passes three-pillar pension overhaul",
@@ -3875,9 +3885,14 @@ const NEWS = {
       "source": "MongolBeat",
       "pubDate": "2026-07-02",
       "summary": "Parliament approved amendments to the General Law on Social Insurance with about 85% support, creating a three-pillar pension model. From 1 January 2027 pensions rise by MNT 100,000-300,000 for more than 500,000 pensioners based on contribution years, the calculation base shifts to a 10-year average from 2033, and a voluntary savings pillar offers a 50% state match on an extra 1% contribution for up to 120 months."
+    },
+    {
+      "title": "Mongolia begins paying new state base pension to 413,000 retirees from 1 November 2026",
+      "url": "https://mongolia.robertritz.com/daily/mongolia-daily-oyu-tolgoi-rockfall-probed-winter-prices-held-and-pensions-rise",
+      "source": "Mongolia Daily (Robert Ritz)",
+      "pubDate": "2026-11-01",
+      "summary": "Transfers of a new state-funded base pension to 413,000 retirees began on 1 November 2026, two months ahead of the originally scheduled 1 January 2027 date. Funded from the state budget rather than the Social Insurance Fund, it adds 100,000–300,000 tugrik per month on top of existing pensions for those aged 55 (women) or 60 (men), laying the first tier of the three-tier system."
     }
-
-
   ],
   "MT": [
     {
@@ -4056,7 +4071,7 @@ const NEWS = {
       "pubDate": "2024-05-12",
       "summary": "EPF's account restructuring (launched 12 May 2024) separates savings into Akaun Persaraan, Akaun Sejahtera and Akaun Fleksibel, giving members flexible access while protecting core retirement savings."
     },
-        {
+    {
       "title": "Budget 2026: EPF extends i-Saraan and i-Suri, launches i-Saraan Plus for gig workers",
       "url": "https://www.kwsp.gov.my/en/w/list-news/budget-2026-drives-inclusive-growth-and-long-term-financial-security-for-malaysians",
       "source": "EPF / KWSP",
@@ -4092,11 +4107,11 @@ const NEWS = {
       "summary": "EPF earned RM57.5 billion in investment income in H1 2026, up 48% year-on-year, with equities contributing RM41.28 billion and overseas assets about 60% of total income. The 2026 dividend is due around February 2027; flexible-account (Akaun Fleksibel) withdrawals continue to weigh on the dividend base."
     },
     {
-        "title": "Malaysia 24-hour SOCSO cover (Lindung 24 Jam) made voluntary for locals, stays mandatory for foreign workers",
-        "url": "https://bispointgroup.com/blogs/socso-lindung-24-jam-skbbk-employee-guide-2026",
-        "source": "Bispoint Group",
-        "pubDate": "2026-07-09",
-        "summary": "Malaysia Skim Lindung 24 Jam (SKBBK), a 24-hour non-work accident cover under SOCSO effective 1 June 2026, was made voluntary for Malaysian employees from 8 July 2026 while remaining mandatory for foreign workers; the employee-funded Phase 1 rate is 0.75% of monthly wages (RM6,000 ceiling). Foreign-worker EPF contributions also became mandatory at 2% each from October 2025."
+      "title": "Malaysia 24-hour SOCSO cover (Lindung 24 Jam) made voluntary for locals, stays mandatory for foreign workers",
+      "url": "https://bispointgroup.com/blogs/socso-lindung-24-jam-skbbk-employee-guide-2026",
+      "source": "Bispoint Group",
+      "pubDate": "2026-07-09",
+      "summary": "Malaysia Skim Lindung 24 Jam (SKBBK), a 24-hour non-work accident cover under SOCSO effective 1 June 2026, was made voluntary for Malaysian employees from 8 July 2026 while remaining mandatory for foreign workers; the employee-funded Phase 1 rate is 0.75% of monthly wages (RM6,000 ceiling). Foreign-worker EPF contributions also became mandatory at 2% each from October 2025."
     },
     {
       "title": "Malaysia to auto-enrol all citizens in EPF at age 18 under 2027 budget",
@@ -4104,9 +4119,14 @@ const NEWS = {
       "source": "The Edge Malaysia",
       "pubDate": "2026-10-09",
       "summary": "Prime Minister Anwar Ibrahim announced in the 2027 budget that all Malaysians will be automatically registered as Employees Provident Fund members upon turning 18, expanding retirement-savings access beyond the current employer-triggered sign-up. The EPF reported 18.5 million members at end-June 2026, of whom 10.95 million were active contributors."
+    },
+    {
+      "title": "Over 21,000 Malaysian EPF members choose monthly i-Emas withdrawals as retirement income",
+      "url": "https://www.sinchew.com.my/?p=7495500",
+      "source": "Sin Chew Daily",
+      "pubDate": "2026-08-11",
+      "summary": "The Employees Provident Fund said more than 21,100 members have opted for monthly i-Emas withdrawals after age 55 or 60, reflecting growing awareness of stable post-retirement income. EPF also launched a 'retirement target calculator' in the i-Akaun app. The basic retirement savings threshold under the RIA framework was raised to RM390,000, phased in from RM270,000 in 2026 to 2030."
     }
-
-
   ],
   "NG": [
     {
@@ -4946,11 +4966,11 @@ const NEWS = {
       "summary": "The Jorge Bravo expert group's July 2026 report 'Reforming Pensions in Portugal' urges uniform indexation of all pensions at least in line with inflation and new retail public-debt instruments to top up pensions. The sustainability-factor penalty rose to 17.63% in 2026 (factor 0.8307). The government reiterated it will not undertake structural reform this parliamentary term."
     },
     {
-        "title": "Portugal's retirement-age battle: Chega pushes 65 while PSD defends sustainability",
-        "url": "https://theportugalpost.com/posts/portugals-retirement-age-battle-why-your-pension-could-be-worth-less-in-2026",
-        "source": "The Portugal Post",
-        "pubDate": "2026-05-28",
-        "summary": "With the 2026 statutory age at 66 years 9 months (67y11m in 2027) and the sustainability factor at 17.63%, Chega leader André Ventura made lowering the age to 65 a condition for backing labour reform, drawing PSD warnings that it would endanger the pay-as-you-go system's solvency."
+      "title": "Portugal's retirement-age battle: Chega pushes 65 while PSD defends sustainability",
+      "url": "https://theportugalpost.com/posts/portugals-retirement-age-battle-why-your-pension-could-be-worth-less-in-2026",
+      "source": "The Portugal Post",
+      "pubDate": "2026-05-28",
+      "summary": "With the 2026 statutory age at 66 years 9 months (67y11m in 2027) and the sustainability factor at 17.63%, Chega leader André Ventura made lowering the age to 65 a condition for backing labour reform, drawing PSD warnings that it would endanger the pay-as-you-go system's solvency."
     },
     {
       "title": "Portugal's Bravo expert panel urges unified indexation and auto-enrolment occupational pensions",
@@ -4965,8 +4985,14 @@ const NEWS = {
       "source": "Lusa (AMAN)",
       "pubDate": "2026-08-19",
       "summary": "An expert group led by Jorge Bravo presented its report Reforming Pensions in Portugal, proposing automatic-enrolment occupational pension schemes (8-10% contributions shared by employee, employer and state), individual retirement savings accounts for children, nominal defined-contribution accounts and new public-debt instruments to top up pensions. The government reiterated it will not pursue a structural reform this parliamentary term."
+    },
+    {
+      "title": "Portugal's 2026 sustainability factor hits 17.63% as government rules out structural reform",
+      "url": "https://theportugalpost.com/posts/portugals-pension-reality-why-your-retirement-costs-keep-rising",
+      "source": "The Portugal Post",
+      "pubDate": "2026-08-20",
+      "summary": "Portugal's sustainability factor—which cuts pensions for early claimants based on longevity—rose to 17.63% in 2026 (from 16.93% in 2025, coefficient 0.8237). Following the 18 August 2026 presentation of the Bravo working group report, the government reiterated it will not undertake structural pension reform this parliamentary term, prioritising targeted measures such as the Single Social Benefit and the Simplified Contribution Cycle. The EC warns pension spending could reach 15.1% of GDP by 2045."
     }
-
   ],
   "QA": [
     {
@@ -5019,11 +5045,11 @@ const NEWS = {
       "summary": "Qatar's General Retirement and Social Insurance Authority (Daman) took part in the 63rd GCC Technical Committee meeting on civil retirement and social insurance, backing the 2026–2030 action plan, an updated unified system extending coverage to GCC citizens working abroad, electronic linkage between agencies, and a unified 'GCC Umbrella' awareness campaign launched across all six member states in May 2026."
     },
     {
-        "title": "Qatar's 2022 national pension reform enters phased implementation in 2026",
-        "url": "https://www.qatarday.com/working-in-qatar-heres-how-your-retirement-benefits-actually-work-in-2026/102832/0",
-        "source": "Qatar Day",
-        "pubDate": "2026-03-15",
-        "summary": "The 2022 reform creating a unified national pension fund is being rolled out sector by sector; qualifying expatriates are starting to accrue funded entitlements alongside the end-of-service gratuity, while the Wage Protection System tightens to secure settlements."
+      "title": "Qatar's 2022 national pension reform enters phased implementation in 2026",
+      "url": "https://www.qatarday.com/working-in-qatar-heres-how-your-retirement-benefits-actually-work-in-2026/102832/0",
+      "source": "Qatar Day",
+      "pubDate": "2026-03-15",
+      "summary": "The 2022 reform creating a unified national pension fund is being rolled out sector by sector; qualifying expatriates are starting to accrue funded entitlements alongside the end-of-service gratuity, while the Wage Protection System tightens to secure settlements."
     },
     {
       "title": "Qatar's Daman rolls out renamed pension body under 2026 reform roadmap",
@@ -5038,8 +5064,14 @@ const NEWS = {
       "source": "Qatar News Agency",
       "pubDate": "2026-09-30",
       "summary": "The Ministry of Justice and the General Retirement and Social Insurance Authority ran an introductory workshop on Social Insurance Law No. 1 of 2022 and Cabinet Resolution No. 3 of 2025. It covered mandatory coverage for Qatari workers, the voluntary income-bracket scheme for the self-employed at a 21% rate, and the end-of-service bonus for more than 30 years of actual service (capped at 50% of total contributions)."
+    },
+    {
+      "title": "Qatar's Daman launches financial wellbeing programme for retirees with QFBA",
+      "url": "https://qna.org.qa/en/News-Area/News/2026-6/22/daman-launches-financial-wellbeing-program-for-retirees-in-cooperation-with-qfba",
+      "source": "Qatar News Agency",
+      "pubDate": "2026-06-22",
+      "summary": "The General Retirement and Social Insurance Authority (Daman) launched a Financial Wellbeing Program for Retirees in cooperation with the Qatar Finance and Business Academy, with three workshops on budgeting, lifestyle finance and long-term planning. The initiative, aligned with Qatar National Vision 2030, aims to equip retirees with practical tools to manage post-retirement life. Daman also continues to expand its 'Al Safwa' retiree discounts programme under the new identity."
     }
-
   ],
   "RO": [
     {
@@ -5757,7 +5789,6 @@ const NEWS = {
       "pubDate": "2024-12-01",
       "summary": "The 2025 finance bill raises pensions 7% (first instalment July 2024, retroactive to May 2024) and lifts the minimum pension to TND 260, amid IMF pressure for parametric pension reform."
     },
-
     {
       "title": "Former minister warns Tunisia faces social security collapse without reform",
       "url": "https://en.africanmanager.com/continuing-current-social-security-system-poses-serious-risk-warns-former-minister",
@@ -5777,14 +5808,14 @@ const NEWS = {
       "url": "https://www.tunisia.gov.tn",
       "source": "Tunisian Government / Finance Act 2026",
       "pubDate": "2026-01-10",
-      "summary": "Law No. 17 of 2025 (Official Gazette No. 148, 12 December 2025), effective 1 January 2026, empowers the government to raise wages and pensions by decree over a three-year schedule (2026-2028), aiming to restore purchasing power while keeping the CNSS and CNRPS deficits under control.",
+      "summary": "Law No. 17 of 2025 (Official Gazette No. 148, 12 December 2025), effective 1 January 2026, empowers the government to raise wages and pensions by decree over a three-year schedule (2026-2028), aiming to restore purchasing power while keeping the CNSS and CNRPS deficits under control."
     },
     {
       "title": "Tunisia to subsidize CNSS employer contributions for new graduate hires",
       "url": "https://joinneo.com",
       "source": "Neo (Tunisia payroll)",
       "pubDate": "2026-01-20",
-      "summary": "As part of the 2026 employment incentives, the state will cover part of CNSS employer contributions for firms hiring new graduates, phasing the subsidy from 100% down to 20% over five years to lower youth unemployment without permanently expanding the pension wage bill.",
+      "summary": "As part of the 2026 employment incentives, the state will cover part of CNSS employer contributions for firms hiring new graduates, phasing the subsidy from 100% down to 20% over five years to lower youth unemployment without permanently expanding the pension wage bill."
     },
     {
       "title": "Tunisia debates draft law for optional early retirement for private-sector women at 50",
@@ -5801,11 +5832,11 @@ const NEWS = {
       "summary": "Tunisia's Health and Social Affairs Commission was set to examine draft Law No. 104 of 2025 on 16 April 2026, allowing private-sector women who completed 20 years of contributions to take voluntary early retirement at age 50 without the three-children condition. The CNSS chronic deficit widened to 1.2 billion dinars in 2024 (from 950 million in 2023), raising doubts over the law's financial feasibility."
     },
     {
-        "title": "Tunisia reopens social security reform on 18 August 2026, eyeing informal and platform workers",
-        "url": "https://trovit.tn/news/projet-de-reforme-de-la-securite-sociale-un-chantier-a-double-tranchant-pour-lentrepreneuriat",
-        "source": "Trovit News",
-        "pubDate": "2026-08-18",
-        "summary": "On 18 August 2026 the Tunisian government reopened its social security reform at the Kasbah, tasking ministers with drafting modernization texts; the multi-pillar plan would extend coverage to informal workers, farmers, the self-employed and digital platform workers, with pensions to be reformed step by step."
+      "title": "Tunisia reopens social security reform on 18 August 2026, eyeing informal and platform workers",
+      "url": "https://trovit.tn/news/projet-de-reforme-de-la-securite-sociale-un-chantier-a-double-tranchant-pour-lentrepreneuriat",
+      "source": "Trovit News",
+      "pubDate": "2026-08-18",
+      "summary": "On 18 August 2026 the Tunisian government reopened its social security reform at the Kasbah, tasking ministers with drafting modernization texts; the multi-pillar plan would extend coverage to informal workers, farmers, the self-employed and digital platform workers, with pensions to be reformed step by step."
     },
     {
       "title": "Tunisia enacts 2026-2028 wage scales, lifting SMIG and linked retirement pensions",
@@ -5813,8 +5844,14 @@ const NEWS = {
       "source": "Distant News (Republika)",
       "pubDate": "2026-04-30",
       "summary": "Decrees published in the Official Gazette on 30 April 2026 raise the guaranteed minimum wage (SMIG) in agriculture and non-agriculture for 2026-2028 and mandate a 5% annual base-salary increase for collective-bargaining sectors; the adjustment also flows through to CNSS retirement pensions, with penalties for non-compliant employers."
+    },
+    {
+      "title": "Tunisia launches drafting of structural social security and healthcare reform",
+      "url": "https://tunisia-news.com/article/2026-08-19/tunisia-launches-structural-overhaul-of-social-security-and",
+      "source": "Tunisia News",
+      "pubDate": "2026-08-18",
+      "summary": "On 18 August 2026, Prime Minister Sarra Zaafrani Zenzri chaired a ministerial meeting launching the drafting of the first legal texts for a structural reform of Tunisia's social security and healthcare systems. The plan covers adapting pension schemes to demographic change, expanding coverage to informal, agricultural, fisheries, self-employed and platform workers, and strengthening governance of the social funds, with urgent measures first and phased longer-term reforms."
     }
-
   ],
   "TR": [
     {
@@ -5838,7 +5875,6 @@ const NEWS = {
       "pubDate": "2026-01-18",
       "summary": "A report highlights BES's 20-30% state match (capped around USD 1,845/year), one of the most inclusive retirement incentives globally; 2025 average fund return was about 58%, beating inflation."
     },
-
     {
       "title": "Turkey plans mandatory TES supplementary pension with employer contributions in Q2 2026",
       "url": "https://www.wtwco.com/en-gb/insights/2025/12/turkiye-planned-launch-of-new-retirement-system-and-amendments-to-social-security-law",
@@ -5858,14 +5894,14 @@ const NEWS = {
       "url": "https://www.datassist.com",
       "source": "Datassist (Turkey payroll)",
       "pubDate": "2026-01-05",
-      "summary": "Law No. 7566, effective 1 January 2026, lifted the SGK earnings ceiling from 7.5 to 9 times the minimum wage (about TRY 297,270 per month at the TRY 33,030 minimum) and raised the invalidity/old-age/death premium from 20% to 21% (employer 11% to 12%, employee 9%).",
+      "summary": "Law No. 7566, effective 1 January 2026, lifted the SGK earnings ceiling from 7.5 to 9 times the minimum wage (about TRY 297,270 per month at the TRY 33,030 minimum) and raised the invalidity/old-age/death premium from 20% to 21% (employer 11% to 12%, employee 9%)."
     },
     {
       "title": "Turkey confirms mandatory TES supplementary pension for Q2 2026 with no opt-out",
       "url": "https://www.leglobal.law",
       "source": "Le Global (employment law)",
       "pubDate": "2026-02-10",
-      "summary": "The Complementary Pension System (TES) is set to launch in Q2 2026, replacing auto-enrolment (OKS) with a mandatory second pillar: employees contribute 3% and employers 2%, with a 1% state top-up, compulsory participation and no opt-out, benefits accessible from age 58/60 after 10 years.",
+      "summary": "The Complementary Pension System (TES) is set to launch in Q2 2026, replacing auto-enrolment (OKS) with a mandatory second pillar: employees contribute 3% and employers 2%, with a 1% state top-up, compulsory participation and no opt-out, benefits accessible from age 58/60 after 10 years."
     },
     {
       "title": "Türkiye raises minimum pension to 23,552 lira after 17.76% H1 inflation",
@@ -5875,11 +5911,11 @@ const NEWS = {
       "summary": "Following TÜİK's 17.76% first-half-2026 inflation figure, SSK and Bağ-Kur retirees received a 17.76% raise and parliament approved lifting the minimum pension from 20,000 to 23,552 lira (about $500), benefiting some 5.1 million retirees at a budget cost of roughly 79 billion lira ($1.68 billion) for H2 2026; increased payments landed 17–28 July by allocation number."
     },
     {
-        "title": "Turkey mandatory TES supplementary pension stalls as no bill reaches parliament, burden feared at 44.75%",
-        "url": "https://en.haberler.com/it-concerned-millions-the-new-era-in-retirement-2305631/",
-        "source": "Haberler.com",
-        "pubDate": "2026-08-29",
-        "summary": "Turkey planned mandatory Complementary Pension System (TES) faces an uncertain 2026 timeline as no draft law has reached parliament; experts warn a 3% employee plus 3% employer contribution could lift the total premium burden to 44.75%, while unions rebut claims that severance pay would be scrapped."
+      "title": "Turkey mandatory TES supplementary pension stalls as no bill reaches parliament, burden feared at 44.75%",
+      "url": "https://en.haberler.com/it-concerned-millions-the-new-era-in-retirement-2305631/",
+      "source": "Haberler.com",
+      "pubDate": "2026-08-29",
+      "summary": "Turkey planned mandatory Complementary Pension System (TES) faces an uncertain 2026 timeline as no draft law has reached parliament; experts warn a 3% employee plus 3% employer contribution could lift the total premium burden to 44.75%, while unions rebut claims that severance pay would be scrapped."
     },
     {
       "title": "Turkey's 2026 wage adjustment raises pensions 12.19%-18.60% and lifts the lowest pension to 18,939 lira",
@@ -5887,9 +5923,14 @@ const NEWS = {
       "source": "Taiwan External Trade Development Council (TAITRA)",
       "pubDate": "2026-01-06",
       "summary": "Triggered by 2025 inflation, the automatic wage-adjustment mechanism effective 15 January 2026 affects more than 16 million retirees: SSK and Bag-Kur pensions rose 12.19%, civil-service pensions 18.60% including a collective-agreement differential, and the lowest pension climbed from 20,000 to 18,939 lira from January, while the holiday bonus rose from 4,000 to 5,000 lira."
+    },
+    {
+      "title": "Turkey bill would index lowest pension to net minimum wage, lifting it about 19%",
+      "url": "https://en.haberler.com/the-step-that-excited-millions-receiving-the-2317421",
+      "source": "Haberler",
+      "pubDate": "2026-10-19",
+      "summary": "A bill submitted to the Turkish Parliament on 16 October 2026 by YENİ Party deputy İbrahim Arslan would remove the fixed lower limit of TRY 23,552 on the lowest retirement pension and index it to the net minimum wage (currently TRY 28,075), a jump of about 19%. Referred to the Planning and Budget Committee on 19 October, the proposal would automatically update the floor with future minimum-wage changes. Separately, the labour minister said on 3 November an additional pension improvement is being prepared for January 2027."
     }
-
-
   ],
   "TW": [
     {
@@ -5913,7 +5954,6 @@ const NEWS = {
       "pubDate": "2025-06-20",
       "summary": "The Ministry of Labor reminds workers that voluntary contributions of up to 6% of wages to the Labor Pension account are tax-deductible and can add hundreds of thousands of NT dollars to retirement savings."
     },
-
     {
       "title": "2026 labor pension reform: 30-day regret period and employer must accept voluntary contributions",
       "url": "https://www.storm.mg/articles/1127377",
@@ -5933,14 +5973,14 @@ const NEWS = {
       "url": "https://www.gvm.com.tw",
       "source": "Business Today (Taiwan)",
       "pubDate": "2026-01-03",
-      "summary": "From 1 January 2026 Taiwan's statutory basic wage rose to NT$29,500 per month and the Labour Insurance premium rate increased to 12.5%, lifting the contribution base and future annuity payouts for the pay-as-you-go scheme under aging-pressure reviews.",
+      "summary": "From 1 January 2026 Taiwan's statutory basic wage rose to NT$29,500 per month and the Labour Insurance premium rate increased to 12.5%, lifting the contribution base and future annuity payouts for the pay-as-you-go scheme under aging-pressure reviews."
     },
     {
       "title": "Taiwan's five Labor Pension changes take effect 1 August 2026",
       "url": "https://guide.1111.com.tw",
       "source": "1111 Job Bank (Taiwan)",
       "pubDate": "2026-08-01",
-       "summary": "From 1 August 2026 the Labor Pension reforms expand member rights: 'pure old-system' workers may voluntarily contribute, creditor protection for pension accounts is widened, and the 30-day regret period and employer duty to accept voluntary 1-6% contributions (in force since 27 March 2026) are consolidated.",
+      "summary": "From 1 August 2026 the Labor Pension reforms expand member rights: 'pure old-system' workers may voluntarily contribute, creditor protection for pension accounts is widened, and the 30-day regret period and employer duty to accept voluntary 1-6% contributions (in force since 27 March 2026) are consolidated."
     },
     {
       "title": "Taiwan Brings Foreign Professionals into Labour Pension New System and Raises Annuity Age in 2026",
@@ -5962,6 +6002,13 @@ const NEWS = {
       "source": "Workforce Development Agency",
       "pubDate": "2026-01-01",
       "summary": "From 1 January 2026 the amended Act for the Employment of Foreign Professionals brings foreign white-collar workers into the Labor Pension new system; employers must enrol new arrivals at 6% and confirm existing staff choices by 30 June 2026."
+    },
+    {
+      "title": "Taiwan opens voluntary contributions and early settlement for old-system pension workers",
+      "url": "https://asiadaily.org/news/16695/",
+      "source": "Asia Daily",
+      "pubDate": "2026-09-30",
+      "summary": "Amendments to the Enforcement Rules of Taiwan's Labor Pension Act took effect on 17 July 2026, letting workers covered solely by the old system voluntarily contribute up to 6% of wages (without changing their status) and, with employer agreement, settle old-system entitlements early into a personal pension account. By 31 August more than 37,000 old-system workers had begun voluntary contributions; by 30 September 666 workers at 200 firms had settled about NT$2.1bn."
     }
   ],
   "TZ": [
@@ -5979,7 +6026,6 @@ const NEWS = {
       "pubDate": "2025-08-10",
       "summary": "The Hifadhi Scheme offers self-employed Tanzanians old-age pensions, disability, maternity, medical, survivor and funeral benefits, with flexible contributions of TZS 30,000 or 52,000 plus per month via mobile money."
     },
-
     {
       "title": "NSSF offers seven-month penalty amnesty to boost employer compliance",
       "url": "https://thebizlens.co.tz/2026/07/17/nssf-offers-seven-month-penalty-amnesty-to-boost-compliance/",
@@ -5999,28 +6045,28 @@ const NEWS = {
       "url": "https://support.payspace.com",
       "source": "Payspace (Tanzania)",
       "pubDate": "2026-07-01",
-      "summary": "The Finance Act 2026 (Act No. 2 of 2026, Special Gazette No. 8 Vol. 107, 30 June 2026, effective 1 July 2026) confirmed the NSSF and PSSSF contribution rates stay unchanged at 20% total (10% employee plus 10% employer), giving contributors certainty after the 2024 NSSF amendments.",
+      "summary": "The Finance Act 2026 (Act No. 2 of 2026, Special Gazette No. 8 Vol. 107, 30 June 2026, effective 1 July 2026) confirmed the NSSF and PSSSF contribution rates stay unchanged at 20% total (10% employee plus 10% employer), giving contributors certainty after the 2024 NSSF amendments."
     },
     {
       "title": "Tanzania NSSF assets reach TSh 11.6 trillion as informal coverage expands",
       "url": "https://www.investmentkit.com",
       "source": "InvestmentKit",
       "pubDate": "2026-06-20",
-      "summary": "NSSF reported assets of about TSh 11.6 trillion by June 2026 and aims to register 3.7 million self-employed Tanzanians by June 2031, with roughly 85% of the workforce still in the informal sector targeted via mobile-money products like the Hifadhi Scheme.",
+      "summary": "NSSF reported assets of about TSh 11.6 trillion by June 2026 and aims to register 3.7 million self-employed Tanzanians by June 2031, with roughly 85% of the workforce still in the informal sector targeted via mobile-money products like the Hifadhi Scheme."
     },
     {
-        "title": "Tanzania opens second phase of pension verification to secure payments for retirees",
-        "url": "https://tanzaniainsight.com/tanzania-embarks-on-a-pension-verification-exercise-instructs-retirees-to-complete-process-before-july-15",
-        "source": "Tanzania Insight",
-        "pubDate": "2026-06-12",
-        "summary": "The Ministry of Finance launched the second phase of a nationwide pension beneficiary verification (1 June–15 July 2026) for Treasury pensioners, including retirees living abroad; those who miss the deadline risk suspension of monthly payments, with verification available via bank mobile apps or branches."
+      "title": "Tanzania opens second phase of pension verification to secure payments for retirees",
+      "url": "https://tanzaniainsight.com/tanzania-embarks-on-a-pension-verification-exercise-instructs-retirees-to-complete-process-before-july-15",
+      "source": "Tanzania Insight",
+      "pubDate": "2026-06-12",
+      "summary": "The Ministry of Finance launched the second phase of a nationwide pension beneficiary verification (1 June–15 July 2026) for Treasury pensioners, including retirees living abroad; those who miss the deadline risk suspension of monthly payments, with verification available via bank mobile apps or branches."
     },
     {
-        "title": "Tanzania's Hifadhi social-protection scheme tops 500,000 informal workers",
-        "url": "https://vellum.co.tz/?p=1719/",
-        "source": "Vellum Tanzania",
-        "pubDate": "2026-02-20",
-        "summary": "By December 2025 over 500,000 self-employed Tanzanians had enrolled in the Hifadhi Scheme launched under the NSSF, aiming for 5.5 million by June 2031; flexible contributions via mobile money target informal workers long outside the social-security system."
+      "title": "Tanzania's Hifadhi social-protection scheme tops 500,000 informal workers",
+      "url": "https://vellum.co.tz/?p=1719/",
+      "source": "Vellum Tanzania",
+      "pubDate": "2026-02-20",
+      "summary": "By December 2025 over 500,000 self-employed Tanzanians had enrolled in the Hifadhi Scheme launched under the NSSF, aiming for 5.5 million by June 2031; flexible contributions via mobile money target informal workers long outside the social-security system."
     },
     {
       "title": "Tanzania's NSSF targets 3.7 million self-employed via digital Hifadhi drive",
@@ -6035,8 +6081,14 @@ const NEWS = {
       "source": "Streamline Feed",
       "pubDate": "2026-09-22",
       "summary": "NSSF Director General Masha Mshomba told editors on 21 September 2026 that 592,791 self-employed members had joined the redesigned Hifadhi Scheme by 30 June 2026, with a target of 279,371 more in 2026/27; the scheme now allows daily, weekly or monthly contributions and added healthcare benefits, while audited fund assets reached TSh 9.8 trillion."
+    },
+    {
+      "title": "Tanzania pledges to improve retirees' benefits and ensure timely pension payments",
+      "url": "https://dailynews.co.tz/tanzania-pledges-to-improve-retirees-benefits-and-timely-payment-of-their-pension",
+      "source": "Daily News (Tanzania)",
+      "pubDate": "2026-08-31",
+      "summary": "On 31 August 2026, Minister of State Deus Sangu told Parliament the government is committed to improving retirees' welfare and ensuring pensions are paid on time. He said the National Social Security Fund (NSSF) has been strengthened, improving the processing and payment of benefits, and further measures are being taken so retirees receive their entitlements promptly. He also defended the established benefit-calculation framework (the 'kikokotoo') used across public and private schemes."
     }
-
   ],
   "UA": [
     {
@@ -6280,7 +6332,6 @@ const NEWS = {
       "pubDate": "2026-04-28",
       "summary": "After the Orsi administration's 2026 Social Dialogue white paper, structural changes such as abolishing AFAPs were ruled out, while a new early-retirement option from age 60 (legal age staying at 65) was proposed for lower-income workers."
     },
-
     {
       "title": "Uruguay confirms referendum on social security reform for 27 October 2026",
       "url": "https://www.latinnews.com/component/k2/item/102073-in-brief-reactions-as-uruguay-confirms-referendum-on-social-security-reform.html",
@@ -6300,14 +6351,14 @@ const NEWS = {
       "url": "https://www.datosuruguay.com",
       "source": "DatoUruguay",
       "pubDate": "2026-01-15",
-      "summary": "The non-contributory BPS old-age pension was set at about $18,531 per month in 2026, adjusted each January by the IMSN price index, maintaining a safety-net floor alongside the mixed BPS+AFAP contributory system.",
+      "summary": "The non-contributory BPS old-age pension was set at about $18,531 per month in 2026, adjusted each January by the IMSN price index, maintaining a safety-net floor alongside the mixed BPS+AFAP contributory system."
     },
     {
       "title": "Uruguay's 2025-2029 budget prioritizes strengthening social protection",
       "url": "https://www.coface.com.cn",
       "source": "Coface",
       "pubDate": "2026-05-10",
-      "summary": "The 2025-2029 Budget Bill lists strengthening social protection as a priority, funding the non-contributory BPS floor and the October 2026 social-security referendum process (on eliminating AFAPs, lowering the age to 60 and aligning the minimum pension with the minimum wage) without pre-committing to structural change.",
+      "summary": "The 2025-2029 Budget Bill lists strengthening social protection as a priority, funding the non-contributory BPS floor and the October 2026 social-security referendum process (on eliminating AFAPs, lowering the age to 60 and aligning the minimum pension with the minimum wage) without pre-committing to structural change."
     },
     {
       "title": "Uruguay's main union campaigns for yes vote on 27 October pension plebiscite",
@@ -6324,11 +6375,11 @@ const NEWS = {
       "summary": "Ahead of the binding 27 October 2026 plebiscite, JP Morgan warned that lowering the retirement age to 60, pegging minimum pensions to the minimum wage and nationalising the $23 billion AFAP private pension industry would widen the pension deficit by about $1 billion a year and risk Uruguay's investment-grade rating. The peso has weakened more than 10% against the dollar since April."
     },
     {
-        "title": "Uruguay pension-age referendum nears as polls slip to 42-47% and JP Morgan flags fiscal risk",
-        "url": "https://www.investing.com/news/economy-news/analysisaging-uruguays-vote-to-drop-pension-age-is-rattling-investors-3659309",
-        "source": "Investing.com / Reuters",
-        "pubDate": "2026-09-10",
-        "summary": "Ahead of the binding 27 October 2026 social-security referendum, support has slipped from near 60% in May to about 42-47%; JP Morgan warns cutting the retirement age to 60 would add roughly USD1 billion a year and about USD3 billion overall (4% of GDP), while the PIT-CNT union urges a yes vote."
+      "title": "Uruguay pension-age referendum nears as polls slip to 42-47% and JP Morgan flags fiscal risk",
+      "url": "https://www.investing.com/news/economy-news/analysisaging-uruguays-vote-to-drop-pension-age-is-rattling-investors-3659309",
+      "source": "Investing.com / Reuters",
+      "pubDate": "2026-09-10",
+      "summary": "Ahead of the binding 27 October 2026 social-security referendum, support has slipped from near 60% in May to about 42-47%; JP Morgan warns cutting the retirement age to 60 would add roughly USD1 billion a year and about USD3 billion overall (4% of GDP), while the PIT-CNT union urges a yes vote."
     },
     {
       "title": "Uruguay cabinet backs bill to let workers with 30 years of contributions retire at 60",
@@ -6336,8 +6387,14 @@ const NEWS = {
       "source": "Euros (Presidency of Uruguay)",
       "pubDate": "2026-10-12",
       "summary": "On 12 October 2026 the Uruguayan cabinet agreed to send Parliament a bill letting workers with at least 30 years of contributions to the BPS and an AFAP retire voluntarily at 60, softening the 2023 reform that steps the normal age to 65; the 2023 schedule stays in force until Parliament passes the new law."
+    },
+    {
+      "title": "Uruguay backs away from contested AFAP overhaul, keeps private pension funds and targets fee cuts",
+      "url": "https://www.riotimesonline.com/uruguay-afap-pension-reform-reversal/",
+      "source": "The Rio Times",
+      "pubDate": "2026-10-15",
+      "summary": "The Uruguayan government reversed the most contested part of its planned pension overhaul, keeping private pension fund managers (AFAPs) in charge of managing retirement savings and their direct relationship with the 1.7 million affiliates, rather than moving account management to a new state body. Economy Minister Gabriel Oddone said the focus shifts to cutting AFAP commissions, with estimated savings of 5–10% for savers, plus wider foreign-investment options for the funds' about US$25bn in assets."
     }
-
   ],
   "VN": [
     {
@@ -6361,7 +6418,6 @@ const NEWS = {
       "pubDate": "2024-11-01",
       "summary": "Under the 2019 roadmap, 2025 retirement ages are 61y3m (men) and 56y8m (women), reaching 62 and 60 by 2028 and 2035; the replacement rate starts at 40% (men)/45% (women) for 15 years of contributions."
     },
-
     {
       "title": "New Decree 85/2026 on supplementary pension insurance takes effect 10 May 2026",
       "url": "https://en.congdoanvietnam.vn/thoi-su/mot-quy-dinh-lien-quan-luong-huu-chinh-thuc-co-hieu-luc-tu-105-32688.tld",
@@ -6381,14 +6437,14 @@ const NEWS = {
       "url": "https://en.congdoanvietnam.vn",
       "source": "Vietnam Trade Union",
       "pubDate": "2026-05-12",
-      "summary": "Decree 85/2026/ND-CP (effective 10 May 2026) lets workers join a voluntary supplementary pension via their employer, bars employers from discriminating or linking it to rewards, sets a minimum participation period of no more than 5 years, and provides a personal retirement account with monthly, lump-sum or combined payouts plus death and serious-illness guarantees.",
+      "summary": "Decree 85/2026/ND-CP (effective 10 May 2026) lets workers join a voluntary supplementary pension via their employer, bars employers from discriminating or linking it to rewards, sets a minimum participation period of no more than 5 years, and provides a personal retirement account with monthly, lump-sum or combined payouts plus death and serious-illness guarantees."
     },
     {
       "title": "Vietnam supplementary pension funds reach VND 2,210 billion for 28,500 members",
       "url": "https://vietnam.vn",
       "source": "Vietnam.vn",
       "pubDate": "2026-06-22",
-      "summary": "By end-2025 seven supplementary pension funds held about VND 2,210 billion in net assets, up 53% year on year and roughly 26 times the 2021 level, covering more than 28,500 members as the Finance Ministry proposes raising the tax-deductible contribution cap to VND 3 million per month.",
+      "summary": "By end-2025 seven supplementary pension funds held about VND 2,210 billion in net assets, up 53% year on year and roughly 26 times the 2021 level, covering more than 28,500 members as the Finance Ministry proposes raising the tax-deductible contribution cap to VND 3 million per month."
     },
     {
       "title": "Vietnam moves to boost small supplementary pension fund market",
@@ -6398,11 +6454,11 @@ const NEWS = {
       "summary": "Under Decree 85/2026/ND-CP, only four fund managers were licensed by end-2025 (Dragon Capital, SSI, MB Capital, Vietcombank) running seven funds with VND2.2 trillion in assets and about 28,600 participants. A draft personal-income-tax amendment proposes raising the deductible contribution limit from VND1 million to VND3 million per month to widen take-up."
     },
     {
-        "title": "Vietnam supplementary pension pillar grows under Decree 85/2026 with 7 funds and 28,538 members",
-        "url": "https://www.vietnam.vn/en/huu-tri-bo-sung-mo-rong-tru-cot-an-sinh-tang-lua-chon-cho-nguoi-lao-dong",
-        "source": "Vietnam.vn",
-        "pubDate": "2026-08-15",
-        "summary": "Under Decree 85/2026/ND-CP, Vietnam voluntary supplementary pension pillar now has 7 licensed fund managers serving 28,538 members with nearly VND221 billion in net assets (up 53% year-on-year); the decree allows investment in listed securities and lowers the government-bond floor to 40%."
+      "title": "Vietnam supplementary pension pillar grows under Decree 85/2026 with 7 funds and 28,538 members",
+      "url": "https://www.vietnam.vn/en/huu-tri-bo-sung-mo-rong-tru-cot-an-sinh-tang-lua-chon-cho-nguoi-lao-dong",
+      "source": "Vietnam.vn",
+      "pubDate": "2026-08-15",
+      "summary": "Under Decree 85/2026/ND-CP, Vietnam voluntary supplementary pension pillar now has 7 licensed fund managers serving 28,538 members with nearly VND221 billion in net assets (up 53% year-on-year); the decree allows investment in listed securities and lowers the government-bond floor to 40%."
     },
     {
       "title": "Vietnam's retirement age keeps rising in 2026 to 61 years 6 months (men) and 57 (women)",
@@ -6410,9 +6466,14 @@ const NEWS = {
       "source": "Vietnam.vn (Vietnam Social Security)",
       "pubDate": "2026-02-27",
       "summary": "Under the 2019 Labor Code roadmap, Vietnam's normal retirement age rose again in 2026 to 61 years 6 months for men and 57 for women, heading to 62 by 2028 and 60 by 2035; pensions begin the month after retirement, with eligibility requiring 15 years of social-insurance contributions and payouts linked to the CPI and fund capacity."
+    },
+    {
+      "title": "Vietnam lawmakers debate lowering social pension age from 75 to 70",
+      "url": "https://www.vietnam.vn/en/dai-bieu-va-cu-tri-ung-ho-de-xuat-ha-do-tuoi-huong-tro-cap-huu-tri-xa-hoi-xuong-70-tuoi",
+      "source": "Vietnam.vn",
+      "pubDate": "2026-11-09",
+      "summary": "During the National Assembly's 2nd Session discussion on 9 November 2026 of the draft Law amending the Social Insurance Law, deputies proposed lowering the age for social pension benefits from 75 to 70 (and from 70 to 65 for poor/near-poor households), to cover vulnerable elderly who currently fall through the social-security gap. The Ministry of Interior counts nearly 16.5 million elderly, of whom over 3.53 million receive monthly social insurance benefits; lowering the age is estimated to cost the state budget about VND 11,680bn per year."
     }
-,
-
   ],
   "ZA": [
     {
