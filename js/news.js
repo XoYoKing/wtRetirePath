@@ -3422,6 +3422,13 @@ const NEWS = {
       "source": "Zira Daily",
       "pubDate": "2026-06-29",
       "summary": "Officials told the Committee on Public Finance that Sri Lanka's retiree population is growing by roughly 20,000 a year, with about 720,000 pensioners today and 25,000-30,000 new entrants annually against only about 10,000 deaths. Financing the latest budget's pension increases will require an extra Rs. 60 billion a year over two years, pushing pension spending to about Rs. 565 billion; the committee urged long-term reform including a contributory scheme first mooted in 2004."
+    },
+    {
+        "title": "Sri Lanka Cabinet approves EPF Act amendment to guarantee 9% minimum annual return",
+        "url": "https://www.independent.lk/sri-lanka-to-amend-epf-act-to-ensure-9-annual-return-to-members-following-ddo/",
+        "source": "The Independent (Sri Lanka)",
+        "pubDate": "2026-08-08",
+        "summary": "Cabinet greenlit amending the Employees' Provident Fund Act No. 15 of 1958 so members receive a guaranteed minimum 9% annual interest for 2023-2026, cushioning the step-down coupon (12% to 2025, 9% thereafter) imposed by Domestic Debt Optimisation on superannuation fund bonds."
     }
 
 
@@ -3812,6 +3819,13 @@ const NEWS = {
       "source": "Global New Light of Myanmar",
       "pubDate": "2026-10-22",
       "summary": "The Department of Social Welfare said social pension payments for 2026-2027 would be made via mobile money transfer. Eligible citizens aged 85 and above (about 150,000 people) can withdraw at Myanmar Economic Bank branches from 15 October 2026 to 6 January 2027, or have funds transferred directly to registered phone numbers from 28 October 2026 through KBZ Pay, Wave and AYA Pay wallets."
+    },
+    {
+        "title": "Myanmar urges 85+ elderly to register for 2026-2027 Social Pension via mobile pay",
+        "url": "https://www.gnlm.com.mm/elderly-urged-to-register-for-2026-2027-social-pension-support-programme/",
+        "source": "Global New Light of Myanmar",
+        "pubDate": "2026-05-25",
+        "summary": "The Department of Social Welfare called on citizens born before 1 April 1941 (about 150,000 people aged 85+) to register by 31 May 2026 for the 2026-2027 Social Pension, paid twice yearly and, from this year, disbursed through mobile money transfers (KBZ Pay, Wave, AYA Pay)."
     }
 
   ],
@@ -3964,6 +3978,13 @@ const NEWS = {
       "source": "NSO Malta",
       "pubDate": "2026-07-15",
       "summary": "Contributory benefits outlay reached EUR 732.1 million by end-June 2026, 9.5% above the prior year, with retirement pensions the largest contributor (EUR 42.2 million increase). Non-contributory expenditure rose 13.2% to EUR 214.0 million; 101,270 households received the Additional Cost of Living Adjustment and 45,392 seniors got the Assistance to Help the Elderly Live Independently."
+    },
+    {
+        "title": "Malta begins paying 2026 Budget pension increases as 78,700 retirees get first uplifted payment",
+        "url": "https://www.maltadaily.mt/articles/140-000-families-start-benefitting-from-increases-announced-in-budget-2026",
+        "source": "MaltaDaily",
+        "pubDate": "2026-01-10",
+        "summary": "Pensioners received their first 2026 payment at improved rates, with retirement pensioners (78,700) paid EUR 77m covering four weeks including a EUR 10 weekly pension rise; widows gain an extra EUR 3.50 weekly and those born before 1962 get further corrections. The 2026 COLA is EUR 4.66 per week."
     }
 
 
@@ -4357,6 +4378,13 @@ const NEWS = {
       "source": "DLA Piper Nordic Bulletin",
       "pubDate": "2026-08-24",
       "summary": "On 24 August 2026 the government proposed a new sliterordning (wear-and-tear pension) within the National Insurance Scheme for employees unable or unwilling to keep working until the normal retirement age after long, lower-earning careers. Eligible retirees who stop five years early could receive an annual supplement of 0.25 G (about NOK 34,000) on top of their state, occupational and AFP pensions."
+    },
+    {
+        "title": "Norway's 2027 budget proposes keeping minimum pension tax-free and cutting social-security contribution",
+        "url": "https://directemigreren.nl/en/noorwegen/nieuws/noorwegen-regering-stelt-voor-2027-de-grootste-verlaging-van-de-i-830ef79f9692",
+        "source": "Direct Emigreren",
+        "pubDate": "2026-10-08",
+        "summary": "Finance Minister Jens Stoltenberg presented the 2027 state budget on 7 October 2026 proposing the largest income-tax cut in two decades; the minimum pension for single people stays untaxed, the social-security contribution (trygdeavgift) on pensions remains at 5.1%, and the personal allowance rises to NOK 120,180. The Storting decides in December."
     }
 
   ],
@@ -5380,6 +5408,13 @@ const NEWS = {
       "source": "NAJM Press",
       "pubDate": "2026-10-25",
       "summary": "Saudi Arabia ranked first among GCC states and 12th of 55 pension systems worldwide in the 2026 Marsh CFA Institute Global Pension Index, with an overall score of 73.2 (up from 67.6 in 2025). Its integrity sub-score rose to 83.5 (grade A); the gains were attributed to governance reforms, data modernisation and stronger safeguards under the 2024 Social Insurance Law."
+    },
+    {
+        "title": "Saudi GOSI reports SAR 10.7 billion in insurance benefits paid out in November 2026",
+        "url": "https://www.eyeofriyadh.com/news/details/insurance-benefits-expenses-reach-sar-10-7b-in-november-gosi",
+        "source": "Eye of Riyadh",
+        "pubDate": "2026-11-05",
+        "summary": "The General Organization for Social Insurance said total insurance-benefit expenditure reached SAR 10.7 billion in November 2026, with SANED unemployment compensation above SAR 87.2 million and occupational-hazard pensions surpassing SAR 10 million; online transactions exceeded 1.8 million."
     }
 
   ],
@@ -5453,6 +5488,13 @@ const NEWS = {
       "source": "AP3 (Sweden)",
       "pubDate": "2026-09-03",
       "summary": "Buffer funds AP2, AP3 and AP4 reported a combined first-half 2026 result of SEK 167 billion (7.8% net return) and contributed more than SEK 13 billion to cover pension-system deficits. Combined buffer capital exceeded SEK 2,388 billion at end-June 2026, reflecting the completed consolidation of the AP funds under the 2025 parliamentary decision."
+    },
+    {
+        "title": "Sweden sets 2027 pension rise: income pension +2.2%, guarantee pension +0.7%",
+        "url": "https://alswedalyom.com/swedens-2027-pension-increase",
+        "source": "Al Svedalyom",
+        "pubDate": "2026-11-06",
+        "summary": "The Swedish Pensions Agency confirmed the income and supplementary pension will rise 2.2% from January 2027 while the guarantee pension follows the price base amount up 0.7% (to SEK 59,600); individual amounts appear in the Orange Envelope in mid-January 2027. The premium pension varies with fund performance."
     }
 
   ],
@@ -6161,6 +6203,13 @@ const NEWS = {
       "source": "Sud.ua / Legal Newspaper",
       "pubDate": "2026-08-28",
       "summary": "A package of three draft laws on voluntary pension funds was registered in the Verkhovna Rada on 28 August 2026, applying the prudent-person rule and strengthening supervision and inheritance; third-pillar assets stood at UAH 7.6 billion with 889.2 thousand participants."
+    },
+    {
+        "title": "Ukraine cabinet to present two-part pension reform (base + insurance) to parliament by autumn",
+        "url": "https://unn.ua/en/news/pensions-in-a-new-way-cabinet-of-ministers-prepares-reform-with-two-part-payments",
+        "source": "Ukrainian National News Agency (UNN)",
+        "pubDate": "2026-06-09",
+        "summary": "The Cabinet presented a pension-reform concept to the Verkhovna Rada under which a pension comprises a state-funded base part plus an insurance part tied to service length and contributions, with a guaranteed minimum and a narrower gap between minimum and maximum payments; special pensions would gradually shift to professional programmes."
     }
   ],
   "UG": [
@@ -6234,6 +6283,13 @@ const NEWS = {
       "source": "New Vision",
       "pubDate": "2026-04-28",
       "summary": "Cabinet approved a nine-member board for the newly created Public Service Pension Fund, steering Uganda's shift from a non-contributory pay-as-you-go model to a contributory, fully funded system that begins on 1 July 2026 under the 2025 Act."
+    },
+    {
+        "title": "Uganda operationalises Public Service Pension Fund under Establishment Notice No. 3 of 2026",
+        "url": "https://govinfohub.go.ug/index.php/2026/07/03/government-unveils-salary-boost-and-major-public-service-reforms",
+        "source": "Government of Uganda Info Hub",
+        "pubDate": "2026-07-03",
+        "summary": "The Ministry of Public Service launched Establishment Notice No. 3 of 2026, operationalising the Public Service Pension Fund created by the 2025 Act; employer and employee contributions (10% and 5%) start in July 2027, and the public-service wage bill rose to UGX 9.708 trillion for 2026/27."
     }
   ],
   "US": [
